@@ -26,3 +26,6 @@
 51,pub.cppan2.demo.boost.circular_buffer
 52,pub.cppan2.demo.boost.icl
 53,pub.cppan2.demo.boost.compatibility
+57,pub.cppan2.demo.boost.config
+103,pub.cppan2.demo.boost.predef
+104,pub.cppan2.demo.boost.preprocessor
