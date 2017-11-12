@@ -127,3 +127,6 @@
 868,pub.cppan2.demo.gnu.iconv.libiconv
 869,pub.cppan2.demo.gnu.gettext.intl
 870,pub.cppan2.demo.gnu.gss
+874,pub.cppan2.demo.madler.zlib
+875,pub.cppan2.demo.bzip2
+876,pub.cppan2.demo.libxml2
