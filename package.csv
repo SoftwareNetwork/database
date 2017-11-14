@@ -6,9 +6,7 @@
 748,pub.cppan2.demo.boost.concept_check
 749,pub.cppan2.demo.boost.variant
 751,pub.cppan2.demo.boost.array
-752,pub.cppan2.demo.boost.core
 753,pub.cppan2.demo.boost.align
-755,pub.cppan2.demo.boost.lambda
 757,pub.cppan2.demo.boost.any
 760,pub.cppan2.demo.boost.assert
 765,pub.cppan2.demo.boost.bind
@@ -20,7 +18,6 @@
 776,pub.cppan2.demo.boost.coroutine2
 778,pub.cppan2.demo.boost.foreach
 779,pub.cppan2.demo.boost.crc
-783,pub.cppan2.demo.boost.detail
 785,pub.cppan2.demo.boost.rational
 865,pub.cppan2.demo.jbeder.yaml_cpp
 866,pub.cppan2.demo.oberhumer.lzo.lzo
