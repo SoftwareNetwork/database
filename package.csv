@@ -24,10 +24,14 @@
 782,pub.cppan2.demo.boost.move
 783,pub.cppan2.demo.boost.detail
 785,pub.cppan2.demo.boost.rational
+786,pub.cppan2.demo.boost.disjoint_sets
 789,pub.cppan2.demo.boost.dynamic_bitset
 798,pub.cppan2.demo.boost.tuple
 802,pub.cppan2.demo.boost.integer
 807,pub.cppan2.demo.boost.lexical_cast
+812,pub.cppan2.demo.boost.parameter
+829,pub.cppan2.demo.boost.scope_exit
+838,pub.cppan2.demo.boost.type_index
 865,pub.cppan2.demo.jbeder.yaml_cpp
 866,pub.cppan2.demo.oberhumer.lzo.lzo
 867,pub.cppan2.demo.gnu.iconv.libcharset
