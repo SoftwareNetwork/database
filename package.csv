@@ -4,6 +4,7 @@
 31,pub.cppan2.demo.lz4
 746,pub.cppan2.demo.boost.assign
 748,pub.cppan2.demo.boost.concept_check
+749,pub.cppan2.demo.boost.variant
 751,pub.cppan2.demo.boost.array
 752,pub.cppan2.demo.boost.core
 753,pub.cppan2.demo.boost.align
@@ -16,10 +17,17 @@
 773,pub.cppan2.demo.boost.interval
 774,pub.cppan2.demo.boost.lockfree
 775,pub.cppan2.demo.boost.convert
+776,pub.cppan2.demo.boost.coroutine2
+777,pub.cppan2.demo.boost.optional
 778,pub.cppan2.demo.boost.foreach
 779,pub.cppan2.demo.boost.crc
+782,pub.cppan2.demo.boost.move
 783,pub.cppan2.demo.boost.detail
 785,pub.cppan2.demo.boost.rational
+789,pub.cppan2.demo.boost.dynamic_bitset
+798,pub.cppan2.demo.boost.tuple
+802,pub.cppan2.demo.boost.integer
+807,pub.cppan2.demo.boost.lexical_cast
 865,pub.cppan2.demo.jbeder.yaml_cpp
 866,pub.cppan2.demo.oberhumer.lzo.lzo
 867,pub.cppan2.demo.gnu.iconv.libcharset
