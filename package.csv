@@ -8,8 +8,10 @@
 751,pub.cppan2.demo.boost.array
 752,pub.cppan2.demo.boost.core
 753,pub.cppan2.demo.boost.align
+754,pub.cppan2.demo.boost.accumulators
 757,pub.cppan2.demo.boost.any
 760,pub.cppan2.demo.boost.assert
+761,pub.cppan2.demo.boost.filesystem
 765,pub.cppan2.demo.boost.bind
 767,pub.cppan2.demo.boost.circular_buffer
 769,pub.cppan2.demo.boost.compatibility
@@ -28,10 +30,16 @@
 789,pub.cppan2.demo.boost.dynamic_bitset
 798,pub.cppan2.demo.boost.tuple
 802,pub.cppan2.demo.boost.integer
+804,pub.cppan2.demo.boost.io
 807,pub.cppan2.demo.boost.lexical_cast
 812,pub.cppan2.demo.boost.parameter
+815,pub.cppan2.demo.boost.smart_ptr
+819,pub.cppan2.demo.boost.process
 829,pub.cppan2.demo.boost.scope_exit
+830,pub.cppan2.demo.boost.signals2
 838,pub.cppan2.demo.boost.type_index
+842,pub.cppan2.demo.boost.unordered
+859,pub.cppan2.demo.boost.stacktrace
 865,pub.cppan2.demo.jbeder.yaml_cpp
 866,pub.cppan2.demo.oberhumer.lzo.lzo
 867,pub.cppan2.demo.gnu.iconv.libcharset
