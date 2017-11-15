@@ -137,3 +137,5 @@
 884,pub.cppan2.demo.nghttp2
 885,pub.cppan2.demo.openssl.crypto
 886,pub.cppan2.demo.openssl.ssl
+887,pub.cppan2.demo.libssh2
+888,pub.cppan2.demo.c_ares
