@@ -135,3 +135,5 @@
 882,pub.cppan2.demo.gnu.nettle.nettle
 883,pub.cppan2.demo.libarchive.libarchive
 884,pub.cppan2.demo.nghttp2
+885,pub.cppan2.demo.openssl.crypto
+886,pub.cppan2.demo.openssl.ssl
