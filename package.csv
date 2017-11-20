@@ -185,3 +185,7 @@
 935,pub.cppan2.unicode.icu.stub.genccode
 936,pub.cppan2.unicode.icu.data
 937,pub.cppan2.demo.giovannidicanio.winreg
+938,pub.cppan2.demo.pcre.pcre8
+939,pub.cppan2.demo.pcre.pcre16
+940,pub.cppan2.demo.pcre.pcre32
+941,pub.cppan2.demo.pcre.pcreposix
