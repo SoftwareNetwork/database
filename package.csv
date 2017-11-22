@@ -201,3 +201,6 @@
 961,pub.cppan2.demo.unicode.icu.stub.genccode
 962,pub.cppan2.demo.unicode.icu.data
 963,pub.cppan2.demo.behdad.harfbuzz
+964,pub.cppan2.demo.gnome.pango.pango
+965,pub.cppan2.demo.gnome.pango.pangocairo
+966,pub.cppan2.demo.gnome.pango.pangoft2
