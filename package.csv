@@ -227,3 +227,7 @@
 987,pub.cppan2.demo.glew
 988,pub.cppan2.demo.libharu
 989,pub.cppan2.demo.graphicsmagick.magick
+990,pub.cppan2.demo.emweb.wt.wt
+991,pub.cppan2.demo.emweb.wt.http
+992,pub.cppan2.demo.emweb.wt.dbo
+993,pub.cppan2.demo.emweb.wt.dbo.backend.sqlite3
