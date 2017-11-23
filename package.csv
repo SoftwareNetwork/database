@@ -232,3 +232,15 @@
 992,pub.cppan2.demo.emweb.wt.dbo
 993,pub.cppan2.demo.emweb.wt.dbo.backend.sqlite3
 994,pub.cppan2.demo.mdadams.jasper
+995,pub.cppan2.demo.openexr.config
+996,pub.cppan2.demo.openexr.ilmbase.elut
+997,pub.cppan2.demo.openexr.ilmbase.tofloat
+998,pub.cppan2.demo.openexr.ilmbase.ilmthread
+999,pub.cppan2.demo.openexr.ilmbase.config
+1000,pub.cppan2.demo.openexr.b44explogtable
+1001,pub.cppan2.demo.openexr.dwalookups
+1002,pub.cppan2.demo.openexr.ilmbase.half
+1003,pub.cppan2.demo.openexr.ilmbase.iex
+1004,pub.cppan2.demo.openexr.ilmbase.imath
+1005,pub.cppan2.demo.openexr.ilmimf
+1006,pub.cppan2.demo.openexr.ilmimfutil
