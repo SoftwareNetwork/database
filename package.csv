@@ -252,3 +252,8 @@
 1012,pub.cppan2.demo.malaterre.gdcm.gdcm
 1013,pub.cppan2.demo.malaterre.gdcm.jpeg8
 1014,pub.cppan2.demo.malaterre.gdcm.jpeg16
+1020,pub.cppan2.demo.google.protobuf.protobuf_lite
+1021,pub.cppan2.demo.google.protobuf.protoc
+1022,pub.cppan2.demo.google.protobuf.protobuf
+1023,pub.cppan2.demo.google.protobuf.tools.js_embed
+1024,pub.cppan2.demo.google.protobuf.protoc_lib
