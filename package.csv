@@ -257,3 +257,9 @@
 1022,pub.cppan2.demo.google.protobuf.protobuf
 1023,pub.cppan2.demo.google.protobuf.tools.js_embed
 1024,pub.cppan2.demo.google.protobuf.protoc_lib
+1025,pub.cppan2.demo.hdfgroup.hdf5.tools.H5Tinit
+1026,pub.cppan2.demo.hdfgroup.hdf5.hdf5
+1027,pub.cppan2.demo.hdfgroup.hdf5.hdf5cpp
+1028,pub.cppan2.demo.hdfgroup.hdf5.tools.H5make_libsettings
+1029,pub.cppan2.demo.hdfgroup.hdf5.hdf5hl
+1030,pub.cppan2.demo.hdfgroup.hdf5.hdf5hlcpp
