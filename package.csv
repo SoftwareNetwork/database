@@ -123,7 +123,6 @@
 864,pub.cppan2.demo.boost.exception
 865,pub.cppan2.demo.jbeder.yaml_cpp
 866,pub.cppan2.demo.oberhumer.lzo.lzo
-867,pub.cppan2.demo.gnu.iconv.libcharset
 868,pub.cppan2.demo.gnu.iconv.libiconv
 869,pub.cppan2.demo.gnu.gettext.intl
 870,pub.cppan2.demo.gnu.gss
@@ -438,3 +437,4 @@
 1335,pub.egorpugin.syncqt
 1338,pub.cppan2.demo.preshing.junction
 1341,pub.cppan2.demo.preshing.turf
+1342,pub.cppan2.demo.gnu.iconv.libcharset
