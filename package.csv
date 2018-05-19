@@ -145,8 +145,6 @@
 893,pub.cppan2.demo.howardhinnant.date
 894,pub.cppan2.demo.rbock.sqlpp11
 895,pub.cppan2.demo.rbock.sqlpp11_connector_sqlite3
-897,pub.cppan2.preshing.turf
-898,pub.cppan2.preshing.junction
 899,pub.cppan2.demo.vietjtnguyen.argagg
 900,pub.cppan2.demo.taywee.args
 901,pub.cppan2.demo.artyom_beilis.nowide
@@ -438,3 +436,5 @@
 1333,pub.cppan2.demo.llvm_project.clang.tools.libclang
 1334,pub.cppan2.demo.zeux.pugixml
 1335,pub.egorpugin.syncqt
+1338,pub.cppan2.demo.preshing.junction
+1341,pub.cppan2.demo.preshing.turf
