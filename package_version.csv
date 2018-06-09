@@ -1,4 +1,4 @@
-package_version_id,package_id,version,target_version_id,group_number,updated,hash
+package_version_id,package_id,version,target_version_id,archive_version,group_number,updated,hash
 28,24,3.21.0,,28,2017-11-15 00:36:06,6f995bd6997ef495094536c3387e2217dd73740d26ddbedcd24aeeaced5f3e99
 34,30,4.0.0,,34,2017-11-15 00:36:06,f16100f0f67406431a894a591a340befec36c841afa4a6d1d62a0e1a9f5000d1
 35,31,1.8.0,,35,2017-11-15 00:36:06,79cba30cb28b0d8a34a70e3c72da9a2bd27baeb59204b095da605b77eea4e429
