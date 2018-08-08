@@ -1,2 +1,3 @@
 package_id,path
 3,org.sw.demo.madler.zlib
+4,org.sw.demo.bzip2
