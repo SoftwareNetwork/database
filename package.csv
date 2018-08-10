@@ -149,7 +149,6 @@ package_id,path
 663,org.sw.demo.aleksey14.rhash
 665,org.sw.demo.HowardHinnant.date.date
 666,org.sw.demo.rbock.sqlpp11
-667,org.sw.demo.rbock.sqlpp11_connector_sqlite3
 669,org.sw.demo.preshing.turf
 670,org.sw.demo.preshing.junction
 671,org.sw.demo.fmt
@@ -157,3 +156,4 @@ package_id,path
 673,org.sw.demo.nlohmann.json
 674,org.sw.demo.libuv
 675,org.sw.demo.imageworks.pystring
+676,org.sw.demo.rbock.sqlpp11_connector_sqlite3
