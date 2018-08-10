@@ -150,4 +150,10 @@ package_id,path
 665,org.sw.demo.HowardHinnant.date.date
 666,org.sw.demo.rbock.sqlpp11
 667,org.sw.demo.rbock.sqlpp11_connector_sqlite3
-668,org.sw.demo.preshing.turf
+669,org.sw.demo.preshing.turf
+670,org.sw.demo.preshing.junction
+671,org.sw.demo.fmt
+672,org.sw.demo.grisumbras.enum_flags
+673,org.sw.demo.nlohmann.json
+674,org.sw.demo.libuv
+675,org.sw.demo.imageworks.pystring
