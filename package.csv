@@ -144,3 +144,10 @@ package_id,path
 655,org.sw.demo.openssl.ssl
 658,org.sw.demo.openssl.crypto
 659,org.sw.demo.libssh2
+661,org.sw.demo.c_ares
+662,org.sw.demo.badger.curl.libcurl
+663,org.sw.demo.aleksey14.rhash
+665,org.sw.demo.HowardHinnant.date.date
+666,org.sw.demo.rbock.sqlpp11
+667,org.sw.demo.rbock.sqlpp11_connector_sqlite3
+668,org.sw.demo.preshing.turf
