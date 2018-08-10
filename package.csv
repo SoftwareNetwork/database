@@ -141,3 +141,6 @@ package_id,path
 650,org.sw.demo.libarchive.libarchive
 651,org.sw.demo.gnu.nettle.eccdata
 653,org.sw.demo.nghttp2
+655,org.sw.demo.openssl.ssl
+658,org.sw.demo.openssl.crypto
+659,org.sw.demo.libssh2
