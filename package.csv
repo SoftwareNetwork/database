@@ -161,7 +161,9 @@ package_id,path
 699,org.sw.demo.lexxmark.winflexbison.common
 700,org.sw.demo.lexxmark.winflexbison.flex
 701,org.sw.demo.lexxmark.winflexbison.bison
-710,org.sw.demo.google.protobuf.protobuf_lite
-711,org.sw.demo.google.protobuf.protobuf
-712,org.sw.demo.google.protobuf.protoc_lib
-713,org.sw.demo.google.protobuf.protoc
+718,org.sw.demo.google.protobuf.protobuf_lite
+719,org.sw.demo.google.protobuf.protobuf
+720,org.sw.demo.google.protobuf.protoc_lib
+721,org.sw.demo.google.protobuf.protoc
+722,pub.egorpugin.llvm_project.llvm.demangle
+723,pub.egorpugin.llvm_project.llvm.support_lite
