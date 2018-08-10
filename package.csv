@@ -137,3 +137,6 @@ package_id,path
 642,org.sw.demo.gnu.gss
 643,org.sw.demo.libxml2
 644,org.sw.demo.xz_utils.lzma
+645,org.sw.demo.gnu.nettle.eccdata
+646,org.sw.demo.gnu.nettle.nettle
+647,org.sw.demo.libarchive.libarchive
