@@ -154,6 +154,7 @@ package_id,path
 671,org.sw.demo.fmt
 672,org.sw.demo.grisumbras.enum_flags
 673,org.sw.demo.nlohmann.json
-674,org.sw.demo.libuv
-675,org.sw.demo.imageworks.pystring
 676,org.sw.demo.rbock.sqlpp11_connector_sqlite3
+678,org.sw.demo.imageworks.pystring
+680,org.sw.demo.libuv
+683,org.sw.demo.ragel
