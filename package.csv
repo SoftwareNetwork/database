@@ -134,3 +134,6 @@ package_id,path
 639,org.sw.demo.gnu.iconv.libcharset
 640,org.sw.demo.gnu.iconv.libiconv
 641,org.sw.demo.gnu.gettext.intl
+642,org.sw.demo.gnu.gss
+643,org.sw.demo.libxml2
+644,org.sw.demo.xz_utils.lzma
