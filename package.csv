@@ -131,3 +131,6 @@ package_id,path
 636,org.sw.demo.jbeder.yaml_cpp
 637,org.sw.demo.lz4
 638,org.sw.demo.oberhumer.lzo.lzo
+639,org.sw.demo.gnu.iconv.libcharset
+640,org.sw.demo.gnu.iconv.libiconv
+641,org.sw.demo.gnu.gettext.intl
