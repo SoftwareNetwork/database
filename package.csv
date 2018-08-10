@@ -161,3 +161,7 @@ package_id,path
 699,org.sw.demo.lexxmark.winflexbison.common
 700,org.sw.demo.lexxmark.winflexbison.flex
 701,org.sw.demo.lexxmark.winflexbison.bison
+706,org.sw.demo.google.protobuf.protobuf_lite
+707,org.sw.demo.google.protobuf.protobuf
+708,org.sw.demo.google.protobuf.protoc_lib
+709,org.sw.demo.google.protobuf.protoc
