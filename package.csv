@@ -224,3 +224,5 @@ package_id,path
 845,org.sw.demo.google.grpc.grpcpp_base
 846,org.sw.demo.google.grpc.grpcpp_codegen_base
 847,org.sw.demo.google.grpc.grpcpp
+848,org.sw.demo.taywee.args
+849,org.sw.demo.giovannidicanio.winreg
