@@ -157,10 +157,6 @@ package_id,path
 676,org.sw.demo.rbock.sqlpp11_connector_sqlite3
 678,org.sw.demo.imageworks.pystring
 680,org.sw.demo.libuv
-683,org.sw.demo.ragel
-699,org.sw.demo.lexxmark.winflexbison.common
-700,org.sw.demo.lexxmark.winflexbison.flex
-701,org.sw.demo.lexxmark.winflexbison.bison
 724,pub.egorpugin.llvm_project.llvm.demangle
 725,pub.egorpugin.llvm_project.llvm.support_lite
 730,org.sw.demo.google.protobuf.protobuf_lite
@@ -226,6 +222,7 @@ package_id,path
 847,org.sw.demo.google.grpc.grpcpp
 848,org.sw.demo.taywee.args
 849,org.sw.demo.giovannidicanio.winreg
-850,org.sw.demo.giovannidicanio.winreg1
-851,org.sw.demo.giovannidicanio.winreg2
-852,org.sw.demo.giovannidicanio.winreg3
+853,org.sw.demo.lexxmark.winflexbison.common
+854,org.sw.demo.lexxmark.winflexbison.flex
+855,org.sw.demo.lexxmark.winflexbison.bison
+856,org.sw.demo.ragel
