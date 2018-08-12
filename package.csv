@@ -156,7 +156,6 @@ package_id,path
 673,org.sw.demo.nlohmann.json
 676,org.sw.demo.rbock.sqlpp11_connector_sqlite3
 678,org.sw.demo.imageworks.pystring
-680,org.sw.demo.libuv
 724,pub.egorpugin.llvm_project.llvm.demangle
 725,pub.egorpugin.llvm_project.llvm.support_lite
 730,org.sw.demo.google.protobuf.protobuf_lite
@@ -226,3 +225,4 @@ package_id,path
 854,org.sw.demo.lexxmark.winflexbison.flex
 855,org.sw.demo.lexxmark.winflexbison.bison
 856,org.sw.demo.ragel
+857,org.sw.demo.libuv
