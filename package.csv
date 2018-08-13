@@ -255,3 +255,4 @@ package_id,path
 1270,pub.egorpugin.primitives.version
 1271,pub.egorpugin.primitives.db.postgresql
 1272,pub.egorpugin.primitives.tools.sqlite2cpp
+1275,org.sw.demo.find.opengl
