@@ -251,3 +251,5 @@ package_id,path
 1250,org.sw.demo.boost.type_erasure
 1251,org.sw.demo.boost.wave
 1252,org.sw.demo.boost.exception
+1254,org.sw.demo.find.libpq
+1255,org.sw.demo.jtv.pqxx
