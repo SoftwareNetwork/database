@@ -256,3 +256,6 @@ package_id,path
 1271,pub.egorpugin.primitives.db.postgresql
 1272,pub.egorpugin.primitives.tools.sqlite2cpp
 1275,org.sw.demo.find.opengl
+1276,org.sw.demo.glennrp.png
+1277,org.sw.demo.libharu
+1278,org.sw.demo.webmproject.webp
