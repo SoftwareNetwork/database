@@ -4504,3 +4504,4 @@ package_version_id,package_id,version_range
 1434,1137,master
 1439,3,>=1.0.0 <2.0.0
 1440,1276,>=1.0.0 <2.0.0
+1442,1278,*
