@@ -253,3 +253,5 @@ package_id,path
 1252,org.sw.demo.boost.exception
 1254,org.sw.demo.find.libpq
 1255,org.sw.demo.jtv.pqxx
+1256,pub.egorpugin.primitives.cron
+1257,pub.egorpugin.primitives.db.postgresql
