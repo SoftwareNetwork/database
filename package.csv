@@ -269,14 +269,15 @@ package_id,path
 1286,org.sw.demo.unicode.icu.common
 1287,org.sw.demo.unicode.icu.i18n
 1288,org.sw.demo.unicode.icu.data
-1289,pub.egorpugin.grigorig.ucdn
 1290,org.sw.demo.freetype
 1291,org.sw.demo.freedesktop.pixman
 1293,org.sw.demo.tronkko.dirent
 1294,org.sw.demo.expat
 1295,org.sw.demo.freedesktop.fontconfig.fontconfig
-1296,org.sw.demo.cairographics.cairo
 1301,org.sw.demo.pcre.pcre8
 1302,org.sw.demo.pcre.pcre16
 1303,org.sw.demo.pcre.pcre32
 1305,org.sw.demo.gnome.glib.glib
+1306,org.sw.demo.weltling.winlibs.libffi
+1308,org.sw.demo.grigorig.ucdn
+1309,org.sw.demo.cairographics.cairo
