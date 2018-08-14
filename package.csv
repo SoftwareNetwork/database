@@ -279,3 +279,4 @@ package_id,path
 1301,org.sw.demo.pcre.pcre8
 1302,org.sw.demo.pcre.pcre16
 1303,org.sw.demo.pcre.pcre32
+1305,org.sw.demo.gnome.glib.glib
