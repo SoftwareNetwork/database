@@ -276,3 +276,6 @@ package_id,path
 1294,org.sw.demo.expat
 1295,org.sw.demo.freedesktop.fontconfig.fontconfig
 1296,org.sw.demo.cairographics.cairo
+1297,org.sw.demo.pcre.pcre8
+1298,org.sw.demo.pcre.pcre16
+1299,org.sw.demo.pcre.pcre32
