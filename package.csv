@@ -271,3 +271,8 @@ package_id,path
 1288,org.sw.demo.unicode.icu.data
 1289,pub.egorpugin.grigorig.ucdn
 1290,org.sw.demo.freetype
+1291,org.sw.demo.freedesktop.pixman
+1293,org.sw.demo.tronkko.dirent
+1294,org.sw.demo.expat
+1295,org.sw.demo.freedesktop.fontconfig.fontconfig
+1296,org.sw.demo.cairographics.cairo
