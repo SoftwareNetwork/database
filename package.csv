@@ -260,3 +260,13 @@ package_id,path
 1277,org.sw.demo.libharu
 1278,org.sw.demo.webmproject.webp
 1279,org.sw.demo.graphicsmagick.magick
+1280,org.sw.demo.unicode.icu.stub.data
+1281,org.sw.demo.unicode.icu.stub.common
+1282,org.sw.demo.unicode.icu.stub.i18n
+1283,org.sw.demo.unicode.icu.stub.toolutil
+1284,org.sw.demo.unicode.icu.io
+1285,org.sw.demo.unicode.icu.stub.genccode
+1286,org.sw.demo.unicode.icu.common
+1287,org.sw.demo.unicode.icu.i18n
+1288,org.sw.demo.unicode.icu.data
+1289,pub.egorpugin.grigorig.ucdn
