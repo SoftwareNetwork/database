@@ -293,3 +293,11 @@ package_id,path
 1333,org.sw.demo.emweb.wt.http
 1334,org.sw.demo.emweb.wt.dbo
 1335,org.sw.demo.emweb.wt.dbo.backend.sqlite3
+1336,org.sw.sw.client.support
+1337,org.sw.sw.client.protos
+1338,org.sw.sw.client.manager
+1339,org.sw.sw.client.builder
+1340,org.sw.sw.client.client
+1341,org.sw.sw.client.driver.cpp
+1342,org.sw.sw.client.tools.self_builder
+1343,org.sw.sw.client.tools.client
