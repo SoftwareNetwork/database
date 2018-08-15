@@ -281,3 +281,4 @@ package_id,path
 1308,org.sw.demo.grigorig.ucdn
 1309,org.sw.demo.cairographics.cairo
 1310,org.sw.demo.gnome.glib.glib
+1311,org.sw.demo.behdad.harfbuzz
