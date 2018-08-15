@@ -285,6 +285,7 @@ package_id,path
 1311,org.sw.demo.behdad.harfbuzz
 1320,org.sw.demo.gnu.fribidi.fribidi
 1321,org.sw.demo.gnome.glib.gobject
-1325,org.sw.demo.gnome.pango.pango
-1326,org.sw.demo.gnome.pango.pangoft2
-1327,org.sw.demo.gnome.pango.pangocairo
+1328,org.sw.demo.gnome.pango.pango
+1329,org.sw.demo.gnome.pango.pangoft2
+1330,org.sw.demo.gnome.pango.pangocairo
+1331,org.sw.demo.howardhinnant.date.date_full
