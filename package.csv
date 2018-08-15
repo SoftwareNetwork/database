@@ -289,3 +289,7 @@ package_id,path
 1329,org.sw.demo.gnome.pango.pangoft2
 1330,org.sw.demo.gnome.pango.pangocairo
 1331,org.sw.demo.howardhinnant.date.date_full
+1332,org.sw.demo.emweb.wt.wt
+1333,org.sw.demo.emweb.wt.http
+1334,org.sw.demo.emweb.wt.dbo
+1335,org.sw.demo.emweb.wt.dbo.backend.sqlite3
