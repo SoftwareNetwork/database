@@ -25,7 +25,6 @@ package_id,path
 644,org.sw.demo.xz_utils.lzma
 646,org.sw.demo.gnu.nettle.nettle
 650,org.sw.demo.libarchive.libarchive
-651,org.sw.demo.gnu.nettle.eccdata
 653,org.sw.demo.nghttp2
 655,org.sw.demo.openssl.ssl
 658,org.sw.demo.openssl.crypto
@@ -188,7 +187,6 @@ package_id,path
 1259,pub.egorpugin.primitives.date_time
 1260,pub.egorpugin.primitives.http
 1261,pub.egorpugin.primitives.tools.embedder
-1262,pub.egorpugin.primitives.minidump
 1263,pub.egorpugin.primitives.command
 1264,pub.egorpugin.primitives.lock
 1265,pub.egorpugin.primitives.log
@@ -196,7 +194,6 @@ package_id,path
 1268,pub.egorpugin.primitives.win32helpers
 1269,pub.egorpugin.primitives.db.sqlite3
 1270,pub.egorpugin.primitives.version
-1272,pub.egorpugin.primitives.tools.sqlite2cpp
 1274,org.sw.demo.glew
 1275,org.sw.demo.find.opengl
 1276,org.sw.demo.glennrp.png
@@ -287,8 +284,6 @@ package_id,path
 1494,org.sw.demo.google.grpc.grpcpp_base
 1495,org.sw.demo.google.grpc.grpcpp_codegen_base
 1500,pub.egorpugin.primitives.db.common
-1501,pub.egorpugin.primitives.cron
-1502,pub.egorpugin.primitives.db.postgresql
 1519,org.sw.sw.client.support
 1520,org.sw.sw.client.protos
 1521,org.sw.sw.client.manager
@@ -301,3 +296,11 @@ package_id,path
 1532,org.sw.demo.emweb.wt.http
 1533,org.sw.demo.emweb.wt.dbo
 1534,org.sw.demo.emweb.wt.dbo.backend.sqlite3
+1535,org.sw.demo.google.breakpad.common.windows
+1536,org.sw.demo.google.breakpad.client.windows.crash_generation.client
+1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
+1538,org.sw.demo.google.breakpad.client.windows.handler
+1543,org.sw.demo.gnu.nettle.eccdata
+1547,pub.egorpugin.primitives.cron
+1548,pub.egorpugin.primitives.db.postgresql
+1549,pub.egorpugin.primitives.tools.sqlpp11.sqlite2cpp
