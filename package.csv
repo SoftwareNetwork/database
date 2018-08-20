@@ -284,14 +284,8 @@ package_id,path
 1494,org.sw.demo.google.grpc.grpcpp_base
 1495,org.sw.demo.google.grpc.grpcpp_codegen_base
 1500,pub.egorpugin.primitives.db.common
-1519,org.sw.sw.client.support
-1520,org.sw.sw.client.protos
 1521,org.sw.sw.client.manager
 1522,org.sw.sw.client.builder
-1523,org.sw.sw.client.client
-1524,org.sw.sw.client.driver.cpp
-1525,org.sw.sw.client.tools.self_builder
-1526,org.sw.sw.client.tools.client
 1531,org.sw.demo.emweb.wt.wt
 1532,org.sw.demo.emweb.wt.http
 1533,org.sw.demo.emweb.wt.dbo
@@ -304,3 +298,9 @@ package_id,path
 1547,pub.egorpugin.primitives.cron
 1548,pub.egorpugin.primitives.db.postgresql
 1549,pub.egorpugin.primitives.tools.sqlpp11.sqlite2cpp
+1550,org.sw.sw.client.support
+1551,org.sw.sw.client.protos
+1552,org.sw.sw.client.client
+1553,org.sw.sw.client.driver.cpp
+1554,org.sw.sw.client.tools.self_builder
+1555,org.sw.sw.client.tools.client
