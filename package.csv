@@ -287,9 +287,6 @@ package_id,path
 1521,org.sw.sw.client.manager
 1522,org.sw.sw.client.builder
 1531,org.sw.demo.emweb.wt.wt
-1532,org.sw.demo.emweb.wt.http
-1533,org.sw.demo.emweb.wt.dbo
-1534,org.sw.demo.emweb.wt.dbo.backend.sqlite3
 1535,org.sw.demo.google.breakpad.common.windows
 1536,org.sw.demo.google.breakpad.client.windows.crash_generation.client
 1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
@@ -304,3 +301,7 @@ package_id,path
 1553,org.sw.sw.client.driver.cpp
 1554,org.sw.sw.client.tools.self_builder
 1555,org.sw.sw.client.tools.client
+1566,org.sw.demo.emweb.wt.dbo
+1568,org.sw.demo.emweb.wt.http
+1569,org.sw.demo.emweb.wt.dbo.backend.sqlite3
+1571,org.sw.demo.gif
