@@ -1,0 +1,4 @@
+data_source_id,data_source_name,url,flags,location,created
+1,local,http://localhost:55555/{DD}/{PHPF}/{FN},0,,2018-08-22 14:51:27.965768
+2,github,https://github.com/sw-packages/{PH64}/raw/master/{FN},0,,2018-08-22 14:51:27.965768
+3,s3,https://s3-eu-west-1.amazonaws.com/software-network/{DD}/{PHPF}/{FN},0,,2018-08-22 14:51:27.965768
