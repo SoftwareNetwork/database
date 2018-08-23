@@ -46,7 +46,6 @@ package_id,path
 732,org.sw.demo.google.protobuf.protoc_lib
 734,org.sw.demo.nanopb
 849,org.sw.demo.giovannidicanio.winreg
-853,org.sw.demo.lexxmark.winflexbison.common
 854,org.sw.demo.lexxmark.winflexbison.flex
 855,org.sw.demo.lexxmark.winflexbison.bison
 856,org.sw.demo.ragel
@@ -169,11 +168,9 @@ package_id,path
 1281,org.sw.demo.unicode.icu.stub.common
 1282,org.sw.demo.unicode.icu.stub.i18n
 1283,org.sw.demo.unicode.icu.stub.toolutil
-1284,org.sw.demo.unicode.icu.io
 1285,org.sw.demo.unicode.icu.stub.genccode
 1286,org.sw.demo.unicode.icu.common
 1287,org.sw.demo.unicode.icu.i18n
-1288,org.sw.demo.unicode.icu.data
 1290,org.sw.demo.freetype
 1291,org.sw.demo.freedesktop.pixman
 1293,org.sw.demo.tronkko.dirent
@@ -305,3 +302,6 @@ package_id,path
 1642,org.sw.demo.pcre.pcre16
 1643,org.sw.demo.pcre.pcre32
 1644,org.sw.demo.taywee.args
+1645,org.sw.demo.unicode.icu.io
+1646,org.sw.demo.unicode.icu.data
+1647,org.sw.demo.lexxmark.winflexbison.common
