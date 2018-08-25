@@ -41,7 +41,6 @@ package_id,path
 673,org.sw.demo.nlohmann.json
 676,org.sw.demo.rbock.sqlpp11_connector_sqlite3
 678,org.sw.demo.imageworks.pystring
-724,pub.egorpugin.llvm_project.llvm.demangle
 725,pub.egorpugin.llvm_project.llvm.support_lite
 732,org.sw.demo.google.protobuf.protoc_lib
 734,org.sw.demo.nanopb
@@ -245,8 +244,6 @@ package_id,path
 1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
 1538,org.sw.demo.google.breakpad.client.windows.handler
 1543,org.sw.demo.gnu.nettle.eccdata
-1547,pub.egorpugin.primitives.cron
-1548,pub.egorpugin.primitives.db.postgresql
 1549,pub.egorpugin.primitives.tools.sqlpp11.sqlite2cpp
 1550,org.sw.sw.client.support
 1551,org.sw.sw.client.protos
@@ -332,3 +329,10 @@ package_id,path
 1699,org.sw.demo.primitives.sw.settings
 1700,org.sw.demo.primitives.sw.main
 1701,org.sw.demo.primitives.tools.sqlpp11.sqlite2cpp
+1702,pub.egorpugin.primitives.cron
+1703,pub.egorpugin.primitives.db.postgresql
+1704,pub.egorpugin.aleksey14.rhash
+1705,org.sw.demo.llvm_project.llvm.demangle
+1706,org.sw.demo.llvm_project.llvm.support_lite
+1707,pub.egorpugin.llvm_project.llvm.demangle
+1708,pub.egorpugin.madler.zlib
