@@ -331,3 +331,4 @@ package_id,path
 1672,org.sw.demo.primitives.sw.main
 1673,org.sw.demo.primitives.tools.sqlpp11.sqlite2cpp
 1674,org.sw.demo.lexxmark.winflexbison.common
+1675,org.sw.demo.libpq
