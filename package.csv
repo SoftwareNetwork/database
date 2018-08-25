@@ -304,7 +304,6 @@ package_id,path
 1644,org.sw.demo.taywee.args
 1645,org.sw.demo.unicode.icu.io
 1646,org.sw.demo.unicode.icu.data
-1647,org.sw.demo.lexxmark.winflexbison.common
 1648,org.sw.demo.primitives.templates
 1649,org.sw.demo.primitives.context
 1650,org.sw.demo.primitives.error_handling
@@ -331,3 +330,4 @@ package_id,path
 1671,org.sw.demo.primitives.sw.settings
 1672,org.sw.demo.primitives.sw.main
 1673,org.sw.demo.primitives.tools.sqlpp11.sqlite2cpp
+1674,org.sw.demo.lexxmark.winflexbison.common
