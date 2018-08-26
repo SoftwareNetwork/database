@@ -292,7 +292,6 @@ package_id,path
 1635,org.sw.demo.gnome.pango.pangocairo
 1636,org.sw.demo.google.breakpad.common.windows
 1638,org.sw.demo.google.grpc.grpc_plugin_support
-1639,org.sw.demo.google.grpc.alts_proto
 1640,org.sw.demo.google.grpc.tsi_interface
 1641,org.sw.demo.google.grpc.grpcpp_codegen_base
 1642,org.sw.demo.pcre.pcre16
@@ -306,3 +305,5 @@ package_id,path
 1703,pub.egorpugin.primitives.db.postgresql
 1711,pub.egorpugin.llvm_project.llvm.demangle
 1712,org.sw.demo.google.protobuf.protobuf_lite
+1713,org.sw.demo.google.grpc.alts_proto
+1714,org.sw.demo.google.grpc.third_party.address_sorting
