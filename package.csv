@@ -60,7 +60,6 @@ package_id,path
 1123,pub.egorpugin.primitives.filesystem
 1125,pub.egorpugin.primitives.sw.settings
 1128,pub.egorpugin.primitives.hash
-1129,pub.egorpugin.primitives.settings
 1131,pub.egorpugin.primitives.yaml
 1136,pub.egorpugin.primitives.main
 1137,pub.egorpugin.primitives.sw.main
@@ -236,7 +235,6 @@ package_id,path
 1492,org.sw.demo.google.grpc.grpc_transport_chttp2_client_secure
 1493,org.sw.demo.google.grpc.grpc
 1494,org.sw.demo.google.grpc.grpcpp_base
-1500,pub.egorpugin.primitives.db.common
 1521,org.sw.sw.client.manager
 1522,org.sw.sw.client.builder
 1531,org.sw.demo.emweb.wt.wt
@@ -301,9 +299,11 @@ package_id,path
 1646,org.sw.demo.unicode.icu.data
 1674,org.sw.demo.lexxmark.winflexbison.common
 1675,org.sw.demo.libpq
-1702,pub.egorpugin.primitives.cron
-1703,pub.egorpugin.primitives.db.postgresql
 1712,org.sw.demo.google.protobuf.protobuf_lite
 1713,org.sw.demo.google.grpc.alts_proto
 1714,org.sw.demo.google.grpc.third_party.address_sorting
 1715,pub.egorpugin.llvm_project.llvm.demangle
+1716,pub.egorpugin.primitives.db.common
+1717,pub.egorpugin.primitives.settings
+1718,pub.egorpugin.primitives.cron
+1719,pub.egorpugin.primitives.db.postgresql
