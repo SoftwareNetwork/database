@@ -307,3 +307,12 @@ package_id,path
 1718,pub.egorpugin.primitives.cron
 1719,pub.egorpugin.primitives.db.postgresql
 1720,pub.egorpugin.llvm_project.llvm.demangle
+1721,pub.egorpugin.sw.client.support
+1722,pub.egorpugin.sw.client.protos
+1723,pub.egorpugin.sw.client.manager
+1724,pub.egorpugin.sw.client.driver.cppan
+1725,pub.egorpugin.sw.client.builder
+1726,pub.egorpugin.sw.client.client
+1727,pub.egorpugin.sw.client.driver.cpp
+1728,pub.egorpugin.sw.client.tools.self_builder
+1729,pub.egorpugin.sw.client.tools.client
