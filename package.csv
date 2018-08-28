@@ -241,7 +241,6 @@ package_id,path
 1536,org.sw.demo.google.breakpad.client.windows.crash_generation.client
 1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
 1538,org.sw.demo.google.breakpad.client.windows.handler
-1543,org.sw.demo.gnu.nettle.eccdata
 1549,pub.egorpugin.primitives.tools.sqlpp11.sqlite2cpp
 1550,org.sw.sw.client.support
 1551,org.sw.sw.client.protos
@@ -297,15 +296,9 @@ package_id,path
 1644,org.sw.demo.taywee.args
 1645,org.sw.demo.unicode.icu.io
 1646,org.sw.demo.unicode.icu.data
-1674,org.sw.demo.lexxmark.winflexbison.common
 1675,org.sw.demo.libpq
-1712,org.sw.demo.google.protobuf.protobuf_lite
-1713,org.sw.demo.google.grpc.alts_proto
-1714,org.sw.demo.google.grpc.third_party.address_sorting
 1716,pub.egorpugin.primitives.db.common
 1717,pub.egorpugin.primitives.settings
-1718,pub.egorpugin.primitives.cron
-1719,pub.egorpugin.primitives.db.postgresql
 1720,pub.egorpugin.llvm_project.llvm.demangle
 1721,pub.egorpugin.sw.client.support
 1722,pub.egorpugin.sw.client.protos
@@ -316,3 +309,10 @@ package_id,path
 1727,pub.egorpugin.sw.client.driver.cpp
 1728,pub.egorpugin.sw.client.tools.self_builder
 1729,pub.egorpugin.sw.client.tools.client
+1730,org.sw.demo.gnu.nettle.eccdata
+1731,org.sw.demo.lexxmark.winflexbison.common
+1732,org.sw.demo.google.protobuf.protobuf_lite
+1733,org.sw.demo.google.grpc.alts_proto
+1734,org.sw.demo.google.grpc.third_party.address_sorting
+1735,pub.egorpugin.primitives.cron
+1736,pub.egorpugin.primitives.db.postgresql
