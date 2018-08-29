@@ -303,7 +303,6 @@ package_id,path
 1728,pub.egorpugin.sw.client.tools.self_builder
 1729,pub.egorpugin.sw.client.tools.client
 1730,org.sw.demo.gnu.nettle.eccdata
-1731,org.sw.demo.lexxmark.winflexbison.common
 1732,org.sw.demo.google.protobuf.protobuf_lite
 1733,org.sw.demo.google.grpc.alts_proto
 1734,org.sw.demo.google.grpc.third_party.address_sorting
@@ -318,5 +317,6 @@ package_id,path
 1745,org.sw.sw.client.tools.self_builder
 1746,org.sw.sw.client.tools.client
 1747,org.sw.demo.tcl.stub
-1749,org.sw.demo.tcl.sh
 1750,org.sw.demo.tcl.lib
+1751,org.sw.demo.tcl.sh
+1752,org.sw.demo.lexxmark.winflexbison.common
