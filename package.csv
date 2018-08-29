@@ -317,3 +317,6 @@ package_id,path
 1744,org.sw.sw.client.driver.cpp
 1745,org.sw.sw.client.tools.self_builder
 1746,org.sw.sw.client.tools.client
+1747,org.sw.demo.tcl.stub
+1749,org.sw.demo.tcl.sh
+1750,org.sw.demo.tcl.lib
