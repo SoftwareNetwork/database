@@ -305,8 +305,6 @@ package_id,path
 1730,org.sw.demo.gnu.nettle.eccdata
 1733,org.sw.demo.google.grpc.alts_proto
 1737,pub.egorpugin.primitives.db.common
-1738,pub.egorpugin.primitives.cron
-1739,pub.egorpugin.primitives.db.postgresql
 1740,org.sw.sw.client.support
 1741,org.sw.sw.client.protos
 1742,org.sw.sw.client.driver.cppan
@@ -320,3 +318,9 @@ package_id,path
 1752,org.sw.demo.lexxmark.winflexbison.common
 1753,org.sw.demo.google.protobuf.protobuf_lite
 1754,org.sw.demo.google.grpc.third_party.address_sorting
+1755,org.sw.demo.sqlcipher.lemon
+1756,org.sw.demo.sqlcipher.mkkeywordhash
+1757,org.sw.demo.sqlcipher.sqlcipher
+1758,pub.egorpugin.primitives.cron
+1759,pub.egorpugin.primitives.db.postgresql
+1760,org.sw.demo.gnu.gperf
