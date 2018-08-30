@@ -324,3 +324,15 @@ package_id,path
 1761,org.sw.demo.sqlcipher.lemon
 1762,org.sw.demo.sqlcipher.mkkeywordhash
 1763,org.sw.demo.sqlcipher.sqlcipher
+1765,org.sw.demo.telegram.td.generate_mime_types_gperf
+1771,org.sw.demo.telegram.td.tl
+1775,org.sw.demo.telegram.td.actor
+1776,org.sw.demo.telegram.td.memprof
+1777,org.sw.demo.telegram.td.core
+1778,org.sw.demo.telegram.td.utils
+1779,org.sw.demo.telegram.td.db
+1780,org.sw.demo.telegram.td.client
+1781,org.sw.demo.telegram.td.generate.json
+1782,org.sw.demo.telegram.td.generate.clib
+1783,org.sw.demo.telegram.td.net
+1784,org.sw.demo.telegram.td.generate.common
