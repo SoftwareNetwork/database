@@ -337,3 +337,10 @@ package_id,path
 1793,pub.egorpugin.primitives.file_monitor
 1796,pub.egorpugin.primitives.cron
 1797,pub.egorpugin.primitives.db.postgresql
+1798,org.sw.demo.jpeg
+1800,org.sw.demo.tiff
+1801,org.sw.demo.uclouvain.openjpeg.openjp2
+1802,org.sw.demo.mgk25.jbig.ar
+1803,org.sw.demo.mgk25.jbig.jbig85
+1804,org.sw.demo.mgk25.jbig.jbig
+1805,org.sw.demo.danbloomberg.leptonica
