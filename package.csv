@@ -287,8 +287,6 @@ package_id,path
 1642,org.sw.demo.pcre.pcre16
 1643,org.sw.demo.pcre.pcre32
 1644,org.sw.demo.taywee.args
-1645,org.sw.demo.unicode.icu.io
-1646,org.sw.demo.unicode.icu.data
 1675,org.sw.demo.libpq
 1717,pub.egorpugin.primitives.settings
 1720,pub.egorpugin.llvm_project.llvm.demangle
@@ -344,3 +342,5 @@ package_id,path
 1803,org.sw.demo.mgk25.jbig.jbig85
 1804,org.sw.demo.mgk25.jbig.jbig
 1805,org.sw.demo.danbloomberg.leptonica
+1806,org.sw.demo.unicode.icu.io
+1807,org.sw.demo.unicode.icu.data
