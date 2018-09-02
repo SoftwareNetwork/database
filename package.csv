@@ -235,7 +235,6 @@ package_id,path
 1492,org.sw.demo.google.grpc.grpc_transport_chttp2_client_secure
 1493,org.sw.demo.google.grpc.grpc
 1494,org.sw.demo.google.grpc.grpcpp_base
-1521,org.sw.sw.client.manager
 1522,org.sw.sw.client.builder
 1531,org.sw.demo.emweb.wt.wt
 1536,org.sw.demo.google.breakpad.client.windows.crash_generation.client
@@ -308,17 +307,11 @@ package_id,path
 1740,org.sw.sw.client.support
 1741,org.sw.sw.client.protos
 1742,org.sw.sw.client.driver.cppan
-1743,org.sw.sw.client.client
-1744,org.sw.sw.client.driver.cpp
-1745,org.sw.sw.client.tools.self_builder
-1746,org.sw.sw.client.tools.client
 1750,org.sw.demo.tcl.lib
 1751,org.sw.demo.tcl.sh
 1752,org.sw.demo.lexxmark.winflexbison.common
 1753,org.sw.demo.google.protobuf.protobuf_lite
 1754,org.sw.demo.google.grpc.third_party.address_sorting
-1758,pub.egorpugin.primitives.cron
-1759,pub.egorpugin.primitives.db.postgresql
 1760,org.sw.demo.gnu.gperf
 1761,org.sw.demo.sqlcipher.lemon
 1762,org.sw.demo.sqlcipher.mkkeywordhash
@@ -336,3 +329,10 @@ package_id,path
 1783,org.sw.demo.telegram.td.net
 1784,org.sw.demo.telegram.td.generate.common
 1785,org.sw.demo.tcl.stub
+1786,pub.egorpugin.primitives.cron
+1787,pub.egorpugin.primitives.db.postgresql
+1788,org.sw.sw.client.manager
+1789,org.sw.sw.client.client
+1790,org.sw.sw.client.driver.cpp
+1791,org.sw.sw.client.tools.self_builder
+1792,org.sw.sw.client.tools.client
