@@ -164,9 +164,6 @@ package_id,path
 1279,org.sw.demo.graphicsmagick.magick
 1280,org.sw.demo.unicode.icu.stub.data
 1281,org.sw.demo.unicode.icu.stub.common
-1282,org.sw.demo.unicode.icu.stub.i18n
-1283,org.sw.demo.unicode.icu.stub.toolutil
-1285,org.sw.demo.unicode.icu.stub.genccode
 1286,org.sw.demo.unicode.icu.common
 1287,org.sw.demo.unicode.icu.i18n
 1290,org.sw.demo.freetype
@@ -342,5 +339,8 @@ package_id,path
 1803,org.sw.demo.mgk25.jbig.jbig85
 1804,org.sw.demo.mgk25.jbig.jbig
 1805,org.sw.demo.danbloomberg.leptonica
-1806,org.sw.demo.unicode.icu.io
 1807,org.sw.demo.unicode.icu.data
+1815,org.sw.demo.unicode.icu.stub.i18n
+1816,org.sw.demo.unicode.icu.stub.toolutil
+1817,org.sw.demo.unicode.icu.io
+1818,org.sw.demo.unicode.icu.stub.genccode
