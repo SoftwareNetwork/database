@@ -342,5 +342,5 @@ package_id,path
 1807,org.sw.demo.unicode.icu.data
 1815,org.sw.demo.unicode.icu.stub.i18n
 1816,org.sw.demo.unicode.icu.stub.toolutil
-1817,org.sw.demo.unicode.icu.io
-1818,org.sw.demo.unicode.icu.stub.genccode
+1819,org.sw.demo.unicode.icu.io
+1820,org.sw.demo.unicode.icu.stub.genccode
