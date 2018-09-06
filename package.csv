@@ -366,3 +366,4 @@ package_id,path
 1842,pub.egorpugin.primitives.cron
 1843,pub.egorpugin.primitives.db.postgresql
 1844,org.sw.demo.google.double_conversion
+1845,org.sw.demo.aappleby.smhasher.murmurhash3
