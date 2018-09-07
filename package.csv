@@ -367,3 +367,15 @@ package_id,path
 1843,pub.egorpugin.primitives.db.postgresql
 1844,org.sw.demo.google.double_conversion
 1845,org.sw.demo.aappleby.smhasher.murmurhash3
+1846,org.sw.demo.google.angle.third_party.base
+1847,org.sw.demo.google.angle.compiler.preprocessor
+1848,org.sw.demo.google.angle.third_party.khronos
+1849,org.sw.demo.google.angle.third_party.pmurhash
+1850,org.sw.demo.google.angle.third_party.compiler
+1851,org.sw.demo.google.angle.common
+1852,org.sw.demo.google.angle.third_party.systeminfo
+1853,org.sw.demo.google.angle.compiler.translator
+1854,org.sw.demo.google.angle.util.image
+1855,org.sw.demo.google.angle.angle
+1856,org.sw.demo.google.angle.gles_v2
+1857,org.sw.demo.google.angle.egl
