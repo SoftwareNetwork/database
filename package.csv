@@ -379,3 +379,5 @@ package_id,path
 1904,org.sw.demo.google.angle.compiler.translator
 1905,org.sw.demo.google.angle.util.image
 1906,org.sw.demo.google.angle.egl
+1907,org.sw.demo.python.lib
+1908,org.sw.demo.python.exe
