@@ -435,3 +435,5 @@ package_id,path
 2173,org.sw.demo.qtproject.qt.plugins.imageformats.webp
 2174,org.sw.demo.qtproject.qt.plugins.imageformats.mng
 2175,org.sw.demo.qtproject.qt.declarative.quick
+2176,org.sw.demo.google.abseil.base
+2177,org.sw.demo.google.abseil.strings
