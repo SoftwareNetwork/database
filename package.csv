@@ -310,6 +310,13 @@ package_id,path
 1754,org.sw.demo.google.grpc.third_party.address_sorting
 1760,org.sw.demo.gnu.gperf
 1763,org.sw.demo.sqlcipher.sqlcipher
+1765,org.sw.demo.telegram.td.generate_mime_types_gperf
+1771,org.sw.demo.telegram.td.tl
+1775,org.sw.demo.telegram.td.actor
+1776,org.sw.demo.telegram.td.memprof
+1777,org.sw.demo.telegram.td.core
+1778,org.sw.demo.telegram.td.utils
+1782,org.sw.demo.telegram.td.generate.clib
 1788,org.sw.sw.client.manager
 1789,org.sw.sw.client.client
 1790,org.sw.sw.client.driver.cpp
@@ -423,3 +430,8 @@ package_id,path
 2188,pub.egorpugin.primitives.cron
 2189,pub.egorpugin.primitives.db.postgresql
 2190,org.sw.demo.sqlcipher.lemon
+2191,org.sw.demo.telegram.td.db
+2192,org.sw.demo.telegram.td.client
+2193,org.sw.demo.telegram.td.generate.json
+2194,org.sw.demo.telegram.td.net
+2195,org.sw.demo.telegram.td.generate.common
