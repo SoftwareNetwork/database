@@ -418,12 +418,14 @@ package_id,path
 2244,org.sw.demo.microsoft.gsl
 2245,org.sw.sw.client.manager
 2246,org.sw.sw.client.builder
-2247,org.sw.sw.client.client
-2248,org.sw.sw.client.tools.self_builder
-2249,org.sw.sw.client.tools.client
 2250,org.sw.demo.unicode.icu.stub.data
 2251,org.sw.demo.unicode.icu.stub.toolutil
 2252,org.sw.demo.unicode.icu.io
 2253,org.sw.demo.emweb.wt.http
 2254,org.sw.demo.emweb.wt.dbo
 2255,org.sw.demo.emweb.wt.dbo.backend.sqlite3
+2256,org.sw.demo.amazon.aws.sdk.core
+2257,org.sw.demo.amazon.aws.sdk.s3
+2258,org.sw.sw.client.client
+2259,org.sw.sw.client.tools.self_builder
+2260,org.sw.sw.client.tools.client
