@@ -237,9 +237,6 @@ package_id,path
 1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
 1538,org.sw.demo.google.breakpad.client.windows.handler
 1549,pub.egorpugin.primitives.tools.sqlpp11.sqlite2cpp
-1566,org.sw.demo.emweb.wt.dbo
-1568,org.sw.demo.emweb.wt.http
-1569,org.sw.demo.emweb.wt.dbo.backend.sqlite3
 1572,org.sw.demo.gif
 1614,org.sw.demo.boost.hana
 1635,org.sw.demo.gnome.pango.pangocairo
@@ -427,3 +424,6 @@ package_id,path
 2250,org.sw.demo.unicode.icu.stub.data
 2251,org.sw.demo.unicode.icu.stub.toolutil
 2252,org.sw.demo.unicode.icu.io
+2253,org.sw.demo.emweb.wt.http
+2254,org.sw.demo.emweb.wt.dbo
+2255,org.sw.demo.emweb.wt.dbo.backend.sqlite3
