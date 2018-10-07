@@ -233,7 +233,6 @@ package_id,path
 1492,org.sw.demo.google.grpc.grpc_transport_chttp2_client_secure
 1493,org.sw.demo.google.grpc.grpc
 1494,org.sw.demo.google.grpc.grpcpp_base
-1522,org.sw.sw.client.builder
 1531,org.sw.demo.emweb.wt.wt
 1536,org.sw.demo.google.breakpad.client.windows.crash_generation.client
 1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
@@ -273,7 +272,6 @@ package_id,path
 1775,org.sw.demo.telegram.td.actor
 1778,org.sw.demo.telegram.td.utils
 1782,org.sw.demo.telegram.td.generate.clib
-1788,org.sw.sw.client.manager
 1798,org.sw.demo.jpeg
 1800,org.sw.demo.tiff
 1801,org.sw.demo.uclouvain.openjpeg.openjp2
@@ -422,8 +420,10 @@ package_id,path
 2237,pub.egorpugin.primitives.file_monitor
 2238,pub.egorpugin.primitives.cron
 2239,pub.egorpugin.primitives.db.postgresql
-2240,org.sw.sw.client.client
 2241,org.sw.sw.client.driver.cpp
-2242,org.sw.sw.client.tools.self_builder
-2243,org.sw.sw.client.tools.client
 2244,org.sw.demo.microsoft.gsl
+2245,org.sw.sw.client.manager
+2246,org.sw.sw.client.builder
+2247,org.sw.sw.client.client
+2248,org.sw.sw.client.tools.self_builder
+2249,org.sw.sw.client.tools.client
