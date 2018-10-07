@@ -162,7 +162,6 @@ package_id,path
 1277,org.sw.demo.libharu
 1278,org.sw.demo.webmproject.webp
 1279,org.sw.demo.graphicsmagick.magick
-1280,org.sw.demo.unicode.icu.stub.data
 1281,org.sw.demo.unicode.icu.stub.common
 1286,org.sw.demo.unicode.icu.common
 1287,org.sw.demo.unicode.icu.i18n
@@ -281,8 +280,6 @@ package_id,path
 1805,org.sw.demo.danbloomberg.leptonica
 1807,org.sw.demo.unicode.icu.data
 1815,org.sw.demo.unicode.icu.stub.i18n
-1816,org.sw.demo.unicode.icu.stub.toolutil
-1819,org.sw.demo.unicode.icu.io
 1820,org.sw.demo.unicode.icu.stub.genccode
 1821,org.sw.demo.google.tesseract.libtesseract
 1822,org.sw.demo.google.tesseract.tessopt
@@ -427,3 +424,6 @@ package_id,path
 2247,org.sw.sw.client.client
 2248,org.sw.sw.client.tools.self_builder
 2249,org.sw.sw.client.tools.client
+2250,org.sw.demo.unicode.icu.stub.data
+2251,org.sw.demo.unicode.icu.stub.toolutil
+2252,org.sw.demo.unicode.icu.io
