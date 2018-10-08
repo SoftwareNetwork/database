@@ -429,3 +429,4 @@ package_id,path
 2258,org.sw.sw.client.client
 2259,org.sw.sw.client.tools.self_builder
 2260,org.sw.sw.client.tools.client
+2261,org.sw.demo.google.grpc.grpc_shadow_boringssl
