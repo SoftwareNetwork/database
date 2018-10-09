@@ -420,6 +420,6 @@ package_id,path
 2263,org.sw.sw.client.client
 2264,org.sw.sw.client.tools.self_builder
 2265,org.sw.sw.client.tools.client
-2266,org.sw.demo.google.protobuf.protobuf_lite
 2267,org.sw.demo.eigen
 2308,org.sw.demo.google.abseil
+2309,org.sw.demo.google.protobuf.protobuf_lite
