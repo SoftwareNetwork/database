@@ -257,7 +257,6 @@ package_id,path
 1742,org.sw.sw.client.driver.cppan
 1750,org.sw.demo.tcl.lib
 1751,org.sw.demo.tcl.sh
-1752,org.sw.demo.lexxmark.winflexbison.common
 1754,org.sw.demo.google.grpc.third_party.address_sorting
 1760,org.sw.demo.gnu.gperf
 1763,org.sw.demo.sqlcipher.sqlcipher
@@ -416,7 +415,6 @@ package_id,path
 2262,org.sw.sw.client.manager
 2267,org.sw.demo.eigen
 2308,org.sw.demo.google.abseil
-2309,org.sw.demo.google.protobuf.protobuf_lite
 2310,org.sw.demo.google.grpc.grpc_shadow_boringssl
 2313,org.sw.demo.google.nsync
 2315,pub.egorpugin.llvm_project.llvm.demangle
@@ -424,3 +422,5 @@ package_id,path
 2317,org.sw.sw.client.client
 2318,org.sw.sw.client.tools.self_builder
 2319,org.sw.sw.client.tools.client
+2320,org.sw.demo.lexxmark.winflexbison.common
+2321,org.sw.demo.google.protobuf.protobuf_lite
