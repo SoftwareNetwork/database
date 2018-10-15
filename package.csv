@@ -418,9 +418,9 @@ package_id,path
 2318,org.sw.sw.client.tools.self_builder
 2319,org.sw.sw.client.tools.client
 2320,org.sw.demo.lexxmark.winflexbison.common
-2321,org.sw.demo.google.protobuf.protobuf_lite
 2322,org.sw.demo.amazon.aws.sdk.s3
 2323,org.sw.demo.unicode.icu.stub.data
 2324,org.sw.demo.unicode.icu.stub.toolutil
 2325,org.sw.demo.unicode.icu.io
 2326,org.sw.demo.unicode.icu.common
+2332,org.sw.demo.google.protobuf.protobuf_lite
