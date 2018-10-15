@@ -163,7 +163,6 @@ package_id,path
 1278,org.sw.demo.webmproject.webp
 1279,org.sw.demo.graphicsmagick.magick
 1281,org.sw.demo.unicode.icu.stub.common
-1286,org.sw.demo.unicode.icu.common
 1287,org.sw.demo.unicode.icu.i18n
 1290,org.sw.demo.freetype
 1291,org.sw.demo.freedesktop.pixman
@@ -404,9 +403,6 @@ package_id,path
 2239,pub.egorpugin.primitives.db.postgresql
 2241,org.sw.sw.client.driver.cpp
 2244,org.sw.demo.microsoft.gsl
-2250,org.sw.demo.unicode.icu.stub.data
-2251,org.sw.demo.unicode.icu.stub.toolutil
-2252,org.sw.demo.unicode.icu.io
 2253,org.sw.demo.emweb.wt.http
 2254,org.sw.demo.emweb.wt.dbo
 2255,org.sw.demo.emweb.wt.dbo.backend.sqlite3
@@ -424,3 +420,7 @@ package_id,path
 2320,org.sw.demo.lexxmark.winflexbison.common
 2321,org.sw.demo.google.protobuf.protobuf_lite
 2322,org.sw.demo.amazon.aws.sdk.s3
+2323,org.sw.demo.unicode.icu.stub.data
+2324,org.sw.demo.unicode.icu.stub.toolutil
+2325,org.sw.demo.unicode.icu.io
+2326,org.sw.demo.unicode.icu.common
