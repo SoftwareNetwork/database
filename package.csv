@@ -424,6 +424,6 @@ package_id,path
 2325,org.sw.demo.unicode.icu.io
 2326,org.sw.demo.unicode.icu.common
 2332,org.sw.demo.google.protobuf.protobuf_lite
-2333,org.sw.demo.gnu.gawk.regex
-2334,org.sw.demo.gnu.gawk.getopt
-2335,org.sw.demo.gnu.gawk.gawk
+2336,org.sw.demo.gnu.gawk.regex
+2337,org.sw.demo.gnu.gawk.getopt
+2338,org.sw.demo.gnu.gawk.gawk
