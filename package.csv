@@ -429,3 +429,6 @@ package_id,path
 2338,org.sw.demo.gnu.gawk.gawk
 2344,org.sw.demo.gnu.grep.gnulib
 2345,org.sw.demo.gnu.grep.grep
+2346,org.sw.demo.kimgr.getopt_port
+2347,org.sw.demo.gnu.sed.gnulib
+2348,org.sw.demo.gnu.sed.sed
