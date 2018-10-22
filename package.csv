@@ -406,7 +406,6 @@ package_id,path
 2253,org.sw.demo.emweb.wt.http
 2254,org.sw.demo.emweb.wt.dbo
 2255,org.sw.demo.emweb.wt.dbo.backend.sqlite3
-2256,org.sw.demo.amazon.aws.sdk.core
 2262,org.sw.sw.client.manager
 2267,org.sw.demo.eigen
 2308,org.sw.demo.google.abseil
@@ -418,7 +417,6 @@ package_id,path
 2318,org.sw.sw.client.tools.self_builder
 2319,org.sw.sw.client.tools.client
 2320,org.sw.demo.lexxmark.winflexbison.common
-2322,org.sw.demo.amazon.aws.sdk.s3
 2323,org.sw.demo.unicode.icu.stub.data
 2324,org.sw.demo.unicode.icu.stub.toolutil
 2325,org.sw.demo.unicode.icu.io
@@ -430,5 +428,7 @@ package_id,path
 2346,org.sw.demo.kimgr.getopt_port
 2347,org.sw.demo.gnu.sed.gnulib
 2348,org.sw.demo.gnu.sed.sed
-2349,org.sw.demo.gnu.gawk.regex
-2350,org.sw.demo.gnu.gawk.gawk
+2355,org.sw.demo.gnu.gawk.regex
+2356,org.sw.demo.gnu.gawk.gawk
+2357,org.sw.demo.amazon.aws.sdk.core
+2358,org.sw.demo.amazon.aws.sdk.s3
