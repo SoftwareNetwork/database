@@ -428,7 +428,7 @@ package_id,path
 2346,org.sw.demo.kimgr.getopt_port
 2347,org.sw.demo.gnu.sed.gnulib
 2348,org.sw.demo.gnu.sed.sed
-2355,org.sw.demo.gnu.gawk.regex
 2356,org.sw.demo.gnu.gawk.gawk
 2357,org.sw.demo.amazon.aws.sdk.core
 2358,org.sw.demo.amazon.aws.sdk.s3
+2359,org.sw.demo.gnu.gawk.regex
