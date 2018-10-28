@@ -433,3 +433,12 @@ package_id,path
 2500,org.sw.demo.boost.signals
 2501,org.sw.demo.boost.type_erasure
 2502,org.sw.demo.boost.wave
+2512,org.sw.demo.gnu.gmp.mini
+2513,org.sw.demo.gnu.gmp.cxx
+2514,org.sw.demo.gnu.gmp.lib
+2515,org.sw.demo.gnu.gmp.tools.gen_jacobitab
+2516,org.sw.demo.gnu.gmp.tools.gen_psqr
+2517,org.sw.demo.gnu.gmp.tools.gen_fib
+2518,org.sw.demo.gnu.gmp.tools.gen_trialdivtab
+2519,org.sw.demo.gnu.gmp.tools.gen_fac
+2520,org.sw.demo.gnu.gmp.tools.gen_bases
