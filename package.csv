@@ -428,3 +428,17 @@ package_id,path
 2570,org.sw.demo.qtproject.qt.tools.linguist.proparser
 2571,org.sw.demo.qtproject.qt.tools.linguist.update
 2572,org.sw.demo.qtproject.qt.tools.linguist.release
+2573,org.sw.demo.qtproject.qt.base.gif
+2574,org.sw.demo.qtproject.qt.plugins.imageformats.webp
+2575,org.sw.demo.qtproject.qt.base.ico
+2576,org.sw.demo.qtproject.qt.base.jpeg
+2577,org.sw.demo.qtproject.qt.plugins.imageformats.dds
+2578,org.sw.demo.qtproject.qt.plugins.imageformats.icns
+2579,org.sw.demo.qtproject.qt.plugins.imageformats.tga
+2580,org.sw.demo.qtproject.qt.plugins.imageformats.wbmp
+2581,org.sw.demo.qtproject.qt.plugins.imageformats.tiff
+2582,org.sw.demo.qtproject.qt.plugins.imageformats.jp2
+2583,org.sw.demo.qtproject.qt.plugins.imageformats.mng
+2584,org.sw.demo.qtproject.qt.declarative.qml
+2585,org.sw.demo.qtproject.qt.declarative.third_party.masm
+2586,org.sw.demo.qtproject.qt.declarative.quick
