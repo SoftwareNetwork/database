@@ -446,3 +446,5 @@ package_id,path
 2588,org.sw.demo.kcat.openal.kcat.openal
 2589,org.sw.demo.kcat.openal.tools.bsincgen
 2590,org.sw.demo.kcat.openal.tools.bin2h
+2591,org.sw.demo.xiph.libogg
+2592,org.sw.demo.xiph.vorbis.libvorbis
