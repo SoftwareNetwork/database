@@ -452,9 +452,9 @@ package_id,path
 2602,org.sw.demo.ffmpeg.swscale
 2603,org.sw.demo.ffmpeg.postproc
 2604,org.sw.demo.ffmpeg.avdevice
-2605,org.sw.demo.ffmpeg.swresample
 2606,org.sw.demo.ffmpeg.avresample
-2607,org.sw.demo.ffmpeg.avformat
-2608,org.sw.demo.ffmpeg.avfilter
 2609,org.sw.demo.ffmpeg.avcodec
-2610,org.sw.demo.ffmpeg.ffmpeg
+2611,org.sw.demo.ffmpeg.avfilter
+2612,org.sw.demo.ffmpeg.avformat
+2613,org.sw.demo.ffmpeg.swresample
+2614,org.sw.demo.ffmpeg.ffmpeg
