@@ -443,8 +443,8 @@ package_id,path
 2585,org.sw.demo.qtproject.qt.declarative.third_party.masm
 2586,org.sw.demo.qtproject.qt.declarative.quick
 2587,org.sw.demo.xiph.opus
-2588,org.sw.demo.kcat.openal.kcat.openal
-2589,org.sw.demo.kcat.openal.tools.bsincgen
-2590,org.sw.demo.kcat.openal.tools.bin2h
 2591,org.sw.demo.xiph.libogg
 2592,org.sw.demo.xiph.vorbis.libvorbis
+2593,org.sw.demo.valve.sdl.sdl
+2594,org.sw.demo.valve.sdl.main
+2599,org.sw.demo.kcat.openal
