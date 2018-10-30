@@ -448,3 +448,13 @@ package_id,path
 2593,org.sw.demo.valve.sdl.sdl
 2594,org.sw.demo.valve.sdl.main
 2600,org.sw.demo.kcat.openal
+2601,org.sw.demo.ffmpeg.avutil
+2602,org.sw.demo.ffmpeg.swscale
+2603,org.sw.demo.ffmpeg.postproc
+2604,org.sw.demo.ffmpeg.avdevice
+2605,org.sw.demo.ffmpeg.swresample
+2606,org.sw.demo.ffmpeg.avresample
+2607,org.sw.demo.ffmpeg.avformat
+2608,org.sw.demo.ffmpeg.avfilter
+2609,org.sw.demo.ffmpeg.avcodec
+2610,org.sw.demo.ffmpeg.ffmpeg
