@@ -443,3 +443,6 @@ package_id,path
 2585,org.sw.demo.qtproject.qt.declarative.third_party.masm
 2586,org.sw.demo.qtproject.qt.declarative.quick
 2587,org.sw.demo.xiph.opus
+2588,org.sw.demo.kcat.openal.kcat.openal
+2589,org.sw.demo.kcat.openal.tools.bsincgen
+2590,org.sw.demo.kcat.openal.tools.bin2h
