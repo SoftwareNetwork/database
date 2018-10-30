@@ -401,14 +401,11 @@ package_id,path
 2520,org.sw.demo.gnu.gmp.tools.gen_bases
 2521,org.sw.demo.qtproject.qt.base.tools.moc
 2522,org.sw.demo.qtproject.qt.base.tools.rcc
-2523,org.sw.demo.qtproject.qt.base.tools.uic
 2527,org.sw.demo.qtproject.qt.base.gui
 2530,org.sw.demo.qtproject.qt.base.core
-2537,org.sw.demo.qtproject.qt.base.platformsupport.fontdatabases.freetype
 2544,org.sw.demo.qtproject.qt.base.tools.bootstrap
 2551,org.sw.demo.qtproject.qt.base.third_party.wintab
 2552,org.sw.demo.qtproject.qt.base.third_party.iaccessible2
-2553,org.sw.demo.qtproject.qt.base.third_party.harfbuzz
 2554,org.sw.demo.qtproject.qt.base.xml
 2555,org.sw.demo.qtproject.qt.base.widgets
 2556,org.sw.demo.qtproject.qt.base.network
@@ -417,10 +414,6 @@ package_id,path
 2559,org.sw.demo.qtproject.qt.base.platformsupport.themes
 2560,org.sw.demo.qtproject.qt.base.platformsupport.windowsuiautomation
 2561,org.sw.demo.qtproject.qt.base.platformsupport.fontdatabases.windows
-2562,org.sw.demo.qtproject.qt.base.plugins.platforms.windows
-2563,org.sw.demo.qtproject.qt.base.printsupport
-2564,org.sw.demo.qtproject.qt.base.plugins.styles.windowsvista
-2565,org.sw.demo.qtproject.qt.base.winmain
 2566,org.sw.demo.qtproject.qt.svg
 2567,org.sw.demo.qtproject.qt.winextras
 2568,org.sw.demo.qtproject.qt.tools.linguist.formats
@@ -458,3 +451,10 @@ package_id,path
 2612,org.sw.demo.ffmpeg.avformat
 2613,org.sw.demo.ffmpeg.swresample
 2614,org.sw.demo.ffmpeg.ffmpeg
+2615,org.sw.demo.qtproject.qt.base.tools.uic
+2616,org.sw.demo.qtproject.qt.base.third_party.harfbuzz
+2617,org.sw.demo.qtproject.qt.base.platformsupport.fontdatabases.freetype
+2618,org.sw.demo.qtproject.qt.base.plugins.platforms.windows
+2619,org.sw.demo.qtproject.qt.base.printsupport
+2620,org.sw.demo.qtproject.qt.base.plugins.styles.windowsvista
+2621,org.sw.demo.qtproject.qt.base.winmain
