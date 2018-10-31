@@ -461,3 +461,5 @@ package_id,path
 2683,org.sw.demo.qtproject.qt.plugins.imageformats.qmng
 2684,org.sw.demo.qtproject.qt.plugins.imageformats.qjp2
 2685,org.sw.demo.nasm
+2686,org.sw.demo.re2c.libre2c
+2687,org.sw.demo.re2c.re2c
