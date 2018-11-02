@@ -463,7 +463,6 @@ package_id,path
 2685,org.sw.demo.nasm
 2687,org.sw.demo.re2c.re2c
 2692,org.sw.demo.yasm.tools.genmacro
-2741,org.sw.demo.re2c.libre2c
 2742,org.sw.demo.yasm
 2743,org.sw.demo.yasm.libyasm
 2744,org.sw.demo.yasm.modules.objfmts.bin
@@ -488,3 +487,4 @@ package_id,path
 2763,org.sw.demo.yasm.modules.listfmts.nasm
 2764,org.sw.demo.yasm.modules.dbgfmts.codeview
 2765,org.sw.demo.yasm.modules.dbgfmts.dwarf2
+2766,org.sw.demo.re2c.libre2c
