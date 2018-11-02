@@ -463,11 +463,7 @@ package_id,path
 2685,org.sw.demo.nasm
 2687,org.sw.demo.re2c.re2c
 2692,org.sw.demo.yasm.tools.genmacro
-2742,org.sw.demo.yasm
-2743,org.sw.demo.yasm.libyasm
-2744,org.sw.demo.yasm.modules.objfmts.bin
 2745,org.sw.demo.yasm.config
-2746,org.sw.demo.yasm.modules.arch.x86
 2747,org.sw.demo.yasm.tools.genversion
 2748,org.sw.demo.yasm.modules.preprocs.cpp
 2749,org.sw.demo.yasm.modules.preprocs.raw
@@ -483,8 +479,12 @@ package_id,path
 2759,org.sw.demo.yasm.modules.objfmts.rdf
 2760,org.sw.demo.yasm.modules.arch.lc3b
 2761,org.sw.demo.yasm.modules.objfmts.coff
-2762,org.sw.demo.yasm.modules.dbgfmts.null
 2763,org.sw.demo.yasm.modules.listfmts.nasm
 2764,org.sw.demo.yasm.modules.dbgfmts.codeview
 2765,org.sw.demo.yasm.modules.dbgfmts.dwarf2
 2766,org.sw.demo.re2c.libre2c
+2767,org.sw.demo.yasm
+2768,org.sw.demo.yasm.libyasm
+2769,org.sw.demo.yasm.modules.objfmts.bin
+2770,org.sw.demo.yasm.modules.arch.x86
+2771,org.sw.demo.yasm.modules.dbgfmts.null
