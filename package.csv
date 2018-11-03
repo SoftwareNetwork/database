@@ -426,13 +426,8 @@ package_id,path
 2601,org.sw.demo.ffmpeg.avutil
 2602,org.sw.demo.ffmpeg.swscale
 2603,org.sw.demo.ffmpeg.postproc
-2604,org.sw.demo.ffmpeg.avdevice
-2606,org.sw.demo.ffmpeg.avresample
 2609,org.sw.demo.ffmpeg.avcodec
 2611,org.sw.demo.ffmpeg.avfilter
-2612,org.sw.demo.ffmpeg.avformat
-2613,org.sw.demo.ffmpeg.swresample
-2614,org.sw.demo.ffmpeg.ffmpeg
 2615,org.sw.demo.qtproject.qt.base.tools.uic
 2617,org.sw.demo.qtproject.qt.base.platformsupport.fontdatabases.freetype
 2622,org.sw.demo.qtproject.qt.base.third_party.iaccessible2
@@ -488,3 +483,8 @@ package_id,path
 2769,org.sw.demo.yasm.modules.objfmts.bin
 2770,org.sw.demo.yasm.modules.arch.x86
 2771,org.sw.demo.yasm.modules.dbgfmts.null
+2772,org.sw.demo.ffmpeg.avresample
+2773,org.sw.demo.ffmpeg.avformat
+2774,org.sw.demo.ffmpeg.avdevice
+2775,org.sw.demo.ffmpeg.swresample
+2776,org.sw.demo.ffmpeg.ffmpeg
