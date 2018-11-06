@@ -488,3 +488,4 @@ package_id,path
 2774,org.sw.demo.ffmpeg.avdevice
 2775,org.sw.demo.ffmpeg.swresample
 2776,org.sw.demo.ffmpeg.ffmpeg
+2777,org.sw.demo.freedesktop.dbus
