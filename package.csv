@@ -241,7 +241,6 @@ package_id,path
 1730,org.sw.demo.gnu.nettle.eccdata
 1733,org.sw.demo.google.grpc.alts_proto
 1740,org.sw.sw.client.support
-1741,org.sw.sw.client.protos
 1750,org.sw.demo.tcl.lib
 1751,org.sw.demo.tcl.sh
 1754,org.sw.demo.google.grpc.third_party.address_sorting
@@ -337,13 +336,6 @@ package_id,path
 2357,org.sw.demo.amazon.aws.sdk.core
 2358,org.sw.demo.amazon.aws.sdk.s3
 2359,org.sw.demo.gnu.gawk.regex
-2360,org.sw.sw.client.manager
-2361,org.sw.sw.client.driver.cppan
-2362,org.sw.sw.client.builder
-2363,org.sw.sw.client.client
-2364,org.sw.sw.client.driver.cpp
-2365,org.sw.sw.client.tools.self_builder
-2366,org.sw.sw.client.tools.client
 2367,org.sw.demo.facebook.zstd.zstd
 2445,org.sw.demo.boost.compute
 2448,org.sw.demo.boost.functional
@@ -489,3 +481,11 @@ package_id,path
 2786,pub.egorpugin.primitives.cron
 2787,pub.egorpugin.primitives.db.postgresql
 2788,pub.egorpugin.primitives.main
+2789,org.sw.sw.client.protos
+2790,org.sw.sw.client.manager
+2791,org.sw.sw.client.driver.cppan
+2792,org.sw.sw.client.builder
+2793,org.sw.sw.client.client
+2794,org.sw.sw.client.driver.cpp
+2795,org.sw.sw.client.tools.self_builder
+2796,org.sw.sw.client.tools.client
