@@ -53,7 +53,6 @@ package_id,path
 1057,org.sw.demo.google.protobuf.protoc
 1061,org.sw.demo.google.grpc.grpc_cpp_plugin
 1113,org.sw.demo.google.grpc.grpcpp
-1114,pub.egorpugin.primitives.templates
 1115,pub.egorpugin.primitives.context
 1123,pub.egorpugin.primitives.filesystem
 1125,pub.egorpugin.primitives.sw.settings
@@ -473,13 +472,9 @@ package_id,path
 2775,org.sw.demo.ffmpeg.swresample
 2776,org.sw.demo.ffmpeg.ffmpeg
 2777,org.sw.demo.freedesktop.dbus
-2778,pub.egorpugin.primitives.error_handling
-2779,pub.egorpugin.primitives.file_monitor
 2783,pub.egorpugin.primitives.db.common
 2784,pub.egorpugin.primitives.string
 2785,pub.egorpugin.primitives.settings
-2786,pub.egorpugin.primitives.cron
-2787,pub.egorpugin.primitives.db.postgresql
 2788,pub.egorpugin.primitives.main
 2789,org.sw.sw.client.protos
 2790,org.sw.sw.client.manager
@@ -489,3 +484,8 @@ package_id,path
 2794,org.sw.sw.client.driver.cpp
 2795,org.sw.sw.client.tools.self_builder
 2796,org.sw.sw.client.tools.client
+2797,pub.egorpugin.primitives.error_handling
+2798,pub.egorpugin.primitives.templates
+2799,pub.egorpugin.primitives.file_monitor
+2800,pub.egorpugin.primitives.cron
+2801,pub.egorpugin.primitives.db.postgresql
