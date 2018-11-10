@@ -472,14 +472,9 @@ package_id,path
 2775,org.sw.demo.ffmpeg.swresample
 2776,org.sw.demo.ffmpeg.ffmpeg
 2777,org.sw.demo.freedesktop.dbus
-2789,org.sw.sw.client.protos
 2790,org.sw.sw.client.manager
 2791,org.sw.sw.client.driver.cppan
 2792,org.sw.sw.client.builder
-2793,org.sw.sw.client.client
-2794,org.sw.sw.client.driver.cpp
-2795,org.sw.sw.client.tools.self_builder
-2796,org.sw.sw.client.tools.client
 2798,pub.egorpugin.primitives.templates
 2803,pub.egorpugin.primitives.db.common
 2807,pub.egorpugin.primitives.main
@@ -490,3 +485,8 @@ package_id,path
 2812,pub.egorpugin.primitives.cron
 2813,pub.egorpugin.primitives.db.postgresql
 2814,pub.egorpugin.primitives.symbol
+2815,org.sw.sw.client.protos
+2816,org.sw.sw.client.client
+2817,org.sw.sw.client.driver.cpp
+2818,org.sw.sw.client.tools.self_builder
+2819,org.sw.sw.client.tools.client
