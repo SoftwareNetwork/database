@@ -1,4 +1,5 @@
 package_id,path
+1,org.sw.demo.catchorg.catch2
 3,org.sw.demo.madler.zlib
 4,org.sw.demo.bzip2
 5,org.sw.demo.sqlite3
@@ -490,4 +491,3 @@ package_id,path
 2818,org.sw.sw.client.tools.self_builder
 2819,org.sw.sw.client.tools.client
 2820,org.sw.demo.lexxmark.winflexbison.common
-2821,org.sw.demo.catchorg.catch2
