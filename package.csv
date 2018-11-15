@@ -488,6 +488,5 @@ package_id,path
 2816,org.sw.sw.client.client
 2817,org.sw.sw.client.driver.cpp
 2818,org.sw.sw.client.tools.self_builder
-2819,org.sw.sw.client.tools.client
 2820,org.sw.demo.lexxmark.winflexbison.common
 2823,org.sw.demo.catchorg.catch2
