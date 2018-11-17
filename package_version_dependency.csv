@@ -8190,7 +8190,9 @@ package_version_id,package_id,version_range
 5585,1263,master
 5585,1265,master
 5585,2814,master
-5590,2820,master1
-5591,2820,master1
 5595,2820,master
 5597,2820,master
+5598,655,*
+5598,662,*
+5599,2357,1.7.1
+5600,2357,1.7.1

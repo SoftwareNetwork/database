@@ -490,3 +490,6 @@ package_id,path
 2818,org.sw.sw.client.tools.self_builder
 2820,org.sw.demo.lexxmark.winflexbison.common
 2823,org.sw.demo.catchorg.catch2
+2853,org.sw.demo.amazon.aws.sdk.ec2
+2854,org.sw.demo.amazon.awslabs.c_common
+2855,org.sw.demo.amazon.awslabs.checksums
