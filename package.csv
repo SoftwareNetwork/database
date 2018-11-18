@@ -45,8 +45,6 @@ package_id,path
 732,org.sw.demo.google.protobuf.protoc_lib
 734,org.sw.demo.nanopb
 849,org.sw.demo.giovannidicanio.winreg
-854,org.sw.demo.lexxmark.winflexbison.flex
-855,org.sw.demo.lexxmark.winflexbison.bison
 856,org.sw.demo.ragel
 857,org.sw.demo.libuv
 1056,org.sw.demo.google.protobuf.protobuf
@@ -488,9 +486,11 @@ package_id,path
 2816,org.sw.sw.client.client
 2817,org.sw.sw.client.driver.cpp
 2818,org.sw.sw.client.tools.self_builder
-2820,org.sw.demo.lexxmark.winflexbison.common
 2823,org.sw.demo.catchorg.catch2
 2854,org.sw.demo.amazon.awslabs.c_common
 2855,org.sw.demo.amazon.awslabs.checksums
 2856,org.sw.demo.amazon.awslabs.c_event_stream
 2858,org.sw.demo.amazon.aws.sdk.ec2
+2859,org.sw.demo.lexxmark.winflexbison.bison
+2860,org.sw.demo.lexxmark.winflexbison.common
+2861,org.sw.demo.lexxmark.winflexbison.flex
