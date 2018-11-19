@@ -506,3 +506,5 @@ package_id,path
 2871,org.sw.demo.openexr.ilmbase.config
 2872,org.sw.demo.openexr.ilmbase.eLut
 2873,org.sw.demo.openexr.ilmbase.toFloat
+2874,org.sw.demo.vbaderks.charls
+2875,org.sw.demo.json_c
