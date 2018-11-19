@@ -225,7 +225,6 @@ package_id,path
 1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
 1538,org.sw.demo.google.breakpad.client.windows.handler
 1549,pub.egorpugin.primitives.tools.sqlpp11.sqlite2cpp
-1572,org.sw.demo.gif
 1635,org.sw.demo.gnome.pango.pangocairo
 1636,org.sw.demo.google.breakpad.common.windows
 1638,org.sw.demo.google.grpc.grpc_plugin_support
@@ -508,3 +507,9 @@ package_id,path
 2873,org.sw.demo.openexr.ilmbase.toFloat
 2874,org.sw.demo.vbaderks.charls
 2875,org.sw.demo.json_c
+2876,org.sw.demo.malaterre.GDCM.gdcm
+2877,org.sw.demo.malaterre.GDCM.jpeg12
+2878,org.sw.demo.malaterre.GDCM.jpeg16
+2879,org.sw.demo.malaterre.GDCM.jpeg8
+2880,org.sw.demo.malaterre.GDCM.rle
+2881,org.sw.demo.malaterre.GDCM.socketxx
