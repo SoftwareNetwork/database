@@ -494,3 +494,15 @@ package_id,path
 2859,org.sw.demo.lexxmark.winflexbison.bison
 2860,org.sw.demo.lexxmark.winflexbison.common
 2861,org.sw.demo.lexxmark.winflexbison.flex
+2862,org.sw.demo.openexr.IlmImf
+2863,org.sw.demo.openexr.b44ExpLogTable
+2864,org.sw.demo.openexr.config
+2865,org.sw.demo.openexr.dwaLookups
+2866,org.sw.demo.openexr.ilmbase.Half
+2867,org.sw.demo.openexr.ilmbase.Iex
+2868,org.sw.demo.openexr.ilmbase.IexMath
+2869,org.sw.demo.openexr.ilmbase.IlmThread
+2870,org.sw.demo.openexr.ilmbase.Imath
+2871,org.sw.demo.openexr.ilmbase.config
+2872,org.sw.demo.openexr.ilmbase.eLut
+2873,org.sw.demo.openexr.ilmbase.toFloat
