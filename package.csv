@@ -292,9 +292,6 @@ package_id,path
 2224,org.sw.demo.boost.ptr_container
 2233,org.sw.demo.boost.graph
 2244,org.sw.demo.microsoft.gsl
-2253,org.sw.demo.emweb.wt.http
-2254,org.sw.demo.emweb.wt.dbo
-2255,org.sw.demo.emweb.wt.dbo.backend.sqlite3
 2267,org.sw.demo.eigen
 2308,org.sw.demo.google.abseil
 2310,org.sw.demo.google.grpc.grpc_shadow_boringssl
@@ -567,3 +564,6 @@ package_id,path
 3089,org.sw.demo.lua
 3090,org.sw.demo.reo7sp.tgbot
 3091,pub.egorpugin.primitives.tools.stamp_gen
+3092,org.sw.demo.emweb.wt.dbo
+3093,org.sw.demo.emweb.wt.dbo.backend.sqlite3
+3094,org.sw.demo.emweb.wt.http
