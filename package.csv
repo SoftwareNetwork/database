@@ -570,3 +570,4 @@ package_id,path
 3095,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3096,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
 3097,org.sw.demo.boost.safe_numerics
+3098,org.sw.sw.client.tools.client
