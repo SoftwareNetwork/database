@@ -570,5 +570,6 @@ package_id,path
 3097,org.sw.demo.boost.safe_numerics
 3098,org.sw.sw.client.tools.client
 3101,org.sw.demo.stachenov.quazip
-3102,org.sw.demo.qtproject.qt.base.third_party.tinycbor
-3103,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
+3104,org.sw.demo.qtproject.qt.base.third_party.tinycbor
+3105,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
+3106,org.sw.demo.qtproject.qt.base.tools.qlalr
