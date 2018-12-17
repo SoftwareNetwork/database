@@ -472,7 +472,6 @@ package_id,path
 2856,org.sw.demo.amazon.awslabs.c_event_stream
 2858,org.sw.demo.amazon.aws.sdk.ec2
 2859,org.sw.demo.lexxmark.winflexbison.bison
-2860,org.sw.demo.lexxmark.winflexbison.common
 2861,org.sw.demo.lexxmark.winflexbison.flex
 2862,org.sw.demo.openexr.IlmImf
 2867,org.sw.demo.openexr.ilmbase.Iex
@@ -568,7 +567,6 @@ package_id,path
 3093,org.sw.demo.emweb.wt.dbo.backend.sqlite3
 3094,org.sw.demo.emweb.wt.http
 3097,org.sw.demo.boost.safe_numerics
-3098,org.sw.sw.client.tools.client
 3101,org.sw.demo.stachenov.quazip
 3104,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3105,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
@@ -577,3 +575,5 @@ package_id,path
 3108,pub.lzwdgc.Polygon4.DataManager.memory
 3109,pub.lzwdgc.Polygon4.DataManager.schema
 3110,pub.lzwdgc.Polygon4.DataManager.tools.generator
+3111,org.sw.demo.lexxmark.winflexbison.common
+3112,org.sw.sw.client.tools.client
