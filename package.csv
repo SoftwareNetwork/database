@@ -573,3 +573,7 @@ package_id,path
 3104,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3105,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
 3106,org.sw.demo.qtproject.qt.base.tools.qlalr
+3107,pub.lzwdgc.Polygon4.DataManager
+3108,pub.lzwdgc.Polygon4.DataManager.memory
+3109,pub.lzwdgc.Polygon4.DataManager.schema
+3110,pub.lzwdgc.Polygon4.DataManager.tools.generator
