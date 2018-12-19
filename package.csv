@@ -556,7 +556,6 @@ package_id,path
 3109,pub.lzwdgc.Polygon4.DataManager.schema
 3110,pub.lzwdgc.Polygon4.DataManager.tools.generator
 3111,org.sw.demo.lexxmark.winflexbison.common
-3112,org.sw.sw.client.tools.client
 3113,org.sw.demo.google.tesseract.ambiguous_words
 3114,org.sw.demo.google.tesseract.classifier_tester
 3115,org.sw.demo.google.tesseract.cntraining
@@ -577,3 +576,4 @@ package_id,path
 3130,org.sw.demo.google.tesseract.wordlist2dawg
 3131,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3132,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
+3133,org.sw.sw.client.tools.client
