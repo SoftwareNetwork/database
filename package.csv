@@ -579,3 +579,4 @@ package_id,path
 3205,org.sw.demo.yasm.modules.preprocs.raw
 3206,org.sw.demo.yasm.tools.genmacro
 3207,org.sw.demo.yasm.tools.genversion
+3208,org.sw.demo.webmproject.vpx
