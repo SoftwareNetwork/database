@@ -12614,3 +12614,6 @@ package_version_id,package_id,version_range
 6631,3184,master
 6632,3184,master
 6634,2767,master
+6635,1840,master
+6635,2521,>=5.0.0 <6.0.0
+6635,2527,>=5.0.0 <6.0.0
