@@ -580,3 +580,6 @@ package_id,path
 3258,org.sw.demo.yasm.tools.genmacro
 3259,org.sw.demo.yasm.tools.genversion
 3260,org.sw.demo.webmproject.vpx
+3263,org.sw.demo.google.grpc.grpc_lb_policy_xds_secure
+3264,org.sw.demo.google.grpc.grpclb_proto
+3265,org.sw.demo.google.grpc.health_proto
