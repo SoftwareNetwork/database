@@ -583,3 +583,11 @@ package_id,path
 3263,org.sw.demo.google.grpc.grpc_lb_policy_xds_secure
 3264,org.sw.demo.google.grpc.grpclb_proto
 3265,org.sw.demo.google.grpc.health_proto
+3266,org.sw.demo.sw.client.builder
+3267,org.sw.demo.sw.client.client
+3268,org.sw.demo.sw.client.driver.cpp
+3269,org.sw.demo.sw.client.manager
+3270,org.sw.demo.sw.client.protos
+3271,org.sw.demo.sw.client.support
+3272,org.sw.demo.sw.client.tools.client
+3273,org.sw.demo.sw.client.tools.self_builder
