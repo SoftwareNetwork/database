@@ -592,3 +592,12 @@ package_id,path
 3272,org.sw.demo.sw.client.tools.client
 3273,org.sw.demo.sw.client.tools.self_builder
 3275,org.sw.demo.spadix.zbar
+3276,org.sw.demo.qtproject.qt.declarative.qml.imports.folderlistmodel
+3277,org.sw.demo.qtproject.qt.declarative.qml.imports.layouts
+3278,org.sw.demo.qtproject.qt.declarative.qml.imports.qtquick2
+3279,org.sw.demo.qtproject.qt.declarative.qml.imports.settings
+3280,org.sw.demo.qtproject.qt.declarative.qml.imports.window
+3281,org.sw.demo.qtproject.qt.quickcontrols.controls
+3282,org.sw.demo.qtproject.qt.quickcontrols.dialogs
+3283,org.sw.demo.qtproject.qt.quickcontrols.dialogs.Private
+3284,org.sw.demo.qtproject.qt.quickcontrols.widgets
