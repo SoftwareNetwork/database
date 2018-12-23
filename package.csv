@@ -524,7 +524,6 @@ package_id,path
 3092,org.sw.demo.emweb.wt.dbo
 3093,org.sw.demo.emweb.wt.dbo.backend.sqlite3
 3094,org.sw.demo.emweb.wt.http
-3097,org.sw.demo.boost.safe_numerics
 3101,org.sw.demo.stachenov.quazip
 3106,org.sw.demo.qtproject.qt.base.tools.qlalr
 3107,pub.lzwdgc.Polygon4.DataManager
@@ -601,3 +600,4 @@ package_id,path
 3282,org.sw.demo.qtproject.qt.quickcontrols.dialogs
 3283,org.sw.demo.qtproject.qt.quickcontrols.dialogs.Private
 3284,org.sw.demo.qtproject.qt.quickcontrols.widgets
+3285,org.sw.demo.boost.safe_numerics
