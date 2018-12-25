@@ -310,7 +310,6 @@ package_id,path
 2356,org.sw.demo.gnu.gawk.gawk
 2357,org.sw.demo.amazon.aws.sdk.core
 2358,org.sw.demo.amazon.aws.sdk.s3
-2359,org.sw.demo.gnu.gawk.regex
 2367,org.sw.demo.facebook.zstd.zstd
 2445,org.sw.demo.boost.compute
 2448,org.sw.demo.boost.functional
@@ -551,7 +550,6 @@ package_id,path
 3130,org.sw.demo.google.tesseract.wordlist2dawg
 3134,org.sw.demo.yhirose.cpp_linenoise
 3135,org.sw.demo.chromium.libyuv
-3260,org.sw.demo.webmproject.vpx
 3263,org.sw.demo.google.grpc.grpc_lb_policy_xds_secure
 3264,org.sw.demo.google.grpc.grpclb_proto
 3265,org.sw.demo.google.grpc.health_proto
@@ -601,3 +599,4 @@ package_id,path
 3310,org.sw.demo.yasm.modules.preprocs.raw
 3311,org.sw.demo.yasm.tools.genmacro
 3312,org.sw.demo.yasm.tools.genversion
+3314,org.sw.demo.webmproject.vpx

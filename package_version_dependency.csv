@@ -466,7 +466,6 @@ package_version_id,package_id,version_range
 3971,655,*
 3971,662,*
 3972,2357,1.6.30
-3979,641,*
 3986,2315,master
 4504,600,develop
 4504,1147,develop
@@ -8971,7 +8970,6 @@ package_version_id,package_id,version_range
 6848,1640,1.17.1
 6849,1454,1.17.1
 6849,1457,1.17.1
-6959,2767,master
 7019,1290,>=2.0.0 <3.0.0
 7019,1293,master
 7019,1294,>=2.0.0 <3.0.0
@@ -13293,3 +13291,5 @@ package_version_id,package_id,version_range
 7353,3312,master
 7355,3289,master
 7356,3289,master
+7362,641,*
+7363,2767,master
