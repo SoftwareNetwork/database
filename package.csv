@@ -602,3 +602,5 @@ package_id,path
 3315,org.sw.demo.aappleby.smhasher.murmurhash3
 3316,org.sw.demo.gnu.m4.gnulib
 3317,org.sw.demo.gnu.m4.m4
+3318,org.sw.demo.gnu.bison.bison
+3319,org.sw.demo.gnu.bison.gnulib
