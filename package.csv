@@ -453,11 +453,6 @@ package_id,path
 2874,org.sw.demo.vbaderks.charls
 2875,org.sw.demo.json_c
 2876,org.sw.demo.malaterre.GDCM.gdcm
-2877,org.sw.demo.malaterre.GDCM.jpeg12
-2878,org.sw.demo.malaterre.GDCM.jpeg16
-2879,org.sw.demo.malaterre.GDCM.jpeg8
-2880,org.sw.demo.malaterre.GDCM.rle
-2881,org.sw.demo.malaterre.GDCM.socketxx
 2899,org.sw.demo.hdfgroup.hdf5.hdf5
 2900,org.sw.demo.hdfgroup.hdf5.hdf5cpp
 2901,org.sw.demo.hdfgroup.hdf5.hdf5hl
@@ -604,3 +599,8 @@ package_id,path
 3317,org.sw.demo.gnu.m4.m4
 3320,org.sw.demo.gnu.bison.bison
 3321,org.sw.demo.gnu.bison.gnulib
+3322,org.sw.demo.malaterre.GDCM.jpeg12
+3323,org.sw.demo.malaterre.GDCM.jpeg16
+3324,org.sw.demo.malaterre.GDCM.jpeg8
+3325,org.sw.demo.malaterre.GDCM.rle
+3326,org.sw.demo.malaterre.GDCM.socketxx
