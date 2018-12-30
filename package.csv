@@ -567,8 +567,6 @@ package_id,path
 3284,org.sw.demo.qtproject.qt.quickcontrols.widgets
 3285,org.sw.demo.boost.safe_numerics
 3286,org.sw.sw.client.tools.client
-3287,org.sw.demo.qtproject.qt.base.third_party.tinycbor
-3288,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
 3289,org.sw.demo.yasm.config
 3290,org.sw.demo.yasm.libyasm
 3291,org.sw.demo.yasm.modules.arch.lc3b
@@ -604,3 +602,5 @@ package_id,path
 3324,org.sw.demo.malaterre.GDCM.jpeg8
 3325,org.sw.demo.malaterre.GDCM.rle
 3326,org.sw.demo.malaterre.GDCM.socketxx
+3327,org.sw.demo.qtproject.qt.base.third_party.tinycbor
+3328,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
