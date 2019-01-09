@@ -597,3 +597,4 @@ package_id,path
 3359,org.sw.demo.lexxmark.winflexbison.common
 3398,org.sw.sw.client.sw
 3399,org.sw.sw.client.tools.client
+3400,org.sw.demo.jedisct1.libsodium
