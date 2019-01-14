@@ -599,3 +599,4 @@ package_id,path
 3472,org.sw.demo.yasm.tools.genversion
 3475,org.sw.demo.cubicdaiya.dtl
 3476,org.sw.demo.boost.safe_numerics
+3477,pub.egorpugin.primitives.patch
