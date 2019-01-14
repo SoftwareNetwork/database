@@ -600,3 +600,4 @@ package_id,path
 3509,pub.egorpugin.primitives.patch
 3512,org.sw.sw.client.sw
 3513,org.sw.sw.client.tools.client
+3514,org.sw.demo.gabime.spdlog

@@ -13347,3 +13347,5 @@ package_version_id,package_id,version_range
 8080,849,master
 8080,1137,master
 8080,2817,0.3.0
+8082,671,*
+8083,671,*
