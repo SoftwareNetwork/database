@@ -567,8 +567,6 @@ package_id,path
 3324,org.sw.demo.malaterre.GDCM.jpeg8
 3325,org.sw.demo.malaterre.GDCM.rle
 3326,org.sw.demo.malaterre.GDCM.socketxx
-3327,org.sw.demo.qtproject.qt.base.third_party.tinycbor
-3328,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
 3359,org.sw.demo.lexxmark.winflexbison.common
 3400,org.sw.demo.jedisct1.libsodium
 3449,org.sw.demo.yasm.config
@@ -601,3 +599,5 @@ package_id,path
 3512,org.sw.sw.client.sw
 3513,org.sw.sw.client.tools.client
 3514,org.sw.demo.gabime.spdlog
+3515,org.sw.demo.qtproject.qt.base.third_party.tinycbor
+3516,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
