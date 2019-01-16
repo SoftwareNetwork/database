@@ -547,10 +547,7 @@ package_id,path
 3264,org.sw.demo.google.grpc.grpclb_proto
 3265,org.sw.demo.google.grpc.health_proto
 3275,org.sw.demo.spadix.zbar
-3276,org.sw.demo.qtproject.qt.declarative.qml.imports.folderlistmodel
 3277,org.sw.demo.qtproject.qt.declarative.qml.imports.layouts
-3278,org.sw.demo.qtproject.qt.declarative.qml.imports.qtquick2
-3279,org.sw.demo.qtproject.qt.declarative.qml.imports.settings
 3280,org.sw.demo.qtproject.qt.declarative.qml.imports.window
 3281,org.sw.demo.qtproject.qt.quickcontrols.controls
 3282,org.sw.demo.qtproject.qt.quickcontrols.dialogs
@@ -601,3 +598,6 @@ package_id,path
 3514,org.sw.demo.gabime.spdlog
 3515,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3516,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
+3517,org.sw.demo.qtproject.qt.declarative.qml.imports.folderlistmodel
+3518,org.sw.demo.qtproject.qt.declarative.qml.imports.qtquick2
+3519,org.sw.demo.qtproject.qt.declarative.qml.imports.settings
