@@ -601,3 +601,4 @@ package_id,path
 3517,org.sw.demo.qtproject.qt.declarative.qml.imports.folderlistmodel
 3518,org.sw.demo.qtproject.qt.declarative.qml.imports.qtquick2
 3519,org.sw.demo.qtproject.qt.declarative.qml.imports.settings
+3521,org.sw.demo.qtproject.qt.translations
