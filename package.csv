@@ -616,6 +616,6 @@ package_id,path
 3736,org.sw.demo.aspia.proto
 3737,org.sw.demo.aspia.qt_translations
 3738,org.sw.demo.aspia.updater
-3776,org.sw.sw.client.sw
-3777,org.sw.sw.client.tools.client
 3779,org.sw.demo.zeux.pugixml
+3782,org.sw.sw.client.sw
+3783,org.sw.sw.client.tools.client
