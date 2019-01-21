@@ -298,7 +298,6 @@ package_id,path
 2324,org.sw.demo.unicode.icu.stub.toolutil
 2325,org.sw.demo.unicode.icu.io
 2326,org.sw.demo.unicode.icu.common
-2332,org.sw.demo.google.protobuf.protobuf_lite
 2337,org.sw.demo.gnu.gawk.getopt
 2344,org.sw.demo.gnu.grep.gnulib
 2345,org.sw.demo.gnu.grep.grep
@@ -621,3 +620,4 @@ package_id,path
 3795,org.sw.demo.llvm_project.llvm.demangle
 3796,org.sw.demo.llvm_project.llvm.support_lite
 3797,org.sw.demo.lexxmark.winflexbison.common
+3798,org.sw.demo.google.protobuf.protobuf_lite
