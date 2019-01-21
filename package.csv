@@ -617,5 +617,5 @@ package_id,path
 3738,org.sw.demo.aspia.updater
 3779,org.sw.demo.zeux.pugixml
 3787,org.sw.demo.boost.safe_numerics
-3788,org.sw.sw.client.sw
-3789,org.sw.sw.client.tools.client
+3790,org.sw.sw.client.sw
+3791,org.sw.sw.client.tools.client
