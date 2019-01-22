@@ -618,6 +618,7 @@ package_id,path
 3849,org.sw.demo.yasm.modules.preprocs.raw
 3850,org.sw.demo.yasm.tools.genmacro
 3851,org.sw.demo.yasm.tools.genversion
-3852,org.sw.demo.qtproject.qt.base.third_party.tinycbor
-3853,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
 3855,org.sw.demo.re2c.libre2c
+3856,org.sw.demo.qtproject.qt.base.plugins.printsupport.windows
+3857,org.sw.demo.qtproject.qt.base.third_party.tinycbor
+3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
