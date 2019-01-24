@@ -592,8 +592,6 @@ package_id,path
 3798,org.sw.demo.google.protobuf.protobuf_lite
 3799,org.sw.demo.boost.safe_numerics
 3800,org.sw.demo.llvm_project.llvm.support_lite
-3801,org.sw.sw.client.sw
-3802,org.sw.sw.client.tools.client
 3828,org.sw.demo.yasm.config
 3829,org.sw.demo.yasm.libyasm
 3830,org.sw.demo.yasm.modules.arch.lc3b
@@ -622,3 +620,5 @@ package_id,path
 3856,org.sw.demo.qtproject.qt.base.plugins.printsupport.windows
 3857,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
+3859,org.sw.sw.client.sw
+3860,org.sw.sw.client.tools.client
