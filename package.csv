@@ -619,6 +619,6 @@ package_id,path
 3856,org.sw.demo.qtproject.qt.base.plugins.printsupport.windows
 3857,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
-3859,org.sw.sw.client.sw
-3860,org.sw.sw.client.tools.client
 3863,org.sw.demo.google.protobuf.protobuf_lite
+3864,org.sw.sw.client.sw
+3865,org.sw.sw.client.tools.client
