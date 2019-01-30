@@ -588,7 +588,6 @@ package_id,path
 3738,org.sw.demo.aspia.updater
 3779,org.sw.demo.zeux.pugixml
 3795,org.sw.demo.llvm_project.llvm.demangle
-3797,org.sw.demo.lexxmark.winflexbison.common
 3799,org.sw.demo.boost.safe_numerics
 3800,org.sw.demo.llvm_project.llvm.support_lite
 3828,org.sw.demo.yasm.config
@@ -621,6 +620,7 @@ package_id,path
 3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
 3863,org.sw.demo.google.protobuf.protobuf_lite
 3867,pub.egorpugin.test.main.fortran
-3878,org.sw.sw.client.sw
-3879,org.sw.sw.client.tools.cl_generator
-3880,org.sw.sw.client.tools.client
+3881,org.sw.demo.lexxmark.winflexbison.common
+3882,org.sw.sw.client.sw
+3883,org.sw.sw.client.tools.cl_generator
+3884,org.sw.sw.client.tools.client
