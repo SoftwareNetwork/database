@@ -233,7 +233,6 @@ package_id,path
 1642,org.sw.demo.pcre.pcre16
 1643,org.sw.demo.pcre.pcre32
 1644,org.sw.demo.taywee.args
-1675,org.sw.demo.libpq
 1730,org.sw.demo.gnu.nettle.eccdata
 1733,org.sw.demo.google.grpc.alts_proto
 1740,org.sw.sw.client.support
