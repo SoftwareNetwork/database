@@ -631,6 +631,6 @@ package_id,path
 3960,org.sw.demo.qtproject.qt.imageformats.qtiff
 3961,org.sw.demo.qtproject.qt.imageformats.qwbmp
 3962,org.sw.demo.qtproject.qt.imageformats.qwebp
-3984,org.sw.sw.client.sw
-3985,org.sw.sw.client.tools.cl_generator
-3986,org.sw.sw.client.tools.client
+3995,org.sw.sw.client.sw
+3996,org.sw.sw.client.tools.cl_generator
+3997,org.sw.sw.client.tools.client
