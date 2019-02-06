@@ -634,3 +634,14 @@ package_id,path
 3995,org.sw.sw.client.sw
 3996,org.sw.sw.client.tools.cl_generator
 3997,org.sw.sw.client.tools.client
+3998,org.sw.demo.xiph.flac.libflac
+3999,org.sw.demo.xiph.flac.libflacpp
+4000,org.sw.demo.xiph.vorbis.vorbisfile
+4004,org.sw.demo.stb.all
+4005,org.sw.demo.stb.image
+4006,org.sw.demo.stb.image_write
+4007,org.sw.demo.sfml.Audio
+4008,org.sw.demo.sfml.Graphics
+4009,org.sw.demo.sfml.Network
+4010,org.sw.demo.sfml.System
+4011,org.sw.demo.sfml.Window
