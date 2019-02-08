@@ -663,3 +663,7 @@ package_id,path
 4027,org.sw.demo.poco.Util
 4028,org.sw.demo.poco.XML
 4029,org.sw.demo.poco.Zip
+4030,org.sw.demo.perl.generate_uudmap
+4037,org.sw.demo.perl.lib
+4038,org.sw.demo.perl.miniperl
+4039,org.sw.demo.perl.perl
