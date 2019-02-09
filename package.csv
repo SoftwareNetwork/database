@@ -664,5 +664,5 @@ package_id,path
 4028,org.sw.demo.poco.XML
 4029,org.sw.demo.poco.Zip
 4037,org.sw.demo.perl.lib
-4046,org.sw.demo.perl.miniperl
-4047,org.sw.demo.perl.perl
+4048,org.sw.demo.perl.miniperl
+4049,org.sw.demo.perl.perl
