@@ -631,9 +631,6 @@ package_id,path
 3960,org.sw.demo.qtproject.qt.imageformats.qtiff
 3961,org.sw.demo.qtproject.qt.imageformats.qwbmp
 3962,org.sw.demo.qtproject.qt.imageformats.qwebp
-3995,org.sw.sw.client.sw
-3996,org.sw.sw.client.tools.cl_generator
-3997,org.sw.sw.client.tools.client
 3998,org.sw.demo.xiph.flac.libflac
 3999,org.sw.demo.xiph.flac.libflacpp
 4000,org.sw.demo.xiph.vorbis.vorbisfile
@@ -666,3 +663,6 @@ package_id,path
 4037,org.sw.demo.perl.lib
 4048,org.sw.demo.perl.miniperl
 4049,org.sw.demo.perl.perl
+4050,org.sw.sw.client.sw
+4051,org.sw.sw.client.tools.cl_generator
+4052,org.sw.sw.client.tools.client
