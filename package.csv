@@ -592,7 +592,6 @@ package_id,path
 3856,org.sw.demo.qtproject.qt.base.plugins.printsupport.windows
 3857,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
-3863,org.sw.demo.google.protobuf.protobuf_lite
 3867,pub.egorpugin.test.main.fortran
 3888,org.sw.demo.boost.safe_numerics
 3889,org.sw.demo.lexxmark.winflexbison.common
@@ -666,3 +665,4 @@ package_id,path
 4050,org.sw.sw.client.sw
 4051,org.sw.sw.client.tools.cl_generator
 4052,org.sw.sw.client.tools.client
+4054,org.sw.demo.google.protobuf.protobuf_lite
