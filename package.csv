@@ -662,7 +662,7 @@ package_id,path
 4037,org.sw.demo.perl.lib
 4048,org.sw.demo.perl.miniperl
 4049,org.sw.demo.perl.perl
-4050,org.sw.sw.client.sw
-4051,org.sw.sw.client.tools.cl_generator
-4052,org.sw.sw.client.tools.client
 4054,org.sw.demo.google.protobuf.protobuf_lite
+4055,org.sw.sw.client.sw
+4056,org.sw.sw.client.tools.cl_generator
+4057,org.sw.sw.client.tools.client
