@@ -665,4 +665,5 @@ package_id,path
 4068,org.sw.demo.qtproject.qt.imageformats.qmng
 4069,org.sw.demo.qtproject.qt.imageformats.qtga
 4070,org.sw.demo.qtproject.qt.imageformats.qtiff
+4071,org.sw.demo.qtproject.qt.imageformats.qwbmp
 4072,org.sw.demo.qtproject.qt.imageformats.qwebp
