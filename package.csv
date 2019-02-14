@@ -588,7 +588,6 @@ package_id,path
 3779,org.sw.demo.zeux.pugixml
 3795,org.sw.demo.llvm_project.llvm.demangle
 3800,org.sw.demo.llvm_project.llvm.support_lite
-3855,org.sw.demo.re2c.libre2c
 3856,org.sw.demo.qtproject.qt.base.plugins.printsupport.windows
 3857,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
@@ -653,9 +652,6 @@ package_id,path
 4049,org.sw.demo.perl.perl
 4054,org.sw.demo.google.protobuf.protobuf_lite
 4058,org.sw.demo.Erroneous1.sqlpp11_connector_odbc
-4059,org.sw.sw.client.sw
-4060,org.sw.sw.client.tools.cl_generator
-4061,org.sw.sw.client.tools.client
 4062,org.sw.demo.qtproject.qt.imageformats.qdds
 4063,org.sw.demo.qtproject.qt.imageformats.qgif
 4064,org.sw.demo.qtproject.qt.imageformats.qicns
@@ -667,3 +663,7 @@ package_id,path
 4070,org.sw.demo.qtproject.qt.imageformats.qtiff
 4071,org.sw.demo.qtproject.qt.imageformats.qwbmp
 4072,org.sw.demo.qtproject.qt.imageformats.qwebp
+4073,org.sw.sw.client.sw
+4074,org.sw.sw.client.tools.cl_generator
+4075,org.sw.sw.client.tools.client
+4076,org.sw.demo.re2c.libre2c
