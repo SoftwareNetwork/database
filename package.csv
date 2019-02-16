@@ -586,8 +586,6 @@ package_id,path
 3737,org.sw.demo.aspia.qt_translations
 3738,org.sw.demo.aspia.updater
 3779,org.sw.demo.zeux.pugixml
-3795,org.sw.demo.llvm_project.llvm.demangle
-3800,org.sw.demo.llvm_project.llvm.support_lite
 3856,org.sw.demo.qtproject.qt.base.plugins.printsupport.windows
 3857,org.sw.demo.qtproject.qt.base.third_party.tinycbor
 3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
