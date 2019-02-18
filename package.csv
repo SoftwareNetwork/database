@@ -665,3 +665,5 @@ package_id,path
 4107,org.sw.demo.gnu.gmp.tools.gen_jacobitab
 4108,org.sw.demo.gnu.gmp.tools.gen_psqr
 4109,org.sw.demo.gnu.gmp.tools.gen_trialdivtab
+4110,org.sw.demo.gnu.mpfr
+4111,org.sw.demo.gnu.mpc
