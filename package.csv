@@ -635,9 +635,6 @@ package_id,path
 4071,org.sw.demo.qtproject.qt.imageformats.qwbmp
 4072,org.sw.demo.qtproject.qt.imageformats.qwebp
 4076,org.sw.demo.re2c.libre2c
-4080,org.sw.sw.client.sw
-4081,org.sw.sw.client.tools.cl_generator
-4082,org.sw.sw.client.tools.client
 4083,org.sw.demo.reo7sp.tgbot
 4084,org.sw.demo.poco.CppUnit
 4085,org.sw.demo.poco.Crypto
@@ -675,3 +672,6 @@ package_id,path
 4123,org.sw.demo.gnu.gpg.error.tools.mkheader
 4124,org.sw.demo.gnu.gpg.gpgme.gpgme_w32spawn
 4125,org.sw.demo.gnu.gpg.gpgme.gpgmecpp
+4126,org.sw.sw.client.sw
+4127,org.sw.sw.client.tools.cl_generator
+4128,org.sw.sw.client.tools.client
