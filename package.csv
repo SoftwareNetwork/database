@@ -677,3 +677,8 @@ package_id,path
 4129,org.sw.demo.lexxmark.winflexbison.common
 4130,org.sw.demo.arvidn.libtorrent
 4131,org.sw.demo.open_mpi.hwloc
+4137,org.sw.demo.StellarGroup.hpx
+4138,org.sw.demo.StellarGroup.hpx.plugins.binary_filter.bzip2
+4139,org.sw.demo.StellarGroup.hpx.plugins.binary_filter.snappy
+4140,org.sw.demo.StellarGroup.hpx.plugins.binary_filter.zlib
+4141,org.sw.demo.StellarGroup.hpx.plugins.parcel.coalescing
