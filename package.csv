@@ -675,3 +675,5 @@ package_id,path
 4127,org.sw.sw.client.tools.cl_generator
 4128,org.sw.sw.client.tools.client
 4129,org.sw.demo.lexxmark.winflexbison.common
+4130,org.sw.demo.arvidn.libtorrent
+4131,org.sw.demo.open_mpi.hwloc
