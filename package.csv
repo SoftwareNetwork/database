@@ -682,3 +682,11 @@ package_id,path
 4139,org.sw.demo.StellarGroup.hpx.plugins.binary_filter.snappy
 4140,org.sw.demo.StellarGroup.hpx.plugins.binary_filter.zlib
 4141,org.sw.demo.StellarGroup.hpx.plugins.parcel.coalescing
+4143,org.sw.demo.skarupke.flat_hash_map
+4149,org.sw.demo.Tessil.robin_map
+4150,org.sw.demo.Tessil.sparse_map
+4151,org.sw.demo.Tessil.ordered_map
+4152,org.sw.demo.Tessil.array_hash
+4153,org.sw.demo.Tessil.hopscotch_map
+4154,org.sw.demo.Tessil.hat_trie
+4155,org.sw.demo.khronos.vulkan
