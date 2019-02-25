@@ -698,3 +698,5 @@ package_id,path
 4161,org.sw.demo.memononen.NanoVG
 4162,org.sw.demo.wjakob.nanogui
 4163,org.sw.demo.daniele77.cli
+4164,org.sw.demo.lemire.simdjson
+4166,org.sw.demo.martinus.robin_hood_hashing
