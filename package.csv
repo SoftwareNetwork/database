@@ -690,3 +690,11 @@ package_id,path
 4153,org.sw.demo.Tessil.hopscotch_map
 4154,org.sw.demo.Tessil.hat_trie
 4155,org.sw.demo.khronos.vulkan
+4156,org.sw.demo.glfw
+4157,org.sw.demo.ocornut.imgui
+4158,org.sw.demo.quantstack.xtl
+4159,org.sw.demo.quantstack.xtensor
+4160,org.sw.demo.quantstack.xframe
+4161,org.sw.demo.memononen.NanoVG
+4162,org.sw.demo.wjakob.nanogui
+4163,org.sw.demo.daniele77.cli
