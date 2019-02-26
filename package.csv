@@ -671,9 +671,6 @@ package_id,path
 4123,org.sw.demo.gnu.gpg.error.tools.mkheader
 4124,org.sw.demo.gnu.gpg.gpgme.gpgme_w32spawn
 4125,org.sw.demo.gnu.gpg.gpgme.gpgmecpp
-4126,org.sw.sw.client.sw
-4127,org.sw.sw.client.tools.cl_generator
-4128,org.sw.sw.client.tools.client
 4129,org.sw.demo.lexxmark.winflexbison.common
 4130,org.sw.demo.arvidn.libtorrent
 4131,org.sw.demo.open_mpi.hwloc
@@ -700,3 +697,6 @@ package_id,path
 4163,org.sw.demo.daniele77.cli
 4164,org.sw.demo.lemire.simdjson
 4166,org.sw.demo.martinus.robin_hood_hashing
+4167,org.sw.sw.client.sw
+4168,org.sw.sw.client.tools.cl_generator
+4169,org.sw.sw.client.tools.client
