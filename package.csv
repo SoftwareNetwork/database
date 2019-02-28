@@ -710,3 +710,4 @@ package_id,path
 4184,org.sw.demo.boost.fiber
 4185,org.sw.demo.boost.python
 4186,org.sw.demo.boost.safe_numerics
+4187,org.sw.demo.facebook.folly
