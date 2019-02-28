@@ -711,3 +711,5 @@ package_id,path
 4185,org.sw.demo.boost.python
 4186,org.sw.demo.boost.safe_numerics
 4187,org.sw.demo.facebook.folly
+4188,org.sw.demo.zeromq.libzmq
+4189,org.sw.demo.zeromq.cppzmq
