@@ -704,3 +704,5 @@ package_id,path
 4171,org.sw.demo.intel.tbb
 4172,org.sw.demo.intel.tbb.malloc
 4173,org.sw.demo.intel.tbb.malloc.proxy
+4176,org.sw.demo.google.gflags
+4177,org.sw.demo.google.glog
