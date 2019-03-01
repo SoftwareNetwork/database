@@ -646,7 +646,6 @@ package_id,path
 4123,org.sw.demo.gnu.gpg.error.tools.mkheader
 4124,org.sw.demo.gnu.gpg.gpgme.gpgme_w32spawn
 4125,org.sw.demo.gnu.gpg.gpgme.gpgmecpp
-4129,org.sw.demo.lexxmark.winflexbison.common
 4130,org.sw.demo.arvidn.libtorrent
 4131,org.sw.demo.open_mpi.hwloc
 4137,org.sw.demo.StellarGroup.hpx
@@ -713,3 +712,4 @@ package_id,path
 4217,org.sw.demo.yasm.modules.preprocs.raw
 4218,org.sw.demo.yasm.tools.genmacro
 4219,org.sw.demo.yasm.tools.genversion
+4220,org.sw.demo.lexxmark.winflexbison.common
