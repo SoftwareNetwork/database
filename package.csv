@@ -682,9 +682,6 @@ package_id,path
 4187,org.sw.demo.facebook.folly
 4188,org.sw.demo.zeromq.libzmq
 4189,org.sw.demo.zeromq.cppzmq
-4190,org.sw.sw.client.sw
-4191,org.sw.sw.client.tools.cl_generator
-4192,org.sw.sw.client.tools.client
 4193,org.sw.demo.boost.fiber
 4194,org.sw.demo.boost.python
 4195,org.sw.demo.boost.safe_numerics
@@ -713,3 +710,6 @@ package_id,path
 4218,org.sw.demo.yasm.tools.genmacro
 4219,org.sw.demo.yasm.tools.genversion
 4221,org.sw.demo.lexxmark.winflexbison.common
+4225,org.sw.sw.client.sw
+4226,org.sw.sw.client.tools.cl_generator
+4227,org.sw.sw.client.tools.client
