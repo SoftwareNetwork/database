@@ -718,3 +718,5 @@ package_id,path
 4232,org.sw.demo.openldap.ldap
 4233,org.sw.demo.openldap.ldap_r
 4234,org.sw.demo.openldap.ldapcpp
+4235,org.sw.demo.mattmccutchen.bigint
+4236,org.sw.demo.glassechidna.zxing_cpp
