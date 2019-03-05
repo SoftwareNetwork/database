@@ -720,3 +720,6 @@ package_id,path
 4234,org.sw.demo.openldap.ldapcpp
 4235,org.sw.demo.mattmccutchen.bigint
 4236,org.sw.demo.glassechidna.zxing_cpp
+4237,org.sw.demo.cnjinhao.nana
+4238,org.sw.demo.apache.apr
+4239,org.sw.demo.apache.apr.tools.gen_test_char
