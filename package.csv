@@ -709,7 +709,6 @@ package_id,path
 4217,org.sw.demo.yasm.modules.preprocs.raw
 4218,org.sw.demo.yasm.tools.genmacro
 4219,org.sw.demo.yasm.tools.genversion
-4221,org.sw.demo.lexxmark.winflexbison.common
 4225,org.sw.sw.client.sw
 4226,org.sw.sw.client.tools.cl_generator
 4227,org.sw.sw.client.tools.client
@@ -727,3 +726,6 @@ package_id,path
 4242,org.sw.demo.apache.apr.tools.gen_test_char
 4243,org.sw.demo.apache.log4cxx
 4244,org.sw.demo.apache.xerces_c
+4245,org.sw.demo.lexxmark.winflexbison.common
+4246,org.sw.demo.apache.thrift
+4247,org.sw.demo.apache.thrift.compiler
