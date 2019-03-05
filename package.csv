@@ -722,4 +722,7 @@ package_id,path
 4236,org.sw.demo.glassechidna.zxing_cpp
 4237,org.sw.demo.cnjinhao.nana
 4238,org.sw.demo.apache.apr
-4239,org.sw.demo.apache.apr.tools.gen_test_char
+4240,org.sw.demo.apache.apr.iconv
+4241,org.sw.demo.apache.apr.util
+4242,org.sw.demo.apache.apr.tools.gen_test_char
+4243,org.sw.demo.apache.log4cxx
