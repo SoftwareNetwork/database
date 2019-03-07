@@ -733,3 +733,7 @@ package_id,path
 4259,org.sw.demo.malaterre.GDCM.util.charls
 4260,org.sw.demo.nanomsg.nng
 4261,org.sw.demo.google.grpc.optional
+4262,org.sw.demo.ledger.utfcpp
+4263,org.sw.demo.tfussell.xlnt
+4264,org.sw.demo.tfussell.xlnt.libstudxml
+4265,org.sw.demo.dbzhang800.QtXlsxWriter
