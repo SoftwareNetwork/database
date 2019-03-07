@@ -737,3 +737,5 @@ package_id,path
 4263,org.sw.demo.tfussell.xlnt
 4264,org.sw.demo.tfussell.xlnt.libstudxml
 4265,org.sw.demo.dbzhang800.QtXlsxWriter
+4266,org.sw.demo.libxls
+4269,org.sw.demo.jmcnamara.libxlsxwriter
