@@ -586,11 +586,6 @@ package_id,path
 4004,org.sw.demo.stb.all
 4005,org.sw.demo.stb.image
 4006,org.sw.demo.stb.image_write
-4007,org.sw.demo.sfml.Audio
-4008,org.sw.demo.sfml.Graphics
-4009,org.sw.demo.sfml.Network
-4010,org.sw.demo.sfml.System
-4011,org.sw.demo.sfml.Window
 4012,org.sw.demo.poco.CppParser
 4037,org.sw.demo.perl.lib
 4048,org.sw.demo.perl.miniperl
@@ -682,9 +677,6 @@ package_id,path
 4187,org.sw.demo.facebook.folly
 4188,org.sw.demo.zeromq.libzmq
 4189,org.sw.demo.zeromq.cppzmq
-4193,org.sw.demo.boost.fiber
-4194,org.sw.demo.boost.python
-4195,org.sw.demo.boost.safe_numerics
 4196,org.sw.demo.yasm.config
 4197,org.sw.demo.yasm.libyasm
 4198,org.sw.demo.yasm.modules.arch.lc3b
@@ -742,3 +734,11 @@ package_id,path
 4276,org.sw.sw.client.sw
 4277,org.sw.sw.client.tools.cl_generator
 4278,org.sw.sw.client.tools.client
+4279,org.sw.demo.sfml.Audio
+4280,org.sw.demo.sfml.Graphics
+4281,org.sw.demo.sfml.Network
+4282,org.sw.demo.sfml.System
+4283,org.sw.demo.sfml.Window
+4284,org.sw.demo.boost.fiber
+4285,org.sw.demo.boost.python
+4286,org.sw.demo.boost.safe_numerics
