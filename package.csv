@@ -734,11 +734,11 @@ package_id,path
 4276,org.sw.sw.client.sw
 4277,org.sw.sw.client.tools.cl_generator
 4278,org.sw.sw.client.tools.client
-4279,org.sw.demo.sfml.Audio
-4280,org.sw.demo.sfml.Graphics
-4281,org.sw.demo.sfml.Network
-4282,org.sw.demo.sfml.System
-4283,org.sw.demo.sfml.Window
 4284,org.sw.demo.boost.fiber
 4285,org.sw.demo.boost.python
 4286,org.sw.demo.boost.safe_numerics
+4287,org.sw.demo.sfml.Audio
+4288,org.sw.demo.sfml.Graphics
+4289,org.sw.demo.sfml.Network
+4290,org.sw.demo.sfml.System
+4291,org.sw.demo.sfml.Window
