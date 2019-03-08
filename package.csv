@@ -709,9 +709,6 @@ package_id,path
 4217,org.sw.demo.yasm.modules.preprocs.raw
 4218,org.sw.demo.yasm.tools.genmacro
 4219,org.sw.demo.yasm.tools.genversion
-4225,org.sw.sw.client.sw
-4226,org.sw.sw.client.tools.cl_generator
-4227,org.sw.sw.client.tools.client
 4230,org.sw.demo.cyrus.sasl
 4231,org.sw.demo.openldap.lber
 4232,org.sw.demo.openldap.ldap
@@ -742,3 +739,6 @@ package_id,path
 4273,org.sw.demo.troldal.OpenXLSX
 4274,org.sw.demo.libxls
 4275,org.sw.demo.jmcnamara.libxlsxwriter
+4276,org.sw.sw.client.sw
+4277,org.sw.sw.client.tools.cl_generator
+4278,org.sw.sw.client.tools.client
