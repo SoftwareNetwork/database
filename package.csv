@@ -716,9 +716,6 @@ package_id,path
 4273,org.sw.demo.troldal.OpenXLSX
 4274,org.sw.demo.libxls
 4275,org.sw.demo.jmcnamara.libxlsxwriter
-4284,org.sw.demo.boost.fiber
-4285,org.sw.demo.boost.python
-4286,org.sw.demo.boost.safe_numerics
 4287,org.sw.demo.sfml.Audio
 4288,org.sw.demo.sfml.Graphics
 4289,org.sw.demo.sfml.Network
@@ -751,3 +748,6 @@ package_id,path
 4317,pub.lzwdgc.Polygon4.DataManager.memory
 4318,pub.lzwdgc.Polygon4.DataManager.schema
 4319,pub.lzwdgc.Polygon4.DataManager.tools.generator
+4320,org.sw.demo.boost.fiber
+4321,org.sw.demo.boost.python
+4322,org.sw.demo.boost.safe_numerics
