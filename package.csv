@@ -720,9 +720,6 @@ package_id,path
 4273,org.sw.demo.troldal.OpenXLSX
 4274,org.sw.demo.libxls
 4275,org.sw.demo.jmcnamara.libxlsxwriter
-4276,org.sw.sw.client.sw
-4277,org.sw.sw.client.tools.cl_generator
-4278,org.sw.sw.client.tools.client
 4284,org.sw.demo.boost.fiber
 4285,org.sw.demo.boost.python
 4286,org.sw.demo.boost.safe_numerics
@@ -751,3 +748,6 @@ package_id,path
 4310,org.sw.demo.qtproject.qt.imageformats.qtiff
 4311,org.sw.demo.qtproject.qt.imageformats.qwbmp
 4312,org.sw.demo.qtproject.qt.imageformats.qwebp
+4313,org.sw.sw.client.sw
+4314,org.sw.sw.client.tools.cl_generator
+4315,org.sw.sw.client.tools.client
