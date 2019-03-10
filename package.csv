@@ -505,10 +505,6 @@ package_id,path
 3094,org.sw.demo.emweb.wt.http
 3101,org.sw.demo.stachenov.quazip
 3106,org.sw.demo.qtproject.qt.base.tools.qlalr
-3107,pub.lzwdgc.Polygon4.DataManager
-3108,pub.lzwdgc.Polygon4.DataManager.memory
-3109,pub.lzwdgc.Polygon4.DataManager.schema
-3110,pub.lzwdgc.Polygon4.DataManager.tools.generator
 3113,org.sw.demo.google.tesseract.ambiguous_words
 3114,org.sw.demo.google.tesseract.classifier_tester
 3115,org.sw.demo.google.tesseract.cntraining
@@ -751,3 +747,7 @@ package_id,path
 4313,org.sw.sw.client.sw
 4314,org.sw.sw.client.tools.cl_generator
 4315,org.sw.sw.client.tools.client
+4316,pub.lzwdgc.Polygon4.DataManager
+4317,pub.lzwdgc.Polygon4.DataManager.memory
+4318,pub.lzwdgc.Polygon4.DataManager.schema
+4319,pub.lzwdgc.Polygon4.DataManager.tools.generator
