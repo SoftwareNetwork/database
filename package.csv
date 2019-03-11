@@ -751,3 +751,9 @@ package_id,path
 4320,org.sw.demo.boost.fiber
 4321,org.sw.demo.boost.python
 4322,org.sw.demo.boost.safe_numerics
+4323,org.sw.demo.taocpp.pegtl
+4325,org.sw.demo.taocpp.config
+4326,org.sw.demo.taocpp.tuple
+4327,org.sw.demo.taocpp.sequences
+4328,org.sw.demo.taocpp.json
+4329,org.sw.demo.taocpp.operators
