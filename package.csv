@@ -764,3 +764,8 @@ package_id,path
 4338,org.sw.demo.arcosuc3m.grppi
 4339,org.sw.demo.c42f.tinyformat
 4341,org.sw.demo.lemire.SIMDxorshift
+4342,org.sw.demo.gnome.glib.gio
+4343,org.sw.demo.gnome.glib.gmodule
+4344,org.sw.demo.gnzlbg.static_vector
+4345,org.sw.demo.bluescarni.mppp
+4346,org.sw.demo.SanderMertens.flecs
