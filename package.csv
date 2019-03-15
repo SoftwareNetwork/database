@@ -763,8 +763,6 @@ package_id,path
 4344,org.sw.demo.gnzlbg.static_vector
 4345,org.sw.demo.bluescarni.mppp
 4346,org.sw.demo.SanderMertens.flecs
-4347,org.sw.demo.gnome.glib.gio
-4348,org.sw.demo.gnome.glib.gmodule
 4350,org.sw.demo.kyz.libmspack
 4351,org.sw.demo.ericniebler.range_v3
 4352,org.sw.demo.scintilla
@@ -803,3 +801,5 @@ package_id,path
 4385,org.sw.demo.gnome.atk
 4386,org.sw.demo.woboq.verdigris
 4387,org.sw.demo.gnome.glib.glibmm
+4388,org.sw.demo.gnome.glib.gio
+4389,org.sw.demo.gnome.glib.gmodule
