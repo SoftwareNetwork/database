@@ -803,3 +803,5 @@ package_id,path
 4388,org.sw.demo.gnome.glib.gio
 4389,org.sw.demo.gnome.glib.gmodule
 4390,org.sw.demo.gnome.glib.glibmm
+4391,org.sw.demo.gnome.gtk.gdk.pixbuf
+4393,org.sw.demo.cairographics.cairo.gobject
