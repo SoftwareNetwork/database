@@ -800,3 +800,4 @@ package_id,path
 4382,org.sw.sw.client.sw
 4383,org.sw.sw.client.tools.cl_generator
 4384,org.sw.sw.client.tools.client
+4385,org.sw.demo.gnome.atk
