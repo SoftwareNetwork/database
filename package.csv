@@ -800,6 +800,6 @@ package_id,path
 4384,org.sw.sw.client.tools.client
 4385,org.sw.demo.gnome.atk
 4386,org.sw.demo.woboq.verdigris
-4387,org.sw.demo.gnome.glib.glibmm
 4388,org.sw.demo.gnome.glib.gio
 4389,org.sw.demo.gnome.glib.gmodule
+4390,org.sw.demo.gnome.glib.glibmm
