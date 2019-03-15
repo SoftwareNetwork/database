@@ -802,3 +802,4 @@ package_id,path
 4384,org.sw.sw.client.tools.client
 4385,org.sw.demo.gnome.atk
 4386,org.sw.demo.woboq.verdigris
+4387,org.sw.demo.gnome.glib.glibmm
