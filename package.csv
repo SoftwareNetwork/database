@@ -808,3 +808,6 @@ package_id,path
 4395,org.sw.demo.anholt.libepoxy
 4397,org.sw.demo.ebassi.graphene
 4398,org.sw.demo.TartanLlama.expected
+4399,org.sw.demo.TartanLlama.optional
+4400,org.sw.demo.TartanLlama.tl
+4401,org.sw.demo.martinmoene.span_lite
