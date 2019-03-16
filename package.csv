@@ -832,3 +832,6 @@ package_id,path
 4422,org.sw.demo.openalpr.openalpr
 4423,org.sw.demo.openalpr.statedetection
 4424,org.sw.demo.openalpr.video
+4428,org.sw.demo.imneme.pcg_c
+4429,org.sw.demo.imneme.pcg_cpp
+4430,org.sw.demo.VHRanger.pcg
