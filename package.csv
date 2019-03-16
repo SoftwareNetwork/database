@@ -807,3 +807,4 @@ package_id,path
 4393,org.sw.demo.cairographics.cairo.gobject
 4395,org.sw.demo.anholt.libepoxy
 4397,org.sw.demo.ebassi.graphene
+4398,org.sw.demo.TartanLlama.expected
