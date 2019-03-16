@@ -828,3 +828,7 @@ package_id,path
 4417,org.sw.demo.martinmoene.optional_bare
 4418,org.sw.demo.martinmoene.lest
 4420,org.sw.demo.martinmoene.clue
+4421,org.sw.demo.openalpr.alpr
+4422,org.sw.demo.openalpr.openalpr
+4423,org.sw.demo.openalpr.statedetection
+4424,org.sw.demo.openalpr.video
