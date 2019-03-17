@@ -801,7 +801,6 @@ package_id,path
 4385,org.sw.demo.gnome.atk
 4386,org.sw.demo.woboq.verdigris
 4388,org.sw.demo.gnome.glib.gio
-4389,org.sw.demo.gnome.glib.gmodule
 4390,org.sw.demo.gnome.glib.glibmm
 4391,org.sw.demo.gnome.gtk.gdk.pixbuf
 4393,org.sw.demo.cairographics.cairo.gobject
@@ -836,3 +835,9 @@ package_id,path
 4429,org.sw.demo.imneme.pcg_cpp
 4430,org.sw.demo.VHRanger.pcg
 4431,org.sw.demo.gfx.cpp_TimSort
+4436,org.sw.demo.gnome.glib.compile_resources
+4437,org.sw.demo.gnome.glib.gmodule
+4438,org.sw.demo.gnome.gtk.gdk
+4439,org.sw.demo.gnome.gtk.gdk.win32
+4440,org.sw.demo.gnome.gtk.gsk
+4441,org.sw.demo.gnome.gtk.gtk
