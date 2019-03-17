@@ -841,3 +841,4 @@ package_id,path
 4439,org.sw.demo.gnome.gtk.gdk.win32
 4440,org.sw.demo.gnome.gtk.gsk
 4441,org.sw.demo.gnome.gtk.gtk
+4442,org.sw.demo.freeglut
