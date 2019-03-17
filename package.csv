@@ -844,3 +844,4 @@ package_id,path
 4442,org.sw.demo.freeglut
 4444,org.sw.demo.g_truc.glm
 4445,org.sw.demo.kthohr.gcem
+4447,org.sw.demo.khronos.vulkan.headers
