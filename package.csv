@@ -845,3 +845,5 @@ package_id,path
 4444,org.sw.demo.g_truc.glm
 4445,org.sw.demo.kthohr.gcem
 4447,org.sw.demo.khronos.vulkan.headers
+4448,org.sw.demo.beltoforion.muparser
+4449,org.sw.demo.beltoforion.muparserx
