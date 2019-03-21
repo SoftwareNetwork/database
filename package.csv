@@ -859,3 +859,9 @@ package_id,path
 4460,org.sw.demo.randombit.botan
 4461,org.sw.demo.brechtsanders.xlsxio
 4462,org.sw.demo.hsutter.gcpp
+4463,org.sw.demo.msgpack
+4464,org.sw.demo.open_source_parsers.jsoncpp
+4465,org.sw.demo.miloyip.rapidjson
+4466,org.sw.demo.tcbrindle.NanoRange
+4467,org.sw.demo.boyerjohn.rapidstring
+4468,org.sw.demo.rapidxml
