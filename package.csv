@@ -875,3 +875,6 @@ package_id,path
 4488,org.sw.sw.client.sw
 4489,org.sw.sw.client.tools.cl_generator
 4490,org.sw.sw.client.tools.client
+4491,org.sw.demo.joboccara.NamedType
+4492,org.sw.demo.ned14.outcome
+4493,org.sw.demo.octobanana.belle
