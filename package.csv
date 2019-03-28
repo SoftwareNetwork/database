@@ -686,9 +686,6 @@ package_id,path
 4219,org.sw.demo.yasm.tools.genversion
 4230,org.sw.demo.cyrus.sasl
 4231,org.sw.demo.openldap.lber
-4232,org.sw.demo.openldap.ldap
-4233,org.sw.demo.openldap.ldap_r
-4234,org.sw.demo.openldap.ldapcpp
 4235,org.sw.demo.mattmccutchen.bigint
 4236,org.sw.demo.glassechidna.zxing_cpp
 4237,org.sw.demo.cnjinhao.nana
@@ -878,3 +875,12 @@ package_id,path
 4491,org.sw.demo.joboccara.NamedType
 4492,org.sw.demo.ned14.outcome
 4493,org.sw.demo.octobanana.belle
+4494,org.sw.demo.openldap.ldap
+4495,org.sw.demo.openldap.ldap_r
+4496,org.sw.demo.openldap.ldapcpp
+4497,org.sw.demo.LLNL.cfp
+4498,org.sw.demo.LLNL.zfp
+4499,org.sw.demo.ademakov.Oroch
+4500,org.sw.demo.lemire.FastPFor
+4501,org.sw.demo.powturbo.TurboPFor
+4502,org.sw.demo.vrogier.ocilib
