@@ -793,9 +793,6 @@ package_id,path
 4379,org.sw.demo.eteran.cpp_utilities.thread_pool
 4380,org.sw.demo.eteran.cpp_utilities.uint128
 4381,org.sw.demo.eteran.cpp_utilities.uuid
-4382,org.sw.sw.client.sw
-4383,org.sw.sw.client.tools.cl_generator
-4384,org.sw.sw.client.tools.client
 4385,org.sw.demo.gnome.atk
 4386,org.sw.demo.woboq.verdigris
 4388,org.sw.demo.gnome.glib.gio
@@ -875,3 +872,6 @@ package_id,path
 4481,org.sw.demo.mpark.variant
 4486,org.sw.demo.google.breakpad.common.windows
 4487,org.sw.demo.gnome.glib.gmodule
+4488,org.sw.sw.client.sw
+4489,org.sw.sw.client.tools.cl_generator
+4490,org.sw.sw.client.tools.client
