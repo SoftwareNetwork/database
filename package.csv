@@ -554,7 +554,6 @@ package_id,path
 3519,org.sw.demo.qtproject.qt.declarative.qml.imports.settings
 3522,org.sw.demo.aspia.base
 3570,org.sw.demo.qtproject.qt.translations
-3661,org.sw.demo.google.breakpad.common.windows
 3724,org.sw.demo.aspia.client
 3725,org.sw.demo.aspia.codec
 3726,org.sw.demo.aspia.common
@@ -835,7 +834,6 @@ package_id,path
 4430,org.sw.demo.VHRanger.pcg
 4431,org.sw.demo.gfx.cpp_TimSort
 4436,org.sw.demo.gnome.glib.compile_resources
-4437,org.sw.demo.gnome.glib.gmodule
 4438,org.sw.demo.gnome.gtk.gdk
 4439,org.sw.demo.gnome.gtk.gdk.win32
 4440,org.sw.demo.gnome.gtk.gsk
@@ -875,3 +873,5 @@ package_id,path
 4479,org.sw.demo.johnmcfarlane.cnl
 4480,org.sw.demo.gnzlbg.static_vector
 4481,org.sw.demo.mpark.variant
+4484,org.sw.demo.google.breakpad.common.windows
+4485,org.sw.demo.gnome.glib.gmodule
