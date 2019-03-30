@@ -881,6 +881,6 @@ package_id,path
 4500,org.sw.demo.lemire.FastPFor
 4501,org.sw.demo.powturbo.TurboPFor
 4502,org.sw.demo.vrogier.ocilib
-4503,org.sw.sw.client.sw
-4504,org.sw.sw.client.tools.cl_generator
-4505,org.sw.sw.client.tools.client
+4506,org.sw.sw.client.sw
+4507,org.sw.sw.client.tools.cl_generator
+4508,org.sw.sw.client.tools.client
