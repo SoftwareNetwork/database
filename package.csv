@@ -884,3 +884,5 @@ package_id,path
 4506,org.sw.sw.client.sw
 4507,org.sw.sw.client.tools.cl_generator
 4508,org.sw.sw.client.tools.client
+4511,org.sw.demo.musl
+4512,org.sw.demo.llvm_project.compiler_rt.builtins
