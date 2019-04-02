@@ -895,3 +895,5 @@ package_id,path
 4558,org.sw.demo.byronknoll.cmix
 4559,org.sw.demo.nuspell
 4560,org.sw.demo.fltk
+4561,org.sw.demo.spotify.NFHTTP
+4562,org.sw.demo.Blosc.c_blosc
