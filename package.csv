@@ -897,3 +897,8 @@ package_id,path
 4560,org.sw.demo.fltk
 4561,org.sw.demo.spotify.NFHTTP
 4562,org.sw.demo.Blosc.c_blosc
+4563,org.sw.demo.copperspice.core
+4564,org.sw.demo.copperspice.third_party.harfbuzz
+4565,org.sw.demo.copperspice.third_party.wintab
+4566,org.sw.demo.copperspice.xml
+4567,org.sw.demo.shibatch.sleef
