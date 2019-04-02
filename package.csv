@@ -831,7 +831,6 @@ package_id,path
 4476,org.sw.demo.swig
 4478,org.sw.demo.iamantony.qtcsv
 4479,org.sw.demo.johnmcfarlane.cnl
-4480,org.sw.demo.gnzlbg.static_vector
 4481,org.sw.demo.mpark.variant
 4486,org.sw.demo.google.breakpad.common.windows
 4487,org.sw.demo.gnome.glib.gmodule
@@ -886,3 +885,11 @@ package_id,path
 4548,org.sw.demo.ffmpeg.postproc
 4549,org.sw.demo.ffmpeg.swresample
 4550,org.sw.demo.ffmpeg.swscale
+4551,org.sw.demo.xmlsoft.xslt.libexslt
+4552,org.sw.demo.xmlsoft.xslt.libxslt
+4553,org.sw.demo.duneroadrunner.SaferCPlusPlus
+4554,org.sw.demo.gnzlbg.static_vector
+4555,org.sw.demo.tcbrindle.span
+4556,org.sw.demo.CathalT.Cerializer
+4557,org.sw.demo.dkormalev.asynqro
+4558,org.sw.demo.byronknoll.cmix
