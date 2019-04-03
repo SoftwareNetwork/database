@@ -608,7 +608,6 @@ package_id,path
 4111,org.sw.demo.gnu.mpc
 4112,org.sw.demo.gnu.gpg.assuan.assuan
 4117,org.sw.demo.gnu.gpg.gpgme.gpgme
-4120,org.sw.demo.gnu.gpg.assuan.tools.mkheader
 4121,org.sw.demo.gnu.gpg.error.gpg_error
 4122,org.sw.demo.gnu.gpg.error.tools.mkerrcodes
 4123,org.sw.demo.gnu.gpg.error.tools.mkheader
@@ -902,3 +901,5 @@ package_id,path
 4565,org.sw.demo.copperspice.third_party.wintab
 4566,org.sw.demo.copperspice.xml
 4567,org.sw.demo.shibatch.sleef
+4569,org.sw.demo.LeonineKing1199.foxy
+4570,org.sw.demo.gnu.gpg.assuan.tools.mkheader
