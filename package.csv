@@ -847,9 +847,6 @@ package_id,path
 4502,org.sw.demo.vrogier.ocilib
 4511,org.sw.demo.musl
 4512,org.sw.demo.llvm_project.compiler_rt.builtins
-4513,org.sw.sw.client.sw
-4514,org.sw.sw.client.tools.cl_generator
-4515,org.sw.sw.client.tools.client
 4516,org.sw.demo.yasm.config
 4517,org.sw.demo.yasm.libyasm
 4518,org.sw.demo.yasm.modules.arch.lc3b
@@ -913,3 +910,8 @@ package_id,path
 4578,org.sw.demo.vincentlaucsb.csv_parser
 4579,org.sw.demo.jlctools.evo
 4580,org.sw.demo.KonanM.static_enum
+4581,org.sw.demo.therocode.meta_enum
+4582,org.sw.demo.google.cctz
+4583,org.sw.sw.client.sw
+4584,org.sw.sw.client.tools.cl_generator
+4585,org.sw.sw.client.tools.client
