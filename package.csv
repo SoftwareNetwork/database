@@ -916,3 +916,5 @@ package_id,path
 4612,org.sw.demo.intel.tbb
 4613,org.sw.demo.intel.tbb.malloc
 4614,org.sw.demo.intel.tbb.malloc.proxy
+4615,org.sw.demo.biojppm.c4core
+4616,org.sw.demo.biojppm.rapidyaml
