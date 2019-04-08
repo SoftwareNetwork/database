@@ -639,9 +639,6 @@ package_id,path
 4164,org.sw.demo.lemire.simdjson
 4166,org.sw.demo.martinus.robin_hood_hashing
 4170,org.sw.demo.mach7
-4171,org.sw.demo.intel.tbb
-4172,org.sw.demo.intel.tbb.malloc
-4173,org.sw.demo.intel.tbb.malloc.proxy
 4176,org.sw.demo.google.gflags
 4177,org.sw.demo.google.glog
 4178,org.sw.demo.libevent
@@ -916,3 +913,6 @@ package_id,path
 4609,org.sw.demo.yasm.modules.preprocs.raw
 4610,org.sw.demo.yasm.tools.genmacro
 4611,org.sw.demo.yasm.tools.genversion
+4612,org.sw.demo.intel.tbb
+4613,org.sw.demo.intel.tbb.malloc
+4614,org.sw.demo.intel.tbb.malloc.proxy
