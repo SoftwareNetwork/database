@@ -884,9 +884,6 @@ package_id,path
 4580,org.sw.demo.KonanM.static_enum
 4581,org.sw.demo.therocode.meta_enum
 4582,org.sw.demo.google.cctz
-4583,org.sw.sw.client.sw
-4584,org.sw.sw.client.tools.cl_generator
-4585,org.sw.sw.client.tools.client
 4587,org.sw.demo.Neargye.magic_enum
 4588,org.sw.demo.yasm.config
 4589,org.sw.demo.yasm.libyasm
@@ -919,3 +916,9 @@ package_id,path
 4616,org.sw.demo.biojppm.rapidyaml
 4617,pub.egorpugin.primitives.emitter
 4618,org.sw.demo.lexxmark.winflexbison.common
+4620,org.sw.demo.leethomason.tinyxml
+4621,org.sw.demo.leethomason.tinyxml2
+4622,org.sw.sw.client.sw
+4623,org.sw.sw.client.tools.cl_generator
+4624,org.sw.sw.client.tools.client
+4625,org.sw.demo.objectcomputing.mFAST
