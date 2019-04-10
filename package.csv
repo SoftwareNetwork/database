@@ -922,3 +922,5 @@ package_id,path
 4623,org.sw.sw.client.tools.cl_generator
 4624,org.sw.sw.client.tools.client
 4625,org.sw.demo.objectcomputing.mFAST
+4626,org.sw.demo.boost.histogram
+4627,org.sw.demo.boost.outcome
