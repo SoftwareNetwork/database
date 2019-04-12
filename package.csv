@@ -709,10 +709,6 @@ package_id,path
 4330,org.sw.demo.DuffsDevice.tinyutf8
 4331,org.sw.demo.CaseyCarter.cmcstl2
 4332,org.sw.demo.wjakob.filesystem
-4333,pub.lzwdgc.Polygon4.DataManager
-4334,pub.lzwdgc.Polygon4.DataManager.memory
-4335,pub.lzwdgc.Polygon4.DataManager.schema
-4336,pub.lzwdgc.Polygon4.DataManager.tools.generator
 4337,org.sw.demo.fastflow.fastflow
 4338,org.sw.demo.arcosuc3m.grppi
 4339,org.sw.demo.c42f.tinyformat
@@ -924,3 +920,7 @@ package_id,path
 4625,org.sw.demo.objectcomputing.mFAST
 4626,org.sw.demo.boost.histogram
 4627,org.sw.demo.boost.outcome
+4628,pub.lzwdgc.Polygon4.DataManager
+4629,pub.lzwdgc.Polygon4.DataManager.memory
+4630,pub.lzwdgc.Polygon4.DataManager.schema
+4631,pub.lzwdgc.Polygon4.DataManager.tools.generator
