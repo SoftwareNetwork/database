@@ -701,7 +701,6 @@ package_id,path
 4321,org.sw.demo.boost.python
 4322,org.sw.demo.boost.safe_numerics
 4323,org.sw.demo.taocpp.pegtl
-4325,org.sw.demo.taocpp.config
 4326,org.sw.demo.taocpp.tuple
 4327,org.sw.demo.taocpp.sequences
 4328,org.sw.demo.taocpp.json
@@ -791,7 +790,6 @@ package_id,path
 4441,org.sw.demo.gnome.gtk.gtk
 4442,org.sw.demo.freeglut
 4444,org.sw.demo.g_truc.glm
-4445,org.sw.demo.kthohr.gcem
 4447,org.sw.demo.khronos.vulkan.headers
 4448,org.sw.demo.beltoforion.muparser
 4449,org.sw.demo.beltoforion.muparserx
@@ -925,3 +923,21 @@ package_id,path
 4634,org.sw.sw.client.sw
 4635,org.sw.sw.client.tools.cl_generator
 4636,org.sw.sw.client.tools.client
+4637,org.sw.demo.google.cpu_features
+4638,org.sw.demo.aantron.better_enums
+4639,org.sw.demo.dougbinks.enkiTS
+4640,org.sw.demo.brunocodutra.metal
+4641,org.sw.demo.felixguendling.cista
+4642,org.sw.demo.foonathan.type_safe
+4643,org.sw.demo.ned14.llfio
+4644,org.sw.demo.kthohr.gcem
+4645,org.sw.demo.Forceflow.libmorton
+4646,org.sw.demo.skypjack.meta
+4648,org.sw.demo.awslabs.aws_c_mqtt
+4649,org.sw.demo.rainers.cv2pdb
+4650,org.sw.demo.p_ranav.argparse
+4651,org.sw.demo.taocpp.config
+4652,org.sw.demo.crosire.blink
+4653,org.sw.demo.TheLartians.Parser
+4654,org.sw.demo.recatek.fixed_storage_arrays
+4655,org.sw.demo.cemyuksel.cyCodeBase
