@@ -914,9 +914,6 @@ package_id,path
 4618,org.sw.demo.lexxmark.winflexbison.common
 4620,org.sw.demo.leethomason.tinyxml
 4621,org.sw.demo.leethomason.tinyxml2
-4622,org.sw.sw.client.sw
-4623,org.sw.sw.client.tools.cl_generator
-4624,org.sw.sw.client.tools.client
 4625,org.sw.demo.objectcomputing.mFAST
 4626,org.sw.demo.boost.histogram
 4627,org.sw.demo.boost.outcome
@@ -925,3 +922,6 @@ package_id,path
 4630,pub.lzwdgc.Polygon4.DataManager.schema
 4631,pub.lzwdgc.Polygon4.DataManager.tools.generator
 4633,pub.egorpugin.primitives.source
+4634,org.sw.sw.client.sw
+4635,org.sw.sw.client.tools.cl_generator
+4636,org.sw.sw.client.tools.client
