@@ -940,4 +940,5 @@ package_id,path
 4653,org.sw.demo.TheLartians.Parser
 4654,org.sw.demo.recatek.fixed_storage_arrays
 4655,org.sw.demo.cemyuksel.cyCodeBase
-4656,org.sw.demo.amazon.awslabs.aws_c_io
+4658,org.sw.demo.amazon.awslabs.c_io
+4659,org.sw.demo.amazon.awslabs.c_mqtt
