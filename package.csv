@@ -918,9 +918,6 @@ package_id,path
 4630,pub.lzwdgc.Polygon4.DataManager.schema
 4631,pub.lzwdgc.Polygon4.DataManager.tools.generator
 4633,pub.egorpugin.primitives.source
-4634,org.sw.sw.client.sw
-4635,org.sw.sw.client.tools.cl_generator
-4636,org.sw.sw.client.tools.client
 4637,org.sw.demo.google.cpu_features
 4638,org.sw.demo.aantron.better_enums
 4639,org.sw.demo.dougbinks.enkiTS
@@ -942,3 +939,6 @@ package_id,path
 4659,org.sw.demo.amazon.awslabs.c_mqtt
 4660,org.sw.demo.boost.histogram
 4661,org.sw.demo.boost.outcome
+4671,org.sw.sw.client.sw
+4672,org.sw.sw.client.tools.cl_generator
+4673,org.sw.sw.client.tools.client
