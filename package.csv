@@ -915,9 +915,6 @@ package_id,path
 4659,org.sw.demo.amazon.awslabs.c_mqtt
 4660,org.sw.demo.boost.histogram
 4661,org.sw.demo.boost.outcome
-4677,org.sw.sw.client.sw
-4678,org.sw.sw.client.tools.cl_generator
-4679,org.sw.sw.client.tools.client
 4680,org.sw.demo.yasm.config
 4681,org.sw.demo.yasm.libyasm
 4682,org.sw.demo.yasm.modules.arch.lc3b
@@ -960,3 +957,7 @@ package_id,path
 4719,org.sw.demo.rodrigocfd.winlamb
 4720,org.sw.demo.disheng222.SZ
 4721,org.sw.demo.Terraspace.UASM
+4722,org.sw.demo.intel.opencv.contrib.quality
+4723,org.sw.sw.client.sw
+4724,org.sw.sw.client.tools.cl_generator
+4725,org.sw.sw.client.tools.client
