@@ -961,3 +961,7 @@ package_id,path
 4723,org.sw.sw.client.sw
 4724,org.sw.sw.client.tools.cl_generator
 4725,org.sw.sw.client.tools.client
+4727,org.sw.demo.anthonywilliams.object_ptr
+4728,org.sw.demo.TheLartians.Event
+4729,org.sw.demo.nholthaus.units
+4730,org.sw.demo.mpusz.units
