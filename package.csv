@@ -965,3 +965,7 @@ package_id,path
 4755,org.sw.demo.yasm.modules.preprocs.raw
 4756,org.sw.demo.yasm.tools.genmacro
 4757,org.sw.demo.yasm.tools.genversion
+4759,org.sw.demo.zchunk.zchunk
+4760,org.sw.demo.phisko.kengine
+4761,org.sw.demo.ampl.mp
+4762,org.sw.demo.cginternals.glbinding
