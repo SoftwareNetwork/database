@@ -19777,3 +19777,4 @@ package_version_id,package_id,version_range
 14334,4756,master
 14334,4757,master
 14337,2767,master
+14347,3,>=1.0.0 <2.0.0
