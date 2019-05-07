@@ -938,9 +938,6 @@ package_id,path
 4728,org.sw.demo.TheLartians.Event
 4729,org.sw.demo.nholthaus.units
 4730,org.sw.demo.mpusz.units
-4731,org.sw.sw.client.sw
-4732,org.sw.sw.client.tools.cl_generator
-4733,org.sw.sw.client.tools.client
 4734,org.sw.demo.yasm.config
 4735,org.sw.demo.yasm.libyasm
 4736,org.sw.demo.yasm.modules.arch.lc3b
@@ -969,3 +966,6 @@ package_id,path
 4760,org.sw.demo.phisko.kengine
 4761,org.sw.demo.ampl.mp
 4762,org.sw.demo.cginternals.glbinding
+4763,org.sw.sw.client.sw
+4764,org.sw.sw.client.tools.cl_generator
+4765,org.sw.sw.client.tools.client
