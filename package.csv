@@ -966,6 +966,6 @@ package_id,path
 4760,org.sw.demo.phisko.kengine
 4761,org.sw.demo.ampl.mp
 4762,org.sw.demo.cginternals.glbinding
-4763,org.sw.sw.client.sw
-4764,org.sw.sw.client.tools.cl_generator
-4765,org.sw.sw.client.tools.client
+4766,org.sw.sw.client.sw
+4767,org.sw.sw.client.tools.cl_generator
+4768,org.sw.sw.client.tools.client
