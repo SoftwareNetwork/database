@@ -821,7 +821,6 @@ package_id,path
 4478,org.sw.demo.iamantony.qtcsv
 4479,org.sw.demo.johnmcfarlane.cnl
 4481,org.sw.demo.mpark.variant
-4486,org.sw.demo.google.breakpad.common.windows
 4487,org.sw.demo.gnome.glib.gmodule
 4491,org.sw.demo.joboccara.NamedType
 4492,org.sw.demo.ned14.outcome
@@ -885,7 +884,6 @@ package_id,path
 4615,org.sw.demo.biojppm.c4core
 4616,org.sw.demo.biojppm.rapidyaml
 4617,pub.egorpugin.primitives.emitter
-4618,org.sw.demo.lexxmark.winflexbison.common
 4620,org.sw.demo.leethomason.tinyxml
 4621,org.sw.demo.leethomason.tinyxml2
 4625,org.sw.demo.objectcomputing.mFAST
@@ -913,8 +911,6 @@ package_id,path
 4655,org.sw.demo.cemyuksel.cyCodeBase
 4658,org.sw.demo.amazon.awslabs.c_io
 4659,org.sw.demo.amazon.awslabs.c_mqtt
-4660,org.sw.demo.boost.histogram
-4661,org.sw.demo.boost.outcome
 4704,org.sw.demo.redxdev.ECS
 4705,org.sw.demo.LPeter1997.CppCmb
 4706,org.sw.demo.Stiffstream.restinio
@@ -969,3 +965,16 @@ package_id,path
 4766,org.sw.sw.client.sw
 4767,org.sw.sw.client.tools.cl_generator
 4768,org.sw.sw.client.tools.client
+4777,org.sw.demo.lexxmark.winflexbison
+4778,org.sw.demo.lexxmark.winflexbison.common
+4779,org.sw.demo.google.protobuf
+4780,org.sw.demo.google.grpc
+4781,org.sw.demo.facebook.zstd
+4782,org.sw.demo.gnu.nettle
+4783,org.sw.demo.gnu.iconv
+4784,org.sw.demo.openssl
+4785,org.sw.demo.python
+4786,org.sw.demo.google.breakpad
+4787,org.sw.demo.google.breakpad.common.windows
+4788,org.sw.demo.boost.histogram
+4789,org.sw.demo.boost.outcome
