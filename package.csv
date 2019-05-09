@@ -973,7 +973,6 @@ package_id,path
 4782,org.sw.demo.gnu.nettle
 4783,org.sw.demo.gnu.iconv
 4784,org.sw.demo.openssl
-4785,org.sw.demo.python
 4786,org.sw.demo.google.breakpad
 4787,org.sw.demo.google.breakpad.common.windows
 4788,org.sw.demo.boost.histogram
