@@ -821,7 +821,6 @@ package_id,path
 4478,org.sw.demo.iamantony.qtcsv
 4479,org.sw.demo.johnmcfarlane.cnl
 4481,org.sw.demo.mpark.variant
-4487,org.sw.demo.gnome.glib.gmodule
 4491,org.sw.demo.joboccara.NamedType
 4492,org.sw.demo.ned14.outcome
 4493,org.sw.demo.octobanana.belle
@@ -965,8 +964,6 @@ package_id,path
 4766,org.sw.sw.client.sw
 4767,org.sw.sw.client.tools.cl_generator
 4768,org.sw.sw.client.tools.client
-4777,org.sw.demo.lexxmark.winflexbison
-4778,org.sw.demo.lexxmark.winflexbison.common
 4779,org.sw.demo.google.protobuf
 4780,org.sw.demo.google.grpc
 4781,org.sw.demo.facebook.zstd
@@ -977,3 +974,6 @@ package_id,path
 4787,org.sw.demo.google.breakpad.common.windows
 4788,org.sw.demo.boost.histogram
 4789,org.sw.demo.boost.outcome
+4790,org.sw.demo.gnome.glib.gmodule
+4791,org.sw.demo.lexxmark.winflexbison.common
+4792,org.sw.demo.opengl
