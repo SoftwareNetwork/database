@@ -977,3 +977,10 @@ package_id,path
 4790,org.sw.demo.gnome.glib.gmodule
 4791,org.sw.demo.lexxmark.winflexbison.common
 4792,org.sw.demo.opengl
+4793,org.sw.demo.gnu.fribidi.gen.arabic_shaping_tab
+4794,org.sw.demo.gnu.fribidi.gen.bidi_type_tab
+4795,org.sw.demo.gnu.fribidi.gen.brackets_tab
+4796,org.sw.demo.gnu.fribidi.gen.brackets_type_tab
+4797,org.sw.demo.gnu.fribidi.gen.joining_type_tab
+4798,org.sw.demo.gnu.fribidi.gen.mirroring_tab
+4799,org.sw.demo.gnu.fribidi.gen.unicode_version
