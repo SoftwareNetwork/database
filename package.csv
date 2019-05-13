@@ -961,9 +961,6 @@ package_id,path
 4760,org.sw.demo.phisko.kengine
 4761,org.sw.demo.ampl.mp
 4762,org.sw.demo.cginternals.glbinding
-4766,org.sw.sw.client.sw
-4767,org.sw.sw.client.tools.cl_generator
-4768,org.sw.sw.client.tools.client
 4779,org.sw.demo.google.protobuf
 4780,org.sw.demo.google.grpc
 4781,org.sw.demo.facebook.zstd
@@ -1016,12 +1013,6 @@ package_id,path
 4850,org.sw.demo.primitives.version
 4851,org.sw.demo.primitives.win32helpers
 4852,org.sw.demo.primitives.yaml
-4853,org.sw.demo.sw.client.builder
-4854,org.sw.demo.sw.client.driver.cpp
-4855,org.sw.demo.sw.client.manager
-4856,org.sw.demo.sw.client.protos
-4857,org.sw.demo.sw.client.support
-4858,org.sw.demo.sw.client.sw
-4859,org.sw.demo.sw.client.tools.cl_generator
-4860,org.sw.demo.sw.client.tools.client
-4861,org.sw.demo.sw.client.tools.self_builder
+4862,org.sw.sw.client.sw
+4863,org.sw.sw.client.tools.cl_generator
+4864,org.sw.sw.client.tools.client
