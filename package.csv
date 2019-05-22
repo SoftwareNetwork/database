@@ -1028,3 +1028,6 @@ package_id,path
 4874,org.sw.demo.r_lyeh_archived.sole
 4875,org.sw.demo.njoy.ENDFtk
 4876,org.sw.demo.graphicsmagick.magickpp
+4877,org.sw.demo.dmitigr.common
+4878,org.sw.demo.dmitigr.fcgi
+4879,org.sw.demo.dmitigr.pgfe
