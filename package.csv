@@ -555,7 +555,6 @@ package_id,path
 4049,org.sw.demo.perl.perl
 4054,org.sw.demo.google.protobuf.protobuf_lite
 4058,org.sw.demo.Erroneous1.sqlpp11_connector_odbc
-4076,org.sw.demo.re2c.libre2c
 4083,org.sw.demo.reo7sp.tgbot
 4084,org.sw.demo.poco.CppUnit
 4085,org.sw.demo.poco.Crypto
@@ -1036,3 +1035,4 @@ package_id,path
 4915,org.sw.demo.google.angle.third_party.systeminfo
 4916,org.sw.demo.google.angle.util.image
 4917,org.sw.demo.Cyan4973.xxHash
+4918,org.sw.demo.re2c.libre2c
