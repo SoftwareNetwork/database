@@ -886,10 +886,6 @@ package_id,path
 4620,org.sw.demo.leethomason.tinyxml
 4621,org.sw.demo.leethomason.tinyxml2
 4625,org.sw.demo.objectcomputing.mFAST
-4628,pub.lzwdgc.Polygon4.DataManager
-4629,pub.lzwdgc.Polygon4.DataManager.memory
-4630,pub.lzwdgc.Polygon4.DataManager.schema
-4631,pub.lzwdgc.Polygon4.DataManager.tools.generator
 4633,pub.egorpugin.primitives.source
 4637,org.sw.demo.google.cpu_features
 4638,org.sw.demo.aantron.better_enums
@@ -928,7 +924,6 @@ package_id,path
 4719,org.sw.demo.rodrigocfd.winlamb
 4720,org.sw.demo.disheng222.SZ
 4721,org.sw.demo.Terraspace.UASM
-4722,org.sw.demo.intel.opencv.contrib.quality
 4727,org.sw.demo.anthonywilliams.object_ptr
 4728,org.sw.demo.TheLartians.Event
 4729,org.sw.demo.nholthaus.units
@@ -1033,3 +1028,8 @@ package_id,path
 4879,org.sw.demo.dmitigr.pgfe
 4880,org.sw.demo.Manu343726.ctti
 4881,org.sw.demo.davisking.dlib
+4882,pub.lzwdgc.Polygon4.DataManager
+4883,pub.lzwdgc.Polygon4.DataManager.memory
+4884,pub.lzwdgc.Polygon4.DataManager.schema
+4885,pub.lzwdgc.Polygon4.DataManager.tools.generator
+4886,org.sw.demo.intel.opencv.contrib.quality
