@@ -1043,3 +1043,4 @@ package_id,path
 4954,org.sw.demo.Microsoft.WindowsAzure.Storage.cpp
 4955,org.sw.demo.dmlc.core
 4956,org.sw.demo.dmlc.rabit
+4957,org.sw.demo.dmlc.xgboost
