@@ -910,7 +910,6 @@ package_id,path
 4761,org.sw.demo.ampl.mp
 4762,org.sw.demo.cginternals.glbinding
 4779,org.sw.demo.google.protobuf
-4780,org.sw.demo.google.grpc
 4781,org.sw.demo.facebook.zstd
 4782,org.sw.demo.gnu.nettle
 4783,org.sw.demo.gnu.iconv
