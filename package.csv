@@ -994,9 +994,6 @@ package_id,path
 4895,org.sw.demo.openexr.ilmbase.config
 4896,org.sw.demo.openexr.ilmbase.eLut
 4897,org.sw.demo.openexr.ilmbase.toFloat
-4898,org.sw.sw.client.sw
-4899,org.sw.sw.client.tools.cl_generator
-4900,org.sw.sw.client.tools.client
 4904,org.sw.demo.qtproject.qt.base.qgif
 4905,org.sw.demo.qtproject.qt.base.qico
 4906,org.sw.demo.qtproject.qt.base.qjpeg
@@ -1037,3 +1034,6 @@ package_id,path
 4941,org.sw.demo.yasm.modules.preprocs.raw
 4942,org.sw.demo.yasm.tools.genmacro
 4943,org.sw.demo.yasm.tools.genversion
+4944,org.sw.sw.client.sw
+4945,org.sw.sw.client.tools.cl_generator
+4946,org.sw.sw.client.tools.client
