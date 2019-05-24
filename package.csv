@@ -1037,3 +1037,5 @@ package_id,path
 4945,org.sw.sw.client.tools.cl_generator
 4946,org.sw.sw.client.tools.client
 4947,org.sw.demo.antlr.runtime.cpp
+4948,org.sw.demo.zaphoyd.websocketpp
+4949,org.sw.demo.microsoft.cpprestsdk
