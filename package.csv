@@ -1042,3 +1042,4 @@ package_id,path
 4951,org.sw.demo.microsoft.cpprestsdk
 4954,org.sw.demo.Microsoft.WindowsAzure.Storage.cpp
 4955,org.sw.demo.dmlc.core
+4956,org.sw.demo.dmlc.rabit
