@@ -1033,9 +1033,6 @@ package_id,path
 4941,org.sw.demo.yasm.modules.preprocs.raw
 4942,org.sw.demo.yasm.tools.genmacro
 4943,org.sw.demo.yasm.tools.genversion
-4944,org.sw.sw.client.sw
-4945,org.sw.sw.client.tools.cl_generator
-4946,org.sw.sw.client.tools.client
 4947,org.sw.demo.antlr.runtime.cpp
 4948,org.sw.demo.zaphoyd.websocketpp
 4950,org.sw.demo.google.brotli
@@ -1044,3 +1041,6 @@ package_id,path
 4955,org.sw.demo.dmlc.core
 4956,org.sw.demo.dmlc.rabit
 4957,org.sw.demo.dmlc.xgboost
+4958,org.sw.sw.client.sw
+4959,org.sw.sw.client.tools.cl_generator
+4960,org.sw.sw.client.tools.client
