@@ -1044,4 +1044,5 @@ package_id,path
 4958,org.sw.sw.client.sw
 4959,org.sw.sw.client.tools.cl_generator
 4960,org.sw.sw.client.tools.client
-4962,org.sw.demo.google.grpc.grpcpp_internal_hdrs_only
+4963,org.sw.demo.google.grpc.grpc_resolver_dns_selection
+4964,org.sw.demo.google.grpc.grpcpp_internal_hdrs_only
