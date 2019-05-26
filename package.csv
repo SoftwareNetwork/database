@@ -1046,3 +1046,4 @@ package_id,path
 4968,org.sw.sw.client.sw
 4969,org.sw.sw.client.tools.cl_generator
 4970,org.sw.sw.client.tools.client
+4971,org.sw.demo._7zip.lzma_sdk
