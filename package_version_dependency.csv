@@ -20103,3 +20103,4 @@ package_version_id,package_id,version_range
 15484,1137,master
 15484,2790,0.3.0
 15484,4617,master
+15489,655,>=1.0.0.0 <2.0.0.0
