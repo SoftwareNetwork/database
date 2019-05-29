@@ -1016,9 +1016,6 @@ package_id,path
 4957,org.sw.demo.dmlc.xgboost
 4963,org.sw.demo.google.grpc.grpc_resolver_dns_selection
 4964,org.sw.demo.google.grpc.grpcpp_internal_hdrs_only
-4968,org.sw.sw.client.sw
-4969,org.sw.sw.client.tools.cl_generator
-4970,org.sw.sw.client.tools.client
 4971,org.sw.demo._7zip.lzma_sdk
 4972,org.sw.demo.qtproject.qt.base.qgif
 4973,org.sw.demo.qtproject.qt.base.qico
@@ -1047,3 +1044,6 @@ package_id,path
 4996,org.sw.demo.yasm.modules.preprocs.raw
 4997,org.sw.demo.yasm.tools.genmacro
 4998,org.sw.demo.yasm.tools.genversion
+4999,org.sw.sw.client.sw
+5000,org.sw.sw.client.tools.cl_generator
+5001,org.sw.sw.client.tools.client
