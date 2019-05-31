@@ -1055,9 +1055,9 @@ package_id,path
 5042,org.sw.demo.firebird.remote
 5043,org.sw.demo.firebird.udr_engine
 5044,org.sw.demo.firebird.yvalve
-5045,org.sw.sw.client.sw
-5046,org.sw.sw.client.tools.cl_generator
-5047,org.sw.sw.client.tools.client
 5048,org.sw.demo.stalkerg.clunk
 5049,org.sw.demo.whoozle.clunk
 5050,org.sw.demo.jll63.yomm2
+5051,org.sw.sw.client.sw
+5052,org.sw.sw.client.tools.cl_generator
+5053,org.sw.sw.client.tools.client
