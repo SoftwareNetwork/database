@@ -1061,3 +1061,5 @@ package_id,path
 5051,org.sw.sw.client.sw
 5052,org.sw.sw.client.tools.cl_generator
 5053,org.sw.sw.client.tools.client
+5054,org.sw.demo.sqlcipher.mkkeywordhash
+5055,org.sw.demo.sqlcipher.mksourceid
