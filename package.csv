@@ -1063,3 +1063,5 @@ package_id,path
 5053,org.sw.sw.client.tools.client
 5054,org.sw.demo.sqlcipher.mkkeywordhash
 5055,org.sw.demo.sqlcipher.mksourceid
+5056,org.sw.demo.libtom.libtommath
+5057,org.sw.demo.libtom.libtomcrypt
