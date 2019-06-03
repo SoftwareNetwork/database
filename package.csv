@@ -1058,10 +1058,11 @@ package_id,path
 5048,org.sw.demo.stalkerg.clunk
 5049,org.sw.demo.whoozle.clunk
 5050,org.sw.demo.jll63.yomm2
-5051,org.sw.sw.client.sw
-5052,org.sw.sw.client.tools.cl_generator
-5053,org.sw.sw.client.tools.client
 5054,org.sw.demo.sqlcipher.mkkeywordhash
 5055,org.sw.demo.sqlcipher.mksourceid
 5056,org.sw.demo.libtom.libtommath
 5057,org.sw.demo.libtom.libtomcrypt
+5061,org.sw.sw.client.core
+5062,org.sw.sw.client.sw
+5063,org.sw.sw.client.tools.cl_generator
+5064,org.sw.sw.client.tools.client
