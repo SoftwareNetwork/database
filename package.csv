@@ -390,7 +390,6 @@ package_id,path
 2767,org.sw.demo.yasm
 2777,org.sw.demo.freedesktop.dbus
 2790,org.sw.sw.client.manager
-2791,org.sw.sw.client.driver.cppan
 2792,org.sw.sw.client.builder
 2798,pub.egorpugin.primitives.templates
 2803,pub.egorpugin.primitives.db.common
@@ -403,7 +402,6 @@ package_id,path
 2813,pub.egorpugin.primitives.db.postgresql
 2814,pub.egorpugin.primitives.symbol
 2815,org.sw.sw.client.protos
-2816,org.sw.sw.client.client
 2817,org.sw.sw.client.driver.cpp
 2818,org.sw.sw.client.tools.self_builder
 2823,org.sw.demo.catchorg.catch2
@@ -1062,6 +1060,7 @@ package_id,path
 5055,org.sw.demo.sqlcipher.mksourceid
 5056,org.sw.demo.libtom.libtommath
 5057,org.sw.demo.libtom.libtomcrypt
-5065,org.sw.sw.client.sw
-5066,org.sw.sw.client.tools.cl_generator
-5067,org.sw.sw.client.tools.client
+5068,org.sw.sw.client.sw
+5069,org.sw.sw.client.tools.cl_generator
+5070,org.sw.sw.client.tools.client
+5071,org.sw.sw.client.core
