@@ -1067,3 +1067,4 @@ package_id,path
 5073,org.sw.sw.client.tools.create_git_rev
 5075,org.sw.demo.mm2.Little_CMS
 5076,org.sw.demo.ArtifexSoftware.jbig2dec
+5077,org.sw.demo.ghostscript.mujs
