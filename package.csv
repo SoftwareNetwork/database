@@ -1065,3 +1065,4 @@ package_id,path
 5071,org.sw.sw.client.core
 5072,org.sw.demo.rizkg.BBHash
 5073,org.sw.sw.client.tools.create_git_rev
+5074,org.sw.demo.ArtifexSoftware.jbig2dec
