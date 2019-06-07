@@ -1068,7 +1068,7 @@ package_id,path
 5078,org.sw.demo.ArtifexSoftware.jbig2dec
 5083,org.sw.demo.ghostscript.mujs
 5087,org.sw.demo.ArtifexSoftware.bin2coff
-5088,org.sw.demo.ArtifexSoftware.mupdf
-5089,org.sw.demo.ArtifexSoftware.mutool
 5090,org.sw.demo.mm2.LittleCMS
 5091,org.sw.demo.ghostscript.thirdparty.lcms2
+5092,org.sw.demo.ArtifexSoftware.mupdf
+5093,org.sw.demo.ArtifexSoftware.mutool
