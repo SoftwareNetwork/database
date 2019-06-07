@@ -1072,3 +1072,5 @@ package_id,path
 5091,org.sw.demo.ghostscript.thirdparty.lcms2
 5094,org.sw.demo.ArtifexSoftware.mupdf
 5095,org.sw.demo.ArtifexSoftware.mutool
+5096,org.sw.demo.mlivesu.cinolib
+5097,org.sw.demo.arun11299.cpp_subprocess
