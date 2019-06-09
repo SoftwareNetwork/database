@@ -1045,7 +1045,6 @@ package_id,path
 5070,org.sw.sw.client.tools.client
 5071,org.sw.sw.client.core
 5072,org.sw.demo.rizkg.BBHash
-5073,org.sw.sw.client.tools.create_git_rev
 5078,org.sw.demo.ArtifexSoftware.jbig2dec
 5083,org.sw.demo.ghostscript.mujs
 5087,org.sw.demo.ArtifexSoftware.bin2coff
@@ -1075,3 +1074,7 @@ package_id,path
 5151,org.sw.demo.google.tesseract.unicharset_extractor
 5152,org.sw.demo.google.tesseract.unicharset_training
 5153,org.sw.demo.google.tesseract.wordlist2dawg
+5154,org.sw.demo.libsigpp
+5155,org.sw.demo.tiny_dnn
+5156,org.sw.demo.lewissbaker.cppcoro
+5157,org.sw.sw.client.tools.create_git_rev
