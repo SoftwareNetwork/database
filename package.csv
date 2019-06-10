@@ -1078,3 +1078,4 @@ package_id,path
 5155,org.sw.demo.tiny_dnn
 5156,org.sw.demo.lewissbaker.cppcoro
 5157,org.sw.sw.client.tools.create_git_rev
+5158,org.sw.demo.iwongu.sqlite3pp

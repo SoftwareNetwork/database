@@ -20791,3 +20791,4 @@ package_version_id,package_id,version_range
 16585,2861,master
 16586,1123,master
 16586,1137,master
+16587,5,>=3.0.0 <4.0.0
