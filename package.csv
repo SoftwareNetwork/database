@@ -923,10 +923,6 @@ package_id,path
 4879,org.sw.demo.dmitigr.pgfe
 4880,org.sw.demo.Manu343726.ctti
 4881,org.sw.demo.davisking.dlib
-4882,pub.lzwdgc.Polygon4.DataManager
-4883,pub.lzwdgc.Polygon4.DataManager.memory
-4884,pub.lzwdgc.Polygon4.DataManager.schema
-4885,pub.lzwdgc.Polygon4.DataManager.tools.generator
 4886,org.sw.demo.intel.opencv.contrib.quality
 4887,org.sw.demo.openexr.b44ExpLogTable
 4888,org.sw.demo.openexr.config
@@ -1082,7 +1078,10 @@ package_id,path
 5162,org.sw.demo.davidstone.concurrent_queue
 5163,org.sw.demo.cameron314.readerwriterqueue
 5164,org.sw.demo.cameron314.concurrentqueue
-5165,org.sw.sw.client.tools.create_git_rev
 5166,org.sw.demo.fmela.libdict
 5167,org.sw.demo.ArtifexSoftware.mupdf
 5168,org.sw.demo.ArtifexSoftware.mutool
+5169,org.sw.sw.client.tools.create_git_rev
+5170,pub.lzwdgc.Polygon4.DataManager
+5171,pub.lzwdgc.Polygon4.DataManager.memory
+5173,pub.lzwdgc.Polygon4.DataManager.tools.generator
