@@ -1077,7 +1077,6 @@ package_id,path
 5154,org.sw.demo.libsigpp
 5155,org.sw.demo.tiny_dnn
 5156,org.sw.demo.lewissbaker.cppcoro
-5157,org.sw.sw.client.tools.create_git_rev
 5158,org.sw.demo.iwongu.sqlite3pp
 5159,org.sw.demo.mavam.libbf
 5160,org.sw.demo.rigtorp.SPSCQueue
@@ -1085,3 +1084,4 @@ package_id,path
 5162,org.sw.demo.davidstone.concurrent_queue
 5163,org.sw.demo.cameron314.readerwriterqueue
 5164,org.sw.demo.cameron314.concurrentqueue
+5165,org.sw.sw.client.tools.create_git_rev
