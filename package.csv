@@ -1082,6 +1082,7 @@ package_id,path
 5167,org.sw.demo.ArtifexSoftware.mupdf
 5168,org.sw.demo.ArtifexSoftware.mutool
 5169,org.sw.sw.client.tools.create_git_rev
-5170,pub.lzwdgc.Polygon4.DataManager
-5171,pub.lzwdgc.Polygon4.DataManager.memory
-5173,pub.lzwdgc.Polygon4.DataManager.tools.generator
+5174,pub.lzwdgc.Polygon4.DataManager
+5175,pub.lzwdgc.Polygon4.DataManager.memory
+5176,pub.lzwdgc.Polygon4.DataManager.schema
+5177,pub.lzwdgc.Polygon4.DataManager.tools.generator
