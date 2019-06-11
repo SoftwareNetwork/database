@@ -1085,3 +1085,4 @@ package_id,path
 5163,org.sw.demo.cameron314.readerwriterqueue
 5164,org.sw.demo.cameron314.concurrentqueue
 5165,org.sw.sw.client.tools.create_git_rev
+5166,org.sw.demo.fmela.libdict
