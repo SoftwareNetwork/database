@@ -1050,8 +1050,6 @@ package_id,path
 5087,org.sw.demo.ArtifexSoftware.bin2coff
 5090,org.sw.demo.mm2.LittleCMS
 5091,org.sw.demo.ghostscript.thirdparty.lcms2
-5094,org.sw.demo.ArtifexSoftware.mupdf
-5095,org.sw.demo.ArtifexSoftware.mutool
 5096,org.sw.demo.mlivesu.cinolib
 5097,org.sw.demo.arun11299.cpp_subprocess
 5098,org.sw.demo.TartanLlama.function_ref
@@ -1086,3 +1084,5 @@ package_id,path
 5164,org.sw.demo.cameron314.concurrentqueue
 5165,org.sw.sw.client.tools.create_git_rev
 5166,org.sw.demo.fmela.libdict
+5167,org.sw.demo.ArtifexSoftware.mupdf
+5168,org.sw.demo.ArtifexSoftware.mutool
