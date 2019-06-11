@@ -898,7 +898,6 @@ package_id,path
 4789,org.sw.demo.boost.outcome
 4790,org.sw.demo.gnome.glib.gmodule
 4791,org.sw.demo.lexxmark.winflexbison.common
-4792,org.sw.demo.opengl
 4814,org.sw.demo.gnu.fribidi.gen.arabic_shaping_tab
 4815,org.sw.demo.gnu.fribidi.gen.bidi_type_tab
 4816,org.sw.demo.gnu.fribidi.gen.brackets_tab
