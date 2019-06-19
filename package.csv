@@ -1093,3 +1093,4 @@ package_id,path
 5204,org.sw.demo.google.tesseract.unicharset_extractor
 5205,org.sw.demo.google.tesseract.unicharset_training
 5206,org.sw.demo.google.tesseract.wordlist2dawg
+5207,org.sw.demo.chriskohlhoff.asio
