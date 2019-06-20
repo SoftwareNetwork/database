@@ -1061,7 +1061,6 @@ package_id,path
 5166,org.sw.demo.fmela.libdict
 5167,org.sw.demo.ArtifexSoftware.mupdf
 5168,org.sw.demo.ArtifexSoftware.mutool
-5169,org.sw.sw.client.tools.create_git_rev
 5174,pub.lzwdgc.Polygon4.DataManager
 5175,pub.lzwdgc.Polygon4.DataManager.memory
 5176,pub.lzwdgc.Polygon4.DataManager.schema
@@ -1094,3 +1093,4 @@ package_id,path
 5205,org.sw.demo.google.tesseract.unicharset_training
 5206,org.sw.demo.google.tesseract.wordlist2dawg
 5207,org.sw.demo.chriskohlhoff.asio
+5208,org.sw.sw.client.tools.create_git_rev
