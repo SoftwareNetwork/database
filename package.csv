@@ -1094,3 +1094,4 @@ package_id,path
 5206,org.sw.demo.google.tesseract.wordlist2dawg
 5207,org.sw.demo.chriskohlhoff.asio
 5208,org.sw.sw.client.tools.create_git_rev
+5209,org.sw.demo.microsoft.mimalloc
