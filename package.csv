@@ -829,7 +829,6 @@ package_id,path
 4576,org.sw.demo.ximion.appstream
 4577,org.sw.demo.weidai11.cryptopp
 4578,org.sw.demo.vincentlaucsb.csv_parser
-4579,org.sw.demo.jlctools.evo
 4580,org.sw.demo.KonanM.static_enum
 4581,org.sw.demo.therocode.meta_enum
 4582,org.sw.demo.google.cctz
@@ -864,7 +863,6 @@ package_id,path
 4658,org.sw.demo.amazon.awslabs.c_io
 4659,org.sw.demo.amazon.awslabs.c_mqtt
 4704,org.sw.demo.redxdev.ECS
-4705,org.sw.demo.LPeter1997.CppCmb
 4706,org.sw.demo.Stiffstream.restinio
 4707,org.sw.demo.niXman.yas
 4708,org.sw.demo.LoopPerfect.neither
@@ -1128,3 +1126,16 @@ package_id,path
 5240,org.sw.demo.nemequ.hedley
 5241,org.sw.demo.SRombauts.SQLiteCpp
 5242,org.sw.demo.fnc12.sqlite_orm
+5243,org.sw.demo.SqliteModernCpp.sqlite_modern_cpp
+5244,org.sw.demo.jlctools.evo
+5245,org.sw.demo.luncliff.coroutine
+5246,org.sw.demo.BlackMATov.flat
+5247,org.sw.demo.TheLartians.Visitor
+5248,org.sw.demo.kenavolic.pipet
+5250,org.sw.demo.p_ranav.pprint
+5251,org.sw.demo.beached.daw_json_link
+5252,org.sw.demo.LIONant.properties
+5253,org.sw.demo.TheLandfill.cpp_cli
+5254,org.sw.demo.bloomen.transwarp
+5255,org.sw.demo.LPeter1997.CppCmb
+5256,org.sw.demo.p_ranav.csv
