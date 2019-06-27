@@ -1065,7 +1065,6 @@ package_id,path
 5177,pub.lzwdgc.Polygon4.DataManager.tools.generator
 5178,org.sw.demo.opengl
 5179,org.sw.demo.qicosmos.iguana
-5180,org.sw.demo.optimad.bitpit
 5181,org.sw.demo.RichieSams.FiberTaskingLib
 5183,org.sw.demo.USCiLab.cereal
 5185,org.sw.demo.qtproject.qt.base.tools.tracegen
@@ -1143,3 +1142,5 @@ package_id,path
 5258,org.sw.demo.xpdf
 5259,org.sw.demo.poppler
 5260,org.sw.demo.LukasBanana.LLGL
+5261,org.sw.demo.Manu343726.tinyrefl
+5262,org.sw.demo.optimad.bitpit
