@@ -1149,3 +1149,4 @@ package_id,path
 5289,org.sw.demo.yasm.tools.genversion
 5290,org.sw.demo.stdcpp_audio.libstdaudio
 5291,org.sw.demo.billyquith.ponder
+5292,org.sw.demo.eyalz800.serializer
