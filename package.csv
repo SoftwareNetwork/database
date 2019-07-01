@@ -1182,3 +1182,6 @@ package_id,path
 5322,org.sw.demo.primitives.version
 5323,org.sw.demo.primitives.win32helpers
 5324,org.sw.demo.primitives.yaml
+5325,org.sw.demo.sgorsten.linalg
+5326,org.sw.demo.yescrypt
+5327,org.sw.demo.scrypt
