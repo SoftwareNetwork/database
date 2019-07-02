@@ -1185,3 +1185,4 @@ package_id,path
 5327,org.sw.demo.scrypt
 5328,org.sw.sw.client.tools.create_git_rev
 5329,org.sw.sw.client.core
+5330,org.sw.demo.google.robotstxt
