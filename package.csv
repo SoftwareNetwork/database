@@ -1011,7 +1011,6 @@ package_id,path
 5068,org.sw.sw.client.sw
 5069,org.sw.sw.client.tools.cl_generator
 5070,org.sw.sw.client.tools.client
-5071,org.sw.sw.client.core
 5072,org.sw.demo.rizkg.BBHash
 5078,org.sw.demo.ArtifexSoftware.jbig2dec
 5083,org.sw.demo.ghostscript.mujs
@@ -1066,7 +1065,6 @@ package_id,path
 5205,org.sw.demo.google.tesseract.unicharset_training
 5206,org.sw.demo.google.tesseract.wordlist2dawg
 5207,org.sw.demo.chriskohlhoff.asio
-5208,org.sw.sw.client.tools.create_git_rev
 5209,org.sw.demo.microsoft.mimalloc
 5210,org.sw.demo.SergiusTheBest.plog
 5211,org.sw.demo.effolkronium.random
@@ -1185,3 +1183,5 @@ package_id,path
 5325,org.sw.demo.sgorsten.linalg
 5326,org.sw.demo.yescrypt
 5327,org.sw.demo.scrypt
+5328,org.sw.sw.client.tools.create_git_rev
+5329,org.sw.sw.client.core
