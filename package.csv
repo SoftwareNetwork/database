@@ -1186,3 +1186,5 @@ package_id,path
 5328,org.sw.sw.client.tools.create_git_rev
 5329,org.sw.sw.client.core
 5330,org.sw.demo.google.robotstxt
+5331,org.sw.demo.kgabis.parson
+5332,org.sw.demo.greg7mdp.parallel_hashmap
