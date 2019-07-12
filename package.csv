@@ -1164,5 +1164,8 @@ package_id,path
 5362,org.sw.demo.BlueBrain.HighFive
 5363,org.sw.demo.thelink2012.any
 5364,org.sw.demo.emcrisostomo.fswatch.lib
-5365,org.sw.demo.ingowald.pbrt_parser
 5366,pub.egorpugin.primitives.xml
+5367,org.sw.demo.ingowald.pbrt_parser
+5369,org.sw.demo.wqking.eventpp
+5370,org.sw.demo.septag.sx
+5371,org.sw.demo.yhirose.cpp_peglib
