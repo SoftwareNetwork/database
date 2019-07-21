@@ -1143,7 +1143,6 @@ package_id,path
 5369,org.sw.demo.wqking.eventpp
 5370,org.sw.demo.septag.sx
 5371,org.sw.demo.yhirose.cpp_peglib
-5372,pub.egorpugin.primitives.xml
 5373,org.sw.sw.client.core
 5374,org.sw.demo.tlk00.BitMagic
 5375,org.sw.demo.yasm.config
@@ -1171,3 +1170,4 @@ package_id,path
 5397,org.sw.demo.yasm.tools.genmacro
 5398,org.sw.demo.yasm.tools.genversion
 5399,org.sw.demo.fukuchi.libqrencode
+5400,pub.egorpugin.primitives.xml
