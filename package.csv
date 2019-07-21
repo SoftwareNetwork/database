@@ -1170,3 +1170,4 @@ package_id,path
 5396,org.sw.demo.yasm.modules.preprocs.raw
 5397,org.sw.demo.yasm.tools.genmacro
 5398,org.sw.demo.yasm.tools.genversion
+5399,org.sw.demo.fukuchi.libqrencode
