@@ -1168,5 +1168,5 @@ package_id,path
 5397,org.sw.demo.yasm.tools.genmacro
 5398,org.sw.demo.yasm.tools.genversion
 5399,org.sw.demo.fukuchi.libqrencode
-5401,org.sw.sw.client.core
-5402,pub.egorpugin.primitives.xml
+5403,pub.egorpugin.primitives.xml
+5404,org.sw.sw.client.core
