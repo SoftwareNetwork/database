@@ -1170,3 +1170,4 @@ package_id,path
 5399,org.sw.demo.fukuchi.libqrencode
 5403,pub.egorpugin.primitives.xml
 5404,org.sw.sw.client.core
+5405,org.sw.demo.ReneNyffenegger.cpp_base64
