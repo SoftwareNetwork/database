@@ -781,9 +781,7 @@ package_id,path
 4491,org.sw.demo.joboccara.NamedType
 4492,org.sw.demo.ned14.outcome
 4493,org.sw.demo.octobanana.belle
-4494,org.sw.demo.openldap.ldap
 4495,org.sw.demo.openldap.ldap_r
-4496,org.sw.demo.openldap.ldapcpp
 4497,org.sw.demo.LLNL.cfp
 4498,org.sw.demo.LLNL.zfp
 4499,org.sw.demo.ademakov.Oroch
@@ -1171,3 +1169,5 @@ package_id,path
 5403,pub.egorpugin.primitives.xml
 5404,org.sw.sw.client.core
 5405,org.sw.demo.ReneNyffenegger.cpp_base64
+5406,org.sw.demo.openldap.ldap
+5407,org.sw.demo.openldap.ldapcpp
