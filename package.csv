@@ -1173,3 +1173,5 @@ package_id,path
 5410,pub.egorpugin.primitives.xml
 5411,org.sw.demo.ulfjack.ryu
 5413,org.sw.demo.hasherezade.libpeconv
+5414,org.sw.demo.uClibc_ng.config
+5415,org.sw.demo.uClibc_ng.libc
