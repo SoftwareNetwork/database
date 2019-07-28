@@ -1166,11 +1166,9 @@ package_id,path
 5397,org.sw.demo.yasm.tools.genmacro
 5398,org.sw.demo.yasm.tools.genversion
 5399,org.sw.demo.fukuchi.libqrencode
-5404,org.sw.sw.client.core
 5405,org.sw.demo.ReneNyffenegger.cpp_base64
 5408,org.sw.demo.openldap.ldap
 5409,org.sw.demo.openldap.ldapcpp
-5410,pub.egorpugin.primitives.xml
 5411,org.sw.demo.ulfjack.ryu
 5413,org.sw.demo.hasherezade.libpeconv
 5414,org.sw.demo.uClibc_ng.config
@@ -1178,3 +1176,7 @@ package_id,path
 5416,org.sw.demo.fraillt.bitsery
 5417,org.sw.demo.eliasdaler.MetaStuff
 5418,org.sw.demo.google.libnop
+5419,org.sw.demo.google.flatbuffers
+5420,org.sw.demo.google.flatbuffers.flatc
+5421,org.sw.sw.client.core
+5422,pub.egorpugin.primitives.xml
