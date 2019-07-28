@@ -1175,3 +1175,6 @@ package_id,path
 5413,org.sw.demo.hasherezade.libpeconv
 5414,org.sw.demo.uClibc_ng.config
 5415,org.sw.demo.uClibc_ng.libc
+5416,org.sw.demo.fraillt.bitsery
+5417,org.sw.demo.eliasdaler.MetaStuff
+5418,org.sw.demo.google.libnop
