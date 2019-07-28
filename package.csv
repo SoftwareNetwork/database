@@ -1180,3 +1180,5 @@ package_id,path
 5420,org.sw.demo.google.flatbuffers.flatc
 5421,org.sw.sw.client.core
 5423,pub.egorpugin.primitives.xml
+5424,org.sw.demo.llvm_project.llvm.demangle
+5425,org.sw.demo.llvm_project.llvm.support_lite
