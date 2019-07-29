@@ -1161,7 +1161,6 @@ package_id,path
 5419,org.sw.demo.google.flatbuffers
 5420,org.sw.demo.google.flatbuffers.flatc
 5421,org.sw.sw.client.core
-5423,pub.egorpugin.primitives.xml
 5424,org.sw.demo.llvm_project.llvm.demangle
 5425,org.sw.demo.llvm_project.llvm.support_lite
 5444,org.sw.demo.google.tesseract.ambiguous_words
@@ -1182,3 +1181,4 @@ package_id,path
 5459,org.sw.demo.google.tesseract.unicharset_extractor
 5460,org.sw.demo.google.tesseract.unicharset_training
 5461,org.sw.demo.google.tesseract.wordlist2dawg
+5462,pub.egorpugin.primitives.xml
