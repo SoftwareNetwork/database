@@ -1159,7 +1159,6 @@ package_id,path
 5418,org.sw.demo.google.libnop
 5419,org.sw.demo.google.flatbuffers
 5420,org.sw.demo.google.flatbuffers.flatc
-5421,org.sw.sw.client.core
 5424,org.sw.demo.llvm_project.llvm.demangle
 5425,org.sw.demo.llvm_project.llvm.support_lite
 5444,org.sw.demo.google.tesseract.ambiguous_words
@@ -1184,3 +1183,4 @@ package_id,path
 5464,pub.egorpugin.primitives.xml
 5466,org.sw.demo.google.re2
 5467,org.sw.demo.opengl
+5469,org.sw.sw.client.core
