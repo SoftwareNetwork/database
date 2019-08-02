@@ -1035,7 +1035,6 @@ package_id,path
 5175,pub.lzwdgc.Polygon4.DataManager.memory
 5176,pub.lzwdgc.Polygon4.DataManager.schema
 5177,pub.lzwdgc.Polygon4.DataManager.tools.generator
-5178,org.sw.demo.opengl
 5179,org.sw.demo.qicosmos.iguana
 5181,org.sw.demo.RichieSams.FiberTaskingLib
 5183,org.sw.demo.USCiLab.cereal
@@ -1183,3 +1182,5 @@ package_id,path
 5461,org.sw.demo.google.tesseract.wordlist2dawg
 5463,org.sw.demo.google.libphonenumber.cpp
 5464,pub.egorpugin.primitives.xml
+5466,org.sw.demo.google.re2
+5467,org.sw.demo.opengl
