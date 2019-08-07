@@ -220,8 +220,6 @@ package_id,path
 1493,org.sw.demo.google.grpc.grpc
 1494,org.sw.demo.google.grpc.grpcpp_base
 1531,org.sw.demo.emweb.wt.wt
-1536,org.sw.demo.google.breakpad.client.windows.crash_generation.client
-1537,org.sw.demo.google.breakpad.client.windows.crash_generation.server
 1538,org.sw.demo.google.breakpad.client.windows.handler
 1549,pub.egorpugin.primitives.tools.sqlpp11.sqlite2cpp
 1572,org.sw.demo.gif
@@ -886,12 +884,9 @@ package_id,path
 4761,org.sw.demo.ampl.mp
 4762,org.sw.demo.cginternals.glbinding
 4782,org.sw.demo.gnu.nettle
-4786,org.sw.demo.google.breakpad
-4787,org.sw.demo.google.breakpad.common.windows
 4788,org.sw.demo.boost.histogram
 4789,org.sw.demo.boost.outcome
 4790,org.sw.demo.gnome.glib.gmodule
-4791,org.sw.demo.lexxmark.winflexbison.common
 4814,org.sw.demo.gnu.fribidi.gen.arabic_shaping_tab
 4815,org.sw.demo.gnu.fribidi.gen.bidi_type_tab
 4816,org.sw.demo.gnu.fribidi.gen.brackets_tab
@@ -1184,3 +1179,4 @@ package_id,path
 5467,org.sw.demo.opengl
 5470,org.sw.sw.client.core
 5471,pub.egorpugin.primitives.xml
+5472,org.sw.demo.lexxmark.winflexbison.common
