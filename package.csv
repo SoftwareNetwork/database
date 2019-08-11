@@ -1164,8 +1164,6 @@ package_id,path
 5473,org.sw.demo.google.breakpad.common.windows
 5474,org.sw.demo.libressl.crypto
 5477,org.sw.demo.lexxmark.winflexbison.common
-5479,org.sw.sw.client.core
-5480,pub.egorpugin.primitives.xml
 5481,org.sw.demo.danbloomberg.leptonica.progs.adaptmap_dark
 5482,org.sw.demo.danbloomberg.leptonica.progs.adaptmap_reg
 5483,org.sw.demo.danbloomberg.leptonica.progs.adaptnorm_reg
@@ -1462,3 +1460,5 @@ package_id,path
 5792,org.sw.demo.google.tesseract.unicharset_extractor
 5793,org.sw.demo.google.tesseract.unicharset_training
 5794,org.sw.demo.google.tesseract.wordlist2dawg
+5795,pub.egorpugin.primitives.xml
+5796,org.sw.sw.client.core
