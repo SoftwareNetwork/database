@@ -1461,3 +1461,4 @@ package_id,path
 5794,org.sw.demo.google.tesseract.wordlist2dawg
 5795,pub.egorpugin.primitives.xml
 5797,org.sw.sw.client.core
+5798,org.sw.demo.google.protocolbuffers.upb.upb
