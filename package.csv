@@ -1464,7 +1464,10 @@ package_id,path
 5798,org.sw.demo.google.protocolbuffers.upb.upb
 5801,org.sw.demo.census.opencensus.cpp
 5802,org.sw.demo.google.grpc.core.lib
-5807,org.sw.demo.google.grpc.cpp
-5808,org.sw.demo.google.grpc.cpp.plugin
-5809,org.sw.demo.google.grpc.plugin_support
-5810,org.sw.demo.google.grpc.proto
+5811,org.sw.demo.google.grpc.core.ext
+5812,org.sw.demo.google.grpc.core.plugin_registry
+5813,org.sw.demo.google.grpc.core.tsi
+5814,org.sw.demo.google.grpc.cpp
+5815,org.sw.demo.google.grpc.cpp.plugin
+5816,org.sw.demo.google.grpc.plugin_support
+5817,org.sw.demo.google.grpc.proto
