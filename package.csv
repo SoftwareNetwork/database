@@ -1464,7 +1464,6 @@ package_id,path
 5811,org.sw.demo.google.grpc.core.ext
 5821,org.sw.demo.google.grpc.cpp
 5822,org.sw.demo.google.grpc.cpp.plugin
-5825,org.sw.sw.client.core
 5827,org.sw.demo.google.grpc.core.lib
 5828,org.sw.demo.google.grpc.core.plugin_registry
 5829,org.sw.demo.google.grpc.core.tsi
@@ -1475,3 +1474,4 @@ package_id,path
 5834,org.sw.demo.AgnerF.vectorclass
 5835,org.sw.demo.anatoliifrolov.postgres_cxx_client
 5836,pub.egorpugin.primitives.xml
+5837,org.sw.sw.client.core
