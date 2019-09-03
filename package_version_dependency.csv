@@ -32477,3 +32477,10 @@ package_version_id,package_id,version_range
 20703,1131,master
 20703,2807,master
 20703,4617,master
+20704,541,*
+20704,622,*
+20705,1137,master
+20705,1263,master
+20706,1137,master
+20706,2790,0.3.1
+20706,4617,master
