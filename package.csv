@@ -1476,3 +1476,4 @@ package_id,path
 5842,org.sw.sw.client.core
 5843,org.sw.demo.Cyan4973.xxHash
 5844,org.sw.demo.AlexeyAB.object_threadsafe
+5845,org.sw.demo.efficient.libcuckoo
