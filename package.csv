@@ -628,7 +628,6 @@ package_id,path
 4271,org.sw.demo.nih_at.libzip
 4272,org.sw.demo.ctabin.libzippp
 4273,org.sw.demo.troldal.OpenXLSX
-4274,org.sw.demo.libxls
 4275,org.sw.demo.jmcnamara.libxlsxwriter
 4287,org.sw.demo.sfml.Audio
 4288,org.sw.demo.sfml.Graphics
@@ -1477,3 +1476,4 @@ package_id,path
 5843,org.sw.demo.Cyan4973.xxHash
 5844,org.sw.demo.AlexeyAB.object_threadsafe
 5845,org.sw.demo.efficient.libcuckoo
+5846,org.sw.demo.libxls
