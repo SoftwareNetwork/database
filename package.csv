@@ -935,7 +935,6 @@ package_id,path
 4915,org.sw.demo.google.angle.third_party.systeminfo
 4916,org.sw.demo.google.angle.util.image
 4918,org.sw.demo.re2c.libre2c
-4919,org.sw.demo.google.angle.third_party.xxhash
 4947,org.sw.demo.antlr.runtime.cpp
 4948,org.sw.demo.zaphoyd.websocketpp
 4950,org.sw.demo.google.brotli
@@ -1477,3 +1476,4 @@ package_id,path
 5844,org.sw.demo.AlexeyAB.object_threadsafe
 5845,org.sw.demo.efficient.libcuckoo
 5846,org.sw.demo.libxls
+5847,org.sw.demo.google.angle.third_party.xxhash
