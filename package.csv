@@ -1471,9 +1471,11 @@ package_id,path
 5834,org.sw.demo.AgnerF.vectorclass
 5835,org.sw.demo.anatoliifrolov.postgres_cxx_client
 5836,pub.egorpugin.primitives.xml
-5842,org.sw.sw.client.core
 5843,org.sw.demo.Cyan4973.xxHash
 5844,org.sw.demo.AlexeyAB.object_threadsafe
 5845,org.sw.demo.efficient.libcuckoo
 5846,org.sw.demo.libxls
 5850,org.sw.demo.google.angle.third_party.xxhash
+5851,org.sw.sw.client.core
+5852,org.sw.sw.client.sw.common
+5853,org.sw.sw.client.sw.gui
