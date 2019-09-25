@@ -1479,3 +1479,10 @@ package_id,path
 5851,org.sw.sw.client.core
 5852,org.sw.sw.client.sw.common
 5853,org.sw.sw.client.sw.gui
+5854,org.sw.demo.danbloomberg.leptonica.progs.deskew_it
+5855,org.sw.demo.danbloomberg.leptonica.progs.lowsat_reg
+5856,org.sw.demo.danbloomberg.leptonica.progs.pdfio1_reg
+5857,org.sw.demo.danbloomberg.leptonica.progs.pdfio2_reg
+5858,org.sw.demo.danbloomberg.leptonica.progs.rectangle_reg
+5859,org.sw.demo.danbloomberg.leptonica.progs.rotate_it
+5860,org.sw.demo.danbloomberg.leptonica.progs.scale_it
