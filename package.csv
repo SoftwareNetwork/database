@@ -1476,9 +1476,6 @@ package_id,path
 5845,org.sw.demo.efficient.libcuckoo
 5846,org.sw.demo.libxls
 5850,org.sw.demo.google.angle.third_party.xxhash
-5851,org.sw.sw.client.core
-5852,org.sw.sw.client.sw.common
-5853,org.sw.sw.client.sw.gui
 5854,org.sw.demo.danbloomberg.leptonica.progs.deskew_it
 5855,org.sw.demo.danbloomberg.leptonica.progs.lowsat_reg
 5856,org.sw.demo.danbloomberg.leptonica.progs.pdfio1_reg
@@ -1486,3 +1483,6 @@ package_id,path
 5858,org.sw.demo.danbloomberg.leptonica.progs.rectangle_reg
 5859,org.sw.demo.danbloomberg.leptonica.progs.rotate_it
 5860,org.sw.demo.danbloomberg.leptonica.progs.scale_it
+5861,org.sw.sw.client.core
+5862,org.sw.sw.client.sw.common
+5863,org.sw.sw.client.sw.gui
