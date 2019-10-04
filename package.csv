@@ -524,7 +524,6 @@ package_id,path
 3858,org.sw.demo.qtproject.qt.base.tools.qfloat16_tables
 3867,pub.egorpugin.test.main.fortran
 3998,org.sw.demo.xiph.flac.libflac
-3999,org.sw.demo.xiph.flac.libflacpp
 4000,org.sw.demo.xiph.vorbis.vorbisfile
 4004,org.sw.demo.stb.all
 4005,org.sw.demo.stb.image
@@ -1486,3 +1485,4 @@ package_id,path
 5864,org.sw.sw.client.core
 5865,org.sw.sw.client.sw.common
 5866,org.sw.sw.client.sw.gui
+5867,org.sw.demo.xiph.flac.libflacpp
