@@ -1492,3 +1492,4 @@ package_id,path
 5872,org.sw.demo.mpg123.compat
 5873,org.sw.demo.mpg123.mpg123
 5874,org.sw.demo.mpg123.out123
+5875,org.sw.demo.libmad
