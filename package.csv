@@ -1489,3 +1489,6 @@ package_id,path
 5869,org.sw.demo.xiph.opusfile
 5870,org.sw.demo.konstanty.libmodplug
 5871,org.sw.demo.sezero.mikmod
+5872,org.sw.demo.mpg123.compat
+5873,org.sw.demo.mpg123.mpg123
+5874,org.sw.demo.mpg123.out123
