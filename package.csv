@@ -1488,3 +1488,4 @@ package_id,path
 5867,org.sw.demo.xiph.flac.libflacpp
 5869,org.sw.demo.xiph.opusfile
 5870,org.sw.demo.konstanty.libmodplug
+5871,org.sw.demo.sezero.mikmod
