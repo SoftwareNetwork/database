@@ -1499,3 +1499,4 @@ package_id,path
 5882,org.sw.demo.FluidSynth.gentables
 5884,org.sw.demo.freedesktop.uchardet
 5885,org.sw.demo.valve.sdl.mixer
+5886,org.sw.demo.Wohlstand.libOPNMIDI
