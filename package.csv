@@ -1500,3 +1500,4 @@ package_id,path
 5884,org.sw.demo.freedesktop.uchardet
 5885,org.sw.demo.valve.sdl.mixer
 5886,org.sw.demo.Wohlstand.libOPNMIDI
+5887,org.sw.demo.Wohlstand.libADLMIDI
