@@ -1498,3 +1498,4 @@ package_id,path
 5881,org.sw.demo.FluidSynth.fluidsynth
 5882,org.sw.demo.FluidSynth.gentables
 5883,org.sw.demo.valve.sdl.mixer
+5884,org.sw.demo.freedesktop.uchardet
