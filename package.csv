@@ -1494,3 +1494,4 @@ package_id,path
 5874,org.sw.demo.mpg123.out123
 5875,org.sw.demo.libmad
 5876,org.sw.demo.erikd.libsndfile
+5877,org.sw.demo.swami.libinstpatch
