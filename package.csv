@@ -1502,3 +1502,4 @@ package_id,path
 5886,org.sw.demo.Wohlstand.libOPNMIDI
 5887,org.sw.demo.Wohlstand.libADLMIDI
 5888,org.sw.demo.sezero.libtimidity
+5889,org.sw.demo.WohlSoft.sdl.mixer
