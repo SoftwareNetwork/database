@@ -1475,13 +1475,6 @@ package_id,path
 5845,org.sw.demo.efficient.libcuckoo
 5846,org.sw.demo.libxls
 5850,org.sw.demo.google.angle.third_party.xxhash
-5854,org.sw.demo.danbloomberg.leptonica.progs.deskew_it
-5855,org.sw.demo.danbloomberg.leptonica.progs.lowsat_reg
-5856,org.sw.demo.danbloomberg.leptonica.progs.pdfio1_reg
-5857,org.sw.demo.danbloomberg.leptonica.progs.pdfio2_reg
-5858,org.sw.demo.danbloomberg.leptonica.progs.rectangle_reg
-5859,org.sw.demo.danbloomberg.leptonica.progs.rotate_it
-5860,org.sw.demo.danbloomberg.leptonica.progs.scale_it
 5864,org.sw.sw.client.core
 5865,org.sw.sw.client.sw.common
 5866,org.sw.sw.client.sw.gui
@@ -1507,3 +1500,10 @@ package_id,path
 5893,org.sw.demo.4creators.jxrlib
 5894,org.sw.demo.libraw
 5895,org.sw.demo.freeimage.freeimage
+5896,org.sw.demo.danbloomberg.leptonica.progs.deskew_it
+5897,org.sw.demo.danbloomberg.leptonica.progs.lowsat_reg
+5898,org.sw.demo.danbloomberg.leptonica.progs.pdfio1_reg
+5899,org.sw.demo.danbloomberg.leptonica.progs.pdfio2_reg
+5900,org.sw.demo.danbloomberg.leptonica.progs.rectangle_reg
+5901,org.sw.demo.danbloomberg.leptonica.progs.rotate_it
+5902,org.sw.demo.danbloomberg.leptonica.progs.scale_it
