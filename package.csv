@@ -1456,9 +1456,6 @@ package_id,path
 5845,org.sw.demo.efficient.libcuckoo
 5846,org.sw.demo.libxls
 5850,org.sw.demo.google.angle.third_party.xxhash
-5864,org.sw.sw.client.core
-5865,org.sw.sw.client.sw.common
-5866,org.sw.sw.client.sw.gui
 5867,org.sw.demo.xiph.flac.libflacpp
 5869,org.sw.demo.xiph.opusfile
 5870,org.sw.demo.konstanty.libmodplug
@@ -1508,3 +1505,6 @@ package_id,path
 5938,org.sw.demo.google.tesseract.wordlist2dawg
 5939,pub.egorpugin.primitives.grpc_helpers
 5940,pub.egorpugin.primitives.xml
+5941,org.sw.sw.client.core
+5942,org.sw.sw.client.sw.common
+5943,org.sw.sw.client.sw.gui
