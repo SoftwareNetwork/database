@@ -1449,7 +1449,6 @@ package_id,path
 5831,org.sw.demo.google.grpc.proto
 5832,org.sw.demo.boost.variant2
 5833,org.sw.demo.bernedom.SI
-5834,org.sw.demo.AgnerF.vectorclass
 5835,org.sw.demo.anatoliifrolov.postgres_cxx_client
 5843,org.sw.demo.Cyan4973.xxHash
 5844,org.sw.demo.AlexeyAB.object_threadsafe
@@ -1508,3 +1507,4 @@ package_id,path
 5941,org.sw.sw.client.core
 5942,org.sw.sw.client.sw.common
 5943,org.sw.sw.client.sw.gui
+5945,org.sw.demo.AgnerF.vectorclass
