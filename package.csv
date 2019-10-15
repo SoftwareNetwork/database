@@ -1508,3 +1508,4 @@ package_id,path
 5942,org.sw.sw.client.sw.common
 5943,org.sw.sw.client.sw.gui
 5945,org.sw.demo.AgnerF.vectorclass
+5946,org.sw.demo.jinja2cpp
