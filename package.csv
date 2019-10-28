@@ -1033,8 +1033,6 @@ package_id,path
 5183,org.sw.demo.USCiLab.cereal
 5185,org.sw.demo.qtproject.qt.base.tools.tracegen
 5186,org.sw.demo.videolan.dav1d
-5187,org.sw.demo.videolan.dav1d.bitdepth16
-5188,org.sw.demo.videolan.dav1d.bitdepth8
 5207,org.sw.demo.chriskohlhoff.asio
 5209,org.sw.demo.microsoft.mimalloc
 5210,org.sw.demo.SergiusTheBest.plog
@@ -1510,3 +1508,5 @@ package_id,path
 5945,org.sw.demo.AgnerF.vectorclass
 5946,org.sw.demo.jinja2cpp
 5947,org.sw.demo.google.gumbo_parser
+5948,org.sw.demo.videolan.dav1d.bitdepth16
+5949,org.sw.demo.videolan.dav1d.bitdepth8
