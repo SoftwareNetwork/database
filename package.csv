@@ -1501,7 +1501,6 @@ package_id,path
 5937,org.sw.demo.google.tesseract.unicharset_training
 5938,org.sw.demo.google.tesseract.wordlist2dawg
 5939,pub.egorpugin.primitives.grpc_helpers
-5940,pub.egorpugin.primitives.xml
 5941,org.sw.sw.client.core
 5942,org.sw.sw.client.sw.common
 5943,org.sw.sw.client.sw.gui
@@ -1510,3 +1509,4 @@ package_id,path
 5947,org.sw.demo.google.gumbo_parser
 5948,org.sw.demo.videolan.dav1d.bitdepth16
 5949,org.sw.demo.videolan.dav1d.bitdepth8
+5950,pub.egorpugin.primitives.xml
