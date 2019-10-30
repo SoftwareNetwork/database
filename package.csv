@@ -1506,6 +1506,7 @@ package_id,path
 5948,org.sw.demo.videolan.dav1d.bitdepth16
 5949,org.sw.demo.videolan.dav1d.bitdepth8
 5951,pub.egorpugin.primitives.xml
-5956,pub.lzwdgc.Polygon4.DataManager
-5957,pub.lzwdgc.Polygon4.DataManager.memory
-5959,pub.lzwdgc.Polygon4.DataManager.tools.generator
+5960,pub.lzwdgc.Polygon4.DataManager
+5961,pub.lzwdgc.Polygon4.DataManager.memory
+5962,pub.lzwdgc.Polygon4.DataManager.schema
+5963,pub.lzwdgc.Polygon4.DataManager.tools.generator
