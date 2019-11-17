@@ -1511,3 +1511,6 @@ package_id,path
 5966,org.sw.sw.client.core
 5967,org.sw.sw.client.sw.common
 5968,org.sw.sw.client.sw.gui
+5969,org.sw.demo.llvm_project.libcxx
+5970,org.sw.demo.llvm_project.libcxxabi
+5971,org.sw.demo.llvm_project.libunwind
