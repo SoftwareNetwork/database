@@ -1514,3 +1514,4 @@ package_id,path
 5978,org.sw.demo.llvm_project.libcxx
 5979,org.sw.demo.llvm_project.libcxxabi
 5980,org.sw.demo.llvm_project.libunwind
+5981,org.sw.demo.litehtml
