@@ -255,7 +255,6 @@ package_id,path
 1807,org.sw.demo.unicode.icu.data
 1815,org.sw.demo.unicode.icu.stub.i18n
 1820,org.sw.demo.unicode.icu.stub.genccode
-1821,org.sw.demo.google.tesseract.libtesseract
 1840,pub.egorpugin.primitives.tools.syncqt
 1844,org.sw.demo.google.double_conversion
 1855,org.sw.demo.google.angle.angle
