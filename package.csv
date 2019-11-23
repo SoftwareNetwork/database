@@ -1512,3 +1512,6 @@ package_id,path
 5994,org.sw.demo.google.tesseract.tesseract
 5995,org.sw.demo.google.tesseract.tessopt
 5996,org.sw.demo.google.tesseract.text2image
+5997,org.sw.demo.google.tesseract.unicharset_extractor
+5998,org.sw.demo.google.tesseract.unicharset_training
+5999,org.sw.demo.google.tesseract.wordlist2dawg
