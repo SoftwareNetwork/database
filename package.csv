@@ -1490,9 +1490,6 @@ package_id,path
 5963,pub.lzwdgc.Polygon4.DataManager.tools.generator
 5964,pub.egorpugin.primitives.wt
 5965,pub.egorpugin.primitives.xml
-5966,org.sw.sw.client.core
-5967,org.sw.sw.client.sw.common
-5968,org.sw.sw.client.sw.gui
 5978,org.sw.demo.llvm_project.libcxx
 5979,org.sw.demo.llvm_project.libcxxabi
 5980,org.sw.demo.llvm_project.libunwind
@@ -1516,3 +1513,6 @@ package_id,path
 5998,org.sw.demo.google.tesseract.unicharset_training
 5999,org.sw.demo.google.tesseract.wordlist2dawg
 6000,org.sw.demo.libffi
+6001,org.sw.sw.client.core
+6002,org.sw.sw.client.sw.common
+6003,org.sw.sw.client.sw.gui
