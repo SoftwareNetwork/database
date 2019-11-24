@@ -1515,3 +1515,4 @@ package_id,path
 5997,org.sw.demo.google.tesseract.unicharset_extractor
 5998,org.sw.demo.google.tesseract.unicharset_training
 5999,org.sw.demo.google.tesseract.wordlist2dawg
+6000,org.sw.demo.libffi
