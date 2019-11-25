@@ -1488,8 +1488,6 @@ package_id,path
 5961,pub.lzwdgc.Polygon4.DataManager.memory
 5962,pub.lzwdgc.Polygon4.DataManager.schema
 5963,pub.lzwdgc.Polygon4.DataManager.tools.generator
-5964,pub.egorpugin.primitives.wt
-5965,pub.egorpugin.primitives.xml
 5978,org.sw.demo.llvm_project.libcxx
 5979,org.sw.demo.llvm_project.libcxxabi
 5980,org.sw.demo.llvm_project.libunwind
@@ -1516,3 +1514,5 @@ package_id,path
 6004,org.sw.sw.client.core
 6005,org.sw.sw.client.sw.common
 6006,org.sw.sw.client.sw.gui
+6007,pub.egorpugin.primitives.wt
+6008,pub.egorpugin.primitives.xml
