@@ -1513,6 +1513,6 @@ package_id,path
 5998,org.sw.demo.google.tesseract.unicharset_training
 5999,org.sw.demo.google.tesseract.wordlist2dawg
 6000,org.sw.demo.libffi
-6001,org.sw.sw.client.core
-6002,org.sw.sw.client.sw.common
-6003,org.sw.sw.client.sw.gui
+6004,org.sw.sw.client.core
+6005,org.sw.sw.client.sw.common
+6006,org.sw.sw.client.sw.gui
