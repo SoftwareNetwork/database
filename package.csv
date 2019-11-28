@@ -1488,9 +1488,6 @@ package_id,path
 5961,pub.lzwdgc.Polygon4.DataManager.memory
 5962,pub.lzwdgc.Polygon4.DataManager.schema
 5963,pub.lzwdgc.Polygon4.DataManager.tools.generator
-5978,org.sw.demo.llvm_project.libcxx
-5979,org.sw.demo.llvm_project.libcxxabi
-5980,org.sw.demo.llvm_project.libunwind
 5981,org.sw.demo.litehtml
 5982,org.sw.demo.google.tesseract.ambiguous_words
 5983,org.sw.demo.google.tesseract.classifier_tester
@@ -1516,3 +1513,6 @@ package_id,path
 6006,org.sw.sw.client.sw.gui
 6007,pub.egorpugin.primitives.wt
 6008,pub.egorpugin.primitives.xml
+6009,org.sw.demo.llvm_project.libcxx
+6010,org.sw.demo.llvm_project.libcxxabi
+6011,org.sw.demo.llvm_project.libunwind
