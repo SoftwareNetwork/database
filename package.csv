@@ -1511,8 +1511,8 @@ package_id,path
 6004,org.sw.sw.client.core
 6005,org.sw.sw.client.sw.common
 6006,org.sw.sw.client.sw.gui
-6007,pub.egorpugin.primitives.wt
-6008,pub.egorpugin.primitives.xml
 6012,org.sw.demo.llvm_project.libcxx
 6013,org.sw.demo.llvm_project.libcxxabi
 6014,org.sw.demo.llvm_project.libunwind
+6015,pub.egorpugin.primitives.wt
+6016,pub.egorpugin.primitives.xml
