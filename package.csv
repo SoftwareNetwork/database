@@ -1508,11 +1508,10 @@ package_id,path
 5998,org.sw.demo.google.tesseract.unicharset_training
 5999,org.sw.demo.google.tesseract.wordlist2dawg
 6000,org.sw.demo.libffi
-6004,org.sw.sw.client.core
-6005,org.sw.sw.client.sw.common
-6006,org.sw.sw.client.sw.gui
 6012,org.sw.demo.llvm_project.libcxx
 6013,org.sw.demo.llvm_project.libcxxabi
 6014,org.sw.demo.llvm_project.libunwind
 6015,pub.egorpugin.primitives.wt
 6016,pub.egorpugin.primitives.xml
+6017,org.sw.sw.client.core
+6018,org.sw.sw.client.sw.common
