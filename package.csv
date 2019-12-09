@@ -1488,7 +1488,6 @@ package_id,path
 5961,pub.lzwdgc.Polygon4.DataManager.memory
 5962,pub.lzwdgc.Polygon4.DataManager.schema
 5963,pub.lzwdgc.Polygon4.DataManager.tools.generator
-5981,org.sw.demo.litehtml
 5982,org.sw.demo.google.tesseract.ambiguous_words
 5983,org.sw.demo.google.tesseract.classifier_tester
 5984,org.sw.demo.google.tesseract.cntraining
@@ -1515,3 +1514,4 @@ package_id,path
 6016,pub.egorpugin.primitives.xml
 6017,org.sw.sw.client.core
 6018,org.sw.sw.client.sw.common
+6019,org.sw.demo.litehtml
