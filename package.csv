@@ -1507,8 +1507,6 @@ package_id,path
 5998,org.sw.demo.google.tesseract.unicharset_training
 5999,org.sw.demo.google.tesseract.wordlist2dawg
 6000,org.sw.demo.libffi
-6015,pub.egorpugin.primitives.wt
-6016,pub.egorpugin.primitives.xml
 6019,org.sw.demo.litehtml
 6020,org.sw.sw.client.core
 6021,org.sw.sw.client.sw.common
@@ -1518,3 +1516,5 @@ package_id,path
 6025,org.sw.demo.mity.md4c
 6026,org.sw.demo.qtproject.qt.declarative.qml.models
 6027,org.sw.demo.qtproject.qt.declarative.qml.workerscript
+6028,pub.egorpugin.primitives.wt
+6029,pub.egorpugin.primitives.xml
