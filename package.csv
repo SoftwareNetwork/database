@@ -1516,3 +1516,5 @@ package_id,path
 6023,org.sw.demo.llvm_project.libcxxabi
 6024,org.sw.demo.llvm_project.libunwind
 6025,org.sw.demo.mity.md4c
+6026,org.sw.demo.qtproject.qt.declarative.qml.models
+6027,org.sw.demo.qtproject.qt.declarative.qml.workerscript
