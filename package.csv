@@ -1514,8 +1514,6 @@ package_id,path
 6025,org.sw.demo.mity.md4c
 6026,org.sw.demo.qtproject.qt.declarative.qml.models
 6027,org.sw.demo.qtproject.qt.declarative.qml.workerscript
-6028,pub.egorpugin.primitives.wt
-6029,pub.egorpugin.primitives.xml
 6030,org.sw.sw.client.core
 6031,org.sw.sw.client.sw.common
 6032,org.sw.demo.CLIUtils.CLI11
