@@ -1518,3 +1518,4 @@ package_id,path
 6029,pub.egorpugin.primitives.xml
 6030,org.sw.sw.client.core
 6031,org.sw.sw.client.sw.common
+6032,org.sw.demo.CLIUtils.CLI11
