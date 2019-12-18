@@ -1508,8 +1508,6 @@ package_id,path
 5999,org.sw.demo.google.tesseract.wordlist2dawg
 6000,org.sw.demo.libffi
 6019,org.sw.demo.litehtml
-6020,org.sw.sw.client.core
-6021,org.sw.sw.client.sw.common
 6022,org.sw.demo.llvm_project.libcxx
 6023,org.sw.demo.llvm_project.libcxxabi
 6024,org.sw.demo.llvm_project.libunwind
@@ -1518,3 +1516,5 @@ package_id,path
 6027,org.sw.demo.qtproject.qt.declarative.qml.workerscript
 6028,pub.egorpugin.primitives.wt
 6029,pub.egorpugin.primitives.xml
+6030,org.sw.sw.client.core
+6031,org.sw.sw.client.sw.common
