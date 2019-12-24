@@ -1484,10 +1484,6 @@ package_id,path
 5947,org.sw.demo.google.gumbo_parser
 5948,org.sw.demo.videolan.dav1d.bitdepth16
 5949,org.sw.demo.videolan.dav1d.bitdepth8
-5960,pub.lzwdgc.Polygon4.DataManager
-5961,pub.lzwdgc.Polygon4.DataManager.memory
-5962,pub.lzwdgc.Polygon4.DataManager.schema
-5963,pub.lzwdgc.Polygon4.DataManager.tools.generator
 5982,org.sw.demo.google.tesseract.ambiguous_words
 5983,org.sw.demo.google.tesseract.classifier_tester
 5984,org.sw.demo.google.tesseract.cntraining
@@ -1519,3 +1515,7 @@ package_id,path
 6034,pub.egorpugin.primitives.xml
 6035,org.sw.sw.client.core
 6036,org.sw.sw.client.sw.common
+6037,pub.lzwdgc.Polygon4.DataManager
+6038,pub.lzwdgc.Polygon4.DataManager.memory
+6039,pub.lzwdgc.Polygon4.DataManager.schema
+6040,pub.lzwdgc.Polygon4.DataManager.tools.generator
