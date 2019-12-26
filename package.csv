@@ -1511,11 +1511,11 @@ package_id,path
 6026,org.sw.demo.qtproject.qt.declarative.qml.models
 6027,org.sw.demo.qtproject.qt.declarative.qml.workerscript
 6032,org.sw.demo.CLIUtils.CLI11
-6033,pub.egorpugin.primitives.wt
-6034,pub.egorpugin.primitives.xml
-6035,org.sw.sw.client.core
-6036,org.sw.sw.client.sw.common
 6037,pub.lzwdgc.Polygon4.DataManager
 6038,pub.lzwdgc.Polygon4.DataManager.memory
 6039,pub.lzwdgc.Polygon4.DataManager.schema
 6040,pub.lzwdgc.Polygon4.DataManager.tools.generator
+6041,org.sw.sw.client.core
+6042,org.sw.sw.client.sw.common
+6045,pub.egorpugin.primitives.wt
+6046,pub.egorpugin.primitives.xml
