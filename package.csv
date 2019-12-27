@@ -1515,8 +1515,8 @@ package_id,path
 6038,pub.lzwdgc.Polygon4.DataManager.memory
 6039,pub.lzwdgc.Polygon4.DataManager.schema
 6040,pub.lzwdgc.Polygon4.DataManager.tools.generator
-6041,org.sw.sw.client.core
-6042,org.sw.sw.client.sw.common
 6045,pub.egorpugin.primitives.wt
 6046,pub.egorpugin.primitives.xml
 6048,org.sw.demo.Microsoft.STL
+6049,org.sw.sw.client.core
+6050,org.sw.sw.client.sw.common
