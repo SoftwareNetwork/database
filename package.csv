@@ -1519,3 +1519,4 @@ package_id,path
 6051,pub.lzwdgc.Polygon4.DataManager
 6052,pub.lzwdgc.Polygon4.DataManager.memory
 6053,pub.lzwdgc.Polygon4.DataManager.schema
+6054,pub.lzwdgc.Polygon4.DataManager.tools.generator
