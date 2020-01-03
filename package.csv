@@ -1531,3 +1531,15 @@ package_id,path
 6080,org.sw.sw.client.sw.common
 6081,org.sw.demo.libusb
 6082,org.sw.demo.mariusmuja.flann
+6083,org.sw.demo.PointCloudLibrary.pcl.2d
+6084,org.sw.demo.PointCloudLibrary.pcl.common
+6085,org.sw.demo.PointCloudLibrary.pcl.features
+6086,org.sw.demo.PointCloudLibrary.pcl.filters
+6087,org.sw.demo.PointCloudLibrary.pcl.geometry
+6088,org.sw.demo.PointCloudLibrary.pcl.kdtree
+6089,org.sw.demo.PointCloudLibrary.pcl.keypoints
+6090,org.sw.demo.PointCloudLibrary.pcl.ml
+6091,org.sw.demo.PointCloudLibrary.pcl.octree
+6092,org.sw.demo.PointCloudLibrary.pcl.registration
+6093,org.sw.demo.PointCloudLibrary.pcl.sample_consensus
+6094,org.sw.demo.PointCloudLibrary.pcl.search
