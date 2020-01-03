@@ -1509,10 +1509,6 @@ package_id,path
 6052,pub.lzwdgc.Polygon4.DataManager.memory
 6053,pub.lzwdgc.Polygon4.DataManager.schema
 6054,pub.lzwdgc.Polygon4.DataManager.tools.generator
-6055,pub.egorpugin.primitives.wt
-6056,pub.egorpugin.primitives.xml
-6059,org.sw.sw.client.core
-6060,org.sw.sw.client.sw.common
 6061,org.sw.demo.danbloomberg.leptonica.progs.checkerboard_reg
 6062,org.sw.demo.danbloomberg.leptonica.progs.deskew_it
 6063,org.sw.demo.danbloomberg.leptonica.progs.lowsat_reg
@@ -1523,3 +1519,13 @@ package_id,path
 6068,org.sw.demo.danbloomberg.leptonica.progs.rotate_it
 6069,org.sw.demo.danbloomberg.leptonica.progs.scale_it
 6070,org.sw.demo.danbloomberg.leptonica.progs.underlinetest
+6071,pub.egorpugin.primitives.test.db
+6072,pub.egorpugin.primitives.test.main
+6073,pub.egorpugin.primitives.test.patch
+6074,pub.egorpugin.primitives.test.settings
+6075,pub.egorpugin.primitives.test.source
+6076,pub.egorpugin.primitives.test.version
+6077,pub.egorpugin.primitives.wt
+6078,pub.egorpugin.primitives.xml
+6079,org.sw.sw.client.core
+6080,org.sw.sw.client.sw.common
