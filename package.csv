@@ -1602,3 +1602,4 @@ package_id,path
 6161,pub.telokis.qt_with_fusion.qtproject.qt.winextras
 6162,org.sw.demo.qtproject.qt.declarative.qml.models
 6163,org.sw.demo.qtproject.qt.declarative.qml.workerscript
+6164,org.sw.demo.perl.generate_uudmap
