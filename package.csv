@@ -496,6 +496,7 @@ package_id,path
 3326,org.sw.demo.malaterre.GDCM.socketxx
 3400,org.sw.demo.jedisct1.libsodium
 3475,org.sw.demo.cubicdaiya.dtl
+3509,pub.egorpugin.primitives.patch
 3514,org.sw.demo.gabime.spdlog
 3517,org.sw.demo.qtproject.qt.declarative.qml.imports.folderlistmodel
 3518,org.sw.demo.qtproject.qt.declarative.qml.imports.qtquick2
@@ -837,6 +838,7 @@ package_id,path
 4620,org.sw.demo.leethomason.tinyxml
 4621,org.sw.demo.leethomason.tinyxml2
 4625,org.sw.demo.objectcomputing.mFAST
+4633,pub.egorpugin.primitives.source
 4637,org.sw.demo.google.cpu_features
 4638,org.sw.demo.aantron.better_enums
 4639,org.sw.demo.dougbinks.enkiTS
@@ -1533,3 +1535,11 @@ package_id,path
 6092,org.sw.demo.PointCloudLibrary.pcl.registration
 6093,org.sw.demo.PointCloudLibrary.pcl.sample_consensus
 6094,org.sw.demo.PointCloudLibrary.pcl.search
+6095,pub.egorpugin.primitives.test.db
+6096,pub.egorpugin.primitives.test.main
+6097,pub.egorpugin.primitives.test.patch
+6098,pub.egorpugin.primitives.test.settings
+6099,pub.egorpugin.primitives.test.source
+6100,pub.egorpugin.primitives.test.version
+6101,pub.egorpugin.primitives.wt
+6102,pub.egorpugin.primitives.xml
