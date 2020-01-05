@@ -1084,8 +1084,6 @@ package_id,path
 5261,org.sw.demo.Manu343726.tinyrefl
 5262,org.sw.demo.optimad.bitpit
 5263,org.sw.demo.HandmadeMath.HandmadeMath
-5264,org.sw.demo.kcat.tools.bin2h
-5265,org.sw.demo.kcat.tools.bsincgen
 5290,org.sw.demo.stdcpp_audio.libstdaudio
 5291,org.sw.demo.billyquith.ponder
 5292,org.sw.demo.eyalz800.serializer
@@ -1603,3 +1601,5 @@ package_id,path
 6162,org.sw.demo.qtproject.qt.declarative.qml.models
 6163,org.sw.demo.qtproject.qt.declarative.qml.workerscript
 6164,org.sw.demo.perl.generate_uudmap
+6165,org.sw.demo.kcat.tools.bin2h
+6166,org.sw.demo.kcat.tools.bsincgen
