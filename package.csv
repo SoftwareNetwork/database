@@ -496,7 +496,6 @@ package_id,path
 3326,org.sw.demo.malaterre.GDCM.socketxx
 3400,org.sw.demo.jedisct1.libsodium
 3475,org.sw.demo.cubicdaiya.dtl
-3509,pub.egorpugin.primitives.patch
 3514,org.sw.demo.gabime.spdlog
 3517,org.sw.demo.qtproject.qt.declarative.qml.imports.folderlistmodel
 3518,org.sw.demo.qtproject.qt.declarative.qml.imports.qtquick2
@@ -838,7 +837,6 @@ package_id,path
 4620,org.sw.demo.leethomason.tinyxml
 4621,org.sw.demo.leethomason.tinyxml2
 4625,org.sw.demo.objectcomputing.mFAST
-4633,pub.egorpugin.primitives.source
 4637,org.sw.demo.google.cpu_features
 4638,org.sw.demo.aantron.better_enums
 4639,org.sw.demo.dougbinks.enkiTS
@@ -1519,14 +1517,6 @@ package_id,path
 6068,org.sw.demo.danbloomberg.leptonica.progs.rotate_it
 6069,org.sw.demo.danbloomberg.leptonica.progs.scale_it
 6070,org.sw.demo.danbloomberg.leptonica.progs.underlinetest
-6071,pub.egorpugin.primitives.test.db
-6072,pub.egorpugin.primitives.test.main
-6073,pub.egorpugin.primitives.test.patch
-6074,pub.egorpugin.primitives.test.settings
-6075,pub.egorpugin.primitives.test.source
-6076,pub.egorpugin.primitives.test.version
-6077,pub.egorpugin.primitives.wt
-6078,pub.egorpugin.primitives.xml
 6079,org.sw.sw.client.core
 6080,org.sw.sw.client.sw.common
 6081,org.sw.demo.libusb
