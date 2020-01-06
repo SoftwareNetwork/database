@@ -1603,3 +1603,4 @@ package_id,path
 6164,org.sw.demo.perl.generate_uudmap
 6165,org.sw.demo.kcat.tools.bin2h
 6166,org.sw.demo.kcat.tools.bsincgen
+6167,pub.telokis.github.jbeder.yaml_cpp
