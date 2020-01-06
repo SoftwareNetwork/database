@@ -1515,8 +1515,6 @@ package_id,path
 6068,org.sw.demo.danbloomberg.leptonica.progs.rotate_it
 6069,org.sw.demo.danbloomberg.leptonica.progs.scale_it
 6070,org.sw.demo.danbloomberg.leptonica.progs.underlinetest
-6079,org.sw.sw.client.core
-6080,org.sw.sw.client.sw.common
 6081,org.sw.demo.libusb
 6082,org.sw.demo.mariusmuja.flann
 6083,org.sw.demo.PointCloudLibrary.pcl.2d
@@ -1605,3 +1603,5 @@ package_id,path
 6174,pub.egorpugin.primitives.wt
 6175,pub.egorpugin.primitives.xml
 6176,pub.telokis.github.google.benchmark
+6177,org.sw.sw.client.core
+6178,org.sw.sw.client.sw.common
