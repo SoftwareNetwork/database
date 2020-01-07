@@ -1605,3 +1605,8 @@ package_id,path
 6177,org.sw.sw.client.core
 6178,org.sw.sw.client.sw.common
 6181,pub.telokis.github.google.benchmark
+6182,org.sw.demo.gnome.vala.bootstrap.ccode
+6183,org.sw.demo.gnome.vala.bootstrap.codegen
+6184,org.sw.demo.gnome.vala.bootstrap.compiler
+6185,org.sw.demo.gnome.vala.bootstrap.gee
+6186,org.sw.demo.gnome.vala.bootstrap.lib
