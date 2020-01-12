@@ -1610,3 +1610,4 @@ package_id,path
 6184,org.sw.demo.gnome.vala.bootstrap.compiler
 6185,org.sw.demo.gnome.vala.bootstrap.gee
 6186,org.sw.demo.gnome.vala.bootstrap.lib
+6187,org.sw.demo.BLAKE3_team.BLAKE3
