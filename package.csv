@@ -1501,10 +1501,6 @@ package_id,path
 6025,org.sw.demo.mity.md4c
 6032,org.sw.demo.CLIUtils.CLI11
 6048,org.sw.demo.Microsoft.STL
-6051,pub.lzwdgc.Polygon4.DataManager
-6052,pub.lzwdgc.Polygon4.DataManager.memory
-6053,pub.lzwdgc.Polygon4.DataManager.schema
-6054,pub.lzwdgc.Polygon4.DataManager.tools.generator
 6061,org.sw.demo.danbloomberg.leptonica.progs.checkerboard_reg
 6062,org.sw.demo.danbloomberg.leptonica.progs.deskew_it
 6063,org.sw.demo.danbloomberg.leptonica.progs.lowsat_reg
@@ -1612,3 +1608,7 @@ package_id,path
 6186,org.sw.demo.gnome.vala.bootstrap.lib
 6187,org.sw.demo.BLAKE3_team.BLAKE3
 6188,org.sw.demo.angelscript
+6189,pub.lzwdgc.Polygon4.DataManager
+6190,pub.lzwdgc.Polygon4.DataManager.memory
+6191,pub.lzwdgc.Polygon4.DataManager.schema
+6192,pub.lzwdgc.Polygon4.DataManager.tools.generator
