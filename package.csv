@@ -1608,7 +1608,7 @@ package_id,path
 6186,org.sw.demo.gnome.vala.bootstrap.lib
 6187,org.sw.demo.BLAKE3_team.BLAKE3
 6188,org.sw.demo.angelscript
-6193,pub.lzwdgc.Polygon4.DataManager
-6194,pub.lzwdgc.Polygon4.DataManager.memory
-6195,pub.lzwdgc.Polygon4.DataManager.schema
-6196,pub.lzwdgc.Polygon4.DataManager.tools.generator
+6197,pub.lzwdgc.Polygon4.DataManager
+6198,pub.lzwdgc.Polygon4.DataManager.memory
+6199,pub.lzwdgc.Polygon4.DataManager.schema
+6200,pub.lzwdgc.Polygon4.DataManager.tools.generator
