@@ -1612,3 +1612,4 @@ package_id,path
 6198,pub.lzwdgc.Polygon4.DataManager.memory
 6199,pub.lzwdgc.Polygon4.DataManager.schema
 6200,pub.lzwdgc.Polygon4.DataManager.tools.generator
+6208,org.sw.demo.littlevgl.lvgl
