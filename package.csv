@@ -1603,15 +1603,7 @@ package_id,path
 6199,pub.lzwdgc.Polygon4.DataManager.schema
 6200,pub.lzwdgc.Polygon4.DataManager.tools.generator
 6208,org.sw.demo.littlevgl.lvgl
-6209,pub.egorpugin.primitives.test.db
-6210,pub.egorpugin.primitives.test.main
-6211,pub.egorpugin.primitives.test.patch
-6212,pub.egorpugin.primitives.test.settings
-6213,pub.egorpugin.primitives.test.source
-6214,pub.egorpugin.primitives.test.version
 6215,pub.egorpugin.primitives.tools.embedder2
-6216,pub.egorpugin.primitives.wt
-6217,pub.egorpugin.primitives.xml
 6218,org.sw.sw.client.core
 6219,org.sw.sw.client.sw.common
 6220,org.sw.demo.StellarGroup.hpx.assertion
@@ -1630,3 +1622,11 @@ package_id,path
 6233,org.sw.demo.StellarGroup.hpx.timing
 6234,org.sw.demo.StellarGroup.hpx.topology
 6235,org.sw.demo.StellarGroup.hpx.type_support
+6236,pub.egorpugin.primitives.test.db
+6237,pub.egorpugin.primitives.test.main
+6238,pub.egorpugin.primitives.test.patch
+6239,pub.egorpugin.primitives.test.settings
+6240,pub.egorpugin.primitives.test.source
+6241,pub.egorpugin.primitives.test.version
+6242,pub.egorpugin.primitives.wt
+6243,pub.egorpugin.primitives.xml
