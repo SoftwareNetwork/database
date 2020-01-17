@@ -1633,3 +1633,4 @@ package_id,path
 6267,org.sw.demo.xorg.proto
 6268,org.sw.demo.xorg.X11.auth
 6269,org.sw.demo.xorg.proto.xcb
+6270,org.sw.demo.xorg.xcb
