@@ -1600,14 +1600,6 @@ package_id,path
 6208,org.sw.demo.littlevgl.lvgl
 6215,pub.egorpugin.primitives.tools.embedder2
 6220,org.sw.demo.StellarGroup.hpx.assertion
-6236,pub.egorpugin.primitives.test.db
-6237,pub.egorpugin.primitives.test.main
-6238,pub.egorpugin.primitives.test.patch
-6239,pub.egorpugin.primitives.test.settings
-6240,pub.egorpugin.primitives.test.source
-6241,pub.egorpugin.primitives.test.version
-6242,pub.egorpugin.primitives.wt
-6243,pub.egorpugin.primitives.xml
 6246,org.sw.demo.StellarGroup.hpx.basic_execution
 6247,org.sw.demo.StellarGroup.hpx.concepts
 6248,org.sw.demo.StellarGroup.hpx.concurrency
@@ -1634,3 +1626,11 @@ package_id,path
 6271,org.sw.demo.xorg.xcb
 6272,org.sw.sw.client.core
 6273,org.sw.sw.client.sw.common
+6274,pub.egorpugin.primitives.test.db
+6275,pub.egorpugin.primitives.test.main
+6276,pub.egorpugin.primitives.test.patch
+6277,pub.egorpugin.primitives.test.settings
+6278,pub.egorpugin.primitives.test.source
+6279,pub.egorpugin.primitives.test.version
+6280,pub.egorpugin.primitives.wt
+6281,pub.egorpugin.primitives.xml
