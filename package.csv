@@ -628,11 +628,6 @@ package_id,path
 4272,org.sw.demo.ctabin.libzippp
 4273,org.sw.demo.troldal.OpenXLSX
 4275,org.sw.demo.jmcnamara.libxlsxwriter
-4287,org.sw.demo.sfml.Audio
-4288,org.sw.demo.sfml.Graphics
-4289,org.sw.demo.sfml.Network
-4290,org.sw.demo.sfml.System
-4291,org.sw.demo.sfml.Window
 4293,org.sw.demo.khizmax.cds
 4294,org.sw.demo.martinmoene.gsl_lite
 4295,org.sw.demo.pdimov.variant2
@@ -1630,3 +1625,8 @@ package_id,path
 6258,org.sw.demo.StellarGroup.hpx.timing
 6259,org.sw.demo.StellarGroup.hpx.topology
 6260,org.sw.demo.StellarGroup.hpx.type_support
+6261,org.sw.demo.sfml.Audio
+6262,org.sw.demo.sfml.Graphics
+6263,org.sw.demo.sfml.Network
+6264,org.sw.demo.sfml.System
+6265,org.sw.demo.sfml.Window
