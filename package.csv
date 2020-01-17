@@ -1631,3 +1631,4 @@ package_id,path
 6264,org.sw.demo.sfml.System
 6265,org.sw.demo.sfml.Window
 6267,org.sw.demo.xorg.proto
+6268,org.sw.demo.xorg.X11.auth
