@@ -1624,8 +1624,6 @@ package_id,path
 6268,org.sw.demo.xorg.X11.auth
 6269,org.sw.demo.xorg.proto.xcb
 6271,org.sw.demo.xorg.xcb
-6272,org.sw.sw.client.core
-6273,org.sw.sw.client.sw.common
 6274,pub.egorpugin.primitives.test.db
 6275,pub.egorpugin.primitives.test.main
 6276,pub.egorpugin.primitives.test.patch
@@ -1634,3 +1632,5 @@ package_id,path
 6279,pub.egorpugin.primitives.test.version
 6280,pub.egorpugin.primitives.wt
 6281,pub.egorpugin.primitives.xml
+6282,org.sw.sw.client.core
+6283,org.sw.sw.client.sw.common
