@@ -1608,8 +1608,6 @@ package_id,path
 6241,pub.egorpugin.primitives.test.version
 6242,pub.egorpugin.primitives.wt
 6243,pub.egorpugin.primitives.xml
-6244,org.sw.sw.client.core
-6245,org.sw.sw.client.sw.common
 6246,org.sw.demo.StellarGroup.hpx.basic_execution
 6247,org.sw.demo.StellarGroup.hpx.concepts
 6248,org.sw.demo.StellarGroup.hpx.concurrency
@@ -1634,3 +1632,5 @@ package_id,path
 6268,org.sw.demo.xorg.X11.auth
 6269,org.sw.demo.xorg.proto.xcb
 6271,org.sw.demo.xorg.xcb
+6272,org.sw.sw.client.core
+6273,org.sw.sw.client.sw.common
