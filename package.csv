@@ -1635,3 +1635,5 @@ package_id,path
 6290,pub.egorpugin.primitives.wt
 6291,pub.egorpugin.primitives.xml
 6292,org.sw.demo.xorg.xtrans
+6293,org.sw.demo.xorg.X11.Xlib
+6294,org.sw.demo.xorg.X11.Xlib.util.makekeys
