@@ -1637,3 +1637,4 @@ package_id,path
 6292,org.sw.demo.xorg.xtrans
 6293,org.sw.demo.xorg.X11.Xlib
 6295,org.sw.demo.xorg.X11.Xlib.util.makekeys
+6296,org.sw.demo.xorg.pciaccess
