@@ -1648,3 +1648,6 @@ package_id,path
 6315,org.sw.demo.mesa.drm.omap
 6316,org.sw.demo.mesa.drm.radeon
 6317,org.sw.demo.mesa.drm.tegra
+6318,org.sw.demo.imagemagick.magick
+6321,org.sw.demo.imagemagick.magickpp
+6322,org.sw.demo.imagemagick.wand
