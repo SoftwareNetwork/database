@@ -1624,8 +1624,6 @@ package_id,path
 6268,org.sw.demo.xorg.X11.auth
 6269,org.sw.demo.xorg.proto.xcb
 6271,org.sw.demo.xorg.xcb
-6282,org.sw.sw.client.core
-6283,org.sw.sw.client.sw.common
 6284,pub.egorpugin.primitives.test.db
 6285,pub.egorpugin.primitives.test.main
 6286,pub.egorpugin.primitives.test.patch
@@ -1651,3 +1649,5 @@ package_id,path
 6318,org.sw.demo.imagemagick.magick
 6321,org.sw.demo.imagemagick.magickpp
 6322,org.sw.demo.imagemagick.wand
+6323,org.sw.sw.client.core
+6324,org.sw.sw.client.sw.common
