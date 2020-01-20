@@ -813,7 +813,6 @@ package_id,path
 4569,org.sw.demo.LeonineKing1199.foxy
 4570,org.sw.demo.gnu.gpg.assuan.tools.mkheader
 4571,pub.egorpugin.libuv
-4572,org.sw.demo.apolukhin.magic_get
 4573,org.sw.demo.spotify.json
 4574,org.sw.demo.agauniyal.rang
 4575,org.sw.demo.pyyaml.yaml
@@ -1652,3 +1651,4 @@ package_id,path
 6332,org.sw.demo.mesa.drm.omap
 6333,org.sw.demo.mesa.drm.radeon
 6334,org.sw.demo.mesa.drm.tegra
+6335,org.sw.demo.apolukhin.magic_get
