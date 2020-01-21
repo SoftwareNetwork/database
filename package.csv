@@ -1668,3 +1668,4 @@ package_id,path
 6382,org.sw.demo.angelscript.scriptstdstring
 6383,org.sw.demo.angelscript.serializer
 6384,org.sw.demo.angelscript.weakref
+6385,org.sw.demo.angelscript.addons
