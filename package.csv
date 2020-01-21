@@ -1652,16 +1652,6 @@ package_id,path
 6334,org.sw.demo.mesa.drm.tegra
 6335,org.sw.demo.apolukhin.magic_get
 6336,org.sw.demo.angelscript
-6369,org.sw.demo.angelscript.autowrapper
-6370,org.sw.demo.angelscript.contextmgr
-6371,org.sw.demo.angelscript.datetime
-6372,org.sw.demo.angelscript.debugger
-6373,org.sw.demo.angelscript.scriptany
-6374,org.sw.demo.angelscript.scriptarray
-6375,org.sw.demo.angelscript.scriptbuilder
-6376,org.sw.demo.angelscript.scriptdictionary
-6377,org.sw.demo.angelscript.scriptfile
-6378,org.sw.demo.angelscript.scriptgrid
 6379,org.sw.demo.angelscript.scripthandle
 6380,org.sw.demo.angelscript.scripthelper
 6381,org.sw.demo.angelscript.scriptmath
