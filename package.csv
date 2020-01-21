@@ -1591,7 +1591,6 @@ package_id,path
 6185,org.sw.demo.gnome.vala.bootstrap.gee
 6186,org.sw.demo.gnome.vala.bootstrap.lib
 6187,org.sw.demo.BLAKE3_team.BLAKE3
-6188,org.sw.demo.angelscript
 6197,pub.lzwdgc.Polygon4.DataManager
 6198,pub.lzwdgc.Polygon4.DataManager.memory
 6199,pub.lzwdgc.Polygon4.DataManager.schema
@@ -1652,3 +1651,19 @@ package_id,path
 6333,org.sw.demo.mesa.drm.radeon
 6334,org.sw.demo.mesa.drm.tegra
 6335,org.sw.demo.apolukhin.magic_get
+6336,org.sw.demo.angelscript
+6338,org.sw.demo.angelscript.contextmgr
+6339,org.sw.demo.angelscript.datetime
+6340,org.sw.demo.angelscript.debugger
+6341,org.sw.demo.angelscript.scriptany
+6342,org.sw.demo.angelscript.scriptarray
+6343,org.sw.demo.angelscript.scriptbuilder
+6344,org.sw.demo.angelscript.scriptdictionary
+6345,org.sw.demo.angelscript.scriptfile
+6346,org.sw.demo.angelscript.scriptgrid
+6347,org.sw.demo.angelscript.scripthandle
+6348,org.sw.demo.angelscript.scripthelper
+6349,org.sw.demo.angelscript.scriptmath
+6350,org.sw.demo.angelscript.scriptstdstring
+6351,org.sw.demo.angelscript.serializer
+6352,org.sw.demo.angelscript.weakref
