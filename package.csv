@@ -1622,14 +1622,6 @@ package_id,path
 6268,org.sw.demo.xorg.X11.auth
 6269,org.sw.demo.xorg.proto.xcb
 6271,org.sw.demo.xorg.xcb
-6284,pub.egorpugin.primitives.test.db
-6285,pub.egorpugin.primitives.test.main
-6286,pub.egorpugin.primitives.test.patch
-6287,pub.egorpugin.primitives.test.settings
-6288,pub.egorpugin.primitives.test.source
-6289,pub.egorpugin.primitives.test.version
-6290,pub.egorpugin.primitives.wt
-6291,pub.egorpugin.primitives.xml
 6292,org.sw.demo.xorg.xtrans
 6293,org.sw.demo.xorg.X11.Xlib
 6295,org.sw.demo.xorg.X11.Xlib.util.makekeys
@@ -1653,3 +1645,11 @@ package_id,path
 6385,org.sw.demo.angelscript.addons
 6386,org.sw.sw.client.core
 6387,org.sw.sw.client.sw.common
+6388,pub.egorpugin.primitives.test.db
+6389,pub.egorpugin.primitives.test.main
+6390,pub.egorpugin.primitives.test.patch
+6391,pub.egorpugin.primitives.test.settings
+6392,pub.egorpugin.primitives.test.source
+6393,pub.egorpugin.primitives.test.version
+6394,pub.egorpugin.primitives.wt
+6395,pub.egorpugin.primitives.xml
