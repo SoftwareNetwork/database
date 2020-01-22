@@ -1638,8 +1638,6 @@ package_id,path
 6318,org.sw.demo.imagemagick.magick
 6321,org.sw.demo.imagemagick.magickpp
 6322,org.sw.demo.imagemagick.wand
-6323,org.sw.sw.client.core
-6324,org.sw.sw.client.sw.common
 6325,org.sw.demo.mesa.drm.amdgpu
 6326,org.sw.demo.mesa.drm.etnaviv
 6327,org.sw.demo.mesa.drm.exynos
@@ -1653,3 +1651,5 @@ package_id,path
 6335,org.sw.demo.apolukhin.magic_get
 6336,org.sw.demo.angelscript
 6385,org.sw.demo.angelscript.addons
+6386,org.sw.sw.client.core
+6387,org.sw.sw.client.sw.common
