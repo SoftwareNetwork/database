@@ -1591,10 +1591,6 @@ package_id,path
 6185,org.sw.demo.gnome.vala.bootstrap.gee
 6186,org.sw.demo.gnome.vala.bootstrap.lib
 6187,org.sw.demo.BLAKE3_team.BLAKE3
-6197,pub.lzwdgc.Polygon4.DataManager
-6198,pub.lzwdgc.Polygon4.DataManager.memory
-6199,pub.lzwdgc.Polygon4.DataManager.schema
-6200,pub.lzwdgc.Polygon4.DataManager.tools.generator
 6208,org.sw.demo.littlevgl.lvgl
 6215,pub.egorpugin.primitives.tools.embedder2
 6220,org.sw.demo.StellarGroup.hpx.assertion
@@ -1653,3 +1649,7 @@ package_id,path
 6393,pub.egorpugin.primitives.test.version
 6394,pub.egorpugin.primitives.wt
 6395,pub.egorpugin.primitives.xml
+6396,pub.lzwdgc.Polygon4.DataManager
+6397,pub.lzwdgc.Polygon4.DataManager.memory
+6398,pub.lzwdgc.Polygon4.DataManager.schema
+6399,pub.lzwdgc.Polygon4.DataManager.tools.generator
