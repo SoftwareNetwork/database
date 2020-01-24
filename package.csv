@@ -1641,15 +1641,9 @@ package_id,path
 6385,org.sw.demo.angelscript.addons
 6386,org.sw.sw.client.core
 6387,org.sw.sw.client.sw.common
-6388,pub.egorpugin.primitives.test.db
-6389,pub.egorpugin.primitives.test.main
-6390,pub.egorpugin.primitives.test.patch
-6391,pub.egorpugin.primitives.test.settings
-6392,pub.egorpugin.primitives.test.source
-6393,pub.egorpugin.primitives.test.version
-6394,pub.egorpugin.primitives.wt
-6395,pub.egorpugin.primitives.xml
 6396,pub.lzwdgc.Polygon4.DataManager
 6397,pub.lzwdgc.Polygon4.DataManager.memory
 6398,pub.lzwdgc.Polygon4.DataManager.schema
 6399,pub.lzwdgc.Polygon4.DataManager.tools.generator
+6400,pub.egorpugin.primitives.wt
+6401,pub.egorpugin.primitives.xml
