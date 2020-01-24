@@ -1639,11 +1639,11 @@ package_id,path
 6335,org.sw.demo.apolukhin.magic_get
 6336,org.sw.demo.angelscript
 6385,org.sw.demo.angelscript.addons
-6386,org.sw.sw.client.core
-6387,org.sw.sw.client.sw.common
 6396,pub.lzwdgc.Polygon4.DataManager
 6397,pub.lzwdgc.Polygon4.DataManager.memory
 6398,pub.lzwdgc.Polygon4.DataManager.schema
 6399,pub.lzwdgc.Polygon4.DataManager.tools.generator
 6400,pub.egorpugin.primitives.wt
 6401,pub.egorpugin.primitives.xml
+6402,org.sw.sw.client.core
+6403,org.sw.sw.client.sw.common
