@@ -1643,7 +1643,6 @@ package_id,path
 6397,pub.lzwdgc.Polygon4.DataManager.memory
 6398,pub.lzwdgc.Polygon4.DataManager.schema
 6399,pub.lzwdgc.Polygon4.DataManager.tools.generator
-6400,pub.egorpugin.primitives.wt
-6401,pub.egorpugin.primitives.xml
 6410,org.sw.sw.client.core
 6411,org.sw.sw.client.sw.common
+6412,pub.egorpugin.primitives.wt
