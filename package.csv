@@ -1646,3 +1646,4 @@ package_id,path
 6410,org.sw.sw.client.core
 6411,org.sw.sw.client.sw.common
 6412,pub.egorpugin.primitives.wt
+6413,pub.egorpugin.primitives.xml
