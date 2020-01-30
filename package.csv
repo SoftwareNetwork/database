@@ -1645,8 +1645,6 @@ package_id,path
 6399,pub.lzwdgc.Polygon4.DataManager.tools.generator
 6410,org.sw.sw.client.core
 6411,org.sw.sw.client.sw.common
-6414,pub.egorpugin.primitives.wt
-6415,pub.egorpugin.primitives.xml
 6419,org.sw.demo.qtproject.qt.base.plugins.sqldrivers.odbc
 6420,org.sw.demo.qtproject.qt.base.plugins.sqldrivers.psql
 6421,org.sw.demo.qtproject.qt.base.plugins.sqldrivers.sqlite
@@ -1654,3 +1652,5 @@ package_id,path
 6423,org.sw.sw.client.driver.cpp.cl_generator
 6424,org.sw.sw.client.driver.cpp.self_builder
 6425,org.sw.sw.client.sw.create_git_rev
+6426,pub.egorpugin.primitives.wt
+6427,pub.egorpugin.primitives.xml
