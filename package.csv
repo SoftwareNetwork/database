@@ -1654,3 +1654,4 @@ package_id,path
 6428,org.sw.sw.client.driver.cpp.cl_generator
 6429,org.sw.sw.client.driver.cpp.self_builder
 6430,org.sw.sw.client.sw.create_git_rev
+6432,org.sw.demo.gnu.unistring
