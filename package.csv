@@ -1655,3 +1655,4 @@ package_id,path
 6429,org.sw.sw.client.driver.cpp.self_builder
 6430,org.sw.sw.client.sw.create_git_rev
 6433,org.sw.demo.gnu.unistring
+6434,org.sw.demo.gnu.libidn
