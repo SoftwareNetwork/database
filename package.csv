@@ -1649,11 +1649,9 @@ package_id,path
 6420,org.sw.demo.qtproject.qt.base.plugins.sqldrivers.psql
 6421,org.sw.demo.qtproject.qt.base.plugins.sqldrivers.sqlite
 6422,org.sw.demo.qtproject.qt.base.sql
-6428,org.sw.sw.client.driver.cpp.cl_generator
-6429,org.sw.sw.client.driver.cpp.self_builder
-6430,org.sw.sw.client.sw.create_git_rev
 6433,org.sw.demo.gnu.unistring
 6434,org.sw.demo.gnu.libidn
 6435,pub.egorpugin.primitives.tools.cl_generator
 6436,pub.egorpugin.primitives.wt
 6437,pub.egorpugin.primitives.xml
+6438,org.sw.sw.client.driver.cpp.cl_generator
