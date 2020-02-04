@@ -1657,3 +1657,4 @@ package_id,path
 6441,org.sw.sw.client.driver.cpp.cl_generator
 6442,org.sw.sw.client.driver.cpp.self_builder
 6443,org.sw.sw.client.sw.create_git_rev
+6444,org.sw.demo.pybind.pybind11
