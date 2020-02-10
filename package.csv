@@ -1652,8 +1652,6 @@ package_id,path
 6433,org.sw.demo.gnu.unistring
 6434,org.sw.demo.gnu.libidn
 6435,pub.egorpugin.primitives.tools.cl_generator
-6436,pub.egorpugin.primitives.wt
-6437,pub.egorpugin.primitives.xml
 6441,org.sw.sw.client.driver.cpp.cl_generator
 6442,org.sw.sw.client.driver.cpp.self_builder
 6443,org.sw.sw.client.sw.create_git_rev
@@ -1663,3 +1661,4 @@ package_id,path
 6449,org.sw.demo.mayah.tinytoml
 6450,org.sw.demo.ToruNiina.toml11
 6451,org.sw.demo.code_disaster.libsdlang
+6452,pub.egorpugin.primitives.wt
