@@ -1639,10 +1639,6 @@ package_id,path
 6335,org.sw.demo.apolukhin.magic_get
 6336,org.sw.demo.angelscript
 6385,org.sw.demo.angelscript.addons
-6396,pub.lzwdgc.Polygon4.DataManager
-6397,pub.lzwdgc.Polygon4.DataManager.memory
-6398,pub.lzwdgc.Polygon4.DataManager.schema
-6399,pub.lzwdgc.Polygon4.DataManager.tools.generator
 6410,org.sw.sw.client.core
 6411,org.sw.sw.client.sw.common
 6419,org.sw.demo.qtproject.qt.base.plugins.sqldrivers.odbc
@@ -1663,3 +1659,7 @@ package_id,path
 6457,org.sw.sw.client.driver.cpp.cl_generator
 6458,org.sw.sw.client.driver.cpp.self_builder
 6459,org.sw.sw.client.sw.create_git_rev
+6460,pub.lzwdgc.Polygon4.DataManager
+6461,pub.lzwdgc.Polygon4.DataManager.memory
+6462,pub.lzwdgc.Polygon4.DataManager.schema
+6463,pub.lzwdgc.Polygon4.DataManager.tools.generator
