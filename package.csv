@@ -1659,4 +1659,7 @@ package_id,path
 6472,org.sw.demo.StellarGroup.hpx.hardware
 6473,org.sw.demo.StellarGroup.hpx.hashing
 6474,org.sw.demo.StellarGroup.hpx.logging
+6475,org.sw.demo.StellarGroup.hpx.thread_support
+6476,org.sw.demo.StellarGroup.hpx.timing
 6477,org.sw.demo.StellarGroup.hpx.topology
+6478,org.sw.demo.StellarGroup.hpx.type_support
