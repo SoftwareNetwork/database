@@ -1663,3 +1663,4 @@ package_id,path
 6476,org.sw.demo.StellarGroup.hpx.timing
 6477,org.sw.demo.StellarGroup.hpx.topology
 6478,org.sw.demo.StellarGroup.hpx.type_support
+6479,org.sw.demo.google.tcmalloc
