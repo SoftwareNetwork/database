@@ -1639,9 +1639,6 @@ package_id,path
 6449,org.sw.demo.mayah.tinytoml
 6450,org.sw.demo.ToruNiina.toml11
 6451,org.sw.demo.code_disaster.libsdlang
-6457,org.sw.sw.client.driver.cpp.cl_generator
-6458,org.sw.sw.client.driver.cpp.self_builder
-6459,org.sw.sw.client.sw.create_git_rev
 6460,pub.lzwdgc.Polygon4.DataManager
 6461,pub.lzwdgc.Polygon4.DataManager.memory
 6462,pub.lzwdgc.Polygon4.DataManager.schema
@@ -1662,5 +1659,8 @@ package_id,path
 6477,org.sw.demo.StellarGroup.hpx.topology
 6478,org.sw.demo.StellarGroup.hpx.type_support
 6479,org.sw.demo.google.tcmalloc
-6480,pub.egorpugin.primitives.wt
-6481,pub.egorpugin.primitives.xml
+6482,pub.egorpugin.primitives.wt
+6483,pub.egorpugin.primitives.xml
+6484,org.sw.sw.client.driver.cpp.cl_generator
+6485,org.sw.sw.client.driver.cpp.self_builder
+6486,org.sw.sw.client.sw.create_git_rev
