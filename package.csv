@@ -1645,7 +1645,6 @@ package_id,path
 6483,pub.egorpugin.primitives.xml
 6487,org.sw.sw.client.driver.cpp.cl_generator
 6488,org.sw.sw.client.driver.cpp.self_builder
-6489,org.sw.sw.client.sw.create_git_rev
 6490,org.sw.demo.google.tesseract.ambiguous_words
 6491,org.sw.demo.google.tesseract.classifier_tester
 6492,org.sw.demo.google.tesseract.cntraining
@@ -1664,3 +1663,4 @@ package_id,path
 6505,org.sw.demo.google.tesseract.unicharset_extractor
 6506,org.sw.demo.google.tesseract.unicharset_training
 6507,org.sw.demo.google.tesseract.wordlist2dawg
+6508,org.sw.sw.client.sw.create_git_rev
