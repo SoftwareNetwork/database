@@ -1621,10 +1621,6 @@ package_id,path
 6449,org.sw.demo.mayah.tinytoml
 6450,org.sw.demo.ToruNiina.toml11
 6451,org.sw.demo.code_disaster.libsdlang
-6460,pub.lzwdgc.Polygon4.DataManager
-6461,pub.lzwdgc.Polygon4.DataManager.memory
-6462,pub.lzwdgc.Polygon4.DataManager.schema
-6463,pub.lzwdgc.Polygon4.DataManager.tools.generator
 6464,org.sw.demo.StellarGroup.hpx.basic_execution
 6465,org.sw.demo.StellarGroup.hpx.concepts
 6466,org.sw.demo.StellarGroup.hpx.concurrency
@@ -1664,3 +1660,7 @@ package_id,path
 6524,org.sw.demo.google.tesseract.unicharset_extractor
 6525,org.sw.demo.google.tesseract.unicharset_training
 6526,org.sw.demo.google.tesseract.wordlist2dawg
+6527,pub.lzwdgc.Polygon4.DataManager
+6528,pub.lzwdgc.Polygon4.DataManager.memory
+6529,pub.lzwdgc.Polygon4.DataManager.schema
+6530,pub.lzwdgc.Polygon4.DataManager.tools.generator
