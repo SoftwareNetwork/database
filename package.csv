@@ -1662,3 +1662,7 @@ package_id,path
 6528,pub.lzwdgc.Polygon4.DataManager.memory
 6529,pub.lzwdgc.Polygon4.DataManager.schema
 6530,pub.lzwdgc.Polygon4.DataManager.tools.generator
+6533,pub.egorpugin.primitives.git_rev
+6534,pub.egorpugin.primitives.tools.create_git_rev
+6535,pub.egorpugin.primitives.wt
+6536,pub.egorpugin.primitives.xml
