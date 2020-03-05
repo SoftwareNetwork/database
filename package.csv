@@ -1671,3 +1671,7 @@ package_id,path
 6539,org.sw.demo.assimp
 6540,org.sw.demo.westes.flex
 6541,org.sw.demo.gnu.shishi
+6542,org.sw.demo.postgres.common
+6543,org.sw.demo.postgres.includes
+6544,org.sw.demo.postgres.port
+6545,org.sw.demo.postgres.pq
