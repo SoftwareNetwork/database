@@ -1675,3 +1675,4 @@ package_id,path
 6543,org.sw.demo.postgres.includes
 6544,org.sw.demo.postgres.port
 6545,org.sw.demo.postgres.pq
+6546,org.sw.demo.mingw.w64.libraries.winpthreads
