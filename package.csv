@@ -1680,3 +1680,4 @@ package_id,path
 6548,org.sw.demo.coruus.keccak_tiny.unrolled
 6549,org.sw.demo.torproject.tor.lib
 6550,org.sw.demo.TankOs.SFGUI
+6551,org.sw.demo.boost.test
