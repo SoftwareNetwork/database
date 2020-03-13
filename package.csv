@@ -1681,3 +1681,7 @@ package_id,path
 6549,org.sw.demo.torproject.tor.lib
 6550,org.sw.demo.TankOs.SFGUI
 6551,org.sw.demo.boost.test
+6552,org.sw.demo.google.googletest.gmock
+6553,org.sw.demo.google.googletest.gmock.main
+6554,org.sw.demo.google.googletest.gtest
+6555,org.sw.demo.google.googletest.gtest.main
