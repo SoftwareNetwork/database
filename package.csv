@@ -1685,3 +1685,8 @@ package_id,path
 6553,org.sw.demo.google.googletest.gmock.main
 6554,org.sw.demo.google.googletest.gtest
 6555,org.sw.demo.google.googletest.gtest.main
+6556,org.sw.demo.gnome.vala.ccode
+6557,org.sw.demo.gnome.vala.codegen
+6558,org.sw.demo.gnome.vala.compiler
+6559,org.sw.demo.gnome.vala.gee
+6560,org.sw.demo.gnome.vala.lib
