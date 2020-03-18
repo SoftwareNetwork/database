@@ -877,7 +877,6 @@ package_id,path
 4760,org.sw.demo.phisko.kengine
 4761,org.sw.demo.ampl.mp
 4762,org.sw.demo.cginternals.glbinding
-4782,org.sw.demo.gnu.nettle
 4788,org.sw.demo.boost.histogram
 4789,org.sw.demo.boost.outcome
 4790,org.sw.demo.gnome.glib.gmodule
