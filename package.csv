@@ -1689,3 +1689,4 @@ package_id,path
 6558,org.sw.demo.gnome.vala.compiler
 6559,org.sw.demo.gnome.vala.gee
 6560,org.sw.demo.gnome.vala.lib
+6561,org.sw.demo.telegram.td.scheme
