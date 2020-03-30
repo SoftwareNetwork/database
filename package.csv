@@ -1690,3 +1690,5 @@ package_id,path
 6559,org.sw.demo.gnome.vala.gee
 6560,org.sw.demo.gnome.vala.lib
 6561,org.sw.demo.telegram.td.scheme
+6562,pub.egorpugin.tgbot
+6563,pub.egorpugin.tgbot.apitool
