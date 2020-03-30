@@ -1693,3 +1693,5 @@ package_id,path
 6562,pub.egorpugin.tgbot
 6563,pub.egorpugin.tgbot.apitool
 6564,org.sw.demo.x42.liboauth
+6565,org.sw.demo.akheron.jansson
+6566,org.sw.demo.zmartzone.liboauth2
