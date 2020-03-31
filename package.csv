@@ -1695,3 +1695,4 @@ package_id,path
 6564,org.sw.demo.x42.liboauth
 6565,org.sw.demo.akheron.jansson
 6566,org.sw.demo.zmartzone.liboauth2
+6567,org.sw.demo.yhirose.cpp_httplib
