@@ -1699,13 +1699,3 @@ package_id,path
 6568,org.sw.demo.Corvusoft.restbed
 6569,org.sw.demo.erincatto.box2d
 6570,org.sw.demo.qtproject.qt.labs.vstools.natvis
-6571,pub.egorpugin.sw.client.builder
-6572,pub.egorpugin.sw.client.core
-6573,pub.egorpugin.sw.client.driver.cpp
-6574,pub.egorpugin.sw.client.driver.cpp.cl_generator
-6575,pub.egorpugin.sw.client.driver.cpp.self_builder
-6576,pub.egorpugin.sw.client.manager
-6577,pub.egorpugin.sw.client.protos
-6578,pub.egorpugin.sw.client.support
-6579,pub.egorpugin.sw.client.sw
-6580,pub.egorpugin.sw.client.sw.common
