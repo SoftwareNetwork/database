@@ -1723,3 +1723,4 @@ package_id,path
 6624,org.sw.demo.freedesktop.mesa.util.sha1
 6625,org.sw.demo.boost.nowide
 6626,org.sw.demo.boost.static_string
+6627,org.sw.demo.OSGeo.PROJ
