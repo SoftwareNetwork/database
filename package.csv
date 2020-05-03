@@ -1725,3 +1725,4 @@ package_id,path
 6626,org.sw.demo.boost.static_string
 6627,org.sw.demo.OSGeo.PROJ
 6628,org.sw.demo.Esri.lerc
+6629,org.sw.demo.OSGeo.libgeotiff
