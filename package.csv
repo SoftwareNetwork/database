@@ -1728,3 +1728,4 @@ package_id,path
 6629,org.sw.demo.OSGeo.libgeotiff
 6630,org.sw.demo.OSGeo.gdal
 6631,org.sw.demo.sqlite3.shell
+6632,org.sw.demo.kisli.vmime
