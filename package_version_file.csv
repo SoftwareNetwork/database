@@ -6931,3 +6931,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7033,29941,7034,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 7034,29942,7035,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 7035,29943,7037,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+7036,29944,7038,1,1,0,1,"{""git"":{""tag"":""v1.6.0"",""url"":""https://github.com/gabime/spdlog""}}"
