@@ -6946,3 +6946,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7128,30036,7050,1,1,0,1,"{""git"":{""tag"":""v1.28.1"",""url"":""https://github.com/grpc/grpc""}}"
 7129,30037,7053,1,1,0,1,"{""git"":{""tag"":""v1.28.1"",""url"":""https://github.com/grpc/grpc""}}"
 7130,30038,7054,1,1,0,1,"{""git"":{""tag"":""v0.6.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+7131,30039,7055,1,1,0,1,"{""git"":{""tag"":""7.1.0"",""url"":""https://github.com/jtv/libpqxx""}}"
