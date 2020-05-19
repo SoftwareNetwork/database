@@ -6948,3 +6948,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7151,30059,7064,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7152,30060,7069,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/ReneNyffenegger/cpp-base64""}}"
 7153,30061,7070,1,1,0,1,"{""git"":{""tag"":""v0.6.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+7154,30062,7071,1,1,0,1,"{""git"":{""tag"":""7.1.1"",""url"":""https://github.com/jtv/libpqxx""}}"
