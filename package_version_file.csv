@@ -6954,3 +6954,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7157,30065,7074,1,1,0,1,"{""remote"":{""url"":""http://baical.net/files/libP7Client_v5.5.zip""}}"
 7158,30066,7075,1,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
 7159,30067,7076,1,1,0,1,"{""git"":{""tag"":""v1.38.0"",""url"":""https://github.com/libuv/libuv""}}"
+7160,30068,7077,1,1,0,1,"{""git"":{""tag"":""v1.38.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
