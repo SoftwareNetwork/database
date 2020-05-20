@@ -6950,3 +6950,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7153,30061,7070,1,1,0,1,"{""git"":{""tag"":""v0.6.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 7154,30062,7071,1,1,0,1,"{""git"":{""tag"":""7.1.1"",""url"":""https://github.com/jtv/libpqxx""}}"
 7155,30063,7072,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/fancycode/MemoryModule""}}"
+7156,30064,7073,1,1,0,1,"{""git"":{""tag"":""v3.4.3"",""url"":""https://github.com/libarchive/libarchive""}}"
