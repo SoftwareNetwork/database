@@ -6951,3 +6951,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7154,30062,7071,1,1,0,1,"{""git"":{""tag"":""7.1.1"",""url"":""https://github.com/jtv/libpqxx""}}"
 7155,30063,7072,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/fancycode/MemoryModule""}}"
 7156,30064,7073,1,1,0,1,"{""git"":{""tag"":""v3.4.3"",""url"":""https://github.com/libarchive/libarchive""}}"
+7157,30065,7074,1,1,0,1,"{""remote"":{""url"":""http://baical.net/files/libP7Client_v5.5.zip""}}"
