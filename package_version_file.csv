@@ -6385,7 +6385,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 6397,26471,6397,1,1,0,1,
 6398,25431,6398,1,1,0,1,
 6399,26425,6399,1,1,0,1,
-6400,26426,6400,1,1,0,1,
 6401,26428,6401,1,1,0,1,
 6402,26432,6402,1,1,0,1,
 6403,26434,6403,1,1,0,1,
@@ -6966,3 +6965,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7169,30077,7086,1,1,0,1,"{""git"":{""tag"":""v1.29.0"",""url"":""https://github.com/grpc/grpc""}}"
 7170,30078,7087,1,1,0,1,"{""git"":{""tag"":""v13.0.1"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 7171,30079,7088,1,1,0,1,"{""git"":{""tag"":""v13.0.1"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
+7172,30080,7089,1,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/nasm-2.14.02.tar.xz""}}"
