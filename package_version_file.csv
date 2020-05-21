@@ -6966,3 +6966,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7170,30078,7087,1,1,0,1,"{""git"":{""tag"":""v13.0.1"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 7171,30079,7088,1,1,0,1,"{""git"":{""tag"":""v13.0.1"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 7172,30080,7089,1,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/nasm-2.14.02.tar.xz""}}"
+7174,30083,7090,1,1,0,1,"{""git"":{""tag"":""0.7.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
+7175,30082,7090,1,1,0,1,"{""git"":{""tag"":""0.7.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
