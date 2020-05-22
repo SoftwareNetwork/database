@@ -1738,3 +1738,5 @@ package_id,path
 6639,org.sw.demo.MemoryModule.MemoryModule
 6640,org.sw.demo.baical.P7.client
 6641,org.sw.demo.signal11.hidapi
+6642,org.sw.demo.thp.psmove.cli
+6643,org.sw.demo.thp.psmove.api
