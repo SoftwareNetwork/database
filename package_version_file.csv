@@ -6969,3 +6969,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7174,30083,7090,1,1,0,1,"{""git"":{""tag"":""0.7.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 7175,30082,7090,1,1,0,1,"{""git"":{""tag"":""0.7.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 7176,30084,7092,1,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/nasm-2.14.02.tar.xz""}}"
+7177,30085,7093,1,1,0,1,"{""git"":{""tag"":""v1.4.5"",""url"":""https://github.com/facebook/zstd""}}"
