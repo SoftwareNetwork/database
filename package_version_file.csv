@@ -6971,3 +6971,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7176,30084,7092,1,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/nasm-2.14.02.tar.xz""}}"
 7177,30085,7093,1,1,0,1,"{""git"":{""tag"":""v1.4.5"",""url"":""https://github.com/facebook/zstd""}}"
 7178,30086,7094,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/signal11/hidapi""}}"
+7179,30087,7095,1,1,0,1,"{""git"":{""tag"":""v0.1.7"",""url"":""https://github.com/libusb/libusb-compat-0.1""}}"
