@@ -6974,3 +6974,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7179,30087,7095,1,1,0,1,"{""git"":{""tag"":""v0.1.7"",""url"":""https://github.com/libusb/libusb-compat-0.1""}}"
 7180,30088,7096,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 7181,30089,7097,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
+7182,30090,7098,1,1,0,1,"{""git"":{""tag"":""v0.6.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
