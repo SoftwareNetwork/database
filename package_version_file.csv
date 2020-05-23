@@ -6975,3 +6975,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7180,30088,7096,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 7181,30089,7097,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 7182,30090,7098,1,1,0,1,"{""git"":{""tag"":""v0.6.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+7183,30091,7099,1,1,0,1,"{""git"":{""tag"":""hwloc-2.2.0"",""url"":""https://github.com/open-mpi/hwloc""}}"
+7184,30092,7100,1,1,0,1,"{""git"":{""tag"":""v0.6.5"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
