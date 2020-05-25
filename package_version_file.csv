@@ -6983,3 +6983,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7238,30146,7151,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7239,30147,7156,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7240,30148,7155,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+7241,30149,7157,1,1,0,1,"{""git"":{""tag"":""v2.12.2"",""url"":""https://github.com/catchorg/Catch2""}}"
