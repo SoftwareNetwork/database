@@ -4444,7 +4444,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 4455,24180,4455,1,1,0,1,
 4456,24233,4456,1,1,0,1,
 4457,27195,4457,1,1,0,1,
-4458,28534,4458,1,1,0,1,
 4459,28537,4459,1,1,0,1,
 4460,24199,4460,1,1,0,1,
 4461,20981,4461,1,1,0,1,
@@ -4463,7 +4462,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 4474,27192,4474,1,1,0,1,
 4475,24185,4475,1,1,0,1,
 4476,24186,4476,1,1,0,1,
-4477,28535,4477,1,1,0,1,
 4478,28539,4478,1,1,0,1,
 4479,28540,4479,1,1,0,1,
 4480,24200,4480,1,1,0,1,
@@ -6984,3 +6982,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7239,30147,7156,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7240,30148,7155,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7241,30149,7157,1,1,0,1,"{""git"":{""tag"":""v2.12.2"",""url"":""https://github.com/catchorg/Catch2""}}"
+7242,30150,7158,1,1,0,1,"{""git"":{""tag"":""v2.7.18"",""url"":""https://github.com/python/cpython""}}"
+7243,30151,7159,1,1,0,1,"{""git"":{""tag"":""v2.7.18"",""url"":""https://github.com/python/cpython""}}"
