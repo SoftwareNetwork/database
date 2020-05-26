@@ -1740,3 +1740,9 @@ package_id,path
 6641,org.sw.demo.signal11.hidapi
 6642,org.sw.demo.thp.psmove.cli
 6643,org.sw.demo.thp.psmove.api
+6644,org.sw.demo.Kitware.CMake.lib
+6645,org.sw.demo.Kitware.CMake.cm3p
+6646,org.sw.demo.Kitware.CMake.iml
+6647,org.sw.demo.Kitware.CMake.sys
+6648,org.sw.demo.Kitware.CMake.std
+6649,org.sw.demo.Kitware.CMake
