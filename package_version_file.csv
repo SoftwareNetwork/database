@@ -4965,7 +4965,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 4979,24519,4979,1,1,0,1,
 4980,28607,4980,1,1,0,1,
 4981,27385,4981,1,1,0,1,
-4982,28611,4982,1,1,0,1,
 4983,24981,4983,1,1,0,1,
 4984,24983,4984,1,1,0,1,
 4985,24989,4985,1,1,0,1,
@@ -4975,7 +4974,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 4989,24494,4989,1,1,0,1,
 4990,20741,4990,1,1,0,1,
 4991,24498,4991,1,1,0,1,
-4992,28608,4992,1,1,0,1,
 4993,20745,4993,1,1,0,1,
 4994,20691,4994,1,1,0,1,
 4995,24502,4995,1,1,0,1,
@@ -5115,7 +5113,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 5129,24547,5129,1,1,0,1,
 5130,24551,5130,1,1,0,1,
 5131,24555,5131,1,1,0,1,
-5132,28609,5132,1,1,0,1,
 5133,24523,5133,1,1,0,1,
 5134,21894,5134,1,1,0,1,
 5135,21824,5135,1,1,0,1,
@@ -5142,7 +5139,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 5156,21913,5156,1,1,0,1,
 5157,21917,5157,1,1,0,1,
 5158,21921,5158,1,1,0,1,
-5159,28610,5159,1,1,0,1,
 5160,22867,5160,1,1,0,1,
 5161,24538,5161,1,1,0,1,
 5162,21827,5162,1,1,0,1,
@@ -6984,3 +6980,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7241,30149,7157,1,1,0,1,"{""git"":{""tag"":""v2.12.2"",""url"":""https://github.com/catchorg/Catch2""}}"
 7242,30150,7158,1,1,0,1,"{""git"":{""tag"":""v2.7.18"",""url"":""https://github.com/python/cpython""}}"
 7243,30151,7159,1,1,0,1,"{""git"":{""tag"":""v2.7.18"",""url"":""https://github.com/python/cpython""}}"
+7244,30153,7160,1,1,0,1,"{""git"":{""tag"":""REL_12_2"",""url"":""https://github.com/postgres/postgres""}}"
+7245,30155,7162,1,1,0,1,"{""git"":{""tag"":""REL_12_2"",""url"":""https://github.com/postgres/postgres""}}"
+7246,30154,7161,1,1,0,1,"{""git"":{""tag"":""REL_12_2"",""url"":""https://github.com/postgres/postgres""}}"
+7247,30152,7163,1,1,0,1,"{""git"":{""tag"":""REL_12_2"",""url"":""https://github.com/postgres/postgres""}}"
