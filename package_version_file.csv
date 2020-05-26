@@ -6504,13 +6504,10 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 6526,25437,6526,1,1,0,1,
 6527,28871,6527,1,1,0,1,
 6528,28872,6528,1,1,0,1,
-6529,28874,6529,1,1,0,1,
 6530,28873,6530,1,1,0,1,
-6531,28876,6531,1,1,0,1,
 6532,28878,6532,1,1,0,1,
 6533,28059,6533,1,1,0,1,
 6534,28124,6534,1,1,0,1,
-6535,28875,6535,1,1,0,1,
 6536,28185,6536,1,1,0,1,
 6537,28166,6537,1,1,0,1,
 6538,28168,6538,1,1,0,1,
@@ -7053,3 +7050,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7446,30354,7323,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/m4/m4-1.4.18.tar.xz""}}"
 7447,30355,7324,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/m4/m4-1.4.18.tar.xz""}}"
 7448,30356,7325,1,1,0,1,"{""remote"":{""url"":""https://github.com/westes/flex/releases/download/v2.6.4/flex-2.6.4.tar.gz""}}"
+7452,30360,7329,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+7453,30362,7331,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+7454,30361,7330,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
