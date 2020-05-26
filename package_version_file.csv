@@ -7044,3 +7044,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7305,30213,7221,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtwinextras""}}"
 7306,30214,7219,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qttools""}}"
 7307,30215,7226,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+7308,30216,7224,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
+7309,30217,7225,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+7310,30218,7223,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtbase""}}"
