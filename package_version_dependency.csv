@@ -38301,8 +38301,6 @@ package_version_id,package_id,version_range
 26101,4465,*
 26101,6537,*
 26101,6538,master
-26104,2344,*
-26104,5477,*
 26105,1293,master
 26105,2337,*
 26106,3316,1.4.18
@@ -48648,3 +48646,5 @@ package_version_id,package_id,version_range
 30349,6648,master
 30350,6644,master
 30351,6645,master
+30352,2344,*
+30352,5477,*
