@@ -7055,3 +7055,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7468,30376,7345,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 7469,30377,7346,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 7470,30378,7347,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+7471,30379,7348,1,1,0,1,"{""git"":{""tag"":""v3.12.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+7472,30382,7351,1,1,0,1,"{""git"":{""tag"":""v3.12.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+7473,30381,7349,1,1,0,1,"{""git"":{""tag"":""v3.12.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+7474,30380,7350,1,1,0,1,"{""git"":{""tag"":""v3.12.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
