@@ -7055,3 +7055,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7468,30376,7345,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 7469,30377,7346,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 7470,30378,7347,1,1,0,1,"{""git"":{""tag"":""v2.5.22"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+7475,30383,7352,1,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
