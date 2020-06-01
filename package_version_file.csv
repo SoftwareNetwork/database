@@ -6076,7 +6076,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 6097,28763,6097,1,1,0,1,
 6098,28756,6098,1,1,0,1,
 6099,28760,6099,1,1,0,1,
-6100,23561,6100,1,1,0,1,
 6101,23565,6101,1,1,0,1,
 6102,23570,6102,1,1,0,1,
 6103,23573,6103,1,1,0,1,
@@ -6909,7 +6908,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7176,30084,7092,1,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/nasm-2.14.02.tar.xz""}}"
 7177,30085,7093,1,1,0,1,"{""git"":{""tag"":""v1.4.5"",""url"":""https://github.com/facebook/zstd""}}"
 7178,30086,7094,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/signal11/hidapi""}}"
-7179,30087,7095,1,1,0,1,"{""git"":{""tag"":""v0.1.7"",""url"":""https://github.com/libusb/libusb-compat-0.1""}}"
 7180,30088,7096,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 7181,30089,7097,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 7182,30090,7098,1,1,0,1,"{""git"":{""tag"":""v0.6.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
@@ -7066,3 +7064,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7494,30402,7371,1,1,0,1,"{""remote"":{""url"":""https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.2.0.tar.gz""}}"
 7495,30403,7372,1,1,0,1,"{""git"":{""tag"":""v245"",""url"":""https://github.com/systemd/systemd""}}"
 7496,30404,7373,1,1,0,1,"{""git"":{""tag"":""v245"",""url"":""https://github.com/systemd/systemd""}}"
+7497,30405,7374,1,1,0,1,"{""git"":{""tag"":""v1.0.23"",""url"":""https://github.com/libusb/libusb""}}"
+7498,30406,7375,1,1,0,1,"{""git"":{""tag"":""v0.1.7"",""url"":""https://github.com/libusb/libusb-compat-0.1""}}"
