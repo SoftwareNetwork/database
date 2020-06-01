@@ -1747,3 +1747,5 @@ package_id,path
 6648,org.sw.demo.Kitware.CMake.std
 6649,org.sw.demo.Kitware.CMake
 6650,org.sw.sw.client.builder.distributed
+6651,org.sw.demo.systemd.udev
+6652,org.sw.demo.systemd.basic
