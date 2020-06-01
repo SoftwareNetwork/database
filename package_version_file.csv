@@ -7065,4 +7065,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7496,30404,7373,1,1,0,1,"{""git"":{""tag"":""v245"",""url"":""https://github.com/systemd/systemd""}}"
 7497,30405,7374,1,1,0,1,"{""git"":{""tag"":""v1.0.23"",""url"":""https://github.com/libusb/libusb""}}"
 7498,30406,7375,1,1,0,1,"{""git"":{""tag"":""v0.1.7"",""url"":""https://github.com/libusb/libusb-compat-0.1""}}"
-7500,30408,7377,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/signal11/hidapi""}}"
+7501,30409,7378,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/signal11/hidapi""}}"
