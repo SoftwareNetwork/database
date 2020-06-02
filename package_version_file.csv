@@ -7068,3 +7068,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7543,30451,7139,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 7544,30452,7141,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 7545,30453,7142,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+7546,30454,7386,1,1,0,1,"{""git"":{""tag"":""v0.1.6"",""url"":""https://github.com/awslabs/aws-checksums""}}"
