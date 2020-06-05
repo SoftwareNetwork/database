@@ -7076,3 +7076,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7563,30471,7400,1,1,0,1,"{""git"":{""tag"":""v5.31.11"",""url"":""https://github.com/Perl/perl5""}}"
 7564,30472,7404,1,1,0,1,"{""git"":{""tag"":""v1.8.2"",""url"":""https://github.com/webmproject/libvpx""}}"
 7565,30473,7405,1,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/Microsoft/GSL""}}"
+7566,30474,7406,1,1,0,1,"{""git"":{""tag"":""cpp-3.3.0"",""url"":""https://github.com/msgpack/msgpack-c""}}"
