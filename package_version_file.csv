@@ -7079,3 +7079,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7566,30474,7406,1,1,0,1,"{""git"":{""tag"":""cpp-3.3.0"",""url"":""https://github.com/msgpack/msgpack-c""}}"
 7567,30475,7407,1,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/Neargye/magic_enum""}}"
 7568,30476,7408,1,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/ThePhD/sol2""}}"
+7569,30478,7410,1,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/HowardHinnant/date""}}"
+7570,30477,7409,1,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/HowardHinnant/date""}}"
