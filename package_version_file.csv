@@ -7090,3 +7090,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7669,30577,7142,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 7670,30578,7140,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 7671,30579,7434,1,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
+7672,30580,7435,1,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
