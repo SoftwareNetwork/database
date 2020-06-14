@@ -7094,3 +7094,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7819,30727,7426,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7820,30728,7424,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7821,30729,7425,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+7822,30730,7576,1,1,0,1,"{""git"":{""tag"":""v3.8.0"",""url"":""https://github.com/nlohmann/json""}}"
