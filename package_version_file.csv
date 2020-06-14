@@ -1330,7 +1330,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1340,5954,1340,1,1,0,1,
 1341,7136,1341,1,1,0,1,
 1342,17246,1342,1,1,0,1,
-1343,11022,1343,1,1,0,1,
 1344,17248,1344,1,1,0,1,
 1345,6798,1345,1,1,0,1,
 1346,6799,1346,1,1,0,1,
@@ -7091,3 +7090,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7670,30578,7140,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 7671,30579,7434,1,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
 7672,30580,7435,1,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
+7673,30581,7436,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/wjakob/nanogui""}}"
