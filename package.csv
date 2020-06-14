@@ -1751,3 +1751,4 @@ package_id,path
 6652,org.sw.demo.systemd.basic
 6653,org.sw.demo.taskflow
 6654,org.sw.demo.libusb.hidapi
+6655,org.sw.demo.cegui.cegui
