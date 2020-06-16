@@ -7115,3 +7115,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7840,30748,7593,1,1,0,1,"{""git"":{""tag"":""v2.5.2"",""url"":""https://github.com/openexr/openexr""}}"
 7841,30749,7595,1,1,0,1,"{""git"":{""tag"":""v2.5.2"",""url"":""https://github.com/openexr/openexr""}}"
 7842,30750,7594,1,1,0,1,"{""git"":{""tag"":""v2.5.2"",""url"":""https://github.com/openexr/openexr""}}"
+7843,30751,7597,1,1,0,1,"{""git"":{""tag"":""v0.6.7"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
