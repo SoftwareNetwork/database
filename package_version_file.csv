@@ -7119,3 +7119,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7849,30757,7603,1,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/Tessil/hopscotch-map""}}"
 7850,30758,7604,1,1,0,1,"{""git"":{""tag"":""v0.6.2"",""url"":""https://github.com/Tessil/sparse-map""}}"
 7851,30759,7605,1,1,0,1,"{""git"":{""tag"":""v1.9.1"",""url"":""https://github.com/CLIUtils/CLI11""}}"
+7852,30760,7606,1,1,0,1,"{""git"":{""tag"":""2.6.8"",""url"":""https://github.com/behdad/harfbuzz""}}"
