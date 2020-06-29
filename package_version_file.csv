@@ -7134,3 +7134,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7916,30824,7425,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7917,30825,7424,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7918,30826,7630,1,1,0,1,"{""git"":{""tag"":""curl-7_71_0"",""url"":""https://github.com/curl/curl""}}"
+7919,30827,7631,1,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/OSGeo/gdal""}}"
