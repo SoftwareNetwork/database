@@ -7146,3 +7146,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7939,30847,7425,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7940,30848,7629,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 7941,30849,7424,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+7942,30850,7643,1,1,0,1,"{""git"":{""tag"":""curl-7_71_1"",""url"":""https://github.com/curl/curl""}}"
