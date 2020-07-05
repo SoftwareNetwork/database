@@ -7149,3 +7149,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7942,30850,7643,1,1,0,1,"{""git"":{""tag"":""curl-7_71_1"",""url"":""https://github.com/curl/curl""}}"
 7943,30851,7645,1,1,0,1,"{""git"":{""tag"":""v14.0.0"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 7944,30852,7644,1,1,0,1,"{""git"":{""tag"":""v14.0.0"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
+7945,30853,7646,1,1,0,1,"{""git"":{""tag"":""v2.12.4"",""url"":""https://github.com/catchorg/Catch2""}}"
