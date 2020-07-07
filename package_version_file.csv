@@ -7162,3 +7162,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7963,30871,7664,1,1,0,1,"{""git"":{""tag"":""libtorrent_1_2_7"",""url"":""https://github.com/arvidn/libtorrent""}}"
 7964,30872,7665,1,1,0,1,"{""git"":{""tag"":""7.0.0"",""url"":""https://github.com/fmtlib/fmt""}}"
 7965,30873,7666,1,1,0,1,"{""git"":{""tag"":""v1.2.0"",""url"":""https://github.com/daniele77/cli""}}"
+7966,30874,7667,1,1,0,1,"{""git"":{""tag"":""1.0.1"",""url"":""https://github.com/apolukhin/magic_get""}}"
