@@ -7168,3 +7168,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7969,30877,7670,1,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/gabime/spdlog""}}"
 7970,30879,7671,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3320300.zip""}}"
 7971,30878,7672,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3320300.zip""}}"
+7972,30881,7673,1,1,0,1,"{""git"":{""tag"":""v2020.3"",""url"":""https://github.com/intel/tbb""}}"
+7973,30880,7674,1,1,0,1,"{""git"":{""tag"":""v2020.3"",""url"":""https://github.com/intel/tbb""}}"
+7974,30882,7675,1,1,0,1,"{""git"":{""tag"":""v2020.3"",""url"":""https://github.com/intel/tbb""}}"
