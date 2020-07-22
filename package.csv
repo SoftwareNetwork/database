@@ -1752,3 +1752,4 @@ package_id,path
 6653,org.sw.demo.taskflow
 6654,org.sw.demo.libusb.hidapi
 6655,org.sw.demo.cegui.cegui
+6656,org.sw.sw.server.mirror
