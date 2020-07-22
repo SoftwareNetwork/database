@@ -7226,3 +7226,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8028,30935,7728,1,1,0,1,"{""git"":{""tag"":""v3.8.4"",""url"":""https://github.com/python/cpython""}}"
 8031,30940,7732,1,1,0,1,"{""git"":{""tag"":""v3.8.5"",""url"":""https://github.com/python/cpython""}}"
 8032,30939,7733,1,1,0,1,"{""git"":{""tag"":""v3.8.5"",""url"":""https://github.com/python/cpython""}}"
+8033,30941,7736,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-10.0.1/libunwind-10.0.1.src.tar.xz""}}"
+8034,30943,7734,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-10.0.1/libcxxabi-10.0.1.src.tar.xz""}}"
+8035,30942,7735,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-10.0.1/libcxx-10.0.1.src.tar.xz""}}"
+8036,30944,7737,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-10.0.1/compiler-rt-10.0.1.src.tar.xz""}}"
