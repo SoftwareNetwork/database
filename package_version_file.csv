@@ -7246,3 +7246,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8107,31015,7810,1,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 8108,31016,7808,1,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 8109,31017,7809,1,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
+8110,31018,7811,1,1,0,1,"{""git"":{""tag"":""2.7.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
