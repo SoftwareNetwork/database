@@ -7252,3 +7252,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8113,31021,7814,1,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/Cyan4973/xxHash""}}"
 8114,31023,7816,1,1,0,1,"{""git"":{""tag"":""v2.1.2"",""url"":""https://github.com/Genivia/RE-flex""}}"
 8115,31022,7815,1,1,0,1,"{""git"":{""tag"":""v2.1.2"",""url"":""https://github.com/Genivia/RE-flex""}}"
+8116,31024,7817,1,1,0,1,"{""git"":{""tag"":""v0.7.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
