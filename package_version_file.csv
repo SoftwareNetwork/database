@@ -7254,3 +7254,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8115,31022,7815,1,1,0,1,"{""git"":{""tag"":""v2.1.2"",""url"":""https://github.com/Genivia/RE-flex""}}"
 8116,31024,7817,1,1,0,1,"{""git"":{""tag"":""v0.7.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 8117,31025,7818,1,1,0,1,"{""git"":{""tag"":""7.0.2"",""url"":""https://github.com/fmtlib/fmt""}}"
+8118,31026,7819,1,1,0,1,"{""git"":{""tag"":""2.0.1"",""url"":""https://github.com/skvadrik/re2c""}}"
+8119,31027,7820,1,1,0,1,"{""git"":{""tag"":""2.0.1"",""url"":""https://github.com/skvadrik/re2c""}}"
