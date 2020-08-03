@@ -7262,3 +7262,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8123,31030,7823,1,1,0,1,"{""git"":{""tag"":""4.4.0"",""url"":""https://github.com/emweb/wt""}}"
 8124,31032,7824,1,1,0,1,"{""git"":{""tag"":""4.4.0"",""url"":""https://github.com/emweb/wt""}}"
 8125,31031,7826,1,1,0,1,"{""git"":{""tag"":""4.4.0"",""url"":""https://github.com/emweb/wt""}}"
+8126,31034,7827,1,1,0,1,"{""git"":{""tag"":""releases/CGAL-5.0.3"",""url"":""https://github.com/CGAL/cgal""}}"
