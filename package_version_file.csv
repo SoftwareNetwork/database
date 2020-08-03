@@ -7257,3 +7257,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8118,31026,7819,1,1,0,1,"{""git"":{""tag"":""2.0.1"",""url"":""https://github.com/skvadrik/re2c""}}"
 8119,31027,7820,1,1,0,1,"{""git"":{""tag"":""2.0.1"",""url"":""https://github.com/skvadrik/re2c""}}"
 8120,31028,7821,1,1,0,1,"{""git"":{""tag"":""v0.7.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+8121,31029,7822,1,1,0,1,"{""git"":{""tag"":""v2.0.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
