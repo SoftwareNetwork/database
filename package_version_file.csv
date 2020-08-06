@@ -7274,3 +7274,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8145,31053,7837,1,1,0,1,"{""git"":{""tag"":""v1.31.0"",""url"":""https://github.com/grpc/grpc""}}"
 8147,31055,7840,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/protocolbuffers/upb""}}"
 8148,31056,7839,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/protocolbuffers/upb""}}"
+8149,31057,7841,1,1,0,1,"{""git"":{""tag"":""2020-08-01"",""url"":""https://github.com/google/re2""}}"
