@@ -6881,7 +6881,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7568,30476,7408,1,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/ThePhD/sol2""}}"
 7569,30478,7410,1,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/HowardHinnant/date""}}"
 7570,30477,7409,1,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/HowardHinnant/date""}}"
-7571,30479,7411,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/libusb/hidapi""}}"
 7572,30480,7412,1,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
 7573,30481,7413,1,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
 7625,30533,7427,1,1,0,1,"{""git"":{""tag"":""1.9.3"",""url"":""https://github.com/open-source-parsers/jsoncpp""}}"
@@ -7288,3 +7287,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8192,31100,7884,1,1,0,1,"{""git"":{""tag"":""v1.31.0"",""url"":""https://github.com/grpc/grpc""}}"
 8193,31101,7885,1,1,0,1,"{""git"":{""tag"":""v3.9.1"",""url"":""https://github.com/nlohmann/json""}}"
 8194,31102,7886,1,1,0,1,"{""git"":{""tag"":""v1.0.23"",""url"":""https://github.com/libusb/libusb""}}"
+8195,31103,7887,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/libusb/hidapi""}}"
