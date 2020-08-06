@@ -6861,7 +6861,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7494,30402,7371,1,1,0,1,"{""remote"":{""url"":""https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.2.0.tar.gz""}}"
 7495,30403,7372,1,1,0,1,"{""git"":{""tag"":""v245"",""url"":""https://github.com/systemd/systemd""}}"
 7496,30404,7373,1,1,0,1,"{""git"":{""tag"":""v245"",""url"":""https://github.com/systemd/systemd""}}"
-7497,30405,7374,1,1,0,1,"{""git"":{""tag"":""v1.0.23"",""url"":""https://github.com/libusb/libusb""}}"
 7498,30406,7375,1,1,0,1,"{""git"":{""tag"":""v0.1.7"",""url"":""https://github.com/libusb/libusb-compat-0.1""}}"
 7501,30409,7378,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/signal11/hidapi""}}"
 7502,30410,7379,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
@@ -7288,3 +7287,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8191,31099,7880,1,1,0,1,"{""git"":{""tag"":""v1.31.0"",""url"":""https://github.com/grpc/grpc""}}"
 8192,31100,7884,1,1,0,1,"{""git"":{""tag"":""v1.31.0"",""url"":""https://github.com/grpc/grpc""}}"
 8193,31101,7885,1,1,0,1,"{""git"":{""tag"":""v3.9.1"",""url"":""https://github.com/nlohmann/json""}}"
+8194,31102,7886,1,1,0,1,"{""git"":{""tag"":""v1.0.23"",""url"":""https://github.com/libusb/libusb""}}"
