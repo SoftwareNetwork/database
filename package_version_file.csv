@@ -7288,3 +7288,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8195,31103,7887,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/libusb/hidapi""}}"
 8196,31104,7888,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 8197,31105,7889,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
+8198,31106,7890,1,1,0,1,"{""git"":{""tag"":""7.0.3"",""url"":""https://github.com/fmtlib/fmt""}}"
