@@ -7289,3 +7289,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8196,31104,7888,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 8197,31105,7889,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/thp/psmoveapi""}}"
 8198,31106,7890,1,1,0,1,"{""git"":{""tag"":""7.0.3"",""url"":""https://github.com/fmtlib/fmt""}}"
+8199,31107,7892,1,1,0,1,"{""git"":{""tag"":""2.0.2"",""url"":""https://github.com/skvadrik/re2c""}}"
+8200,31108,7891,1,1,0,1,"{""git"":{""tag"":""2.0.2"",""url"":""https://github.com/skvadrik/re2c""}}"
