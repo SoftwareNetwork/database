@@ -7300,3 +7300,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8220,31128,7902,1,1,0,1,"{""git"":{""tag"":""v2.5.3"",""url"":""https://github.com/openexr/openexr""}}"
 8221,31129,7904,1,1,0,1,"{""git"":{""tag"":""v2.5.3"",""url"":""https://github.com/openexr/openexr""}}"
 8222,31130,7903,1,1,0,1,"{""git"":{""tag"":""v2.5.3"",""url"":""https://github.com/openexr/openexr""}}"
+8223,31131,7906,1,1,0,1,"{""git"":{""tag"":""v1.9.0"",""url"":""https://github.com/webmproject/libvpx""}}"
