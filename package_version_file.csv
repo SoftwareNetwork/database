@@ -7301,3 +7301,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8222,31130,7903,1,1,0,1,"{""git"":{""tag"":""v2.5.3"",""url"":""https://github.com/openexr/openexr""}}"
 8223,31131,7906,1,1,0,1,"{""git"":{""tag"":""v1.9.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 8225,31133,7908,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://chromium.googlesource.com/libyuv/libyuv""}}"
+8226,31134,7909,1,1,0,1,"{""git"":{""tag"":""2.7.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
