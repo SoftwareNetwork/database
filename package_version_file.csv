@@ -7303,3 +7303,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8225,31133,7908,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://chromium.googlesource.com/libyuv/libyuv""}}"
 8226,31134,7909,1,1,0,1,"{""git"":{""tag"":""2.7.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
 8227,31135,7910,1,1,0,1,"{""git"":{""tag"":""1.0.2"",""url"":""https://github.com/apolukhin/magic_get""}}"
+8228,31137,7911,1,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+8229,31136,7913,1,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+8230,31138,7912,1,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+8231,31139,7914,1,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+8232,31140,7915,1,1,0,1,"{""git"":{""tag"":""v1.0.29"",""url"":""https://github.com/erikd/libsndfile""}}"
