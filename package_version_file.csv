@@ -7308,3 +7308,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8230,31138,7912,1,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 8231,31139,7914,1,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 8232,31140,7915,1,1,0,1,"{""git"":{""tag"":""v1.0.29"",""url"":""https://github.com/erikd/libsndfile""}}"
+8233,31141,7916,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3330000.zip""}}"
+8234,31142,7917,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3330000.zip""}}"
