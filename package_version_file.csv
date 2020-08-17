@@ -7447,3 +7447,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8638,31546,7571,1,1,0,1,"{""git"":{""commit"":""bc0c90a70f0435ee4ce65b97a68d864a7d627e35"",""url"":""https://github.com/boostorg/program_options""}}"
 8639,31547,8188,1,1,0,1,"{""git"":{""tag"":""1.0.3"",""url"":""https://github.com/apolukhin/magic_get""}}"
 8640,31548,8189,1,1,0,1,"{""git"":{""tag"":""v0.7.5"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+8641,31549,8190,1,1,0,1,"{""git"":{""tag"":""asio-1-14-1"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+8642,31550,8191,1,1,0,1,"{""git"":{""tag"":""asio-1-16-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+8643,31551,8192,1,1,0,1,"{""git"":{""tag"":""asio-1-17-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+8644,31552,8193,1,1,0,1,"{""git"":{""tag"":""asio-1-16-1"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+8645,31553,8194,1,1,0,1,"{""git"":{""tag"":""asio-1-18-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
