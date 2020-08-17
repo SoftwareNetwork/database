@@ -7446,3 +7446,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8637,31545,7570,1,1,0,1,"{""git"":{""commit"":""5d9ba8578ac1d78525488077dafb99b536a399d3"",""url"":""https://github.com/boostorg/random""}}"
 8638,31546,7571,1,1,0,1,"{""git"":{""commit"":""bc0c90a70f0435ee4ce65b97a68d864a7d627e35"",""url"":""https://github.com/boostorg/program_options""}}"
 8639,31547,8188,1,1,0,1,"{""git"":{""tag"":""1.0.3"",""url"":""https://github.com/apolukhin/magic_get""}}"
+8640,31548,8189,1,1,0,1,"{""git"":{""tag"":""v0.7.5"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
