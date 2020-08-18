@@ -7452,3 +7452,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8643,31551,8192,1,1,0,1,"{""git"":{""tag"":""asio-1-17-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 8644,31552,8193,1,1,0,1,"{""git"":{""tag"":""asio-1-16-1"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 8645,31553,8194,1,1,0,1,"{""git"":{""tag"":""asio-1-18-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+8646,31554,8195,1,1,0,1,"{""git"":{""tag"":""v1.78"",""url"":""https://github.com/ocornut/imgui""}}"
