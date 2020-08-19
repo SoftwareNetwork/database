@@ -7453,3 +7453,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8645,31553,8194,1,1,0,1,"{""git"":{""tag"":""asio-1-18-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 8646,31554,8195,1,1,0,1,"{""git"":{""tag"":""v1.78"",""url"":""https://github.com/ocornut/imgui""}}"
 8647,31555,8196,1,1,0,1,"{""git"":{""tag"":""hwloc-2.2.0"",""url"":""https://github.com/open-mpi/hwloc""}}"
+8648,31556,8197,1,1,0,1,"{""git"":{""tag"":""curl-7_72_0"",""url"":""https://github.com/curl/curl""}}"
