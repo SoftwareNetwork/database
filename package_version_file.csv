@@ -7456,3 +7456,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8648,31556,8197,1,1,0,1,"{""git"":{""tag"":""curl-7_72_0"",""url"":""https://github.com/curl/curl""}}"
 8649,31557,8198,1,1,0,1,"{""git"":{""tag"":""1.0.4"",""url"":""https://github.com/apolukhin/magic_get""}}"
 8650,31558,8199,1,1,0,1,"{""git"":{""tag"":""libtorrent-1.2.9"",""url"":""https://github.com/arvidn/libtorrent""}}"
+8651,31559,8201,1,1,0,1,"{""git"":{""tag"":""2.0.3"",""url"":""https://github.com/skvadrik/re2c""}}"
+8652,31560,8200,1,1,0,1,"{""git"":{""tag"":""2.0.3"",""url"":""https://github.com/skvadrik/re2c""}}"
