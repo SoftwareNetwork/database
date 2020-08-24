@@ -7458,3 +7458,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8650,31558,8199,1,1,0,1,"{""git"":{""tag"":""libtorrent-1.2.9"",""url"":""https://github.com/arvidn/libtorrent""}}"
 8651,31559,8201,1,1,0,1,"{""git"":{""tag"":""2.0.3"",""url"":""https://github.com/skvadrik/re2c""}}"
 8652,31560,8200,1,1,0,1,"{""git"":{""tag"":""2.0.3"",""url"":""https://github.com/skvadrik/re2c""}}"
+8653,31561,8202,1,1,0,1,"{""git"":{""tag"":""v2020.08.24.00"",""url"":""https://github.com/facebook/folly""}}"
