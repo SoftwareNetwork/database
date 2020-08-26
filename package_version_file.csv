@@ -7459,3 +7459,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8651,31559,8201,1,1,0,1,"{""git"":{""tag"":""2.0.3"",""url"":""https://github.com/skvadrik/re2c""}}"
 8652,31560,8200,1,1,0,1,"{""git"":{""tag"":""2.0.3"",""url"":""https://github.com/skvadrik/re2c""}}"
 8653,31561,8202,1,1,0,1,"{""git"":{""tag"":""v2020.08.24.00"",""url"":""https://github.com/facebook/folly""}}"
+8654,31562,8203,1,1,0,1,"{""git"":{""tag"":""v1.0.8"",""url"":""https://github.com/google/brotli""}}"
