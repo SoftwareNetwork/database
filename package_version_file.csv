@@ -7463,3 +7463,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8791,31699,8339,1,1,0,1,"{""git"":{""commit"":""554da2950e99636b9bc068785c611ca6e05d3a4d"",""url"":""https://github.com/boostorg/graph""}}"
 8792,31700,8341,1,1,0,1,"{""git"":{""commit"":""ccb8fbb9a1a0dbdffb1054ffa34e4aba1e425642"",""url"":""https://github.com/boostorg/locale""}}"
 8793,31701,8340,1,1,0,1,"{""git"":{""commit"":""102acf1d34ff91e67fe9aae401edc6edd68be89e"",""url"":""https://github.com/boostorg/python""}}"
+8794,31702,8342,1,1,0,1,"{""git"":{""tag"":""Version_2.2.0"",""url"":""https://github.com/dpilger26/NumCpp""}}"
