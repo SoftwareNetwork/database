@@ -7461,3 +7461,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8653,31561,8202,1,1,0,1,"{""git"":{""tag"":""v2020.08.24.00"",""url"":""https://github.com/facebook/folly""}}"
 8654,31562,8203,1,1,0,1,"{""git"":{""tag"":""v1.0.8"",""url"":""https://github.com/google/brotli""}}"
 8655,31563,8204,1,1,0,1,"{""git"":{""tag"":""v2.6.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+8656,31564,8205,1,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/daniele77/cli""}}"
