@@ -7471,3 +7471,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8804,31712,8352,1,1,0,1,"{""git"":{""tag"":""v14.1.0"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 8805,31713,8353,1,1,0,1,"{""git"":{""tag"":""v2020.08.31.00"",""url"":""https://github.com/facebook/folly""}}"
 8806,31714,8354,1,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/skypjack/entt""}}"
+8807,31715,8355,1,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
