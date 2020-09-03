@@ -7494,3 +7494,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8827,31735,8375,1,1,0,1,"{""git"":{""tag"":""1.5.0"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 8828,31736,8376,1,1,0,1,"{""git"":{""tag"":""1.5.0"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 8829,31737,8377,1,1,0,1,"{""git"":{""tag"":""libtorrent-1.2.10"",""url"":""https://github.com/arvidn/libtorrent""}}"
+8830,31738,8378,1,1,0,1,"{""git"":{""tag"":""v0.7.6"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
