@@ -7498,3 +7498,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8843,31751,7787,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 8844,31752,7786,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 8845,31753,8385,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/olvb/nodesoup""}}"
+8846,31754,8386,1,1,0,1,"{""git"":{""tag"":""v.2.9.2"",""url"":""https://github.com/dtschump/CImg""}}"
