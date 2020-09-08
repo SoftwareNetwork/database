@@ -1780,7 +1780,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1791,12152,1791,1,1,0,1,
 1792,12397,1792,1,1,0,1,
 1793,10038,1793,1,1,0,1,
-1794,2203,1794,1,1,0,1,
 1795,27000,1795,1,1,0,1,
 1796,12401,1796,1,1,0,1,
 1797,27004,1797,1,1,0,1,
@@ -7518,3 +7517,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8994,31902,8533,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 8995,31903,8535,1,1,0,1,"{""git"":{""tag"":""0.59"",""url"":""https://github.com/rbock/sqlpp11""}}"
 8996,31904,8536,1,1,0,1,"{""git"":{""tag"":""0.60"",""url"":""https://github.com/rbock/sqlpp11""}}"
+8997,31905,8537,1,1,0,1,"{""git"":{""tag"":""0.29"",""url"":""https://github.com/rbock/sqlpp11-connector-sqlite3""}}"
+8998,31906,8538,1,1,0,1,"{""git"":{""tag"":""0.30"",""url"":""https://github.com/rbock/sqlpp11-connector-sqlite3""}}"
