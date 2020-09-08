@@ -7519,3 +7519,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9048,31956,8559,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9049,31957,8552,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9050,31958,8556,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+9051,31959,8560,1,1,0,1,"{""git"":{""tag"":""v0.7.7"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
