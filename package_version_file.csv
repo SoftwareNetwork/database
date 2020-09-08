@@ -7514,3 +7514,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8938,31846,8478,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 8939,31848,8480,1,1,0,1,"{""git"":{""tag"":""v2.7.18"",""url"":""https://github.com/python/cpython""}}"
 8940,31847,8479,1,1,0,1,"{""git"":{""tag"":""v2.7.18"",""url"":""https://github.com/python/cpython""}}"
+8941,31849,8481,1,1,0,1,"{""git"":{""tag"":""v5.1"",""url"":""https://github.com/CGAL/cgal""}}"
+8942,31850,8482,1,1,0,1,"{""git"":{""tag"":""v4.3.3"",""url"":""https://github.com/zeromq/libzmq""}}"
