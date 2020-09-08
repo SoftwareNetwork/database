@@ -7516,3 +7516,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 8992,31900,8525,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 8993,31901,8529,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 8994,31902,8533,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+8995,31903,8535,1,1,0,1,"{""git"":{""tag"":""0.59"",""url"":""https://github.com/rbock/sqlpp11""}}"
+8996,31904,8536,1,1,0,1,"{""git"":{""tag"":""0.60"",""url"":""https://github.com/rbock/sqlpp11""}}"

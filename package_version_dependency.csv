@@ -52911,3 +52911,5 @@ package_version_id,package_id,version_range
 31902,6411,1.0.0
 31902,6533,master
 31902,6534,master
+31903,665,>=2.0.0 <3.0.0
+31904,665,>=2.0.0 <3.0.0
