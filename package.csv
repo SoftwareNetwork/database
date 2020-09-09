@@ -1767,3 +1767,9 @@ package_id,path
 6668,org.sw.demo.arvidn.try_signal
 6669,org.sw.demo.H_EAL.oqpi
 6670,org.sw.demo.ned14.quickcpplib
+6671,org.sw.demo.google.Orbit.GrpcProtos
+6672,org.sw.demo.google.Orbit.ElfUtils
+6673,org.sw.demo.google.Orbit.Core
+6674,org.sw.demo.google.Orbit.ClientProtos
+6675,org.sw.demo.google.Orbit.Base
+6676,org.sw.demo.google.Orbit.third_party.multicore
