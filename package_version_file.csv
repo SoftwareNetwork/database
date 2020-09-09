@@ -7523,3 +7523,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9092,32000,8562,1,1,0,1,"{""git"":{""tag"":""v1.38.1"",""url"":""https://github.com/libuv/libuv""}}"
 9093,32001,8563,1,1,0,1,"{""git"":{""tag"":""v1.39.0"",""url"":""https://github.com/libuv/libuv""}}"
 9094,32002,8564,1,1,0,1,"{""git"":{""tag"":""v1.38.1-my"",""url"":""https://github.com/egorpugin/libuv""}}"
+9095,32003,8565,1,1,0,1,"{""git"":{""tag"":""v1.39.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
