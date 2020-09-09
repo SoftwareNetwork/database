@@ -7534,4 +7534,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9105,32013,8575,1,1,0,1,"{""git"":{""tag"":""v1.32.0"",""url"":""https://github.com/grpc/grpc""}}"
 9106,32014,8576,1,1,0,1,"{""git"":{""tag"":""1.0.2"",""url"":""https://github.com/cameron314/concurrentqueue""}}"
 9107,32015,8577,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/H-EAL/oqpi""}}"
-9108,32016,8578,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/ned14/outcome""}}"
+9109,32017,8579,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/ned14/quickcpplib""}}"
+9110,32018,8580,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/ned14/outcome""}}"
