@@ -6784,7 +6784,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 7627,30535,7429,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3320100.zip""}}"
 7628,30537,7430,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3320200.zip""}}"
 7629,30536,7431,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3320200.zip""}}"
-7630,30538,7432,1,1,0,1,"{""git"":{""tag"":""rel-4.0.2"",""url"":""https://github.com/swig/swig""}}"
 7671,30579,7434,1,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
 7672,30580,7435,1,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
 7673,30581,7436,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/wjakob/nanogui""}}"
@@ -7543,3 +7542,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9273,32183,8745,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 9274,32180,8743,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 9275,32182,8744,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
+9276,32184,8746,1,1,0,1,"{""git"":{""tag"":""rel-4.0.2"",""url"":""https://github.com/swig/swig""}}"
