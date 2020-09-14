@@ -7545,3 +7545,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9280,32188,8745,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 9281,32190,8743,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 9282,32189,8749,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
+9283,32191,8750,1,1,0,1,"{""git"":{""tag"":""v2020.09.14.00"",""url"":""https://github.com/facebook/folly""}}"
