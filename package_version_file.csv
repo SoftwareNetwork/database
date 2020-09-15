@@ -7546,3 +7546,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9293,32201,8559,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9294,32202,8558,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9295,32203,8556,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+9296,32205,8754,1,1,0,1,"{""git"":{""tag"":""1.8.47"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+9297,32206,8756,1,1,0,1,"{""git"":{""tag"":""1.8.47"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+9298,32204,8755,1,1,0,1,"{""git"":{""tag"":""1.8.47"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
