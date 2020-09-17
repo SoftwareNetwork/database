@@ -5718,7 +5718,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 5779,22393,5779,1,1,0,1,
 5780,28714,5780,1,1,0,1,
 5781,28717,5781,1,1,0,1,
-5782,28726,5782,1,1,0,1,
 5783,22276,5783,1,1,0,1,
 5784,22277,5784,1,1,0,1,
 5785,22283,5785,1,1,0,1,
@@ -7550,3 +7549,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9297,32206,8756,1,1,0,1,"{""git"":{""tag"":""1.8.47"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 9298,32204,8755,1,1,0,1,"{""git"":{""tag"":""1.8.47"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 9299,32207,8757,1,1,0,1,"{""git"":{""tag"":""7.2.0"",""url"":""https://github.com/jtv/libpqxx""}}"
+9300,32208,8758,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.92.tar.gz""}}"
