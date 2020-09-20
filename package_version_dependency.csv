@@ -52980,3 +52980,6 @@ package_version_id,package_id,version_range
 32245,2815,0.4.2
 32245,6215,master
 32245,6638,master
+32248,2587,*
+32248,2592,*
+32248,3998,*
