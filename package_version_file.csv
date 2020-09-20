@@ -7553,3 +7553,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9339,32247,8788,1,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/ToruNiina/toml11""}}"
 9340,32248,8789,1,1,0,1,"{""git"":{""tag"":""v1.0.30"",""url"":""https://github.com/erikd/libsndfile""}}"
 9342,32250,8791,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/KhronosGroup/glslang""}}"
+9343,32251,8792,1,1,0,1,"{""remote"":{""url"":""https://chromium.googlesource.com/chromium/src/+archive/master/third_party/zlib/google.tar.gz""}}"

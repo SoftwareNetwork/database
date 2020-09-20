@@ -1774,3 +1774,4 @@ package_id,path
 6675,org.sw.demo.google.Orbit.Base
 6676,org.sw.demo.google.Orbit.third_party.multicore
 6677,org.sw.demo.KhronosGroup.glslang
+6678,org.sw.demo.chromium.third_party.zlib.google.compression_utils_portable
