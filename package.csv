@@ -1773,3 +1773,4 @@ package_id,path
 6674,org.sw.demo.google.Orbit.ClientProtos
 6675,org.sw.demo.google.Orbit.Base
 6676,org.sw.demo.google.Orbit.third_party.multicore
+6677,org.sw.demo.KhronosGroup.glslang
