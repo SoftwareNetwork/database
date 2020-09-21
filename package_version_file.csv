@@ -7566,3 +7566,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9353,32261,8802,1,1,0,1,"{""git"":{""commit"":""f5dace0f1e57"",""url"":""https://chromium.googlesource.com/angle/angle""}}"
 9354,32262,8801,1,1,0,1,"{""git"":{""commit"":""f5dace0f1e57"",""url"":""https://chromium.googlesource.com/angle/angle""}}"
 9355,32263,8803,1,1,0,1,"{""git"":{""commit"":""f5dace0f1e57"",""url"":""https://chromium.googlesource.com/angle/angle""}}"
+9356,32264,8805,1,1,0,1,"{""git"":{""tag"":""v2020.09.21.00"",""url"":""https://github.com/facebook/folly""}}"
