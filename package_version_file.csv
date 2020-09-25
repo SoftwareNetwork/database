@@ -7577,3 +7577,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9364,32272,8812,1,1,0,1,"{""git"":{""tag"":""v3.0.8"",""url"":""https://github.com/malaterre/GDCM""}}"
 9365,32273,8809,1,1,0,1,"{""git"":{""tag"":""v3.0.8"",""url"":""https://github.com/malaterre/GDCM""}}"
 9366,32274,8811,1,1,0,1,"{""git"":{""tag"":""v3.0.8"",""url"":""https://github.com/malaterre/GDCM""}}"
+9367,32275,8814,1,1,0,1,"{""git"":{""tag"":""20200923"",""url"":""https://github.com/abseil/abseil-cpp""}}"
