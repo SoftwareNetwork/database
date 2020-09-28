@@ -7581,3 +7581,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9368,32276,8815,1,1,0,1,"{""git"":{""tag"":""v0.7.8"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 9369,32277,8816,1,1,0,1,"{""git"":{""tag"":""1.9.4"",""url"":""https://github.com/open-source-parsers/jsoncpp""}}"
 9370,32278,8817,1,1,0,1,"{""git"":{""tag"":""3.0.4"",""url"":""https://github.com/libsigcplusplus/libsigcplusplus""}}"
+9371,32279,8818,1,1,0,1,"{""git"":{""tag"":""v2020.09.28.00"",""url"":""https://github.com/facebook/folly""}}"
