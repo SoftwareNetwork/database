@@ -7586,3 +7586,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9375,32282,8821,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.5.tar.xz""}}"
 9376,32285,8824,1,1,0,1,"{""git"":{""tag"":""v14.2.0"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 9377,32284,8823,1,1,0,1,"{""git"":{""tag"":""v14.2.0"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
+9378,32286,8825,1,1,0,1,"{""git"":{""tag"":""v4.7.0"",""url"":""https://github.com/zeromq/cppzmq""}}"
