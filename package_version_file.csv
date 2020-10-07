@@ -7608,3 +7608,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9397,32305,8843,1,1,0,1,"{""git"":{""tag"":""1.5.1"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 9398,32306,8845,1,1,0,1,"{""git"":{""tag"":""v1.8.1"",""url"":""https://github.com/gabime/spdlog""}}"
 9399,32307,8846,1,1,0,1,"{""git"":{""tag"":""2020-10-01"",""url"":""https://github.com/google/re2""}}"
+9400,32308,8847,1,1,0,1,"{""git"":{""tag"":""1.0.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+9401,32309,8848,1,1,0,1,"{""git"":{""tag"":""1.0.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+9402,32310,8849,1,1,0,1,"{""git"":{""tag"":""v2.7.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+9403,32311,8850,1,1,0,1,"{""git"":{""tag"":""v2.13.2"",""url"":""https://github.com/catchorg/Catch2""}}"
