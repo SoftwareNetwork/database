@@ -7620,3 +7620,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9409,32317,8855,1,1,0,1,"{""git"":{""tag"":""4.0.11"",""url"":""https://github.com/thp/psmoveapi""}}"
 9410,32318,8857,1,1,0,1,"{""remote"":{""url"":""https://git.savannah.gnu.org/cgit/freetype/freetype2.git/snapshot/VER-2-10-3.tar.gz""}}"
 9411,32319,8858,1,1,0,1,"{""git"":{""tag"":""v0.7.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+9412,32320,8859,1,1,0,1,"{""git"":{""tag"":""20200923.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+9413,32321,8860,1,1,0,1,"{""git"":{""tag"":""v1.2.156"",""url"":""https://github.com/KhronosGroup/Vulkan-Headers""}}"
