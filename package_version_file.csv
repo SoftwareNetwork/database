@@ -7624,3 +7624,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9413,32321,8860,1,1,0,1,"{""git"":{""tag"":""v1.2.156"",""url"":""https://github.com/KhronosGroup/Vulkan-Headers""}}"
 9414,32322,8861,1,1,0,1,"{""git"":{""tag"":""v1.2.156"",""url"":""https://github.com/KhronosGroup/Vulkan-Loader""}}"
 9415,32323,8862,1,1,0,1,"{""git"":{""tag"":""v1.79"",""url"":""https://github.com/ocornut/imgui""}}"
+9416,32324,8863,1,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
+9417,32325,8864,1,1,0,1,"{""git"":{""tag"":""v2020.10.12.00"",""url"":""https://github.com/facebook/folly""}}"
