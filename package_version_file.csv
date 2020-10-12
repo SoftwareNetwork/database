@@ -7725,3 +7725,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9520,32425,8965,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.1.tar.xz""}}"
 9521,32429,8968,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.1.tar.xz""}}"
 9522,32430,8969,1,1,0,1,"{""git"":{""tag"":""v0.4.59"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+9523,32431,8970,1,1,0,1,"{""git"":{""tag"":""v0.1.9"",""url"":""https://github.com/awslabs/aws-checksums""}}"
