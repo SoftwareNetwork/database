@@ -7729,3 +7729,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9531,32439,8978,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.5.tar.xz""}}"
 9532,32441,8980,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/sed/sed-4.7.tar.xz""}}"
 9533,32440,8979,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/sed/sed-4.7.tar.xz""}}"
+9534,32442,8981,1,1,0,1,"{""git"":{""tag"":""v0.2.0"",""url"":""https://github.com/jsonrpcx/json-rpc-cxx""}}"
+9535,32443,8982,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/Neargye/magic_enum""}}"
+9536,32444,8983,1,1,0,1,"{""git"":{""tag"":""curl-7_73_0"",""url"":""https://github.com/curl/curl""}}"
