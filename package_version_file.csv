@@ -7732,3 +7732,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9534,32442,8981,1,1,0,1,"{""git"":{""tag"":""v0.2.0"",""url"":""https://github.com/jsonrpcx/json-rpc-cxx""}}"
 9535,32443,8982,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/Neargye/magic_enum""}}"
 9536,32444,8983,1,1,0,1,"{""git"":{""tag"":""curl-7_73_0"",""url"":""https://github.com/curl/curl""}}"
+9537,32445,8984,1,1,0,1,"{""git"":{""tag"":""v0.6.0"",""url"":""https://github.com/google/cpu_features""}}"
