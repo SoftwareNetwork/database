@@ -7733,3 +7733,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9585,32493,9032,1,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 9586,32494,9031,1,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 9587,32495,9034,1,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
+9588,32496,9035,1,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1h"",""url"":""https://github.com/openssl/openssl""}}"
+9589,32497,9036,1,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1h"",""url"":""https://github.com/openssl/openssl""}}"
