@@ -7735,3 +7735,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9587,32495,9034,1,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 9588,32496,9035,1,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1h"",""url"":""https://github.com/openssl/openssl""}}"
 9589,32497,9036,1,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1h"",""url"":""https://github.com/openssl/openssl""}}"
+9590,32498,9037,1,1,0,1,"{""git"":{""tag"":""7.1.0"",""url"":""https://github.com/fmtlib/fmt""}}"
+9591,32499,9038,1,1,0,1,"{""git"":{""tag"":""v0.7.11"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+9592,32500,9039,1,1,0,1,"{""git"":{""tag"":""v0.7.10"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+9593,32501,9040,1,1,0,1,"{""git"":{""tag"":""7.2.1"",""url"":""https://github.com/jtv/libpqxx""}}"
+9594,32502,9041,1,1,0,1,"{""git"":{""tag"":""3.9.0"",""url"":""https://github.com/martinus/robin-hood-hashing""}}"
