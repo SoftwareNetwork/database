@@ -4312,7 +4312,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 4339,20964,4339,1,1,0,1,
 4340,20968,4340,1,1,0,1,
 4341,20970,4341,1,1,0,1,
-4342,28517,4342,1,1,0,1,
 4343,20252,4343,1,1,0,1,
 4344,28522,4344,1,1,0,1,
 4345,19496,4345,1,1,0,1,
@@ -7777,3 +7776,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9638,32546,9084,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9639,32547,9086,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9640,32548,9085,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+9641,32549,9088,1,1,0,1,"{""remote"":{""url"":""https://www.cairographics.org/releases/pixman-0.40.0.tar.gz""}}"
