@@ -7497,7 +7497,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9297,32206,8756,1,1,0,1,"{""git"":{""tag"":""1.8.47"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 9298,32204,8755,1,1,0,1,"{""git"":{""tag"":""1.8.47"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 9299,32207,8757,1,1,0,1,"{""git"":{""tag"":""7.2.0"",""url"":""https://github.com/jtv/libpqxx""}}"
-9300,32208,8758,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.92.tar.gz""}}"
 9326,32234,8549,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9327,32237,8550,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9328,32235,8551,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
@@ -7777,3 +7776,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9647,32555,9094,1,1,0,1,"{""git"":{""tag"":""v1.0.10"",""url"":""https://github.com/fribidi/fribidi""}}"
 9648,32556,9095,1,1,0,1,"{""git"":{""tag"":""v1.0.10"",""url"":""https://github.com/fribidi/fribidi""}}"
 9649,32557,9093,1,1,0,1,"{""git"":{""tag"":""v1.0.10"",""url"":""https://github.com/fribidi/fribidi""}}"
+9650,32558,9097,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.92.tar.gz""}}"
