@@ -1776,3 +1776,5 @@ package_id,path
 6677,org.sw.demo.KhronosGroup.glslang
 6678,org.sw.demo.chromium.third_party.zlib.google.compression_utils_portable
 6679,org.sw.demo.jsonrpcx.json_rpc_cxx
+6680,org.sw.demo.qtproject.qt.declarative.qml.typeregistrar
+6681,org.sw.demo.qtproject.qt.declarative.tools.shared
