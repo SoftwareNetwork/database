@@ -7859,3 +7859,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9798,32706,9205,1,1,0,1,"{""git"":{""tag"":""7.1.1"",""url"":""https://github.com/fmtlib/fmt""}}"
 9799,32707,9206,1,1,0,1,"{""git"":{""tag"":""7.1.2"",""url"":""https://github.com/fmtlib/fmt""}}"
 9800,32708,9207,1,1,0,1,"{""git"":{""tag"":""7.2.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
+9801,32709,9208,1,1,0,1,"{""git"":{""tag"":""v2020.11.02.00"",""url"":""https://github.com/facebook/folly""}}"
+9802,32710,9209,1,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+9804,32712,9210,1,1,0,1,"{""git"":{""tag"":""v0.1.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
