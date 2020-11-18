@@ -53753,3 +53753,4 @@ package_version_id,package_id,version_range
 32739,1157,*
 32739,2483,*
 32739,2493,*
+32742,3,>=1.0.0 <2.0.0
