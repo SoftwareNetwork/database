@@ -7881,3 +7881,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9830,32738,9234,1,1,0,1,"{""git"":{""tag"":""v2.0.1"",""url"":""https://github.com/arvidn/libtorrent""}}"
 9831,32739,9235,1,1,0,1,"{""git"":{""tag"":""v1.2.11"",""url"":""https://github.com/arvidn/libtorrent""}}"
 9834,32742,9237,1,1,0,1,"{""git"":{""tag"":""v1.0.5"",""url"":""https://github.com/glennrp/libpng""}}"
+9835,32743,9239,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.2.tar.xz""}}"
+9836,32745,9240,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.2.tar.xz""}}"
+9837,32746,9238,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.2.tar.xz""}}"
+9838,32744,9241,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.2.tar.xz""}}"
+9839,32747,9242,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.2.tar.xz""}}"
