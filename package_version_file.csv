@@ -7901,3 +7901,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9856,32764,9259,1,1,0,1,"{""git"":{""tag"":""c-ares-1_17_0"",""url"":""https://github.com/c-ares/c-ares""}}"
 9857,32765,9260,1,1,0,1,"{""git"":{""tag"":""cares-1_17_1"",""url"":""https://github.com/c-ares/c-ares""}}"
 9858,32766,9261,1,1,0,1,"{""git"":{""tag"":""v1.9.3"",""url"":""https://github.com/lz4/lz4""}}"
+9859,32767,9262,1,1,0,1,"{""git"":{""tag"":""v2020.11.16.00"",""url"":""https://github.com/facebook/folly""}}"
+9860,32768,9263,1,1,0,1,"{""git"":{""tag"":""v0.7.15"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
