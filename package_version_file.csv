@@ -7912,3 +7912,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9867,32775,9270,1,1,0,1,"{""remote"":{""url"":""https://gmplib.org/download/gmp/gmp-6.2.1.tar.xz""}}"
 9868,32776,9269,1,1,0,1,"{""remote"":{""url"":""https://gmplib.org/download/gmp/gmp-6.2.1.tar.xz""}}"
 9869,32777,9272,1,1,0,1,"{""remote"":{""url"":""https://gmplib.org/download/gmp/gmp-6.2.1.tar.xz""}}"
+9870,32778,9273,1,1,0,1,"{""git"":{""tag"":""v5.1.1"",""url"":""https://github.com/CGAL/cgal""}}"
+9871,32779,9274,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
