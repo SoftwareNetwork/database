@@ -7898,3 +7898,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9853,32761,9254,1,1,0,1,"{""git"":{""tag"":""4.4.0"",""url"":""https://github.com/emweb/wt""}}"
 9854,32762,9257,1,1,0,1,"{""git"":{""tag"":""v1.40.0"",""url"":""https://github.com/libuv/libuv""}}"
 9855,32763,9258,1,1,0,1,"{""git"":{""tag"":""v1.40.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
+9856,32764,9259,1,1,0,1,"{""git"":{""tag"":""c-ares-1_17_0"",""url"":""https://github.com/c-ares/c-ares""}}"
+9857,32765,9260,1,1,0,1,"{""git"":{""tag"":""cares-1_17_1"",""url"":""https://github.com/c-ares/c-ares""}}"
+9858,32766,9261,1,1,0,1,"{""git"":{""tag"":""v1.9.3"",""url"":""https://github.com/lz4/lz4""}}"
