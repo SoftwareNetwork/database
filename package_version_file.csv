@@ -7680,7 +7680,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9623,32531,9069,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.5.tar.xz""}}"
 9624,32532,9072,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/sed/sed-4.7.tar.xz""}}"
 9625,32533,9071,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/sed/sed-4.7.tar.xz""}}"
-9628,32536,9075,1,1,0,1,"{""git"":{""tag"":""v1.2.11"",""url"":""https://github.com/madler/zlib""}}"
 9629,32537,9076,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9630,32540,9078,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9631,32539,9079,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
@@ -7957,3 +7956,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9922,32830,9325,1,1,0,1,"{""git"":{""tag"":""v1.42.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 9923,32831,9326,1,1,0,1,"{""git"":{""tag"":""hidapi-0.10.1"",""url"":""https://github.com/libusb/hidapi""}}"
 9924,32832,9327,1,1,0,1,"{""git"":{""tag"":""v2020.11.23.00"",""url"":""https://github.com/facebook/folly""}}"
+9925,32833,9328,1,1,0,1,"{""git"":{""tag"":""v1.2.11"",""url"":""https://github.com/madler/zlib""}}"
