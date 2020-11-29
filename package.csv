@@ -1778,3 +1778,4 @@ package_id,path
 6679,org.sw.demo.jsonrpcx.json_rpc_cxx
 6680,org.sw.demo.qtproject.qt.declarative.qml.typeregistrar
 6681,org.sw.demo.qtproject.qt.declarative.tools.shared
+6682,org.sw.demo.pantor.inja

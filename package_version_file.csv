@@ -7957,3 +7957,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9930,32838,9333,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.0.tar.xz""}}"
 9931,32840,9334,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.5.1.tar.gz""}}"
 9932,32839,9335,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.5.1.tar.gz""}}"
+9933,32841,9336,1,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/pantor/inja""}}"
