@@ -7964,3 +7964,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9939,32847,9342,1,1,0,1,"{""git"":{""tag"":""3.0.6"",""url"":""https://github.com/libsigcplusplus/libsigcplusplus""}}"
 9940,32848,9343,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.5.1.tar.gz""}}"
 9941,32849,9344,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.5.1.tar.gz""}}"
+9942,32850,9345,1,1,0,1,"{""git"":{""tag"":""v0.7.17"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
