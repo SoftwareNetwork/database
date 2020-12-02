@@ -1781,3 +1781,4 @@ package_id,path
 6682,org.sw.demo.pantor.inja
 6683,org.sw.demo.google.protocolbuffers.upb.reflection
 6684,org.sw.demo.google.protocolbuffers.upb.third_party.wyhash
+6685,org.sw.demo.google.protocolbuffers.upb.textformat
