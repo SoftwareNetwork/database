@@ -7978,3 +7978,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9982,32890,9385,1,1,0,1,"{""git"":{""tag"":""v1.34.0"",""url"":""https://github.com/grpc/grpc""}}"
 9983,32892,9386,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.5.1.tar.gz""}}"
 9984,32891,9387,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.5.1.tar.gz""}}"
+9985,32893,9388,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.6.tar.gz""}}"
+9986,32894,9389,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.6.tar.gz""}}"
