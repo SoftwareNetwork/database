@@ -1780,3 +1780,4 @@ package_id,path
 6681,org.sw.demo.qtproject.qt.declarative.tools.shared
 6682,org.sw.demo.pantor.inja
 6683,org.sw.demo.google.protocolbuffers.upb.reflection
+6684,org.sw.demo.google.protocolbuffers.upb.third_party.wyhash
