@@ -7980,3 +7980,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9984,32891,9387,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.5.1.tar.gz""}}"
 9985,32893,9388,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.6.tar.gz""}}"
 9986,32894,9389,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.6.tar.gz""}}"
+9987,32895,9390,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3340000.zip""}}"
+9988,32896,9391,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3340000.zip""}}"
