@@ -7982,3 +7982,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9986,32894,9389,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.6.tar.gz""}}"
 9987,32895,9390,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3340000.zip""}}"
 9988,32896,9391,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3340000.zip""}}"
+9989,32897,9392,1,1,0,1,"{""git"":{""tag"":""v1.11.1"",""url"":""https://github.com/zeux/pugixml""}}"
+9990,32898,9393,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/lemire/simdjson""}}"
