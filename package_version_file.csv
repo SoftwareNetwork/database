@@ -7839,7 +7839,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9799,32707,9206,1,1,0,1,"{""git"":{""tag"":""7.1.2"",""url"":""https://github.com/fmtlib/fmt""}}"
 9800,32708,9207,1,1,0,1,"{""git"":{""tag"":""7.2.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
 9801,32709,9208,1,1,0,1,"{""git"":{""tag"":""v2020.11.02.00"",""url"":""https://github.com/facebook/folly""}}"
-9802,32710,9209,1,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 9804,32712,9210,1,1,0,1,"{""git"":{""tag"":""v0.1.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
 9805,32713,9211,1,1,0,1,"{""git"":{""tag"":""v14.2.1"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 9806,32714,9212,1,1,0,1,"{""git"":{""tag"":""v14.2.1"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
@@ -7984,3 +7983,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9988,32896,9391,1,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2020/sqlite-amalgamation-3340000.zip""}}"
 9989,32897,9392,1,1,0,1,"{""git"":{""tag"":""v1.11.1"",""url"":""https://github.com/zeux/pugixml""}}"
 9990,32898,9393,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/lemire/simdjson""}}"
+9991,32899,9394,1,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/OSGeo/gdal""}}"
