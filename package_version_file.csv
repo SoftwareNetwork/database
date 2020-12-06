@@ -7984,3 +7984,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9989,32897,9392,1,1,0,1,"{""git"":{""tag"":""v1.11.1"",""url"":""https://github.com/zeux/pugixml""}}"
 9990,32898,9393,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/lemire/simdjson""}}"
 9992,32900,9395,1,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+9993,32901,9396,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
+9994,32902,9397,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
