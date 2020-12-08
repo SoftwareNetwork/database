@@ -7986,3 +7986,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9992,32900,9395,1,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 9995,32903,9399,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
 9996,32904,9398,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
+9997,32905,9400,1,1,0,1,"{""git"":{""tag"":""version-2.0.17"",""url"":""https://github.com/mdadams/jasper""}}"
+9998,32906,9401,1,1,0,1,"{""git"":{""tag"":""version-2.0.19"",""url"":""https://github.com/mdadams/jasper""}}"
+9999,32907,9402,1,1,0,1,"{""git"":{""tag"":""version-2.0.20"",""url"":""https://github.com/mdadams/jasper""}}"
+10000,32908,9403,1,1,0,1,"{""git"":{""tag"":""version-2.0.21"",""url"":""https://github.com/mdadams/jasper""}}"
