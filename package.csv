@@ -1782,3 +1782,17 @@ package_id,path
 6683,org.sw.demo.google.protocolbuffers.upb.reflection
 6684,org.sw.demo.google.protocolbuffers.upb.third_party.wyhash
 6685,org.sw.demo.google.protocolbuffers.upb.textformat
+6686,pub.lzwdgc.Polygon4.Tools.common
+6687,pub.lzwdgc.Polygon4.Tools.mmp_extractor
+6688,pub.lzwdgc.Polygon4.Tools.name_generator
+6689,pub.lzwdgc.Polygon4.Tools.db_add_language
+6690,pub.lzwdgc.Polygon4.Tools.db_extractor
+6691,pub.lzwdgc.Polygon4.Tools.mmo_extractor
+6692,pub.lzwdgc.Polygon4.Tools.mpj_loader
+6693,pub.lzwdgc.Polygon4.Tools.save_loader
+6694,pub.lzwdgc.Polygon4.Tools.mod_converter
+6695,pub.lzwdgc.Polygon4.Tools.mmm_extractor
+6696,pub.lzwdgc.Polygon4.Tools.tm_converter
+6697,pub.lzwdgc.Polygon4.Tools.mod_reader
+6698,pub.lzwdgc.Polygon4.Tools.script2txt
+6699,pub.lzwdgc.Polygon4.Tools.model
