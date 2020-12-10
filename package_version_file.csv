@@ -8014,3 +8014,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10044,32952,9427,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 10045,32953,9426,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 10046,32954,9435,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
+10047,32955,9437,1,1,0,1,"{""git"":{""tag"":""v1.0.24"",""url"":""https://github.com/libusb/libusb""}}"
+10048,32956,9438,1,1,0,1,"{""git"":{""tag"":""v2020.12.07.00"",""url"":""https://github.com/facebook/folly""}}"
