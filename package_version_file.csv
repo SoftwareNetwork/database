@@ -8019,3 +8019,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10049,32957,9440,1,1,0,1,"{""git"":{""tag"":""v2021.1.1"",""url"":""https://github.com/intel/tbb""}}"
 10050,32959,9441,1,1,0,1,"{""git"":{""tag"":""v2021.1.1"",""url"":""https://github.com/intel/tbb""}}"
 10051,32958,9439,1,1,0,1,"{""git"":{""tag"":""v2021.1.1"",""url"":""https://github.com/intel/tbb""}}"
+10052,32960,9442,1,1,0,1,"{""git"":{""tag"":""v1.8.2"",""url"":""https://github.com/gabime/spdlog""}}"
