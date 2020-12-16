@@ -1796,3 +1796,6 @@ package_id,path
 6697,pub.lzwdgc.Polygon4.Tools.mod_reader
 6698,pub.lzwdgc.Polygon4.Tools.script2txt
 6699,pub.lzwdgc.Polygon4.Tools.model
+6700,org.sw.demo.boost.json
+6701,org.sw.demo.boost.leaf
+6702,org.sw.demo.boost.pfr
