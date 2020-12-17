@@ -8166,3 +8166,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10203,33111,9594,1,1,0,1,"{""git"":{""commit"":""0c9dbd7808ef92dd14111b8a604ffd9860b42b51"",""url"":""https://github.com/boostorg/graph""}}"
 10204,33112,9593,1,1,0,1,"{""git"":{""commit"":""9cab675b71e98706886a87afe7c19eb9da568961"",""url"":""https://github.com/boostorg/filesystem""}}"
 10205,33113,9595,1,1,0,1,"{""git"":{""tag"":""v1.4.7"",""url"":""https://github.com/facebook/zstd""}}"
+10206,33114,9596,1,1,0,1,"{""git"":{""tag"":""7.3.0"",""url"":""https://github.com/jtv/libpqxx""}}"
