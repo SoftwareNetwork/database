@@ -8167,3 +8167,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10204,33112,9593,1,1,0,1,"{""git"":{""commit"":""9cab675b71e98706886a87afe7c19eb9da568961"",""url"":""https://github.com/boostorg/filesystem""}}"
 10205,33113,9595,1,1,0,1,"{""git"":{""tag"":""v1.4.7"",""url"":""https://github.com/facebook/zstd""}}"
 10206,33114,9596,1,1,0,1,"{""git"":{""tag"":""7.3.0"",""url"":""https://github.com/jtv/libpqxx""}}"
+10207,33115,9597,1,1,0,1,"{""git"":{""tag"":""v1.4.8"",""url"":""https://github.com/facebook/zstd""}}"
+10208,33116,9598,1,1,0,1,"{""git"":{""tag"":""v1.11.3"",""url"":""https://github.com/zeux/pugixml""}}"
+10209,33117,9599,1,1,0,1,"{""git"":{""tag"":""4.0.12"",""url"":""https://github.com/thp/psmoveapi""}}"
+10210,33118,9600,1,1,0,1,"{""git"":{""tag"":""4.0.12"",""url"":""https://github.com/thp/psmoveapi""}}"
