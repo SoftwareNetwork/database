@@ -1968,4 +1968,9 @@ package_id,path
 6869,org.sw.demo.llvm_project.llvm.WebAssembly.Desc
 6870,org.sw.demo.llvm_project.llvm.AArch64.Disassembler
 6871,org.sw.demo.llvm_project.llvm.MSP430.Disassembler
+6872,org.sw.demo.llvm_project.llvm.ScalarOpts
+6873,org.sw.demo.llvm_project.llvm.MSP430.AsmParser
 6874,org.sw.demo.llvm_project.llvm.NVPTX.CommonTableGen
+6875,org.sw.demo.llvm_project.llvm.MIRParser
+6876,org.sw.demo.llvm_project.llvm.PowerPC.CommonTableGen
+6877,org.sw.demo.llvm_project.llvm.PowerPC.AsmParser
