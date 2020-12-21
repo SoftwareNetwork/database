@@ -8384,3 +8384,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10447,33355,9835,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/telegram-bot-api""}}"
 10448,33357,9836,1,1,0,1,"{""git"":{""tag"":""1.0.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
 10449,33356,9837,1,1,0,1,"{""git"":{""tag"":""1.0.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+10450,33359,9838,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
+10451,33358,9839,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
