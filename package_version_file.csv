@@ -8382,3 +8382,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10445,33353,9833,1,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
 10446,33354,9834,1,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
 10447,33355,9835,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/telegram-bot-api""}}"
+10448,33357,9836,1,1,0,1,"{""git"":{""tag"":""1.0.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+10449,33356,9837,1,1,0,1,"{""git"":{""tag"":""1.0.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
