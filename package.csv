@@ -1974,3 +1974,4 @@ package_id,path
 6875,org.sw.demo.llvm_project.llvm.MIRParser
 6876,org.sw.demo.llvm_project.llvm.PowerPC.CommonTableGen
 6877,org.sw.demo.llvm_project.llvm.PowerPC.AsmParser
+6878,org.sw.demo.telegram.telegram_bot_api
