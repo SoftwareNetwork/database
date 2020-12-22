@@ -8466,5 +8466,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10538,33446,9926,1,1,0,1,"{""git"":{""tag"":""1.5.5"",""url"":""https://github.com/anholt/libepoxy""}}"
 10539,33447,9927,1,1,0,1,"{""git"":{""tag"":""v1.11.4"",""url"":""https://github.com/zeux/pugixml""}}"
 10540,33448,9928,1,1,0,1,"{""git"":{""tag"":""v5.2"",""url"":""https://github.com/CGAL/cgal""}}"
-10541,33450,9929,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
-10542,33449,9930,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
+10543,33452,9931,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
+10544,33451,9932,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
