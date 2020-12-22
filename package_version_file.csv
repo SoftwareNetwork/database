@@ -8416,3 +8416,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10479,33387,9867,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.48/pango-1.48.0.tar.xz""}}"
 10480,33388,9868,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.48/pango-1.48.0.tar.xz""}}"
 10481,33389,9869,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.48/pango-1.48.0.tar.xz""}}"
+10482,33390,9870,1,1,0,1,"{""git"":{""tag"":""v0.7.18"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+10483,33391,9871,1,1,0,1,"{""git"":{""tag"":""v2020.12.21.00"",""url"":""https://github.com/facebook/folly""}}"
