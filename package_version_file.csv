@@ -8419,3 +8419,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10491,33399,9877,1,1,0,1,"{""remote"":{""url"":""https://gmplib.org/download/gmp/gmp-6.2.1.tar.xz""}}"
 10492,33400,9878,1,1,0,1,"{""remote"":{""url"":""https://gmplib.org/download/gmp/gmp-6.2.1.tar.xz""}}"
 10493,33401,9881,1,1,0,1,"{""remote"":{""url"":""https://gmplib.org/download/gmp/gmp-6.2.1.tar.xz""}}"
+10494,33402,9882,1,1,0,1,"{""git"":{""tag"":""v5.1.2"",""url"":""https://github.com/CGAL/cgal""}}"
