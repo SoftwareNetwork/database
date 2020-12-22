@@ -8464,3 +8464,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10536,33444,9925,1,1,0,1,"{""git"":{""tag"":""4.5.1"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 10537,33445,9924,1,1,0,1,"{""git"":{""tag"":""4.5.1"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 10538,33446,9926,1,1,0,1,"{""git"":{""tag"":""1.5.5"",""url"":""https://github.com/anholt/libepoxy""}}"
+10539,33447,9927,1,1,0,1,"{""git"":{""tag"":""v1.11.4"",""url"":""https://github.com/zeux/pugixml""}}"
+10540,33448,9928,1,1,0,1,"{""git"":{""tag"":""v5.2"",""url"":""https://github.com/CGAL/cgal""}}"
