@@ -8467,7 +8467,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10548,33456,9936,1,1,0,1,"{""git"":{""tag"":""v0.7.2"",""url"":""https://github.com/Neargye/magic_enum""}}"
 10549,33457,9937,1,1,0,1,"{""git"":{""tag"":""2.7.3"",""url"":""https://github.com/behdad/harfbuzz""}}"
 10550,33458,9938,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.20.2.tar.gz""}}"
-10553,33461,9941,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.tar.gz""}}"
 10554,33464,9945,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.0.tar.xz""}}"
 10555,33465,9944,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.0.tar.xz""}}"
 10556,33462,9942,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.0.tar.xz""}}"
@@ -8483,3 +8482,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10566,33475,9954,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
 10567,33472,9952,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
 10568,33476,9956,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10569,33477,9957,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.tar.gz""}}"
