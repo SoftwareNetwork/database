@@ -8478,3 +8478,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10561,33469,9949,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.4.tar.xz""}}"
 10562,33468,9950,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.4.tar.xz""}}"
 10563,33471,9951,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.4.tar.xz""}}"
+10564,33474,9953,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10565,33473,9955,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10566,33475,9954,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10567,33472,9952,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10568,33476,9956,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
