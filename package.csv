@@ -1976,3 +1976,4 @@ package_id,path
 6877,org.sw.demo.llvm_project.llvm.PowerPC.AsmParser
 6878,org.sw.demo.telegram.telegram_bot_api
 6879,org.sw.demo.Arryboom.fmemopen_windows
+6880,org.sw.demo.Snaipe.fmem

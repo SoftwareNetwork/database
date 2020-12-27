@@ -8526,3 +8526,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10621,33529,10009,1,1,0,1,"{""git"":{""tag"":""2.7.4"",""url"":""https://github.com/behdad/harfbuzz""}}"
 10624,33532,10012,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/Arryboom/fmemopen_windows""}}"
 10625,33533,10013,1,1,0,1,"{""git"":{""tag"":""20200923.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+10626,33534,10014,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/Snaipe/fmem""}}"
