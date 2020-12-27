@@ -8525,3 +8525,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10619,33527,10007,1,1,0,1,"{""git"":{""tag"":""v3.19.2"",""url"":""https://github.com/Kitware/CMake""}}"
 10620,33528,10008,1,1,0,1,"{""git"":{""tag"":""v3.19.2"",""url"":""https://github.com/Kitware/CMake""}}"
 10621,33529,10009,1,1,0,1,"{""git"":{""tag"":""2.7.4"",""url"":""https://github.com/behdad/harfbuzz""}}"
+10622,33530,10010,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/Arryboom/fmemopen_windows""}}"
