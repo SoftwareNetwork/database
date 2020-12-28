@@ -8528,3 +8528,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10651,33559,10038,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
 10652,33560,10039,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
 10654,33562,10042,1,1,0,1,"{""git"":{""tag"":""20200923.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+10655,33563,10043,1,1,0,1,"{""git"":{""tag"":""v1.1.5"",""url"":""https://github.com/swami/libinstpatch""}}"
