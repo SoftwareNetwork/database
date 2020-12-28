@@ -8527,3 +8527,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10641,33551,10031,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
 10642,33549,10028,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
 10643,33550,10029,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
+10644,33552,10032,1,1,0,1,"{""git"":{""tag"":""v2020.12.28.00"",""url"":""https://github.com/facebook/folly""}}"
