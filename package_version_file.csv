@@ -1357,7 +1357,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1370,17271,1370,1,1,0,1,
 1371,11021,1371,1,1,0,1,
 1372,11024,1372,1,1,0,1,
-1373,17274,1373,1,1,0,1,
 1374,26992,1374,1,1,0,1,
 1375,7102,1375,1,1,0,1,
 1376,7104,1376,1,1,0,1,
@@ -7427,7 +7426,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9336,32244,8557,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9337,32245,8556,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 9339,32247,8788,1,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/ToruNiina/toml11""}}"
-9340,32248,8789,1,1,0,1,"{""git"":{""tag"":""v1.0.30"",""url"":""https://github.com/erikd/libsndfile""}}"
 9342,32250,8791,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/KhronosGroup/glslang""}}"
 9343,32251,8792,1,1,0,1,"{""remote"":{""url"":""https://chromium.googlesource.com/chromium/src/+archive/master/third_party/zlib/google.tar.gz""}}"
 9344,32254,8794,1,1,0,1,"{""git"":{""commit"":""f5dace0f1e57"",""url"":""https://chromium.googlesource.com/angle/angle""}}"
@@ -8445,8 +8443,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10538,33446,9926,1,1,0,1,"{""git"":{""tag"":""1.5.5"",""url"":""https://github.com/anholt/libepoxy""}}"
 10539,33447,9927,1,1,0,1,"{""git"":{""tag"":""v1.11.4"",""url"":""https://github.com/zeux/pugixml""}}"
 10540,33448,9928,1,1,0,1,"{""git"":{""tag"":""v5.2"",""url"":""https://github.com/CGAL/cgal""}}"
-10543,33452,9931,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
-10544,33451,9932,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
 10545,33454,9933,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 10546,33455,9934,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 10547,33453,9935,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/lexxmark/winflexbison""}}"
@@ -8464,10 +8460,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10562,33468,9950,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.4.tar.xz""}}"
 10563,33471,9951,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.66/glib-2.66.4.tar.xz""}}"
 10569,33477,9957,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.tar.gz""}}"
-10575,33483,9965,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
-10576,33484,9966,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
-10577,33486,9964,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
-10578,33485,9963,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
 10579,33487,9967,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
 10580,33488,9968,1,1,0,1,"{""git"":{""tag"":""v3.5.1"",""url"":""https://github.com/libarchive/libarchive""}}"
 10581,33490,9971,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-11.0.0/libunwind-11.0.0.src.tar.xz""}}"
@@ -8545,3 +8537,11 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10669,33576,10056,1,1,0,1,"{""git"":{""tag"":""v2.1.4"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 10670,33578,10058,1,1,0,1,"{""git"":{""tag"":""v2.1.5"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 10671,33579,10059,1,1,0,1,"{""git"":{""tag"":""v2.1.5"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+10672,33581,10060,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
+10673,33580,10061,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
+10674,33582,10062,1,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/xiph/opus""}}"
+10675,33583,10063,1,1,0,1,"{""git"":{""tag"":""v1.0.30"",""url"":""https://github.com/erikd/libsndfile""}}"
+10676,33584,10067,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10677,33586,10065,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10678,33587,10066,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10679,33585,10064,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
