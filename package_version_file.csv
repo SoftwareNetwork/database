@@ -8545,3 +8545,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10678,33587,10066,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
 10679,33585,10064,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
 10680,33588,10068,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.67/glib-2.67.1.tar.xz""}}"
+10681,33589,10069,1,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/uclouvain/openjpeg""}}"
