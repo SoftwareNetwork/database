@@ -8547,3 +8547,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10681,33589,10069,1,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/uclouvain/openjpeg""}}"
 10682,33590,10071,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
 10683,33591,10070,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
+10684,33592,10072,1,1,0,1,"{""git"":{""tag"":""v2.13.4"",""url"":""https://github.com/catchorg/Catch2""}}"
