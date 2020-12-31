@@ -8548,3 +8548,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10698,33606,10086,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
 10699,33607,10085,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
 10700,33608,10087,1,1,0,1,"{""git"":{""tag"":""release-1.10.0"",""url"":""https://github.com/google/googletest""}}"
+10701,33609,10089,1,1,0,1,"{""git"":{""tag"":""2.10.17"",""url"":""https://github.com/Microsoft/cpprestsdk""}}"
