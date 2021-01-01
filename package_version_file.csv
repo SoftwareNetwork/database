@@ -8557,3 +8557,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10707,33615,10094,1,1,0,1,"{""git"":{""tag"":""v2.5.4"",""url"":""https://github.com/openexr/openexr""}}"
 10708,33616,10095,1,1,0,1,"{""git"":{""tag"":""v2.5.4"",""url"":""https://github.com/openexr/openexr""}}"
 10709,33617,10097,1,1,0,1,"{""git"":{""tag"":""v2.5.4"",""url"":""https://github.com/openexr/openexr""}}"
+10710,33618,10098,1,1,0,1,"{""git"":{""tag"":""7.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
