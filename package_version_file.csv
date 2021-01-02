@@ -8563,3 +8563,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10870,33778,10260,1,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 10871,33779,10259,1,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 10872,33780,10257,1,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+10873,33781,10261,1,1,0,1,"{""git"":{""tag"":""v3.2.3"",""url"":""https://github.com/apache/xerces-c""}}"
