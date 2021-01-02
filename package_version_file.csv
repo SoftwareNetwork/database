@@ -8555,3 +8555,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10709,33617,10097,1,1,0,1,"{""git"":{""tag"":""v2.5.4"",""url"":""https://github.com/openexr/openexr""}}"
 10710,33618,10098,1,1,0,1,"{""git"":{""tag"":""7.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
 10712,33620,10100,1,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+10713,33622,10102,1,1,0,1,"{""git"":{""tag"":""v3.8.6"",""url"":""https://github.com/python/cpython""}}"
+10714,33621,10101,1,1,0,1,"{""git"":{""tag"":""v3.8.6"",""url"":""https://github.com/python/cpython""}}"
+10715,33624,10104,1,1,0,1,"{""git"":{""tag"":""v3.8.7"",""url"":""https://github.com/python/cpython""}}"
+10716,33623,10103,1,1,0,1,"{""git"":{""tag"":""v3.8.7"",""url"":""https://github.com/python/cpython""}}"
