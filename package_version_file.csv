@@ -8559,3 +8559,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10714,33621,10101,1,1,0,1,"{""git"":{""tag"":""v3.8.6"",""url"":""https://github.com/python/cpython""}}"
 10715,33624,10104,1,1,0,1,"{""git"":{""tag"":""v3.8.7"",""url"":""https://github.com/python/cpython""}}"
 10716,33623,10103,1,1,0,1,"{""git"":{""tag"":""v3.8.7"",""url"":""https://github.com/python/cpython""}}"
+10717,33626,10106,1,1,0,1,"{""git"":{""tag"":""v3.9.0"",""url"":""https://github.com/python/cpython""}}"
+10718,33625,10105,1,1,0,1,"{""git"":{""tag"":""v3.9.0"",""url"":""https://github.com/python/cpython""}}"
