@@ -8562,3 +8562,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10951,33859,10334,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
 10952,33860,10337,1,1,0,1,"{""git"":{""tag"":""v2.1.6"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 10953,33861,10338,1,1,0,1,"{""git"":{""tag"":""v2.1.6"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+10954,33862,10339,1,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/webmproject/libwebp""}}"
