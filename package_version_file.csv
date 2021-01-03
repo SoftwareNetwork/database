@@ -8567,3 +8567,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10957,33864,10341,1,1,0,1,"{""git"":{""tag"":""0.8.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 10958,33866,10342,1,1,0,1,"{""git"":{""tag"":""0.8.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 10959,33867,10343,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/webmproject/libwebm""}}"
+10960,33868,10344,1,1,0,1,"{""git"":{""tag"":""libwebm-1.0.0.27"",""url"":""https://github.com/webmproject/libwebm""}}"
