@@ -8560,3 +8560,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10949,33857,10330,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtsvg""}}"
 10950,33858,10336,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 10951,33859,10334,1,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
+10952,33860,10337,1,1,0,1,"{""git"":{""tag"":""v2.1.6"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+10953,33861,10338,1,1,0,1,"{""git"":{""tag"":""v2.1.6"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
