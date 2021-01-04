@@ -1979,3 +1979,4 @@ package_id,path
 6881,org.sw.demo.valve.sdl
 6882,org.sw.demo.webmproject.webm
 6883,org.sw.demo.gnome.glib.gobject.wininit
+6884,org.sw.demo.cairographics.cairo.wininit
