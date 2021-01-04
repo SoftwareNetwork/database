@@ -8570,3 +8570,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10964,33872,10348,1,1,0,1,"{""git"":{""tag"":""libwebm-1.0.0.27"",""url"":""https://github.com/webmproject/libwebm""}}"
 10965,33873,10349,1,1,0,1,"{""git"":{""tag"":""version-2.0.24"",""url"":""https://github.com/mdadams/jasper""}}"
 10966,33874,10350,1,1,0,1,"{""git"":{""tag"":""v2021.01.04.00"",""url"":""https://github.com/facebook/folly""}}"
+10967,33875,10351,1,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/OSGeo/gdal""}}"
