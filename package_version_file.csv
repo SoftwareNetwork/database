@@ -8573,5 +8573,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10974,33882,10358,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
 10975,33883,10360,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
 10976,33884,10359,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
-10978,33886,10362,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.93.tar.gz""}}"
 10979,33887,10363,1,1,0,1,"{""remote"":{""url"":""https://git.savannah.gnu.org/cgit/freetype/freetype2.git/snapshot/VER-2-10-4.tar.gz""}}"
+10980,33888,10364,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.93.tar.gz""}}"
