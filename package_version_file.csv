@@ -8580,3 +8580,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10983,33892,10368,1,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 10984,33893,10369,1,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 10985,33891,10367,1,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+10986,33895,10371,1,1,0,1,"{""remote"":{""url"":""https://prdownloads.sourceforge.net/tcl/tcl8.6.11-src.tar.gz""}}"
+10987,33896,10372,1,1,0,1,"{""remote"":{""url"":""https://prdownloads.sourceforge.net/tcl/tcl8.6.11-src.tar.gz""}}"
+10988,33894,10370,1,1,0,1,"{""remote"":{""url"":""https://prdownloads.sourceforge.net/tcl/tcl8.6.11-src.tar.gz""}}"
