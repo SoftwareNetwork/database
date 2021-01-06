@@ -2010,3 +2010,4 @@ package_id,path
 6912,org.sw.demo.llvm_project.llvm.BPF.Utils
 6913,org.sw.demo.llvm_project.llvm.BPF.AsmPrinter
 6914,org.sw.demo.llvm_project.llvm.AArch64.AsmPrinter
+6915,org.sw.demo.llvm_project.llvm.Hexagon.AsmPrinter
