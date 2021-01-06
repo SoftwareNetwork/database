@@ -8577,3 +8577,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10980,33888,10364,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.93.tar.gz""}}"
 10981,33889,10365,1,1,0,1,"{""git"":{""tag"":""v1.2.12"",""url"":""https://github.com/arvidn/libtorrent""}}"
 10982,33890,10366,1,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+10983,33892,10368,1,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+10984,33893,10369,1,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+10985,33891,10367,1,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
