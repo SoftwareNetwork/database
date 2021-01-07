@@ -8793,3 +8793,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12363,35271,11626,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-11.0.1/llvm-11.0.1.src.tar.xz""}}"
 12364,35272,11628,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-11.0.1/llvm-11.0.1.src.tar.xz""}}"
 12365,35273,11629,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-11.0.1/llvm-11.0.1.src.tar.xz""}}"
+12366,35274,11630,1,1,0,1,"{""git"":{""tag"":""v1.4.1"",""url"":""https://github.com/rhash/RHash""}}"
