@@ -8283,7 +8283,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10707,33615,10094,1,1,0,1,"{""git"":{""tag"":""v2.5.4"",""url"":""https://github.com/openexr/openexr""}}"
 10708,33616,10095,1,1,0,1,"{""git"":{""tag"":""v2.5.4"",""url"":""https://github.com/openexr/openexr""}}"
 10709,33617,10097,1,1,0,1,"{""git"":{""tag"":""v2.5.4"",""url"":""https://github.com/openexr/openexr""}}"
-10710,33618,10098,1,1,0,1,"{""git"":{""tag"":""7.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
 10712,33620,10100,1,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/taskflow/taskflow""}}"
 10713,33622,10102,1,1,0,1,"{""git"":{""tag"":""v3.8.6"",""url"":""https://github.com/python/cpython""}}"
 10714,33621,10101,1,1,0,1,"{""git"":{""tag"":""v3.8.6"",""url"":""https://github.com/python/cpython""}}"
@@ -8804,3 +8803,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12416,35324,11681,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12417,35325,11682,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12418,35326,11679,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+12419,35327,11683,1,1,0,1,"{""git"":{""tag"":""7.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
