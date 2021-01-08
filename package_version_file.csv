@@ -8803,3 +8803,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12375,35283,11639,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yhirose/cpp-linenoise""}}"
 12376,35284,11640,1,1,0,1,"{""git"":{""tag"":""v2.0.2"",""url"":""https://github.com/arvidn/libtorrent""}}"
 12377,35285,11641,1,1,0,1,"{""git"":{""tag"":""libssh2-1.9.0"",""url"":""https://github.com/libssh2/libssh2""}}"
+12378,35286,11642,1,1,0,1,"{""git"":{""tag"":""libxcb-1.14"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
