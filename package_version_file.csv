@@ -8805,3 +8805,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12458,35366,11721,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12459,35367,11720,1,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12460,35368,11724,1,1,0,1,"{""git"":{""tag"":""v0.2"",""url"":""https://github.com/Samsung/rlottie""}}"
+12461,35369,11725,1,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/skypjack/entt""}}"
