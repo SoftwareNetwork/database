@@ -8807,3 +8807,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12460,35368,11724,1,1,0,1,"{""git"":{""tag"":""v0.2"",""url"":""https://github.com/Samsung/rlottie""}}"
 12461,35369,11725,1,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/skypjack/entt""}}"
 12462,35370,11726,1,1,0,1,"{""remote"":{""url"":""https://freefr.dl.sourceforge.net/project/glew/glew/2.2.0/glew-2.2.0.tgz""}}"
+12463,35371,11727,1,1,0,1,"{""git"":{""tag"":""2.1.0"",""url"":""https://github.com/team-charls/charls""}}"
+12464,35372,11728,1,1,0,1,"{""git"":{""tag"":""2.2.0"",""url"":""https://github.com/team-charls/charls""}}"
