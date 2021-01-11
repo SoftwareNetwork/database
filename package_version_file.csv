@@ -8807,3 +8807,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12477,35385,11741,1,1,0,1,"{""git"":{""tag"":""v0.4.64"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 12478,35386,11742,1,1,0,1,"{""git"":{""tag"":""v0.4.65"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 12479,35387,11743,1,1,0,1,"{""git"":{""tag"":""v0.4.61"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+12480,35388,11745,1,1,0,1,"{""git"":{""tag"":""1.8.121"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+12481,35390,11744,1,1,0,1,"{""git"":{""tag"":""1.8.121"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+12482,35389,11746,1,1,0,1,"{""git"":{""tag"":""1.8.121"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
