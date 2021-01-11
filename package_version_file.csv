@@ -8801,3 +8801,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12471,35379,11734,1,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 12472,35380,11736,1,1,0,1,"{""git"":{""tag"":""v2021.01.11.00"",""url"":""https://github.com/facebook/folly""}}"
 12473,35381,11737,1,1,0,1,"{""git"":{""tag"":""7.3.1"",""url"":""https://github.com/jtv/libpqxx""}}"
+12474,35382,11738,1,1,0,1,"{""git"":{""tag"":""v0.4.62"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+12475,35383,11739,1,1,0,1,"{""git"":{""tag"":""v0.4.60"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+12476,35384,11740,1,1,0,1,"{""git"":{""tag"":""v0.4.63"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+12477,35385,11741,1,1,0,1,"{""git"":{""tag"":""v0.4.64"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+12478,35386,11742,1,1,0,1,"{""git"":{""tag"":""v0.4.65"",""url"":""https://github.com/awslabs/aws-c-common""}}"
