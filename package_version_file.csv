@@ -8809,3 +8809,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12469,35377,11735,1,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 12470,35378,11732,1,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 12471,35379,11734,1,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+12472,35380,11736,1,1,0,1,"{""git"":{""tag"":""v2021.01.11.00"",""url"":""https://github.com/facebook/folly""}}"
+12473,35381,11737,1,1,0,1,"{""git"":{""tag"":""7.3.1"",""url"":""https://github.com/jtv/libpqxx""}}"
