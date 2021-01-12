@@ -7845,7 +7845,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10218,33126,9605,1,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-68-2/icu4c-68_2-src.tgz""}}"
 10219,33127,9603,1,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-68-2/icu4c-68_2-src.tgz""}}"
 10220,33128,9608,1,1,0,1,"{""git"":{""tag"":""v0.2.1"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
-10221,33129,9609,1,1,0,1,"{""git"":{""tag"":""v0.4.5"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 10222,33130,9610,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 10223,33133,9613,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-11.0.0/clang-11.0.0.src.tar.xz""}}"
 10224,33131,9612,1,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-11.0.0/clang-11.0.0.src.tar.xz""}}"
@@ -8810,3 +8809,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12499,35406,11762,1,1,0,1,"{""git"":{""tag"":""4.5.0"",""url"":""https://github.com/emweb/wt""}}"
 12500,35407,11764,1,1,0,1,"{""git"":{""tag"":""4.5.0"",""url"":""https://github.com/emweb/wt""}}"
 12501,35408,11765,1,1,0,1,"{""git"":{""tag"":""4.5.0"",""url"":""https://github.com/emweb/wt""}}"
+12502,35410,11766,1,1,0,1,"{""git"":{""tag"":""v0.4.5"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
