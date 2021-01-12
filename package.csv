@@ -2012,3 +2012,4 @@ package_id,path
 6914,org.sw.demo.llvm_project.llvm.AArch64.AsmPrinter
 6915,org.sw.demo.llvm_project.llvm.Hexagon.AsmPrinter
 6916,org.sw.demo.Samsung.rlottie
+6917,org.sw.demo.amazon.awslabs.s2n
