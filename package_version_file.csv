@@ -8501,7 +8501,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10976,33884,10359,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
 10979,33887,10363,1,1,0,1,"{""remote"":{""url"":""https://git.savannah.gnu.org/cgit/freetype/freetype2.git/snapshot/VER-2-10-4.tar.gz""}}"
 10981,33889,10365,1,1,0,1,"{""git"":{""tag"":""v1.2.12"",""url"":""https://github.com/arvidn/libtorrent""}}"
-10982,33890,10366,1,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 10986,33895,10371,1,1,0,1,"{""remote"":{""url"":""https://prdownloads.sourceforge.net/tcl/tcl8.6.11-src.tar.gz""}}"
 10987,33896,10372,1,1,0,1,"{""remote"":{""url"":""https://prdownloads.sourceforge.net/tcl/tcl8.6.11-src.tar.gz""}}"
 10988,33894,10370,1,1,0,1,"{""remote"":{""url"":""https://prdownloads.sourceforge.net/tcl/tcl8.6.11-src.tar.gz""}}"
@@ -8811,3 +8810,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12501,35408,11765,1,1,0,1,"{""git"":{""tag"":""4.5.0"",""url"":""https://github.com/emweb/wt""}}"
 12502,35410,11766,1,1,0,1,"{""git"":{""tag"":""v0.4.5"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 12503,35411,11767,1,1,0,1,"{""git"":{""tag"":""v0.10.24"",""url"":""https://github.com/awslabs/s2n""}}"
+12504,35412,11768,1,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
