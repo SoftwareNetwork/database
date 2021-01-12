@@ -7720,7 +7720,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9808,32716,9214,1,1,0,1,"{""git"":{""tag"":""v0.6.1"",""url"":""https://github.com/lemire/simdjson""}}"
 9809,32717,9215,1,1,0,1,"{""git"":{""tag"":""v2020.11.09.00"",""url"":""https://github.com/facebook/folly""}}"
 9810,32718,9216,1,1,0,1,"{""git"":{""tag"":""v0.6.4"",""url"":""https://github.com/awslabs/aws-c-io""}}"
-9812,32720,9218,1,1,0,1,"{""git"":{""tag"":""v0.1.10"",""url"":""https://github.com/awslabs/aws-checksums""}}"
 9813,32721,9219,1,1,0,1,"{""git"":{""tag"":""3.9.1"",""url"":""https://github.com/martinus/robin-hood-hashing""}}"
 9814,32722,9220,1,1,0,1,"{""git"":{""tag"":""v0.6.5"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 9815,32723,9221,1,1,0,1,"{""git"":{""tag"":""v2.6.1"",""url"":""https://github.com/pybind/pybind11""}}"
@@ -8811,3 +8810,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12502,35410,11766,1,1,0,1,"{""git"":{""tag"":""v0.4.5"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 12503,35411,11767,1,1,0,1,"{""git"":{""tag"":""v0.10.24"",""url"":""https://github.com/awslabs/s2n""}}"
 12504,35412,11768,1,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+12505,35413,11769,1,1,0,1,"{""git"":{""tag"":""v0.1.10"",""url"":""https://github.com/awslabs/aws-checksums""}}"
