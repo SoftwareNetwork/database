@@ -8505,7 +8505,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10975,33883,10360,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
 10976,33884,10359,1,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
 10979,33887,10363,1,1,0,1,"{""remote"":{""url"":""https://git.savannah.gnu.org/cgit/freetype/freetype2.git/snapshot/VER-2-10-4.tar.gz""}}"
-10980,33888,10364,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.93.tar.gz""}}"
 10981,33889,10365,1,1,0,1,"{""git"":{""tag"":""v1.2.12"",""url"":""https://github.com/arvidn/libtorrent""}}"
 10982,33890,10366,1,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 10986,33895,10371,1,1,0,1,"{""remote"":{""url"":""https://prdownloads.sourceforge.net/tcl/tcl8.6.11-src.tar.gz""}}"
@@ -8811,3 +8810,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12493,35401,11756,1,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 12494,35402,11755,1,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 12501,35409,11759,1,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+12502,35410,11760,1,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.93.tar.gz""}}"
