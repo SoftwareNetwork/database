@@ -8833,3 +8833,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12820,35728,11831,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12821,35729,11830,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12822,35730,11829,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+12823,35731,11833,0,1,0,1,"{""git"":{""tag"":""v4.3.4"",""url"":""https://github.com/zeromq/libzmq""}}"
