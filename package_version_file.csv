@@ -8836,3 +8836,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12823,35731,11833,0,1,0,1,"{""git"":{""tag"":""v4.3.4"",""url"":""https://github.com/zeromq/libzmq""}}"
 12824,35732,11834,0,1,0,1,"{""git"":{""tag"":""v0.8.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 12825,35733,11835,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
+12826,35734,11836,0,1,0,1,"{""git"":{""tag"":""v2021.01.18.00"",""url"":""https://github.com/facebook/folly""}}"
