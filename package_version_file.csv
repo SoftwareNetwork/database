@@ -8837,3 +8837,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12828,35737,11839,0,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 12829,35736,11837,0,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 12830,35738,11838,0,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+12831,35739,11841,0,1,0,1,"{""git"":{""tag"":""20200923.3"",""url"":""https://github.com/abseil/abseil-cpp""}}"
