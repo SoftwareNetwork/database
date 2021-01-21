@@ -60119,3 +60119,5 @@ package_version_id,package_id,version_range
 35748,5798,master
 35748,5811,=1.35.0
 35748,5829,=1.35.0
+35749,4004,master
+35749,4156,*
