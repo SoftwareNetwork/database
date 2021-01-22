@@ -8848,3 +8848,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12839,35747,11846,0,1,0,1,"{""git"":{""tag"":""v1.35.0"",""url"":""https://github.com/grpc/grpc""}}"
 12840,35748,11850,0,1,0,1,"{""git"":{""tag"":""v1.35.0"",""url"":""https://github.com/grpc/grpc""}}"
 12841,35749,11851,0,1,0,1,"{""git"":{""tag"":""v1.80"",""url"":""https://github.com/ocornut/imgui""}}"
+12842,35750,11852,0,1,0,1,"{""git"":{""tag"":""v2021.01.18.01"",""url"":""https://github.com/facebook/folly""}}"
