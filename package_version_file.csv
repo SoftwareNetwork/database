@@ -8850,3 +8850,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12841,35749,11851,0,1,0,1,"{""git"":{""tag"":""v1.80"",""url"":""https://github.com/ocornut/imgui""}}"
 12842,35750,11852,0,1,0,1,"{""git"":{""tag"":""v2021.01.18.01"",""url"":""https://github.com/facebook/folly""}}"
 12843,35751,11853,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/lemire/simdjson""}}"
+12844,35752,11854,0,1,0,1,"{""git"":{""tag"":""v0.8.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
