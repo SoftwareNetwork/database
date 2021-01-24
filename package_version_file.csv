@@ -8853,3 +8853,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12844,35752,11854,0,1,0,1,"{""git"":{""tag"":""v0.8.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 12845,35753,11856,0,1,0,1,"{""git"":{""tag"":""v14.2.2"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 12846,35754,11855,0,1,0,1,"{""git"":{""tag"":""v14.2.2"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
+12847,35755,11857,0,1,0,1,"{""git"":{""tag"":""1.0.31"",""url"":""https://github.com/erikd/libsndfile""}}"
