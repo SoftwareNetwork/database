@@ -8856,3 +8856,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12847,35755,11857,0,1,0,1,"{""git"":{""tag"":""1.0.31"",""url"":""https://github.com/erikd/libsndfile""}}"
 12848,35756,11858,0,1,0,1,"{""git"":{""tag"":""v2021.01.25.00"",""url"":""https://github.com/facebook/folly""}}"
 12849,35757,11859,0,1,0,1,"{""git"":{""tag"":""v2.6.2"",""url"":""https://github.com/pybind/pybind11""}}"
+12850,35758,11860,0,1,0,1,"{""git"":{""tag"":""v0.8.1"",""url"":""https://github.com/lemire/simdjson""}}"
