@@ -8867,3 +8867,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12858,35766,11868,0,1,0,1,"{""git"":{""tag"":""2021-02-02"",""url"":""https://github.com/google/re2""}}"
 12859,35767,11869,0,1,0,1,"{""git"":{""tag"":""2.10.18"",""url"":""https://github.com/Microsoft/cpprestsdk""}}"
 12860,35768,11870,0,1,0,1,"{""git"":{""tag"":""v0.8.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+12861,35769,11871,0,1,0,1,"{""git"":{""tag"":""v1.43.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
