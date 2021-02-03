@@ -8868,3 +8868,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12860,35768,11870,0,1,0,1,"{""git"":{""tag"":""v0.8.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 12861,35769,11871,0,1,0,1,"{""git"":{""tag"":""v1.43.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 12862,35770,11872,0,1,0,1,"{""git"":{""tag"":""2021-02-02"",""url"":""https://github.com/google/re2""}}"
+12863,35771,11873,0,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/SanderMertens/flecs""}}"
+12864,35772,11874,0,1,0,1,"{""git"":{""tag"":""curl-7_75_0"",""url"":""https://github.com/curl/curl""}}"
