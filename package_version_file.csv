@@ -8870,3 +8870,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12862,35770,11872,0,1,0,1,"{""git"":{""tag"":""2021-02-02"",""url"":""https://github.com/google/re2""}}"
 12863,35771,11873,0,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/SanderMertens/flecs""}}"
 12864,35772,11874,0,1,0,1,"{""git"":{""tag"":""curl-7_75_0"",""url"":""https://github.com/curl/curl""}}"
+12865,35773,11875,0,1,0,1,"{""git"":{""tag"":""v0.4.66"",""url"":""https://github.com/awslabs/aws-c-common""}}"
