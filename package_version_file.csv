@@ -8872,3 +8872,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12932,35840,11832,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12933,35841,11831,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 12934,35842,11909,0,1,0,1,"{""git"":{""tag"":""version-2.0.25"",""url"":""https://github.com/mdadams/jasper""}}"
+12935,35843,11910,0,1,0,1,"{""git"":{""tag"":""v2021.02.08.00"",""url"":""https://github.com/facebook/folly""}}"
