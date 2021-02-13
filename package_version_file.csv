@@ -8884,3 +8884,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13097,36005,12071,0,1,0,1,"{""git"":{""tag"":""v2.5.5"",""url"":""https://github.com/openexr/openexr""}}"
 13098,36006,12070,0,1,0,1,"{""git"":{""tag"":""v2.5.5"",""url"":""https://github.com/openexr/openexr""}}"
 13099,36007,12072,0,1,0,1,"{""git"":{""tag"":""v0.8.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+13100,36008,12073,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.1.tar.gz""}}"
+13101,36009,12074,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.3.6.tar.gz""}}"
+13102,36010,12075,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.2.tar.gz""}}"
