@@ -8887,3 +8887,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13100,36008,12073,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.1.tar.gz""}}"
 13101,36009,12074,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.3.6.tar.gz""}}"
 13102,36010,12075,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.2.tar.gz""}}"
+13103,36011,12076,0,1,0,1,"{""remote"":{""url"":""https://bellard.org/libbf/libbf-2020-01-19.tar.gz""}}"
