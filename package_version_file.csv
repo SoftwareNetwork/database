@@ -9106,3 +9106,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13326,36234,12266,0,1,0,1,"{""git"":{""tag"":""2.17.0"",""url"":""https://github.com/randombit/botan""}}"
 13327,36235,12267,0,1,0,1,"{""git"":{""tag"":""2.17.1"",""url"":""https://github.com/randombit/botan""}}"
 13328,36236,12268,0,1,0,1,"{""git"":{""tag"":""2.17.2"",""url"":""https://github.com/randombit/botan""}}"
+13329,36237,12269,0,1,0,1,"{""git"":{""tag"":""2.17.3"",""url"":""https://github.com/randombit/botan""}}"
