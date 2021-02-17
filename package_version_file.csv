@@ -9101,3 +9101,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13321,36229,12261,0,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-11.1.0/llvm-11.1.0.src.tar.xz""}}"
 13322,36230,12262,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1j"",""url"":""https://github.com/openssl/openssl""}}"
 13323,36231,12263,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1j"",""url"":""https://github.com/openssl/openssl""}}"
+13324,36232,12264,0,1,0,1,"{""git"":{""tag"":""2.15.0"",""url"":""https://github.com/randombit/botan""}}"
+13325,36233,12265,0,1,0,1,"{""git"":{""tag"":""2.16.0"",""url"":""https://github.com/randombit/botan""}}"
+13326,36234,12266,0,1,0,1,"{""git"":{""tag"":""2.17.0"",""url"":""https://github.com/randombit/botan""}}"
+13327,36235,12267,0,1,0,1,"{""git"":{""tag"":""2.17.1"",""url"":""https://github.com/randombit/botan""}}"
+13328,36236,12268,0,1,0,1,"{""git"":{""tag"":""2.17.2"",""url"":""https://github.com/randombit/botan""}}"
