@@ -9128,3 +9128,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13348,36256,12287,0,1,0,1,"{""git"":{""tag"":""1.6.0"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 13349,36258,12290,0,1,0,1,"{""git"":{""tag"":""1.0.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 13350,36257,12289,0,1,0,1,"{""git"":{""tag"":""1.0.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+13351,36260,12291,0,1,0,1,"{""git"":{""tag"":""v3.15.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13352,36262,12292,0,1,0,1,"{""git"":{""tag"":""v3.15.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13353,36259,12294,0,1,0,1,"{""git"":{""tag"":""v3.15.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13354,36261,12293,0,1,0,1,"{""git"":{""tag"":""v3.15.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
