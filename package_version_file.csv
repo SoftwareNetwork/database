@@ -9132,3 +9132,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13490,36398,12431,0,1,0,1,"{""git"":{""commit"":""8a51f6f8fd2d87c852e95cfd202d38deb4000ce0"",""url"":""https://github.com/boostorg/polygon""}}"
 13491,36399,12428,0,1,0,1,"{""git"":{""commit"":""3c77288d52fd19ef8c317bbecc7b08362251ff3e"",""url"":""https://github.com/boostorg/contract""}}"
 13492,36400,12432,0,1,0,1,"{""git"":{""commit"":""0c9dbd7808ef92dd14111b8a604ffd9860b42b51"",""url"":""https://github.com/boostorg/graph""}}"
+13493,36402,12434,0,1,0,1,"{""git"":{""tag"":""v3.15.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13494,36403,12436,0,1,0,1,"{""git"":{""tag"":""v3.15.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13495,36401,12435,0,1,0,1,"{""git"":{""tag"":""v3.15.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13496,36404,12433,0,1,0,1,"{""git"":{""tag"":""v3.15.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
