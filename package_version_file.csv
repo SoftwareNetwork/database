@@ -9136,3 +9136,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13524,36432,12466,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 13525,36433,12464,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 13526,36434,12465,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
+13527,36435,12467,0,1,0,1,"{""git"":{""tag"":""7.0.11-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
+13528,36436,12468,0,1,0,1,"{""git"":{""tag"":""7.0.11-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
+13529,36437,12469,0,1,0,1,"{""git"":{""tag"":""7.0.11-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
