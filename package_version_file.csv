@@ -9139,3 +9139,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13527,36435,12467,0,1,0,1,"{""git"":{""tag"":""7.0.11-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 13528,36436,12468,0,1,0,1,"{""git"":{""tag"":""7.0.11-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 13529,36437,12469,0,1,0,1,"{""git"":{""tag"":""7.0.11-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
+13530,36438,12470,0,1,0,1,"{""git"":{""tag"":""v2021.02.22.00"",""url"":""https://github.com/facebook/folly""}}"
