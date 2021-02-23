@@ -9144,3 +9144,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13532,36440,12472,0,1,0,1,"{""git"":{""tag"":""v2.3.2"",""url"":""https://github.com/SanderMertens/flecs""}}"
 13533,36441,12473,0,1,0,1,"{""git"":{""tag"":""v1.41.0"",""url"":""https://github.com/libuv/libuv""}}"
 13534,36442,12474,0,1,0,1,"{""git"":{""tag"":""v1.41.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
+13535,36443,12475,0,1,0,1,"{""git"":{""tag"":""3.3.3"",""url"":""https://github.com/glfw/glfw""}}"
