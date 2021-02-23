@@ -9146,3 +9146,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13534,36442,12474,0,1,0,1,"{""git"":{""tag"":""v1.41.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
 13535,36443,12475,0,1,0,1,"{""git"":{""tag"":""3.3.3"",""url"":""https://github.com/glfw/glfw""}}"
 13536,36444,12476,0,1,0,1,"{""git"":{""tag"":""0.11.0"",""url"":""https://github.com/ericniebler/range-v3""}}"
+13537,36445,12477,0,1,0,1,"{""git"":{""tag"":""7.4.1"",""url"":""https://github.com/jtv/libpqxx""}}"
