@@ -9184,3 +9184,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13590,36498,12528,0,1,0,1,"{""git"":{""tag"":""v1.36.0"",""url"":""https://github.com/grpc/grpc""}}"
 13591,36499,12529,0,1,0,1,"{""git"":{""tag"":""v1.36.0"",""url"":""https://github.com/grpc/grpc""}}"
 13592,36500,12532,0,1,0,1,"{""git"":{""tag"":""v1.36.0"",""url"":""https://github.com/grpc/grpc""}}"
+13593,36503,12536,0,1,0,1,"{""git"":{""tag"":""v3.15.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13594,36504,12535,0,1,0,1,"{""git"":{""tag"":""v3.15.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13595,36502,12534,0,1,0,1,"{""git"":{""tag"":""v3.15.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13596,36501,12533,0,1,0,1,"{""git"":{""tag"":""v3.15.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
