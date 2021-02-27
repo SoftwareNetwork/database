@@ -2032,3 +2032,4 @@ package_id,path
 6934,org.sw.demo.google.tesseract.training.wordlist2dawg
 6935,org.sw.demo.google.tesseract.training.lstmeval
 6936,org.sw.demo.google.tesseract.training.mftraining
+6937,org.sw.demo.uNetworking.uSockets
