@@ -9208,3 +9208,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13616,36524,12553,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 13617,36525,12557,0,1,0,1,"{""git"":{""tag"":""v0.7.1"",""url"":""https://github.com/uNetworking/uSockets""}}"
 13618,36526,12558,0,1,0,1,"{""git"":{""tag"":""v18.23.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+13619,36527,12559,0,1,0,1,"{""git"":{""tag"":""v2021.03.01.00"",""url"":""https://github.com/facebook/folly""}}"
