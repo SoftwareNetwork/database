@@ -61195,3 +61195,4 @@ package_version_id,package_id,version_range
 36537,5798,master
 36537,5811,=1.36.1
 36537,5829,=1.36.1
+36538,5843,*
