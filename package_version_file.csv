@@ -9227,3 +9227,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13635,36544,12575,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/dmage/co2mon""}}"
 13636,36543,12576,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/dmage/co2mon""}}"
 13638,36546,12578,0,1,0,1,"{""git"":{""tag"":""main"",""url"":""https://github.com/awslabs/aws-lc""}}"
+13639,36547,12579,0,1,0,1,"{""git"":{""tag"":""v0.5.0"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
