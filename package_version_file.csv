@@ -9226,3 +9226,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13634,36540,12572,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13635,36544,12575,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/dmage/co2mon""}}"
 13636,36543,12576,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/dmage/co2mon""}}"
+13637,36545,12577,0,1,0,1,"{""git"":{""tag"":""main"",""url"":""https://github.com/awslabs/aws-lc""}}"
