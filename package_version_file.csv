@@ -9220,3 +9220,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13628,36536,12567,0,1,0,1,"{""git"":{""tag"":""v1.36.1"",""url"":""https://github.com/grpc/grpc""}}"
 13629,36537,12569,0,1,0,1,"{""git"":{""tag"":""v1.36.1"",""url"":""https://github.com/grpc/grpc""}}"
 13630,36538,12570,0,1,0,1,"{""git"":{""tag"":""v1.4.9"",""url"":""https://github.com/facebook/zstd""}}"
+13631,36539,12573,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13632,36541,12574,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13633,36542,12571,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13634,36540,12572,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
