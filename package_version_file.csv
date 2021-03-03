@@ -9219,7 +9219,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13627,36535,12565,0,1,0,1,"{""git"":{""tag"":""v1.36.1"",""url"":""https://github.com/grpc/grpc""}}"
 13628,36536,12567,0,1,0,1,"{""git"":{""tag"":""v1.36.1"",""url"":""https://github.com/grpc/grpc""}}"
 13629,36537,12569,0,1,0,1,"{""git"":{""tag"":""v1.36.1"",""url"":""https://github.com/grpc/grpc""}}"
-13630,36538,12570,0,1,0,1,"{""git"":{""tag"":""v1.4.9"",""url"":""https://github.com/facebook/zstd""}}"
 13631,36539,12573,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13632,36541,12574,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13633,36542,12571,0,1,0,1,"{""git"":{""tag"":""v3.15.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
@@ -9235,3 +9234,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13644,36552,12584,0,1,0,1,"{""git"":{""tag"":""v0.4.68"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 13645,36553,12585,0,1,0,1,"{""git"":{""tag"":""v0.5.0"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 13646,36554,12586,0,1,0,1,"{""git"":{""tag"":""v0.5.1"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+13647,36555,12587,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+13648,36556,12588,0,1,0,1,"{""git"":{""tag"":""v1.4.9"",""url"":""https://github.com/facebook/zstd""}}"
