@@ -9237,3 +9237,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13649,36558,12589,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/dmage/co2mon""}}"
 13650,36557,12590,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/dmage/co2mon""}}"
 13651,36559,12591,0,1,0,1,"{""git"":{""tag"":""v0.5.2"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+13652,36562,12594,0,1,0,1,"{""git"":{""tag"":""v3.15.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13653,36561,12592,0,1,0,1,"{""git"":{""tag"":""v3.15.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13654,36560,12593,0,1,0,1,"{""git"":{""tag"":""v3.15.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13655,36563,12595,0,1,0,1,"{""git"":{""tag"":""v3.15.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
