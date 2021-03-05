@@ -9241,3 +9241,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13653,36561,12592,0,1,0,1,"{""git"":{""tag"":""v3.15.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13654,36560,12593,0,1,0,1,"{""git"":{""tag"":""v3.15.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13655,36563,12595,0,1,0,1,"{""git"":{""tag"":""v3.15.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13656,36564,12596,0,1,0,1,"{""git"":{""tag"":""version-2.0.26"",""url"":""https://github.com/mdadams/jasper""}}"
