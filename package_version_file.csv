@@ -9242,3 +9242,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13674,36582,12614,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 13675,36583,12615,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 13676,36584,12616,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
+13677,36585,12617,0,1,0,1,"{""git"":{""tag"":""6.0.7"",""url"":""https://github.com/juce-framework/JUCE""}}"
