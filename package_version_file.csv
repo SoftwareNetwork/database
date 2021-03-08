@@ -9247,3 +9247,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13680,36588,12620,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/google/double-conversion""}}"
 13681,36589,12621,0,1,0,1,"{""git"":{""tag"":""v3.1.5"",""url"":""https://github.com/google/double-conversion""}}"
 13682,36590,12622,0,1,0,1,"{""git"":{""tag"":""release-2.1.12-stable"",""url"":""https://github.com/libevent/libevent""}}"
+13683,36591,12623,0,1,0,1,"{""git"":{""tag"":""v2021.03.08.00"",""url"":""https://github.com/facebook/folly""}}"
