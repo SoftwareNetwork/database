@@ -9251,3 +9251,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13684,36592,12624,0,1,0,1,"{""git"":{""tag"":""v0.5.1"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 13685,36593,12625,0,1,0,1,"{""git"":{""tag"":""v0.9.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 13686,36594,12626,0,1,0,1,"{""git"":{""tag"":""v0.9.2"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+13687,36595,12627,0,1,0,1,"{""git"":{""tag"":""3.3.8"",""url"":""https://gitlab.com/libeigen/eigen""}}"
+13688,36596,12628,0,1,0,1,"{""git"":{""tag"":""3.3.9"",""url"":""https://gitlab.com/libeigen/eigen""}}"
