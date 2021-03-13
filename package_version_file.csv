@@ -9258,3 +9258,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13691,36599,12631,0,1,0,1,"{""git"":{""tag"":""v3.15.6"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13692,36601,12630,0,1,0,1,"{""git"":{""tag"":""v3.15.6"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13693,36598,12632,0,1,0,1,"{""git"":{""tag"":""v3.15.6"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+13694,36602,12634,0,1,0,1,"{""git"":{""tag"":""v0.3.0"",""url"":""https://github.com/jsonrpcx/json-rpc-cxx""}}"
