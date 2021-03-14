@@ -9259,3 +9259,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13692,36601,12630,0,1,0,1,"{""git"":{""tag"":""v3.15.6"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13693,36598,12632,0,1,0,1,"{""git"":{""tag"":""v3.15.6"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 13694,36602,12634,0,1,0,1,"{""git"":{""tag"":""v0.3.0"",""url"":""https://github.com/jsonrpcx/json-rpc-cxx""}}"
+13695,36605,12636,0,1,0,1,"{""git"":{""tag"":""1.8.161"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+13696,36603,12638,0,1,0,1,"{""git"":{""tag"":""1.8.161"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+13697,36606,12637,0,1,0,1,"{""git"":{""tag"":""1.8.161"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+13698,36604,12635,0,1,0,1,"{""git"":{""tag"":""1.8.161"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"

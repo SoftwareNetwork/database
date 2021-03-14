@@ -2038,3 +2038,4 @@ package_id,path
 6940,org.sw.demo.dmage.co2mon
 6941,org.sw.demo.amazon.awslabs.lc
 6942,org.sw.demo.juce_framework.JUCE
+6943,org.sw.demo.amazon.aws.sdk.sqs
