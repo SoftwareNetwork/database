@@ -9280,3 +9280,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13894,36802,12831,0,1,0,1,"{""git"":{""commit"":""a5fcba3ae4410d217a7a80a782238bb18fa7925a"",""url"":""https://github.com/boostorg/hof""}}"
 13895,36803,12833,0,1,0,1,"{""git"":{""commit"":""0c9dbd7808ef92dd14111b8a604ffd9860b42b51"",""url"":""https://github.com/boostorg/graph""}}"
 13896,36804,12832,0,1,0,1,"{""git"":{""commit"":""8a51f6f8fd2d87c852e95cfd202d38deb4000ce0"",""url"":""https://github.com/boostorg/polygon""}}"
+13897,36805,12835,0,1,0,1,"{""git"":{""tag"":""v2.1.8"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+13898,36806,12834,0,1,0,1,"{""git"":{""tag"":""v2.1.8"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+13899,36807,12836,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
