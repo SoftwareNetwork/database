@@ -2039,3 +2039,4 @@ package_id,path
 6941,org.sw.demo.amazon.awslabs.lc
 6942,org.sw.demo.juce_framework.JUCE
 6943,org.sw.demo.amazon.aws.sdk.sqs
+6944,org.sw.demo.quickfix.quickfix
