@@ -9279,3 +9279,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 13715,36623,12651,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.41.tar.bz2""}}"
 13716,36625,12652,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.41.tar.bz2""}}"
 13717,36624,12653,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.41.tar.bz2""}}"
+13718,36626,12655,0,1,0,1,"{""git"":{""tag"":""v2021.03.15.00"",""url"":""https://github.com/facebook/folly""}}"
