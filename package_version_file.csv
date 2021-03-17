@@ -9311,3 +9311,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14065,36973,13002,0,1,0,1,"{""git"":{""tag"":""v0.8.5"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 14066,36974,13003,0,1,0,1,"{""git"":{""tag"":""2.8.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 14067,36975,13004,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/lemire/simdjson""}}"
+14068,36976,13005,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
