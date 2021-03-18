@@ -61371,3 +61371,4 @@ package_version_id,package_id,version_range
 36982,5,=3.35.1
 36983,5,=3.35.2
 36986,5,=3.34.1
+36987,1798,*

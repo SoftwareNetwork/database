@@ -9322,3 +9322,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14076,36984,13013,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350200.zip""}}"
 14077,36985,13015,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3340100.zip""}}"
 14078,36986,13014,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3340100.zip""}}"
+14079,36987,13016,0,1,0,1,"{""git"":{""tag"":""version-2.0.27"",""url"":""https://github.com/mdadams/jasper""}}"
