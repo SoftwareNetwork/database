@@ -2040,3 +2040,8 @@ package_id,path
 6942,org.sw.demo.juce_framework.JUCE
 6943,org.sw.demo.amazon.aws.sdk.sqs
 6944,org.sw.demo.quickfix.quickfix
+6945,org.sw.demo.google.googleapis.cloud.vision
+6946,org.sw.demo.google.googleapis.type
+6947,org.sw.demo.google.googleapis.api
+6948,org.sw.demo.google.googleapis.rpc
+6949,org.sw.demo.google.googleapis.protos
