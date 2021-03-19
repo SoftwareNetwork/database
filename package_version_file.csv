@@ -9340,3 +9340,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14108,37016,13043,0,1,0,1,"{""git"":{""tag"":""v1.36.4"",""url"":""https://github.com/grpc/grpc""}}"
 14109,37017,13044,0,1,0,1,"{""git"":{""tag"":""v1.36.4"",""url"":""https://github.com/grpc/grpc""}}"
 14110,37018,13047,0,1,0,1,"{""git"":{""tag"":""v1.36.4"",""url"":""https://github.com/grpc/grpc""}}"
+14111,37022,13050,0,1,0,1,"{""git"":{""tag"":""1.8.165"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+14112,37019,13048,0,1,0,1,"{""git"":{""tag"":""1.8.165"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+14113,37020,13051,0,1,0,1,"{""git"":{""tag"":""1.8.165"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+14114,37021,13049,0,1,0,1,"{""git"":{""tag"":""1.8.165"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
+14115,37023,13052,0,1,0,1,"{""git"":{""tag"":""1.8.165"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"

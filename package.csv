@@ -2045,3 +2045,4 @@ package_id,path
 6947,org.sw.demo.google.googleapis.api
 6948,org.sw.demo.google.googleapis.rpc
 6949,org.sw.demo.google.googleapis.protos
+6950,org.sw.demo.amazon.aws.sdk.textract
