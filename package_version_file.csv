@@ -9346,3 +9346,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14114,37021,13049,0,1,0,1,"{""git"":{""tag"":""1.8.165"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 14115,37023,13052,0,1,0,1,"{""git"":{""tag"":""1.8.165"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 14116,37024,13053,0,1,0,1,"{""git"":{""tag"":""v2021.03.22.00"",""url"":""https://github.com/facebook/folly""}}"
+14117,37025,13054,0,1,0,1,"{""git"":{""tag"":""v0.9.4"",""url"":""https://github.com/awslabs/aws-c-io""}}"
