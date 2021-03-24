@@ -9348,3 +9348,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14116,37024,13053,0,1,0,1,"{""git"":{""tag"":""v2021.03.22.00"",""url"":""https://github.com/facebook/folly""}}"
 14117,37025,13054,0,1,0,1,"{""git"":{""tag"":""v0.9.4"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 14118,37026,13055,0,1,0,1,"{""git"":{""tag"":""v4.1.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
+14119,37027,13056,0,1,0,1,"{""git"":{""tag"":""v1.8.3"",""url"":""https://github.com/gabime/spdlog""}}"
