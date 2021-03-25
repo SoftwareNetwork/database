@@ -9351,3 +9351,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14119,37027,13056,0,1,0,1,"{""git"":{""tag"":""v1.8.3"",""url"":""https://github.com/gabime/spdlog""}}"
 14120,37028,13057,0,1,0,1,"{""git"":{""tag"":""3.11.1"",""url"":""https://github.com/martinus/robin-hood-hashing""}}"
 14121,37029,13058,0,1,0,1,"{""git"":{""tag"":""R_2_3_0"",""url"":""https://github.com/libexpat/libexpat""}}"
+14122,37030,13059,0,1,0,1,"{""git"":{""tag"":""v3.6.1"",""url"":""https://github.com/ToruNiina/toml11""}}"
