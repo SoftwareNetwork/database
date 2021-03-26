@@ -9356,3 +9356,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14124,37032,13061,0,1,0,1,"{""git"":{""tag"":""v1.8.5"",""url"":""https://github.com/gabime/spdlog""}}"
 14125,37034,13063,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1k"",""url"":""https://github.com/openssl/openssl""}}"
 14126,37033,13062,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1k"",""url"":""https://github.com/openssl/openssl""}}"
+14127,37035,13064,0,1,0,1,"{""git"":{""tag"":""2.1"",""url"":""https://github.com/skvadrik/re2c""}}"
+14128,37036,13065,0,1,0,1,"{""git"":{""tag"":""2.1"",""url"":""https://github.com/skvadrik/re2c""}}"
