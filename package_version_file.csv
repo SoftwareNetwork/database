@@ -731,7 +731,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 744,12707,744,1,1,0,1,
 745,21031,745,1,1,0,1,
 746,17221,746,1,1,0,1,
-747,29790,747,1,1,0,1,
 748,15265,748,1,1,0,1,
 749,4724,749,1,1,0,1,
 750,21024,750,1,1,0,1,
@@ -791,7 +790,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 804,12623,804,1,1,0,1,
 805,12627,805,1,1,0,1,
 806,21030,806,1,1,0,1,
-807,29791,807,1,1,0,1,
 808,17217,808,1,1,0,1,
 809,17214,809,1,1,0,1,
 810,4640,810,1,1,0,1,
@@ -9362,3 +9360,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14130,37038,13067,0,1,0,1,"{""git"":{""tag"":""2.1.1"",""url"":""https://github.com/skvadrik/re2c""}}"
 14131,37039,13068,0,1,0,1,"{""git"":{""tag"":""v1.2.13"",""url"":""https://github.com/arvidn/libtorrent""}}"
 14132,37040,13069,0,1,0,1,"{""git"":{""tag"":""v2.0.3"",""url"":""https://github.com/arvidn/libtorrent""}}"
+14133,37041,13070,0,1,0,1,"{""git"":{""branch"":""v1"",""url"":""https://github.com/cppan/cppan""}}"
+14134,37042,13071,0,1,0,1,"{""git"":{""branch"":""v1"",""url"":""https://github.com/cppan/cppan""}}"
