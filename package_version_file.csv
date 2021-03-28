@@ -9361,3 +9361,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14129,37037,13066,0,1,0,1,"{""git"":{""tag"":""2.1.1"",""url"":""https://github.com/skvadrik/re2c""}}"
 14130,37038,13067,0,1,0,1,"{""git"":{""tag"":""2.1.1"",""url"":""https://github.com/skvadrik/re2c""}}"
 14131,37039,13068,0,1,0,1,"{""git"":{""tag"":""v1.2.13"",""url"":""https://github.com/arvidn/libtorrent""}}"
+14132,37040,13069,0,1,0,1,"{""git"":{""tag"":""v2.0.3"",""url"":""https://github.com/arvidn/libtorrent""}}"
