@@ -9362,3 +9362,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14132,37040,13069,0,1,0,1,"{""git"":{""tag"":""v2.0.3"",""url"":""https://github.com/arvidn/libtorrent""}}"
 14133,37041,13070,0,1,0,1,"{""git"":{""branch"":""v1"",""url"":""https://github.com/cppan/cppan""}}"
 14134,37042,13071,0,1,0,1,"{""git"":{""branch"":""v1"",""url"":""https://github.com/cppan/cppan""}}"
+14135,37043,13072,0,1,0,1,"{""git"":{""tag"":""v0.7.1"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
