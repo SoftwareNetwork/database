@@ -9384,3 +9384,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14154,37062,13092,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 14155,37063,13091,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 14156,37064,13093,0,1,0,1,"{""git"":{""tag"":""v3.7.0"",""url"":""https://github.com/skypjack/entt""}}"
+14157,37065,13095,0,1,0,1,"{""git"":{""tag"":""v2021.2.0"",""url"":""https://github.com/intel/tbb""}}"
+14158,37066,13094,0,1,0,1,"{""git"":{""tag"":""v2021.2.0"",""url"":""https://github.com/intel/tbb""}}"
+14159,37067,13096,0,1,0,1,"{""git"":{""tag"":""v2021.2.0"",""url"":""https://github.com/intel/tbb""}}"
