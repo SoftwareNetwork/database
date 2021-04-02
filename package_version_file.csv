@@ -9376,3 +9376,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14146,37054,13083,0,1,0,1,"{""git"":{""tag"":""2021-04-01"",""url"":""https://github.com/google/re2""}}"
 14147,37055,13084,0,1,0,1,"{""git"":{""tag"":""v0.9.2"",""url"":""https://github.com/lemire/simdjson""}}"
 14148,37056,13085,0,1,0,1,"{""git"":{""tag"":""v0.5.4"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+14149,37058,13086,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+14150,37059,13088,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+14151,37060,13087,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+14152,37057,13089,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+14153,37061,13090,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"

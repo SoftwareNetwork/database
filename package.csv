@@ -2047,3 +2047,8 @@ package_id,path
 6949,org.sw.demo.google.googleapis.protos
 6950,org.sw.demo.amazon.aws.sdk.textract
 6951,org.sw.demo.amazon.aws.sdk.location
+6952,org.sw.demo.AcademySoftwareFoundation.openexr.OpenEXR
+6953,org.sw.demo.AcademySoftwareFoundation.openexr.IlmThread
+6954,org.sw.demo.AcademySoftwareFoundation.openexr.Iex
+6955,org.sw.demo.AcademySoftwareFoundation.openexr.Config
+6956,org.sw.demo.AcademySoftwareFoundation.Imath
