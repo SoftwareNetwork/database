@@ -9430,3 +9430,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14216,37124,13152,0,1,0,1,"{""git"":{""tag"":""4.5.2"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 14217,37125,13155,0,1,0,1,"{""git"":{""tag"":""4.5.2"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 14218,37126,13153,0,1,0,1,"{""git"":{""tag"":""4.5.2"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+14219,37127,13159,0,1,0,1,"{""git"":{""tag"":""v3.15.7"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+14220,37129,13156,0,1,0,1,"{""git"":{""tag"":""v3.15.7"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+14221,37128,13157,0,1,0,1,"{""git"":{""tag"":""v3.15.7"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+14222,37130,13158,0,1,0,1,"{""git"":{""tag"":""v3.15.7"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
