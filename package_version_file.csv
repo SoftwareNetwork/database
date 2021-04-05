@@ -9438,3 +9438,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14224,37132,13161,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350300.zip""}}"
 14225,37133,13162,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350400.zip""}}"
 14226,37134,13163,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350400.zip""}}"
+14227,37135,13164,0,1,0,1,"{""git"":{""tag"":""v2021.04.05.00"",""url"":""https://github.com/facebook/folly""}}"
