@@ -2059,3 +2059,6 @@ package_id,path
 6961,org.sw.demo.ocornut.imgui.backend.sdl
 6962,org.sw.demo.ocornut.imgui.backend.dx12
 6963,org.sw.demo.ocornut.imgui.backend.dx11
+6964,org.sw.demo.ocornut.imgui.backend.opengl3
+6965,org.sw.demo.ocornut.imgui.backend.opengl2
+6966,org.sw.demo.ocornut.imgui.backend.glfw
