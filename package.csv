@@ -2062,3 +2062,8 @@ package_id,path
 6964,org.sw.demo.ocornut.imgui.backend.opengl3
 6965,org.sw.demo.ocornut.imgui.backend.opengl2
 6966,org.sw.demo.ocornut.imgui.backend.glfw
+6967,org.sw.demo.ocornut.imgui.backend.android
+6968,org.sw.demo.ocornut.imgui.backend.allegro5
+6969,org.sw.demo.ocornut.imgui.backend.marmalade
+6970,org.sw.demo.ocornut.imgui.backend.glut
+6971,org.sw.demo.ocornut.imgui.backend.wgpu
