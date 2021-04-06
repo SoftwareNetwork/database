@@ -9503,4 +9503,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14353,37261,13289,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtbase""}}"
 14354,37262,13290,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtbase""}}"
 14355,37263,13292,0,1,0,1,"{""git"":{""tag"":""v1.81"",""url"":""https://github.com/ocornut/imgui""}}"
-14356,37264,12836,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
+14357,37265,12836,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
