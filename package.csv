@@ -2052,3 +2052,10 @@ package_id,path
 6954,org.sw.demo.AcademySoftwareFoundation.openexr.Iex
 6955,org.sw.demo.AcademySoftwareFoundation.openexr.Config
 6956,org.sw.demo.AcademySoftwareFoundation.Imath
+6957,org.sw.demo.ocornut.imgui.backend.osx
+6958,org.sw.demo.ocornut.imgui.backend.dx10
+6959,org.sw.demo.ocornut.imgui.backend.win32
+6960,org.sw.demo.ocornut.imgui.backend.dx9
+6961,org.sw.demo.ocornut.imgui.backend.sdl
+6962,org.sw.demo.ocornut.imgui.backend.dx12
+6963,org.sw.demo.ocornut.imgui.backend.dx11
