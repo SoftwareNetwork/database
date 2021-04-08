@@ -9539,3 +9539,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14433,37341,13367,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-69-1/icu4c-69_1-src.tgz""}}"
 14434,37342,13366,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-69-1/icu4c-69_1-src.tgz""}}"
 14435,37343,13364,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-69-1/icu4c-69_1-src.tgz""}}"
+14436,37344,13369,0,1,0,1,"{""git"":{""tag"":""3.3.4"",""url"":""https://github.com/glfw/glfw""}}"
