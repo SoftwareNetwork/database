@@ -2068,3 +2068,5 @@ package_id,path
 6970,org.sw.demo.ocornut.imgui.backend.glut
 6971,org.sw.demo.ocornut.imgui.backend.wgpu
 6972,org.sw.demo.liballeg.allegro5
+6973,org.sw.demo.liballeg.allegro5.addons.primitives
+6974,org.sw.demo.liballeg.allegro5.addons.image
