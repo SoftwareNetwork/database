@@ -9544,3 +9544,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14511,37419,13445,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
 14512,37420,13442,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
 14513,37421,13446,0,1,0,1,"{""git"":{""tag"":""v0.9.5"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+14514,37422,13447,0,1,0,1,"{""git"":{""tag"":""v0.7.3"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+14515,37423,13448,0,1,0,1,"{""git"":{""tag"":""v0.5.3"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
