@@ -9507,7 +9507,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14390,37298,13325,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
 14391,37299,13327,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
 14392,37300,13324,0,1,0,1,"{""git"":{""tag"":""v1.82"",""url"":""https://github.com/ocornut/imgui""}}"
-14395,37303,13330,0,1,0,1,"{""git"":{""tag"":""5.2.7.0"",""url"":""https://github.com/liballeg/allegro5""}}"
 14396,37305,13334,0,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 14397,37307,13331,0,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 14398,37304,13333,0,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
@@ -9540,3 +9539,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14434,37342,13366,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-69-1/icu4c-69_1-src.tgz""}}"
 14435,37343,13364,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-69-1/icu4c-69_1-src.tgz""}}"
 14436,37344,13369,0,1,0,1,"{""git"":{""tag"":""3.3.4"",""url"":""https://github.com/glfw/glfw""}}"
+14437,37345,13370,0,1,0,1,"{""git"":{""tag"":""5.2.7.0"",""url"":""https://github.com/liballeg/allegro5""}}"
