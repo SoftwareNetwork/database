@@ -2071,3 +2071,4 @@ package_id,path
 6973,org.sw.demo.liballeg.allegro5.addons.primitives
 6974,org.sw.demo.liballeg.allegro5.addons.image
 6975,org.sw.demo.liballeg.allegro5.addons.main
+6976,org.sw.demo.blake2.blake2
