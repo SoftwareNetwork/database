@@ -9558,3 +9558,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14565,37473,13463,0,1,0,1,"{""git"":{""tag"":""20190724"",""url"":""https://github.com/BLAKE2/BLAKE2""}}"
 14566,37474,13464,0,1,0,1,"{""git"":{""tag"":""v2.13.5"",""url"":""https://github.com/catchorg/Catch2""}}"
 14567,37475,13465,0,1,0,1,"{""git"":{""tag"":""v2021.04.12.00"",""url"":""https://github.com/facebook/folly""}}"
+14568,37479,13469,0,1,0,1,"{""git"":{""tag"":""v4.4.3"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+14569,37476,13467,0,1,0,1,"{""git"":{""tag"":""v4.4.3"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+14570,37478,13468,0,1,0,1,"{""git"":{""tag"":""v4.4.3"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+14571,37477,13466,0,1,0,1,"{""git"":{""tag"":""v4.4.3"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+14572,37480,13470,0,1,0,1,"{""git"":{""tag"":""v4.4.3"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
