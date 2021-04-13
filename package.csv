@@ -2073,3 +2073,4 @@ package_id,path
 6975,org.sw.demo.liballeg.allegro5.addons.main
 6976,org.sw.demo.blake2.blake2
 6977,org.sw.demo.sqlcipher.shell
+6978,org.sw.demo.telegram.td.generate.tl_parser
