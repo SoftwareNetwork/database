@@ -9606,3 +9606,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14617,37525,13515,0,1,0,1,"{""git"":{""tag"":""v0.7.2"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 14618,37526,13516,0,1,0,1,"{""git"":{""tag"":""v0.7.4"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 14619,37527,13517,0,1,0,1,"{""git"":{""tag"":""v0.7.5"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+14620,37528,13518,0,1,0,1,"{""git"":{""tag"":""curl-7_76_1"",""url"":""https://github.com/curl/curl""}}"
