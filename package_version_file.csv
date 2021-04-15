@@ -9844,3 +9844,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14859,37768,13724,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.36.tar.bz2""}}"
 14860,37766,13724,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.36.tar.bz2""}}"
 14861,37769,13723,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.36.tar.bz2""}}"
+14862,37770,13725,0,1,0,1,"{""git"":{""tag"":""v0.8.7"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
