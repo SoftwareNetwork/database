@@ -2074,3 +2074,4 @@ package_id,path
 6976,org.sw.demo.blake2.blake2
 6977,org.sw.demo.sqlcipher.shell
 6978,org.sw.demo.telegram.td.generate.tl_parser
+6979,org.sw.demo.llvm_project.llvm.HelloNew
