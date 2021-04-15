@@ -9624,3 +9624,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14635,37543,13532,0,1,0,1,"{""git"":{""tag"":""v3.1.5"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 14636,37544,13534,0,1,0,1,"{""git"":{""tag"":""v3.1.5"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 14637,37545,13535,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+14638,37546,13536,0,1,0,1,"{""git"":{""tag"":""v0.7.6"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
