@@ -9849,3 +9849,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 14864,37772,13727,0,1,0,1,"{""git"":{""tag"":""v2.13.6"",""url"":""https://github.com/catchorg/Catch2""}}"
 14865,37773,13728,0,1,0,1,"{""git"":{""tag"":""v0.9.7"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 14866,37774,13729,0,1,0,1,"{""git"":{""tag"":""v0.5.6"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+14867,37775,13730,0,1,0,1,"{""git"":{""tag"":""version-2.0.31"",""url"":""https://github.com/mdadams/jasper""}}"
+14868,37776,13731,0,1,0,1,"{""git"":{""tag"":""version-2.0.29"",""url"":""https://github.com/mdadams/jasper""}}"
