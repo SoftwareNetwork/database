@@ -9995,3 +9995,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15052,37960,13916,0,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
 15053,37961,13913,0,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
 15054,37962,13917,0,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
+15055,37963,13918,0,1,0,1,"{""git"":{""tag"":""v2021.04.19.00"",""url"":""https://github.com/facebook/folly""}}"
+15056,37964,13919,0,1,0,1,"{""git"":{""tag"":""version-2.0.32"",""url"":""https://github.com/mdadams/jasper""}}"
