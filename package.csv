@@ -2075,3 +2075,16 @@ package_id,path
 6977,org.sw.demo.sqlcipher.shell
 6978,org.sw.demo.telegram.td.generate.tl_parser
 6979,org.sw.demo.llvm_project.llvm.HelloNew
+6980,pub.egorpugin.telegram.td.scheme
+6981,pub.egorpugin.telegram.td.tl
+6982,pub.egorpugin.telegram.td.generate.common
+6983,pub.egorpugin.telegram.td.generate.json
+6984,pub.egorpugin.telegram.td.db
+6985,pub.egorpugin.telegram.td.client
+6986,pub.egorpugin.telegram.td.core
+6987,pub.egorpugin.telegram.td.utils
+6988,pub.egorpugin.telegram.td.actor
+6989,pub.egorpugin.telegram.td.net
+6990,pub.egorpugin.telegram.td.generate.clib
+6991,pub.egorpugin.telegram.td.generate_mime_types_gperf
+6992,pub.egorpugin.telegram.td.memprof
