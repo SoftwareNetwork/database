@@ -10029,3 +10029,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15105,38013,13967,0,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
 15106,38014,13968,0,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
 15107,38015,13970,0,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/tdlib/td""}}"
+15108,38016,13971,0,1,0,1,"{""git"":{""tag"":""v0.5.7"",""url"":""https://github.com/awslabs/aws-c-common""}}"
