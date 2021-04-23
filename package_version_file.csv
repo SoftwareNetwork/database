@@ -10033,3 +10033,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15110,38018,13972,0,1,0,1,"{""git"":{""tag"":""2.18.0"",""url"":""https://github.com/randombit/botan""}}"
 15111,38019,13973,0,1,0,1,"{""git"":{""tag"":""v0.5.4"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 15112,38020,13974,0,1,0,1,"{""git"":{""tag"":""v0.9.8"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+15113,38021,13975,0,1,0,1,"{""git"":{""tag"":""v0.8.8"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+15114,38022,13976,0,1,0,1,"{""git"":{""tag"":""v0.5.5"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
