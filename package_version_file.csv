@@ -10036,3 +10036,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15113,38021,13975,0,1,0,1,"{""git"":{""tag"":""v0.8.8"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 15114,38022,13976,0,1,0,1,"{""git"":{""tag"":""v0.5.5"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 15115,38023,13977,0,1,0,1,"{""git"":{""tag"":""7.5.0"",""url"":""https://github.com/jtv/libpqxx""}}"
+15116,38024,13979,0,1,0,1,"{""git"":{""tag"":""1.16.0"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+15117,38025,13978,0,1,0,1,"{""git"":{""tag"":""1.16.0"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+15118,38026,13980,0,1,0,1,"{""git"":{""tag"":""1.16.0"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
