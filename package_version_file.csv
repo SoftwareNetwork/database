@@ -10054,3 +10054,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15134,38042,13995,0,1,0,1,"{""git"":{""tag"":""1.1.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 15135,38043,13998,0,1,0,1,"{""git"":{""tag"":""1.1.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
 15136,38044,13997,0,1,0,1,"{""git"":{""tag"":""1.1.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+15137,38045,13999,0,1,0,1,"{""git"":{""tag"":""v0.5.8"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+15138,38046,14000,0,1,0,1,"{""git"":{""tag"":""v0.9.9"",""url"":""https://github.com/awslabs/aws-c-io""}}"
