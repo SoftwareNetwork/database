@@ -10049,3 +10049,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15129,38039,13992,0,1,0,1,"{""git"":{""tag"":""1.18.0"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 15130,38038,13991,0,1,0,1,"{""git"":{""tag"":""1.18.0"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 15131,38037,13993,0,1,0,1,"{""git"":{""tag"":""1.18.0"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+15132,38040,13994,0,1,0,1,"{""git"":{""tag"":""v2021.04.26.00"",""url"":""https://github.com/facebook/folly""}}"
