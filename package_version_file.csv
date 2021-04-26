@@ -10052,3 +10052,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15132,38040,13994,0,1,0,1,"{""git"":{""tag"":""v2021.04.26.00"",""url"":""https://github.com/facebook/folly""}}"
 15133,38041,13996,0,1,0,1,"{""git"":{""tag"":""1.1.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 15134,38042,13995,0,1,0,1,"{""git"":{""tag"":""1.1.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+15135,38043,13998,0,1,0,1,"{""git"":{""tag"":""1.1.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+15136,38044,13997,0,1,0,1,"{""git"":{""tag"":""1.1.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
