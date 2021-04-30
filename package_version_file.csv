@@ -10067,3 +10067,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15199,38107,13340,0,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 15200,38108,13341,0,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 15201,38109,13339,0,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+15202,38110,14015,0,1,0,1,"{""git"":{""tag"":""v0.9.10"",""url"":""https://github.com/awslabs/aws-c-io""}}"
