@@ -10070,3 +10070,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15202,38110,14015,0,1,0,1,"{""git"":{""tag"":""v0.9.10"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15203,38111,14016,0,1,0,1,"{""git"":{""tag"":""v2021.05.03.00"",""url"":""https://github.com/facebook/folly""}}"
 15204,38112,14017,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+15205,38113,14018,0,1,0,1,"{""git"":{""tag"":""v0.9.11"",""url"":""https://github.com/awslabs/aws-c-io""}}"
