@@ -10072,3 +10072,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15204,38112,14017,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 15205,38113,14018,0,1,0,1,"{""git"":{""tag"":""v0.9.11"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15206,38114,14019,0,1,0,1,"{""git"":{""tag"":""v0.5.6"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+15207,38115,14020,0,1,0,1,"{""git"":{""tag"":""v0.5.10"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+15208,38116,14021,0,1,0,1,"{""git"":{""tag"":""2.8.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
