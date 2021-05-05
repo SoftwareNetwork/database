@@ -10078,3 +10078,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15210,38118,14023,0,1,0,1,"{""git"":{""tag"":""v0.5.7"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 15211,38119,14024,0,1,0,1,"{""git"":{""tag"":""1.1.9"",""url"":""https://github.com/google/snappy""}}"
 15212,38120,14025,0,1,0,1,"{""git"":{""tag"":""8.0.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
+15213,38121,14026,0,1,0,1,"{""git"":{""tag"":""v0.5.11"",""url"":""https://github.com/awslabs/aws-c-common""}}"
