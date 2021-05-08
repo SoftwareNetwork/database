@@ -10069,7 +10069,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15201,38109,13339,0,1,0,1,"{""git"":{""branch"":""b0.4.2"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 15202,38110,14015,0,1,0,1,"{""git"":{""tag"":""v0.9.10"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15203,38111,14016,0,1,0,1,"{""git"":{""tag"":""v2021.05.03.00"",""url"":""https://github.com/facebook/folly""}}"
-15204,38112,14017,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 15205,38113,14018,0,1,0,1,"{""git"":{""tag"":""v0.9.11"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15206,38114,14019,0,1,0,1,"{""git"":{""tag"":""v0.5.6"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 15207,38115,14020,0,1,0,1,"{""git"":{""tag"":""v0.5.10"",""url"":""https://github.com/awslabs/aws-c-common""}}"
@@ -10112,3 +10111,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15244,38149,14054,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
 15245,38153,14058,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
 15246,38154,14059,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
+15247,38155,14060,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/OSGeo/gdal""}}"
