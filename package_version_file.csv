@@ -10112,3 +10112,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15245,38153,14058,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
 15246,38154,14059,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
 15247,38155,14060,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+15248,38156,14062,0,1,0,1,"{""git"":{""tag"":""v2.1.9"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+15249,38157,14061,0,1,0,1,"{""git"":{""tag"":""v2.1.9"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
