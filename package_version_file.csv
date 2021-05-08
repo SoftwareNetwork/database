@@ -10114,3 +10114,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15287,38195,12694,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 15288,38196,12693,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 15289,38197,12695,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+15290,38198,14065,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+15291,38199,14066,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
