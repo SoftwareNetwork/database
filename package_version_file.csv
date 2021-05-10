@@ -10116,3 +10116,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15295,38203,14069,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
 15296,38204,14071,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
 15297,38205,14072,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.68/glib-2.68.1.tar.xz""}}"
+15298,38206,14073,0,1,0,1,"{""git"":{""tag"":""v2021.05.10.00"",""url"":""https://github.com/facebook/folly""}}"
