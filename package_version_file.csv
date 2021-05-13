@@ -10119,3 +10119,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15298,38206,14073,0,1,0,1,"{""git"":{""tag"":""v2021.05.10.00"",""url"":""https://github.com/facebook/folly""}}"
 15299,38207,14075,0,1,0,1,"{""git"":{""tag"":""v2.0.0"",""url"":""https://github.com/google/flatbuffers""}}"
 15300,38208,14074,0,1,0,1,"{""git"":{""tag"":""v2.0.0"",""url"":""https://github.com/google/flatbuffers""}}"
+15301,38211,14077,0,1,0,1,"{""git"":{""tag"":""v3.17.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15302,38209,14078,0,1,0,1,"{""git"":{""tag"":""v3.17.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15303,38210,14076,0,1,0,1,"{""git"":{""tag"":""v3.17.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15304,38212,14079,0,1,0,1,"{""git"":{""tag"":""v3.17.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
