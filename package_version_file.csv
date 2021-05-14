@@ -10123,3 +10123,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15302,38209,14078,0,1,0,1,"{""git"":{""tag"":""v3.17.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 15303,38210,14076,0,1,0,1,"{""git"":{""tag"":""v3.17.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 15304,38212,14079,0,1,0,1,"{""git"":{""tag"":""v3.17.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15305,38213,14080,0,1,0,1,"{""git"":{""tag"":""v0.9.3"",""url"":""https://github.com/lemire/simdjson""}}"
