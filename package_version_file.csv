@@ -10126,3 +10126,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15305,38213,14080,0,1,0,1,"{""git"":{""tag"":""v0.9.3"",""url"":""https://github.com/lemire/simdjson""}}"
 15306,38214,14081,0,1,0,1,"{""remote"":{""url"":""https://www.mpfr.org/mpfr-current/mpfr-4.1.0.tar.xz""}}"
 15308,38216,14083,0,1,0,1,"{""git"":{""tag"":""v1.5.0"",""url"":""https://github.com/facebook/zstd""}}"
+15309,38217,14084,0,1,0,1,"{""git"":{""tag"":""3.11.2"",""url"":""https://github.com/martinus/robin-hood-hashing""}}"
