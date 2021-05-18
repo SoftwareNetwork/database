@@ -10153,3 +10153,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15373,38281,12695,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 15374,38282,12693,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 15375,38283,12692,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+15376,38285,14112,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/HowardHinnant/date""}}"
+15377,38284,14113,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/HowardHinnant/date""}}"
