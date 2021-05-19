@@ -10155,3 +10155,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15375,38283,12692,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 15376,38285,14112,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/HowardHinnant/date""}}"
 15377,38284,14113,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/HowardHinnant/date""}}"
+15378,38289,14114,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15379,38286,14115,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15380,38288,14116,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15381,38287,14117,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15382,38290,14118,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
