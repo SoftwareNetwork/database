@@ -10162,3 +10162,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15382,38290,14118,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 15383,38291,14119,0,1,0,1,"{""git"":{""tag"":""v0.5.8"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 15384,38292,14120,0,1,0,1,"{""git"":{""tag"":""3.0.7"",""url"":""https://github.com/libsigcplusplus/libsigcplusplus""}}"
+15385,38293,14121,0,1,0,1,"{""git"":{""tag"":""v0.9.4"",""url"":""https://github.com/lemire/simdjson""}}"
