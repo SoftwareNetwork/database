@@ -66797,3 +66797,4 @@ package_version_id,package_id,version_range
 38304,5798,master
 38304,5811,=1.38.0
 38304,5829,=1.38.0
+38305,1909,>=3.0.0 <4.0.0
