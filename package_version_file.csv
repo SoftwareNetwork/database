@@ -10177,3 +10177,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15397,38305,14133,0,1,0,1,"{""git"":{""tag"":""1.5.8"",""url"":""https://github.com/anholt/libepoxy""}}"
 15398,38306,14134,0,1,0,1,"{""git"":{""tag"":""R_2_4_0"",""url"":""https://github.com/libexpat/libexpat""}}"
 15399,38307,14135,0,1,0,1,"{""git"":{""tag"":""v0.8.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+15400,38308,14136,0,1,0,1,"{""git"":{""tag"":""R_2_4_1"",""url"":""https://github.com/libexpat/libexpat""}}"
