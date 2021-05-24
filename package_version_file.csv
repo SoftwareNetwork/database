@@ -10179,3 +10179,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15400,38308,14136,0,1,0,1,"{""git"":{""tag"":""R_2_4_1"",""url"":""https://github.com/libexpat/libexpat""}}"
 15401,38309,14137,0,1,0,1,"{""git"":{""tag"":""v2021.05.24.00"",""url"":""https://github.com/facebook/folly""}}"
 15402,38310,14138,0,1,0,1,"{""git"":{""tag"":""2.12"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
+15403,38311,14139,0,1,0,1,"{""git"":{""commit"":""3ddabfa3875364172a40db633642faf711a6e33b"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
