@@ -10178,3 +10178,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15398,38306,14134,0,1,0,1,"{""git"":{""tag"":""R_2_4_0"",""url"":""https://github.com/libexpat/libexpat""}}"
 15399,38307,14135,0,1,0,1,"{""git"":{""tag"":""v0.8.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 15400,38308,14136,0,1,0,1,"{""git"":{""tag"":""R_2_4_1"",""url"":""https://github.com/libexpat/libexpat""}}"
+15401,38309,14137,0,1,0,1,"{""git"":{""tag"":""v2021.05.24.00"",""url"":""https://github.com/facebook/folly""}}"
