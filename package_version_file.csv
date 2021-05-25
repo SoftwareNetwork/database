@@ -10200,3 +10200,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15424,38333,14162,0,1,0,1,"{""git"":{""tag"":""v3.17.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 15425,38331,14159,0,1,0,1,"{""git"":{""tag"":""v3.17.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 15426,38334,14161,0,1,0,1,"{""git"":{""tag"":""v3.17.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15427,38335,14163,0,1,0,1,"{""git"":{""tag"":""v1.4.2"",""url"":""https://github.com/zmartzone/liboauth2""}}"
