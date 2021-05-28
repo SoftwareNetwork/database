@@ -10203,3 +10203,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15427,38335,14163,0,1,0,1,"{""git"":{""tag"":""v1.4.2"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 15428,38336,14164,0,1,0,1,"{""git"":{""tag"":""curl-7_77_0"",""url"":""https://github.com/curl/curl""}}"
 15429,38337,14165,0,1,0,1,"{""git"":{""tag"":""v3.7.0"",""url"":""https://github.com/ToruNiina/toml11""}}"
+15430,38338,14166,0,1,0,1,"{""git"":{""tag"":""v0.9.5"",""url"":""https://github.com/lemire/simdjson""}}"
