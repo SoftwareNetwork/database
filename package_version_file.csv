@@ -10207,3 +10207,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15431,38339,14167,0,1,0,1,"{""git"":{""tag"":""v0.9.13"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15432,38340,14168,0,1,0,1,"{""git"":{""tag"":""v0.9.14"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15433,38341,14169,0,1,0,1,"{""git"":{""tag"":""v0.5.9"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+15434,38344,14171,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2""}}"
+15435,38342,14171,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2""}}"
+15436,38345,14170,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2""}}"
+15437,38343,14171,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2""}}"
