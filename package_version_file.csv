@@ -10211,3 +10211,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15435,38342,14171,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2""}}"
 15436,38345,14170,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2""}}"
 15437,38343,14171,0,1,0,1,"{""remote"":{""url"":""https://ftp.pcre.org/pub/pcre/pcre2-10.37.tar.bz2""}}"
+15438,38346,14172,0,1,0,1,"{""git"":{""tag"":""v2021.05.31.00"",""url"":""https://github.com/facebook/folly""}}"
