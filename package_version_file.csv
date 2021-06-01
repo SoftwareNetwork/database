@@ -10215,3 +10215,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15441,38349,13361,0,1,0,1,"{""git"":{""tag"":""20210324.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 15442,38350,14174,0,1,0,1,"{""git"":{""tag"":""20210324.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 15443,38351,14175,0,1,0,1,"{""git"":{""tag"":""20210324.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+15444,38352,14176,0,1,0,1,"{""git"":{""tag"":""v0.6.0"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+15445,38353,14177,0,1,0,1,"{""git"":{""tag"":""v0.10.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
