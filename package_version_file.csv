@@ -10213,3 +10213,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15438,38346,14172,0,1,0,1,"{""git"":{""tag"":""v2021.05.31.00"",""url"":""https://github.com/facebook/folly""}}"
 15439,38347,14173,0,1,0,1,"{""git"":{""tag"":""2021-06-01"",""url"":""https://github.com/google/re2""}}"
 15441,38349,13361,0,1,0,1,"{""git"":{""tag"":""20210324.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+15442,38350,14174,0,1,0,1,"{""git"":{""tag"":""20210324.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+15443,38351,14175,0,1,0,1,"{""git"":{""tag"":""20210324.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
