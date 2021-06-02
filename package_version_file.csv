@@ -10220,3 +10220,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15446,38354,14178,0,1,0,1,"{""git"":{""tag"":""v0.10.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15447,38355,14179,0,1,0,1,"{""git"":{""tag"":""v5.2.2"",""url"":""https://github.com/CGAL/cgal""}}"
 15448,38356,14180,0,1,0,1,"{""git"":{""tag"":""v5.1.4"",""url"":""https://github.com/CGAL/cgal""}}"
+15449,38357,14181,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350500.zip""}}"
+15450,38358,14182,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350500.zip""}}"
