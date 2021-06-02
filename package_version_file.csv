@@ -10219,3 +10219,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15445,38353,14177,0,1,0,1,"{""git"":{""tag"":""v0.10.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15446,38354,14178,0,1,0,1,"{""git"":{""tag"":""v0.10.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15447,38355,14179,0,1,0,1,"{""git"":{""tag"":""v5.2.2"",""url"":""https://github.com/CGAL/cgal""}}"
+15448,38356,14180,0,1,0,1,"{""git"":{""tag"":""v5.1.4"",""url"":""https://github.com/CGAL/cgal""}}"
