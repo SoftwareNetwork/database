@@ -10222,3 +10222,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15448,38356,14180,0,1,0,1,"{""git"":{""tag"":""v5.1.4"",""url"":""https://github.com/CGAL/cgal""}}"
 15449,38357,14181,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350500.zip""}}"
 15450,38358,14182,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3350500.zip""}}"
+15451,38360,14186,0,1,0,1,"{""git"":{""tag"":""v3.17.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15452,38362,14183,0,1,0,1,"{""git"":{""tag"":""v3.17.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15453,38361,14184,0,1,0,1,"{""git"":{""tag"":""v3.17.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15454,38359,14185,0,1,0,1,"{""git"":{""tag"":""v3.17.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
