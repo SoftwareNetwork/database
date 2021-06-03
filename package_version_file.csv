@@ -10226,3 +10226,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15452,38362,14183,0,1,0,1,"{""git"":{""tag"":""v3.17.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 15453,38361,14184,0,1,0,1,"{""git"":{""tag"":""v3.17.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 15454,38359,14185,0,1,0,1,"{""git"":{""tag"":""v3.17.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15455,38366,14188,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15456,38364,14189,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15457,38365,14187,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15458,38363,14190,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+15459,38367,14191,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
