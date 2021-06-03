@@ -10231,3 +10231,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15457,38365,14187,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 15458,38363,14190,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 15459,38367,14191,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
+15460,38368,14192,0,1,0,1,"{""git"":{""tag"":""v0.5.10"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
