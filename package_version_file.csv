@@ -10234,3 +10234,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15460,38368,14192,0,1,0,1,"{""git"":{""tag"":""v0.5.10"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 15461,38369,14193,0,1,0,1,"{""git"":{""tag"":""v0.10.2"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15462,38370,14194,0,1,0,1,"{""git"":{""tag"":""v0.9.6"",""url"":""https://github.com/lemire/simdjson""}}"
+15463,38371,14195,0,1,0,1,"{""git"":{""tag"":""1.81.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
