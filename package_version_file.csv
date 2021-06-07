@@ -10238,3 +10238,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15464,38372,14196,0,1,0,1,"{""git"":{""tag"":""v2021.06.07.00"",""url"":""https://github.com/facebook/folly""}}"
 15465,38373,14197,0,1,0,1,"{""git"":{""tag"":""v2.0.4"",""url"":""https://github.com/arvidn/libtorrent""}}"
 15466,38374,14198,0,1,0,1,"{""git"":{""tag"":""v1.2.14"",""url"":""https://github.com/arvidn/libtorrent""}}"
+15467,38375,14199,0,1,0,1,"{""git"":{""tag"":""v1.4.2.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
