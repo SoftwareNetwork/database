@@ -10235,3 +10235,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15461,38369,14193,0,1,0,1,"{""git"":{""tag"":""v0.10.2"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 15462,38370,14194,0,1,0,1,"{""git"":{""tag"":""v0.9.6"",""url"":""https://github.com/lemire/simdjson""}}"
 15463,38371,14195,0,1,0,1,"{""git"":{""tag"":""1.81.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
+15464,38372,14196,0,1,0,1,"{""git"":{""tag"":""v2021.06.07.00"",""url"":""https://github.com/facebook/folly""}}"
+15465,38373,14197,0,1,0,1,"{""git"":{""tag"":""v2.0.4"",""url"":""https://github.com/arvidn/libtorrent""}}"
+15466,38374,14198,0,1,0,1,"{""git"":{""tag"":""v1.2.14"",""url"":""https://github.com/arvidn/libtorrent""}}"
