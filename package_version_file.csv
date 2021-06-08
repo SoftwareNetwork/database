@@ -10239,3 +10239,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15528,38436,14256,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 15529,38437,14257,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 15530,38438,14260,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+15531,38440,14264,0,1,0,1,"{""git"":{""tag"":""v3.17.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15532,38442,14261,0,1,0,1,"{""git"":{""tag"":""v3.17.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15533,38441,14262,0,1,0,1,"{""git"":{""tag"":""v3.17.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+15534,38439,14263,0,1,0,1,"{""git"":{""tag"":""v3.17.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
