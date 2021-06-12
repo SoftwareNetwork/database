@@ -10249,3 +10249,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15727,38635,14459,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qttools""}}"
 15728,38636,14458,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtbase""}}"
 15729,38637,14457,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtbase""}}"
+15730,38638,14460,0,1,0,1,"{""git"":{""tag"":""json-c-0.15-20200726"",""url"":""https://github.com/json-c/json-c""}}"
