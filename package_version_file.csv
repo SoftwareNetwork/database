@@ -10255,3 +10255,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15741,38650,14470,0,1,0,1,"{""git"":{""tag"":""7.1.0-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 15742,38651,14469,0,1,0,1,"{""git"":{""tag"":""7.1.0-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 15743,38649,14471,0,1,0,1,"{""git"":{""tag"":""7.1.0-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
+15744,38652,14472,0,1,0,1,"{""git"":{""tag"":""v2021.06.14.00"",""url"":""https://github.com/facebook/folly""}}"
