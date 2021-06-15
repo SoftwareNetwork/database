@@ -7379,7 +7379,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9404,32312,8851,1,1,0,1,"{""git"":{""tag"":""v4.7.1"",""url"":""https://github.com/zeromq/cppzmq""}}"
 9405,32313,8852,1,1,0,1,"{""git"":{""tag"":""v2020.10.05.00"",""url"":""https://github.com/facebook/folly""}}"
 9406,32314,8853,1,1,0,1,"{""git"":{""tag"":""R_2_2_10"",""url"":""https://github.com/libexpat/libexpat""}}"
-9407,32315,8854,1,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/ThePhD/sol2""}}"
 9408,32316,8856,1,1,0,1,"{""git"":{""tag"":""4.0.11"",""url"":""https://github.com/thp/psmoveapi""}}"
 9409,32317,8855,1,1,0,1,"{""git"":{""tag"":""4.0.11"",""url"":""https://github.com/thp/psmoveapi""}}"
 9411,32319,8858,1,1,0,1,"{""git"":{""tag"":""v0.7.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
@@ -10256,3 +10255,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15742,38651,14469,0,1,0,1,"{""git"":{""tag"":""7.1.0-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 15743,38649,14471,0,1,0,1,"{""git"":{""tag"":""7.1.0-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 15744,38652,14472,0,1,0,1,"{""git"":{""tag"":""v2021.06.14.00"",""url"":""https://github.com/facebook/folly""}}"
+15745,38653,14473,0,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/ThePhD/sol2""}}"
