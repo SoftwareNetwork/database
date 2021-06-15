@@ -10256,3 +10256,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15743,38649,14471,0,1,0,1,"{""git"":{""tag"":""7.1.0-0"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 15744,38652,14472,0,1,0,1,"{""git"":{""tag"":""v2021.06.14.00"",""url"":""https://github.com/facebook/folly""}}"
 15746,38654,14474,0,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/ThePhD/sol2""}}"
+15747,38655,14475,0,1,0,1,"{""git"":{""tag"":""v0.10.4"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+15748,38656,14476,0,1,0,1,"{""git"":{""tag"":""v0.5.11"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
