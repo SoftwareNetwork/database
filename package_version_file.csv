@@ -10269,3 +10269,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15758,38666,14486,0,1,0,1,"{""git"":{""tag"":""json-c-0.15-20200726"",""url"":""https://github.com/json-c/json-c""}}"
 15759,38668,14487,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3360000.zip""}}"
 15760,38667,14488,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3360000.zip""}}"
+15761,38669,14489,0,1,0,1,"{""git"":{""tag"":""8.0.0"",""url"":""https://github.com/fmtlib/fmt""}}"
