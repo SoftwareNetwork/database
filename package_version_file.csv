@@ -10280,3 +10280,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15769,38677,14497,0,1,0,1,"{""git"":{""tag"":""v1.38.1"",""url"":""https://github.com/grpc/grpc""}}"
 15770,38678,14495,0,1,0,1,"{""git"":{""tag"":""v1.38.1"",""url"":""https://github.com/grpc/grpc""}}"
 15771,38679,14499,0,1,0,1,"{""git"":{""tag"":""v1.38.1"",""url"":""https://github.com/grpc/grpc""}}"
+15772,38681,14500,0,1,0,1,"{""git"":{""tag"":""1.1.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+15773,38680,14501,0,1,0,1,"{""git"":{""tag"":""1.1.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
