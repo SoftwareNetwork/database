@@ -2090,3 +2090,4 @@ package_id,path
 6992,pub.egorpugin.telegram.td.memprof
 6993,org.sw.demo.ArtifexSoftware.thirdparty.lcms2
 6994,org.sw.demo.beached.header_libraries
+6995,org.sw.demo.Blosc.c_blosc2
