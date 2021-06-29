@@ -10303,3 +10303,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15793,38701,14521,0,1,0,1,"{""git"":{""tag"":""poco-1.11.0-release"",""url"":""https://github.com/pocoproject/poco""}}"
 15794,38702,14522,0,1,0,1,"{""git"":{""tag"":""v1.5.0"",""url"":""https://github.com/facebook/zstd""}}"
 15795,38703,14523,0,1,0,1,"{""git"":{""tag"":""v2.0.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+15796,38704,14524,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/libffi/libffi""}}"
+15797,38705,14525,0,1,0,1,"{""git"":{""tag"":""v3.4.1"",""url"":""https://github.com/libffi/libffi""}}"
+15798,38706,14526,0,1,0,1,"{""git"":{""tag"":""v3.4.2"",""url"":""https://github.com/libffi/libffi""}}"
