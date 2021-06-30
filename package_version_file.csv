@@ -10314,3 +10314,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15804,38713,14533,0,1,0,1,"{""git"":{""tag"":""v2021.3.0"",""url"":""https://github.com/intel/tbb""}}"
 15805,38712,14532,0,1,0,1,"{""git"":{""tag"":""v2021.3.0"",""url"":""https://github.com/intel/tbb""}}"
 15806,38714,14534,0,1,0,1,"{""git"":{""tag"":""v2021.3.0"",""url"":""https://github.com/intel/tbb""}}"
+15807,38715,14535,0,1,0,1,"{""git"":{""tag"":""8.1.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
