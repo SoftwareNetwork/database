@@ -10321,3 +10321,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15811,38720,14538,0,1,0,1,"{""git"":{""tag"":""v3.0.5"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 15812,38718,14540,0,1,0,1,"{""git"":{""tag"":""v3.0.5"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 15813,38721,14541,0,1,0,1,"{""git"":{""tag"":""v3.0.5"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
+15814,38722,14542,0,1,0,1,"{""git"":{""tag"":""8.0.1"",""url"":""https://github.com/fmtlib/fmt""}}"
