@@ -10368,3 +10368,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15859,38767,14586,0,1,0,1,"{""git"":{""tag"":""4.5.3"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 15860,38768,14588,0,1,0,1,"{""git"":{""tag"":""4.5.3"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 15861,38769,14589,0,1,0,1,"{""git"":{""tag"":""v5.2.3"",""url"":""https://github.com/CGAL/cgal""}}"
+15862,38770,14590,0,1,0,1,"{""git"":{""tag"":""v5.1.5"",""url"":""https://github.com/CGAL/cgal""}}"
