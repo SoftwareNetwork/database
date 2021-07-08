@@ -10388,3 +10388,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 15879,38787,14604,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.69/glib-2.69.0.tar.xz""}}"
 15880,38788,14608,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.69/glib-2.69.0.tar.xz""}}"
 15881,38789,14609,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.69/glib-2.69.0.tar.xz""}}"
+15882,38790,14610,0,1,0,1,"{""git"":{""tag"":""v1.41.1-my"",""url"":""https://github.com/egorpugin/libuv""}}"
