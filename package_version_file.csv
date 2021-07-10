@@ -10603,3 +10603,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16137,39045,14834,0,1,0,1,"{""git"":{""tag"":""4.5.3"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 16138,39046,14833,0,1,0,1,"{""git"":{""tag"":""4.5.3"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 16139,39047,14836,0,1,0,1,"{""git"":{""tag"":""v0.2.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
+16140,39048,14837,0,1,0,1,"{""git"":{""tag"":""v2.0.2"",""url"":""https://github.com/Blosc/c-blosc2""}}"
