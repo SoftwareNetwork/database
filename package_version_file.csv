@@ -10633,3 +10633,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16167,39075,14864,0,1,0,1,"{""remote"":{""url"":""https://download.osgeo.org/libtiff/tiff-4.2.0.tar.gz""}}"
 16168,39076,14865,0,1,0,1,"{""remote"":{""url"":""https://download.osgeo.org/libtiff/tiff-4.3.0.tar.gz""}}"
 16169,39077,14866,0,1,0,1,"{""git"":{""tag"":""v0.9.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+16170,39078,14867,0,1,0,1,"{""git"":{""tag"":""v2.7.0"",""url"":""https://github.com/pybind/pybind11""}}"
