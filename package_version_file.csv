@@ -10637,3 +10637,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16171,39079,14868,0,1,0,1,"{""git"":{""tag"":""v0.6.7"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 16172,39080,14869,0,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 16173,39081,14870,0,1,0,1,"{""git"":{""tag"":""v0.6.8"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+16174,39082,14871,0,1,0,1,"{""remote"":{""url"":""https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.9.11/libxml2-v2.9.11.tar.bz2""}}"
+16175,39083,14872,0,1,0,1,"{""remote"":{""url"":""https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.9.12/libxml2-v2.9.12.tar.bz2""}}"
