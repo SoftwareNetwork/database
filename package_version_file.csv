@@ -10635,7 +10635,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16172,39080,14869,0,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 16173,39081,14870,0,1,0,1,"{""git"":{""tag"":""v0.6.8"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 16174,39082,14871,0,1,0,1,"{""remote"":{""url"":""https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.9.11/libxml2-v2.9.11.tar.bz2""}}"
-16175,39083,14872,0,1,0,1,"{""remote"":{""url"":""https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.9.12/libxml2-v2.9.12.tar.bz2""}}"
 16176,39085,14874,0,1,0,1,"{""git"":{""tag"":""v3.21.0"",""url"":""https://github.com/Kitware/CMake""}}"
 16177,39084,14875,0,1,0,1,"{""git"":{""tag"":""v3.21.0"",""url"":""https://github.com/Kitware/CMake""}}"
 16178,39087,14873,0,1,0,1,"{""git"":{""tag"":""v3.21.0"",""url"":""https://github.com/Kitware/CMake""}}"
@@ -10645,3 +10644,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16183,39091,14881,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1k"",""url"":""https://github.com/openssl/openssl""}}"
 16184,39092,14880,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1k"",""url"":""https://github.com/openssl/openssl""}}"
 16185,39093,14882,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/preshing/turf""}}"
+16186,39094,14883,0,1,0,1,"{""remote"":{""url"":""https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.9.12/libxml2-v2.9.12.tar.bz2""}}"
