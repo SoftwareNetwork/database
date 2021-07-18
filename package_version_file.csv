@@ -10645,3 +10645,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16184,39092,14880,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1k"",""url"":""https://github.com/openssl/openssl""}}"
 16185,39093,14882,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/preshing/turf""}}"
 16186,39094,14883,0,1,0,1,"{""remote"":{""url"":""https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.9.12/libxml2-v2.9.12.tar.bz2""}}"
+16187,39095,14884,0,1,0,1,"{""git"":{""tag"":""v1.44.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
