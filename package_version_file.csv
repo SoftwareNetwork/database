@@ -10661,3 +10661,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16200,39108,14896,0,1,0,1,"{""git"":{""tag"":""v1.39.0"",""url"":""https://github.com/grpc/grpc""}}"
 16201,39109,14898,0,1,0,1,"{""git"":{""tag"":""v1.39.0"",""url"":""https://github.com/grpc/grpc""}}"
 16202,39110,14899,0,1,0,1,"{""git"":{""tag"":""v1.42.0"",""url"":""https://github.com/libuv/libuv""}}"
+16203,39111,14900,0,1,0,1,"{""git"":{""tag"":""v1.42.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
