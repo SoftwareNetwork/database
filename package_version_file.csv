@@ -10664,3 +10664,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16203,39111,14900,0,1,0,1,"{""git"":{""tag"":""v1.42.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
 16204,39112,14901,0,1,0,1,"{""git"":{""tag"":""v2021.07.20.01"",""url"":""https://github.com/facebook/folly""}}"
 16205,39113,14902,0,1,0,1,"{""git"":{""tag"":""v2021.07.22.00"",""url"":""https://github.com/facebook/folly""}}"
+16206,39116,14905,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16207,39115,14903,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16208,39114,14904,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16209,39117,14906,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16210,39118,14907,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
