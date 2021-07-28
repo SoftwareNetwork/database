@@ -10675,3 +10675,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16218,39126,14915,0,1,0,1,"{""git"":{""tag"":""v1.9.1"",""url"":""https://github.com/gabime/spdlog""}}"
 16219,39127,14916,0,1,0,1,"{""git"":{""tag"":""v3.8.1"",""url"":""https://github.com/skypjack/entt""}}"
 16220,39128,14917,0,1,0,1,"{""git"":{""tag"":""7.6.0"",""url"":""https://github.com/jtv/libpqxx""}}"
+16221,39129,14918,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/pantor/inja""}}"
