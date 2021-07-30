@@ -10678,3 +10678,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16221,39129,14918,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/pantor/inja""}}"
 16222,39130,14919,0,1,0,1,"{""git"":{""tag"":""v2.13.7"",""url"":""https://github.com/catchorg/Catch2""}}"
 16223,39131,14920,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+16224,39132,14921,0,1,0,1,"{""git"":{""tag"":""v3.2"",""url"":""https://github.com/agauniyal/rang""}}"
