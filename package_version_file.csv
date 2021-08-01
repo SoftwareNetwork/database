@@ -10681,3 +10681,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16287,39195,14986,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qttools""}}"
 16288,39196,14985,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtbase""}}"
 16289,39197,14984,0,1,0,1,"{""git"":{""tag"":""v5.15.0"",""url"":""https://github.com/qt/qtbase""}}"
+16290,39198,14987,0,1,0,1,"{""git"":{""tag"":""2021-08-01"",""url"":""https://github.com/google/re2""}}"
