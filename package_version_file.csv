@@ -10684,3 +10684,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16290,39198,14987,0,1,0,1,"{""git"":{""tag"":""2021-08-01"",""url"":""https://github.com/google/re2""}}"
 16291,39200,14988,0,1,0,1,"{""git"":{""tag"":""2.2"",""url"":""https://github.com/skvadrik/re2c""}}"
 16292,39199,14989,0,1,0,1,"{""git"":{""tag"":""2.2"",""url"":""https://github.com/skvadrik/re2c""}}"
+16293,39201,14990,0,1,0,1,"{""git"":{""tag"":""version-2.0.33"",""url"":""https://github.com/mdadams/jasper""}}"
+16294,39202,14991,0,1,0,1,"{""git"":{""tag"":""v2021.08.02.00"",""url"":""https://github.com/facebook/folly""}}"
