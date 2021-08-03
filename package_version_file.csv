@@ -10686,3 +10686,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16292,39199,14989,0,1,0,1,"{""git"":{""tag"":""2.2"",""url"":""https://github.com/skvadrik/re2c""}}"
 16293,39201,14990,0,1,0,1,"{""git"":{""tag"":""version-2.0.33"",""url"":""https://github.com/mdadams/jasper""}}"
 16294,39202,14991,0,1,0,1,"{""git"":{""tag"":""v2021.08.02.00"",""url"":""https://github.com/facebook/folly""}}"
+16295,39203,14994,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16296,39205,14993,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16297,39206,14992,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16298,39204,14995,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
