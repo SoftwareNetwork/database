@@ -10690,3 +10690,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16296,39205,14993,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 16297,39206,14992,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 16298,39204,14995,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+16299,39207,14996,0,1,0,1,"{""git"":{""tag"":""v2.7.1"",""url"":""https://github.com/pybind/pybind11""}}"
