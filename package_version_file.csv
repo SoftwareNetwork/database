@@ -10694,3 +10694,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16300,39208,14997,0,1,0,1,"{""git"":{""tag"":""v14.2.3"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 16301,39209,14998,0,1,0,1,"{""git"":{""tag"":""v14.2.3"",""url"":""https://github.com/DaanDeMeyer/reproc""}}"
 16302,39210,14999,0,1,0,1,"{""git"":{""tag"":""cares-1_17_2"",""url"":""https://github.com/c-ares/c-ares""}}"
+16303,39211,15000,0,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.16.tar.gz""}}"
+16304,39212,15001,0,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.16.tar.gz""}}"
