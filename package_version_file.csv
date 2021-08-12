@@ -10715,3 +10715,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16321,39229,15019,0,1,0,1,"{""git"":{""tag"":""1.7.1"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 16322,39230,15013,0,1,0,1,"{""git"":{""tag"":""1.7.1"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 16323,39231,15017,0,1,0,1,"{""git"":{""tag"":""1.7.1"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
+16324,39232,15021,0,1,0,1,"{""git"":{""tag"":""asio-1-18-1"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+16325,39233,15022,0,1,0,1,"{""git"":{""tag"":""asio-1-18-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+16326,39234,15023,0,1,0,1,"{""git"":{""tag"":""asio-1-19-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+16327,39235,15024,0,1,0,1,"{""git"":{""tag"":""asio-1-19-1"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+16328,39236,15025,0,1,0,1,"{""git"":{""tag"":""asio-1-19-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
