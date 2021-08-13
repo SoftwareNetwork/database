@@ -10721,3 +10721,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16327,39235,15024,0,1,0,1,"{""git"":{""tag"":""asio-1-19-1"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 16328,39236,15025,0,1,0,1,"{""git"":{""tag"":""asio-1-19-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 16329,39237,15026,0,1,0,1,"{""git"":{""tag"":""v1.9.2"",""url"":""https://github.com/gabime/spdlog""}}"
+16330,39238,15027,0,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
