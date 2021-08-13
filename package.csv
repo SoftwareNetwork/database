@@ -2091,3 +2091,5 @@ package_id,path
 6993,org.sw.demo.ArtifexSoftware.thirdparty.lcms2
 6994,org.sw.demo.beached.header_libraries
 6995,org.sw.demo.Blosc.c_blosc2
+6996,org.sw.demo.boost.describe
+6997,org.sw.demo.boost.lambda2
