@@ -10873,3 +10873,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16479,39387,15175,0,1,0,1,"{""git"":{""commit"":""72a7fb1b7372cf18df331e0ebbfb555f244c03fe"",""url"":""https://github.com/boostorg/iterator""}}"
 16480,39388,15177,0,1,0,1,"{""git"":{""tag"":""v0.6.9"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 16481,39389,15178,0,1,0,1,"{""git"":{""tag"":""1.5.9"",""url"":""https://github.com/anholt/libepoxy""}}"
+16482,39390,15179,0,1,0,1,"{""git"":{""tag"":""v2.4.1"",""url"":""https://github.com/SanderMertens/flecs""}}"
