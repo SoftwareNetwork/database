@@ -2093,3 +2093,5 @@ package_id,path
 6995,org.sw.demo.Blosc.c_blosc2
 6996,org.sw.demo.boost.describe
 6997,org.sw.demo.boost.lambda2
+6998,pub.egorpugin.primitives.password
+6999,pub.egorpugin.primitives.data
