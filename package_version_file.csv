@@ -10876,3 +10876,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16483,39391,15180,0,1,0,1,"{""git"":{""tag"":""v2.4.2"",""url"":""https://github.com/SanderMertens/flecs""}}"
 16484,39392,15181,0,1,0,1,"{""git"":{""tag"":""v0.10.7"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 16485,39393,15182,0,1,0,1,"{""git"":{""tag"":""7.6.0"",""url"":""https://github.com/jtv/libpqxx""}}"
+16486,39394,15183,0,1,0,1,"{""git"":{""tag"":""0.31"",""url"":""https://github.com/rbock/sqlpp11-connector-sqlite3""}}"
