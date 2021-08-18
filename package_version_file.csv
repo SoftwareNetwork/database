@@ -10879,3 +10879,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16526,39434,15220,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 16527,39435,15224,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 16528,39436,15225,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+16529,39437,15226,0,1,0,1,"{""git"":{""tag"":""v2.4.3"",""url"":""https://github.com/SanderMertens/flecs""}}"
+16530,39438,15227,0,1,0,1,"{""git"":{""tag"":""2.9.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+16531,39439,15228,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/nlohmann/json""}}"
