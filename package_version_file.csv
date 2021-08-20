@@ -10678,7 +10678,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16325,39233,15022,0,1,0,1,"{""git"":{""tag"":""asio-1-18-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 16326,39234,15023,0,1,0,1,"{""git"":{""tag"":""asio-1-19-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 16327,39235,15024,0,1,0,1,"{""git"":{""tag"":""asio-1-19-1"",""url"":""https://github.com/chriskohlhoff/asio""}}"
-16328,39236,15025,0,1,0,1,"{""git"":{""tag"":""asio-1-19-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 16329,39237,15026,0,1,0,1,"{""git"":{""tag"":""v1.9.2"",""url"":""https://github.com/gabime/spdlog""}}"
 16330,39238,15027,0,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
 16331,39240,15028,0,1,0,1,"{""git"":{""tag"":""v1.39.1"",""url"":""https://github.com/grpc/grpc""}}"
@@ -10899,3 +10898,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16546,39454,15242,0,1,0,1,"{""git"":{""tag"":""v1.84"",""url"":""https://github.com/ocornut/imgui""}}"
 16547,39455,15245,0,1,0,1,"{""git"":{""tag"":""v1.84"",""url"":""https://github.com/ocornut/imgui""}}"
 16548,39456,15244,0,1,0,1,"{""git"":{""tag"":""v1.84"",""url"":""https://github.com/ocornut/imgui""}}"
+16549,39457,15246,0,1,0,1,"{""git"":{""tag"":""asio-1-19-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
