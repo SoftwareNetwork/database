@@ -10899,3 +10899,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16547,39455,15245,0,1,0,1,"{""git"":{""tag"":""v1.84"",""url"":""https://github.com/ocornut/imgui""}}"
 16548,39456,15244,0,1,0,1,"{""git"":{""tag"":""v1.84"",""url"":""https://github.com/ocornut/imgui""}}"
 16549,39457,15246,0,1,0,1,"{""git"":{""tag"":""asio-1-19-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+16550,39458,15247,0,1,0,1,"{""git"":{""tag"":""0.8.2"",""url"":""https://github.com/zaphoyd/websocketpp""}}"
