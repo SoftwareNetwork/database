@@ -10906,3 +10906,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16554,39462,15251,0,1,0,1,"{""git"":{""tag"":""v19.2.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 16556,39464,15253,0,1,0,1,"{""git"":{""tag"":""1.6.2"",""url"":""https://github.com/whoshuu/cpr""}}"
 16557,39465,15254,0,1,0,1,"{""git"":{""tag"":""v19.3.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+16558,39466,15255,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yourWaifu/sleepy-discord""}}"
