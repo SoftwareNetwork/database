@@ -10923,3 +10923,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16572,39480,15270,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://github.com/ocornut/imgui""}}"
 16573,39481,15268,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://github.com/ocornut/imgui""}}"
 16574,39482,15269,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://github.com/ocornut/imgui""}}"
+16575,39483,15272,0,1,0,1,"{""git"":{""tag"":""v2021.08.23.00"",""url"":""https://github.com/facebook/folly""}}"
+16576,39484,15273,0,1,0,1,"{""git"":{""tag"":""v3.5.2"",""url"":""https://github.com/libarchive/libarchive""}}"
