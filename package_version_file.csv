@@ -10906,7 +10906,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16554,39462,15251,0,1,0,1,"{""git"":{""tag"":""v19.2.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 16556,39464,15253,0,1,0,1,"{""git"":{""tag"":""1.6.2"",""url"":""https://github.com/whoshuu/cpr""}}"
 16557,39465,15254,0,1,0,1,"{""git"":{""tag"":""v19.3.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
-16558,39466,15255,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yourWaifu/sleepy-discord""}}"
 16559,39468,15257,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://github.com/ocornut/imgui""}}"
 16560,39469,15259,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://github.com/ocornut/imgui""}}"
 16561,39470,15258,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://github.com/ocornut/imgui""}}"
@@ -10925,3 +10924,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16574,39482,15269,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://github.com/ocornut/imgui""}}"
 16575,39483,15272,0,1,0,1,"{""git"":{""tag"":""v2021.08.23.00"",""url"":""https://github.com/facebook/folly""}}"
 16576,39484,15273,0,1,0,1,"{""git"":{""tag"":""v3.5.2"",""url"":""https://github.com/libarchive/libarchive""}}"
+16577,39485,15274,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yourWaifu/sleepy-discord""}}"
