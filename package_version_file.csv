@@ -10942,3 +10942,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16592,39500,15287,0,1,0,1,"{""git"":{""tag"":""v1.84.2"",""url"":""https://github.com/ocornut/imgui""}}"
 16593,39501,15290,0,1,0,1,"{""git"":{""tag"":""v1.84.2"",""url"":""https://github.com/ocornut/imgui""}}"
 16594,39502,15291,0,1,0,1,"{""git"":{""tag"":""v0.9.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+16595,39503,15292,0,1,0,1,"{""git"":{""tag"":""v3.10.1"",""url"":""https://github.com/nlohmann/json""}}"
