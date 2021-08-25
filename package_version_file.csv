@@ -10971,3 +10971,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16635,39543,15330,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 16636,39544,15333,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 16637,39545,15334,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
+16638,39546,15335,0,1,0,1,"{""git"":{""tag"":""v2.0.0"",""url"":""https://github.com/daniele77/cli""}}"
