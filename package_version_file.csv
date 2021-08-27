@@ -10975,3 +10975,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16639,39548,15336,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1l"",""url"":""https://github.com/openssl/openssl""}}"
 16640,39547,15337,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1l"",""url"":""https://github.com/openssl/openssl""}}"
 16641,39549,15338,0,1,0,1,"{""git"":{""tag"":""v3.10.2"",""url"":""https://github.com/nlohmann/json""}}"
+16642,39550,15339,0,1,0,1,"{""git"":{""tag"":""v2.4.5"",""url"":""https://github.com/SanderMertens/flecs""}}"
