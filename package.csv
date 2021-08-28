@@ -1499,8 +1499,6 @@ package_id,path
 6092,org.sw.demo.PointCloudLibrary.pcl.registration
 6093,org.sw.demo.PointCloudLibrary.pcl.sample_consensus
 6094,org.sw.demo.PointCloudLibrary.pcl.search
-6103,pub.telokis.qt_with_fusion.qtproject.qt.base.core
-6104,pub.telokis.qt_with_fusion.qtproject.qt.base.gui
 6105,pub.telokis.qt_with_fusion.qtproject.qt.base.network
 6106,pub.telokis.qt_with_fusion.qtproject.qt.base.platformsupport.accessibility
 6107,pub.telokis.qt_with_fusion.qtproject.qt.base.platformsupport.eventdispatchers
