@@ -10976,3 +10976,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16642,39550,15339,0,1,0,1,"{""git"":{""tag"":""v2.4.5"",""url"":""https://github.com/SanderMertens/flecs""}}"
 16643,39551,15340,0,1,0,1,"{""git"":{""tag"":""v2.4.6"",""url"":""https://github.com/SanderMertens/flecs""}}"
 16644,39552,15341,0,1,0,1,"{""git"":{""tag"":""cpp-4.0.0"",""url"":""https://github.com/msgpack/msgpack-c""}}"
+16645,39553,15342,0,1,0,1,"{""git"":{""tag"":""libssh2-1.10.0"",""url"":""https://github.com/libssh2/libssh2""}}"
