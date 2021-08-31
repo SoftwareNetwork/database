@@ -10981,3 +10981,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16647,39555,15344,0,1,0,1,"{""git"":{""tag"":""v2021.08.30.00"",""url"":""https://github.com/facebook/folly""}}"
 16648,39556,15345,0,1,0,1,"{""git"":{""tag"":""v2.0.3"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 16649,39557,15346,0,1,0,1,"{""git"":{""tag"":""cpp-4.0.2"",""url"":""https://github.com/msgpack/msgpack-c""}}"
+16650,39558,15347,0,1,0,1,"{""git"":{""tag"":""v0.10.8"",""url"":""https://github.com/awslabs/aws-c-io""}}"
