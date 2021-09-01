@@ -10982,3 +10982,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16676,39584,15359,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 16677,39585,15360,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 16678,39586,15355,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
+16679,39587,15362,0,1,0,1,"{""git"":{""tag"":""2021-09-01"",""url"":""https://github.com/google/re2""}}"
