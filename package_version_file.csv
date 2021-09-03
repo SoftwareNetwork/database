@@ -10985,3 +10985,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16679,39587,15362,0,1,0,1,"{""git"":{""tag"":""2021-09-01"",""url"":""https://github.com/google/re2""}}"
 16680,39588,15363,0,1,0,1,"{""git"":{""tag"":""8.1.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
 16681,39589,15364,0,1,0,1,"{""git"":{""tag"":""1.2.1"",""url"":""https://github.com/jinja2cpp/Jinja2Cpp""}}"
+16682,39590,15365,0,1,0,1,"{""git"":{""tag"":""v3.1.3"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
+16683,39591,15366,0,1,0,1,"{""git"":{""tag"":""v0.9.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
