@@ -10987,3 +10987,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16681,39589,15364,0,1,0,1,"{""git"":{""tag"":""1.2.1"",""url"":""https://github.com/jinja2cpp/Jinja2Cpp""}}"
 16682,39590,15365,0,1,0,1,"{""git"":{""tag"":""v3.1.3"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 16683,39591,15366,0,1,0,1,"{""git"":{""tag"":""v0.9.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+16684,39592,15367,0,1,0,1,"{""git"":{""tag"":""v4.8.0"",""url"":""https://github.com/zeromq/cppzmq""}}"
