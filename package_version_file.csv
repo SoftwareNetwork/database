@@ -11001,3 +11001,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16779,39687,15420,0,1,0,1,"{""git"":{""tag"":""2.9.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
 16780,39688,15421,0,1,0,1,"{""git"":{""tag"":""v0.5.12"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 16781,39689,15422,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.94.tar.gz""}}"
+16782,39690,15423,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/lemire/simdjson""}}"
