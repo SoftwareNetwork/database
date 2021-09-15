@@ -11087,3 +11087,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16869,39778,15510,0,1,0,1,"{""git"":{""tag"":""v3.18.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 16870,39776,15509,0,1,0,1,"{""git"":{""tag"":""v3.18.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 16871,39779,15512,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/TartanLlama/expected""}}"
+16872,39780,15513,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tencent/rapidjson""}}"
