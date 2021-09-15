@@ -11082,3 +11082,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16864,39772,15506,0,1,0,1,"{""git"":{""tag"":""v5.15.2"",""url"":""https://github.com/qt/qtbase""}}"
 16865,39773,15505,0,1,0,1,"{""git"":{""tag"":""v5.15.2"",""url"":""https://github.com/qt/qtwinextras""}}"
 16866,39774,15507,0,1,0,1,"{""git"":{""tag"":""curl-7_79_0"",""url"":""https://github.com/curl/curl""}}"
+16867,39777,15508,0,1,0,1,"{""git"":{""tag"":""v3.18.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+16868,39775,15511,0,1,0,1,"{""git"":{""tag"":""v3.18.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+16869,39778,15510,0,1,0,1,"{""git"":{""tag"":""v3.18.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+16870,39776,15509,0,1,0,1,"{""git"":{""tag"":""v3.18.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
