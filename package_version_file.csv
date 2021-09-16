@@ -11100,3 +11100,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16890,39798,15528,0,1,0,1,"{""git"":{""tag"":""v1.42.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
 16891,39799,15529,0,1,0,1,"{""git"":{""tag"":""v1.42.0"",""url"":""https://github.com/libuv/libuv""}}"
 16892,39800,15530,0,1,0,1,"{""git"":{""tag"":""v0.5.12"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+16893,39801,15531,0,1,0,1,"{""git"":{""tag"":""v1.0.19"",""url"":""https://github.com/awslabs/s2n""}}"
