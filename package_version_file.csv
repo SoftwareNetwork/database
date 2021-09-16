@@ -11089,3 +11089,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16874,39782,15513,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tencent/rapidjson""}}"
 16875,39783,11724,0,1,0,1,"{""git"":{""tag"":""v0.2"",""url"":""https://github.com/Samsung/rlottie""}}"
 16876,39784,15514,0,1,0,1,"{""git"":{""tag"":""v0.2.14"",""url"":""https://github.com/awslabs/aws-c-compression""}}"
+16877,39785,15515,0,1,0,1,"{""git"":{""tag"":""v0.6.5"",""url"":""https://github.com/awslabs/aws-c-http""}}"
