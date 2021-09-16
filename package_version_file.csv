@@ -11092,3 +11092,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16877,39785,15515,0,1,0,1,"{""git"":{""tag"":""v0.6.5"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 16878,39786,15516,0,1,0,1,"{""git"":{""tag"":""v0.6.4"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 16879,39787,15517,0,1,0,1,"{""git"":{""tag"":""v0.7.7"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+16880,39788,15518,0,1,0,1,"{""git"":{""tag"":""v0.1.25"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
