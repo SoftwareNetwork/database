@@ -2098,3 +2098,4 @@ package_id,path
 7002,org.sw.demo.yourWaifu.sleepy_discord
 7003,pub.egorpugin.telegram.td.generate.tl_parser
 7004,org.sw.demo.tencent.rapidjson
+7005,org.sw.demo.amazon.awslabs.c_compression
