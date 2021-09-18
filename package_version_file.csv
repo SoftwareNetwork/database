@@ -11103,3 +11103,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16893,39801,15531,0,1,0,1,"{""git"":{""tag"":""v1.0.19"",""url"":""https://github.com/awslabs/s2n""}}"
 16894,39802,15532,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/Samsung/rlottie""}}"
 16895,39803,15533,0,1,0,1,"{""git"":{""tag"":""3.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+16896,39804,15534,0,1,0,1,"{""git"":{""tag"":""v2.4.7"",""url"":""https://github.com/SanderMertens/flecs""}}"
