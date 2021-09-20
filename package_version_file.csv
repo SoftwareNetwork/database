@@ -11105,3 +11105,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16895,39803,15533,0,1,0,1,"{""git"":{""tag"":""3.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 16896,39804,15534,0,1,0,1,"{""git"":{""tag"":""v2.4.7"",""url"":""https://github.com/SanderMertens/flecs""}}"
 16897,39805,15535,0,1,0,1,"{""git"":{""tag"":""v4.8.1"",""url"":""https://github.com/zeromq/cppzmq""}}"
+16898,39806,15536,0,1,0,1,"{""git"":{""tag"":""v1.45.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+16899,39807,15537,0,1,0,1,"{""git"":{""tag"":""v2021.09.20.00"",""url"":""https://github.com/facebook/folly""}}"
