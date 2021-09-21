@@ -11110,3 +11110,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16900,39808,15538,0,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 16901,39809,15539,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/CLIUtils/CLI11""}}"
 16902,39810,15540,0,1,0,1,"{""git"":{""tag"":""v1.45.1"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+16903,39811,15541,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/awslabs/s2n""}}"
