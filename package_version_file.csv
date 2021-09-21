@@ -11109,3 +11109,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16899,39807,15537,0,1,0,1,"{""git"":{""tag"":""v2021.09.20.00"",""url"":""https://github.com/facebook/folly""}}"
 16900,39808,15538,0,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 16901,39809,15539,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/CLIUtils/CLI11""}}"
+16902,39810,15540,0,1,0,1,"{""git"":{""tag"":""v1.45.1"",""url"":""https://github.com/nghttp2/nghttp2""}}"
