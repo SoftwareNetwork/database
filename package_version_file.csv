@@ -8186,7 +8186,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 10670,33578,10058,1,1,0,1,"{""git"":{""tag"":""v2.1.5"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 10671,33579,10059,1,1,0,1,"{""git"":{""tag"":""v2.1.5"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 10673,33580,10061,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
-10674,33582,10062,1,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/xiph/opus""}}"
 10675,33583,10063,1,1,0,1,"{""git"":{""tag"":""v1.0.30"",""url"":""https://github.com/erikd/libsndfile""}}"
 10681,33589,10069,1,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/uclouvain/openjpeg""}}"
 10682,33590,10071,1,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.14.tar.gz""}}"
@@ -11112,3 +11111,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16902,39810,15540,0,1,0,1,"{""git"":{""tag"":""v1.45.1"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 16903,39811,15541,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/awslabs/s2n""}}"
 16904,39812,15542,0,1,0,1,"{""git"":{""tag"":""curl-7_79_1"",""url"":""https://github.com/curl/curl""}}"
+16905,39813,15543,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/xiph/opus""}}"
