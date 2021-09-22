@@ -11113,3 +11113,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16905,39813,15543,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/xiph/opus""}}"
 16907,39815,15545,0,1,0,1,"{""git"":{""tag"":""yaml-cpp-0.7.0"",""url"":""https://github.com/jbeder/yaml-cpp""}}"
 16908,39816,15546,0,1,0,1,"{""git"":{""tag"":""v0.7.8"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+16909,39817,15547,0,1,0,1,"{""git"":{""tag"":""v0.15.2"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
