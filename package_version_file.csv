@@ -11114,3 +11114,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16907,39815,15545,0,1,0,1,"{""git"":{""tag"":""yaml-cpp-0.7.0"",""url"":""https://github.com/jbeder/yaml-cpp""}}"
 16908,39816,15546,0,1,0,1,"{""git"":{""tag"":""v0.7.8"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 16909,39817,15547,0,1,0,1,"{""git"":{""tag"":""v0.15.2"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+16910,39818,15548,0,1,0,1,"{""git"":{""tag"":""1.82.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
+16911,39819,15549,0,1,0,1,"{""git"":{""tag"":""v0.6.7"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+16912,39820,15550,0,1,0,1,"{""git"":{""tag"":""v0.1.26"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
