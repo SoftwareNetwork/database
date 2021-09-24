@@ -11129,3 +11129,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16922,39830,15557,0,1,0,1,"{""git"":{""tag"":""v1.0.11"",""url"":""https://github.com/fribidi/fribidi""}}"
 16923,39831,15561,0,1,0,1,"{""git"":{""tag"":""v0.15.5"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 16924,39832,15562,0,1,0,1,"{""git"":{""tag"":""v0.15.6"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+16925,39833,15563,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
