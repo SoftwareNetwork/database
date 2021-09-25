@@ -11131,3 +11131,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16924,39832,15562,0,1,0,1,"{""git"":{""tag"":""v0.15.6"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 16925,39833,15563,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 16926,39834,15564,0,1,0,1,"{""git"":{""tag"":""v0.16.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+16927,39835,15565,0,1,0,1,"{""git"":{""tag"":""v0.17.0"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
