@@ -11134,3 +11134,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16927,39835,15565,0,1,0,1,"{""git"":{""tag"":""v0.17.0"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 16928,39836,15566,0,1,0,1,"{""git"":{""tag"":""v0.2.1"",""url"":""https://github.com/biojppm/rapidyaml""}}"
 16930,39838,15567,0,1,0,1,"{""git"":{""tag"":""v0.2.2"",""url"":""https://github.com/biojppm/rapidyaml""}}"
+16931,39839,15568,0,1,0,1,"{""git"":{""tag"":""v2021.09.27.00"",""url"":""https://github.com/facebook/folly""}}"
