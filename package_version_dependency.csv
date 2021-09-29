@@ -53324,10 +53324,6 @@ package_version_id,package_id,version_range
 32844,4177,*
 32844,4178,*
 32844,4183,*
-32877,6683,master
-32879,5798,master
-32880,6659,master
-32880,6684,master
 32892,1730,3.5.1
 32895,5,3.34.0
 32900,3,*
@@ -72263,3 +72259,6 @@ package_version_id,package_id,version_range
 39848,5811,=1.41.0
 39848,5829,=1.41.0
 39849,6081,*
+39852,6659,master
+39853,6683,master
+39854,5798,master
