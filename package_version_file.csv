@@ -11146,3 +11146,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16940,39848,15577,0,1,0,1,"{""git"":{""tag"":""v1.41.0"",""url"":""https://github.com/grpc/grpc""}}"
 16941,39849,15578,0,1,0,1,"{""git"":{""tag"":""hidapi-0.11.0"",""url"":""https://github.com/libusb/hidapi""}}"
 16942,39850,15579,0,1,0,1,"{""git"":{""tag"":""v2.1.1"",""url"":""https://github.com/CLIUtils/CLI11""}}"
+16943,39851,15580,0,1,0,1,"{""git"":{""tag"":""v0.9.5"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
