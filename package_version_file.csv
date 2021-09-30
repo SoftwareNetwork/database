@@ -11149,3 +11149,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16971,39879,15598,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/upb""}}"
 16972,39880,15600,0,1,0,1,"{""git"":{""tag"":""v0.6.10"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 16973,39881,15601,0,1,0,1,"{""git"":{""tag"":""v0.6.11"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+16974,39882,15602,0,1,0,1,"{""git"":{""tag"":""v0.1.11"",""url"":""https://github.com/awslabs/aws-checksums""}}"
+16975,39883,15603,0,1,0,1,"{""git"":{""tag"":""v0.1.12"",""url"":""https://github.com/awslabs/aws-checksums""}}"
+16976,39884,15604,0,1,0,1,"{""git"":{""tag"":""v0.17.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
