@@ -11147,3 +11147,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16969,39877,15596,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/upb""}}"
 16970,39878,15599,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/upb""}}"
 16971,39879,15598,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/upb""}}"
+16972,39880,15600,0,1,0,1,"{""git"":{""tag"":""v0.6.10"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+16973,39881,15601,0,1,0,1,"{""git"":{""tag"":""v0.6.11"",""url"":""https://github.com/awslabs/aws-c-common""}}"
