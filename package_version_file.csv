@@ -11368,3 +11368,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17190,40100,15789,0,1,0,1,"{""git"":{""tag"":""v2021.4.0"",""url"":""https://github.com/intel/tbb""}}"
 17191,40099,15788,0,1,0,1,"{""git"":{""tag"":""v2021.4.0"",""url"":""https://github.com/intel/tbb""}}"
 17192,40098,15790,0,1,0,1,"{""git"":{""tag"":""v2021.4.0"",""url"":""https://github.com/intel/tbb""}}"
+17193,40101,15791,0,1,0,1,"{""git"":{""tag"":""v2.8.0"",""url"":""https://github.com/pybind/pybind11""}}"
