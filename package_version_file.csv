@@ -11369,3 +11369,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17191,40099,15788,0,1,0,1,"{""git"":{""tag"":""v2021.4.0"",""url"":""https://github.com/intel/tbb""}}"
 17192,40098,15790,0,1,0,1,"{""git"":{""tag"":""v2021.4.0"",""url"":""https://github.com/intel/tbb""}}"
 17193,40101,15791,0,1,0,1,"{""git"":{""tag"":""v2.8.0"",""url"":""https://github.com/pybind/pybind11""}}"
+17194,40102,15793,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+17195,40104,15792,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+17196,40105,15794,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+17197,40103,15795,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
