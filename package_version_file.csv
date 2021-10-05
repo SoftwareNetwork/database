@@ -11374,3 +11374,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17196,40105,15794,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 17197,40103,15795,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 17198,40106,15796,0,1,0,1,"{""git"":{""tag"":""v1.1.1"",""url"":""https://github.com/awslabs/s2n""}}"
+17199,40107,15797,0,1,0,1,"{""git"":{""tag"":""v3.18.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17200,40108,15800,0,1,0,1,"{""git"":{""tag"":""v3.18.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17201,40110,15799,0,1,0,1,"{""git"":{""tag"":""v3.18.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17202,40109,15798,0,1,0,1,"{""git"":{""tag"":""v3.18.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
