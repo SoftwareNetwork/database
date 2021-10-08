@@ -11378,3 +11378,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17200,40108,15800,0,1,0,1,"{""git"":{""tag"":""v3.18.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 17201,40110,15799,0,1,0,1,"{""git"":{""tag"":""v3.18.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 17202,40109,15798,0,1,0,1,"{""git"":{""tag"":""v3.18.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17203,40111,15801,0,1,0,1,"{""git"":{""tag"":""v3.10.3"",""url"":""https://github.com/nlohmann/json""}}"
