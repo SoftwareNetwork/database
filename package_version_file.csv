@@ -11443,3 +11443,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17265,40173,15859,0,1,0,1,"{""git"":{""tag"":""4.5.4"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 17266,40174,15860,0,1,0,1,"{""git"":{""tag"":""4.5.4"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 17267,40175,15861,0,1,0,1,"{""git"":{""tag"":""4.5.4"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+17268,40176,15862,0,1,0,1,"{""git"":{""tag"":""v1.4.3.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
