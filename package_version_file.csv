@@ -11461,3 +11461,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17283,40191,15877,0,1,0,1,"{""git"":{""tag"":""v1.85"",""url"":""https://github.com/ocornut/imgui""}}"
 17284,40192,15879,0,1,0,1,"{""git"":{""tag"":""v1.85"",""url"":""https://github.com/ocornut/imgui""}}"
 17285,40193,15878,0,1,0,1,"{""git"":{""tag"":""v1.85"",""url"":""https://github.com/ocornut/imgui""}}"
+17286,40194,15880,0,1,0,1,"{""git"":{""tag"":""v1.4.3.2"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+17287,40195,15881,0,1,0,1,"{""git"":{""tag"":""v0.6.12"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+17288,40196,15882,0,1,0,1,"{""git"":{""tag"":""v0.6.5"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+17289,40197,15883,0,1,0,1,"{""git"":{""tag"":""v0.10.9"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+17290,40198,15884,0,1,0,1,"{""git"":{""tag"":""v0.10.10"",""url"":""https://github.com/awslabs/aws-c-io""}}"
