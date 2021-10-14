@@ -11466,3 +11466,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17288,40196,15882,0,1,0,1,"{""git"":{""tag"":""v0.6.5"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 17289,40197,15883,0,1,0,1,"{""git"":{""tag"":""v0.10.9"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 17290,40198,15884,0,1,0,1,"{""git"":{""tag"":""v0.10.10"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+17291,40199,15885,0,1,0,1,"{""git"":{""tag"":""v0.10.11"",""url"":""https://github.com/awslabs/aws-c-io""}}"
