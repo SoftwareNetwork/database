@@ -11468,3 +11468,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17290,40198,15884,0,1,0,1,"{""git"":{""tag"":""v0.10.10"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 17291,40199,15885,0,1,0,1,"{""git"":{""tag"":""v0.10.11"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 17292,40200,15886,0,1,0,1,"{""git"":{""tag"":""v0.9.7"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+17293,40201,15887,0,1,0,1,"{""git"":{""tag"":""v0.6.13"",""url"":""https://github.com/awslabs/aws-c-common""}}"
