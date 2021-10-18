@@ -11482,3 +11482,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17308,40216,15901,0,1,0,1,"{""git"":{""tag"":""1.9.123"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 17309,40217,15902,0,1,0,1,"{""git"":{""tag"":""v3.10.4"",""url"":""https://github.com/nlohmann/json""}}"
 17310,40218,15903,0,1,0,1,"{""git"":{""tag"":""v2021.10.18.00"",""url"":""https://github.com/facebook/folly""}}"
+17311,40219,15904,0,1,0,1,"{""git"":{""tag"":""v0.6.15"",""url"":""https://github.com/awslabs/aws-c-common""}}"
