@@ -11525,3 +11525,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17352,40260,15944,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.69/glib-2.69.3.tar.xz""}}"
 17353,40261,15946,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.69/glib-2.69.3.tar.xz""}}"
 17354,40262,15947,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.69/glib-2.69.3.tar.xz""}}"
+17355,40263,15948,0,1,0,1,"{""git"":{""tag"":""v1.1.2"",""url"":""https://github.com/awslabs/s2n""}}"
