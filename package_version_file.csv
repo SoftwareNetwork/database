@@ -11527,3 +11527,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17354,40262,15947,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.69/glib-2.69.3.tar.xz""}}"
 17355,40263,15948,0,1,0,1,"{""git"":{""tag"":""v1.1.2"",""url"":""https://github.com/awslabs/s2n""}}"
 17356,40264,15949,0,1,0,1,"{""git"":{""tag"":""v1.0.1"",""url"":""https://github.com/lemire/simdjson""}}"
+17357,40268,15950,0,1,0,1,"{""git"":{""tag"":""v3.19.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17358,40267,15952,0,1,0,1,"{""git"":{""tag"":""v3.19.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17359,40265,15951,0,1,0,1,"{""git"":{""tag"":""v3.19.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17360,40266,15953,0,1,0,1,"{""git"":{""tag"":""v3.19.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
