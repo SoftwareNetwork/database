@@ -11531,3 +11531,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17362,40272,15954,0,1,0,1,"{""git"":{""tag"":""v3.19.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 17363,40271,15955,0,1,0,1,"{""git"":{""tag"":""v3.19.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 17364,40270,15956,0,1,0,1,"{""git"":{""tag"":""v3.19.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17365,40273,15958,0,1,0,1,"{""git"":{""tag"":""1.1.0"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
