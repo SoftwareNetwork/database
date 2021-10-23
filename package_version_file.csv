@@ -11093,7 +11093,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16901,39809,15539,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/CLIUtils/CLI11""}}"
 16902,39810,15540,0,1,0,1,"{""git"":{""tag"":""v1.45.1"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 16903,39811,15541,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/awslabs/s2n""}}"
-16904,39812,15542,0,1,0,1,"{""git"":{""tag"":""curl-7_79_1"",""url"":""https://github.com/curl/curl""}}"
 16905,39813,15543,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/xiph/opus""}}"
 16907,39815,15545,0,1,0,1,"{""git"":{""tag"":""yaml-cpp-0.7.0"",""url"":""https://github.com/jbeder/yaml-cpp""}}"
 16908,39816,15546,0,1,0,1,"{""git"":{""tag"":""v0.7.8"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
@@ -11534,3 +11533,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17365,40273,15958,0,1,0,1,"{""git"":{""tag"":""1.1.0"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
 17366,40274,15959,0,1,0,1,"{""git"":{""tag"":""cpp-4.0.3"",""url"":""https://github.com/msgpack/msgpack-c""}}"
 17367,40275,15960,0,1,0,1,"{""git"":{""tag"":""v1.4.0"",""url"":""https://github.com/cinemast/libjson-rpc-cpp""}}"
+17368,40276,15961,0,1,0,1,"{""git"":{""tag"":""curl-7_79_1"",""url"":""https://github.com/curl/curl""}}"
