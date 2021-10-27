@@ -11547,3 +11547,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17381,40289,15974,0,1,0,1,"{""git"":{""tag"":""cares-1_18_1"",""url"":""https://github.com/c-ares/c-ares""}}"
 17382,40290,15976,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
 17383,40291,15975,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
+17384,40292,15977,0,1,0,1,"{""git"":{""tag"":""v4.1.2"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
