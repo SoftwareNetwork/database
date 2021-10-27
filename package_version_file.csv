@@ -11546,3 +11546,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17378,40286,15971,0,1,0,1,"{""git"":{""tag"":""v1.41.1"",""url"":""https://github.com/grpc/grpc""}}"
 17379,40287,15972,0,1,0,1,"{""git"":{""tag"":""cares-1_18_0"",""url"":""https://github.com/c-ares/c-ares""}}"
 17380,40288,15973,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
+17381,40289,15974,0,1,0,1,"{""git"":{""tag"":""cares-1_18_1"",""url"":""https://github.com/c-ares/c-ares""}}"
