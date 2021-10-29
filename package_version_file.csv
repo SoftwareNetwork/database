@@ -11570,3 +11570,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17407,40315,15998,0,1,0,1,"{""git"":{""tag"":""v3.3.3"",""url"":""https://github.com/OSGeo/gdal""}}"
 17408,40316,15999,0,1,0,1,"{""git"":{""tag"":""libX11-1.6.12"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 17409,40317,16000,0,1,0,1,"{""git"":{""tag"":""libX11-1.6.12"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
+17410,40318,16001,0,1,0,1,"{""git"":{""tag"":""v0.10.13"",""url"":""https://github.com/awslabs/aws-c-io""}}"
