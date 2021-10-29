@@ -11565,3 +11565,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17400,40308,15992,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-70-1/icu4c-70_1-src.tgz""}}"
 17401,40309,15989,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-70-1/icu4c-70_1-src.tgz""}}"
 17402,40310,15993,0,1,0,1,"{""git"":{""tag"":""3.3.5"",""url"":""https://github.com/glfw/glfw""}}"
+17403,40311,15994,0,1,0,1,"{""git"":{""tag"":""v3.19.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17404,40313,15996,0,1,0,1,"{""git"":{""tag"":""v3.19.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17405,40314,15997,0,1,0,1,"{""git"":{""tag"":""v3.19.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+17406,40312,15995,0,1,0,1,"{""git"":{""tag"":""v3.19.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
