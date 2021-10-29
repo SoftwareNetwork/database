@@ -11571,3 +11571,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17408,40316,15999,0,1,0,1,"{""git"":{""tag"":""libX11-1.6.12"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 17409,40317,16000,0,1,0,1,"{""git"":{""tag"":""libX11-1.6.12"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 17410,40318,16001,0,1,0,1,"{""git"":{""tag"":""v0.10.13"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+17411,40319,16002,0,1,0,1,"{""git"":{""tag"":""v0.6.9"",""url"":""https://github.com/awslabs/aws-c-http""}}"
