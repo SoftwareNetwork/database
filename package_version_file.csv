@@ -11577,3 +11577,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17414,40322,16005,0,1,0,1,"{""git"":{""tag"":""2021-11-01"",""url"":""https://github.com/google/re2""}}"
 17415,40323,16006,0,1,0,1,"{""git"":{""tag"":""v2021.11.01.00"",""url"":""https://github.com/facebook/folly""}}"
 17416,40324,16007,0,1,0,1,"{""git"":{""tag"":""v0.17.3"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+17417,40325,16008,0,1,0,1,"{""git"":{""tag"":""8.2.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
