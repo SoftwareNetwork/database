@@ -11581,3 +11581,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17419,40327,16009,0,1,0,1,"{""git"":{""tag"":""v0.6.16"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 17420,40328,16010,0,1,0,1,"{""git"":{""tag"":""v0.17.4"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17421,40329,16011,0,1,0,1,"{""git"":{""tag"":""1.9.5"",""url"":""https://github.com/open-source-parsers/jsoncpp""}}"
+17422,40330,16012,0,1,0,1,"{""git"":{""tag"":""v1.2.0"",""url"":""https://github.com/awslabs/s2n""}}"
