@@ -11585,3 +11585,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17423,40331,16013,0,1,0,1,"{""git"":{""tag"":""3.1.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 17424,40332,16014,0,1,0,1,"{""git"":{""tag"":""v0.6.17"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 17425,40333,16015,0,1,0,1,"{""git"":{""tag"":""v0.6.10"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+17426,40334,16016,0,1,0,1,"{""git"":{""tag"":""v0.2.3"",""url"":""https://github.com/biojppm/rapidyaml""}}"
