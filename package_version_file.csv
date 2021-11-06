@@ -11611,3 +11611,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17449,40358,16039,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/pcre/files/pcre/8.45/pcre-8.45.tar.gz/download""}}"
 17450,40356,16040,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/pcre/files/pcre/8.45/pcre-8.45.tar.gz/download""}}"
 17451,40357,16038,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/pcre/files/pcre/8.45/pcre-8.45.tar.gz/download""}}"
+17452,40362,16043,0,1,0,1,"{""git"":{""tag"":""pcre2-10.38"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+17453,40360,16042,0,1,0,1,"{""git"":{""tag"":""pcre2-10.38"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+17454,40361,16043,0,1,0,1,"{""git"":{""tag"":""pcre2-10.38"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+17455,40363,16043,0,1,0,1,"{""git"":{""tag"":""pcre2-10.38"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
