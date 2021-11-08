@@ -11619,3 +11619,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17457,40365,16045,0,1,0,1,"{""git"":{""tag"":""pcre2-10.39"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 17458,40364,16044,0,1,0,1,"{""git"":{""tag"":""pcre2-10.39"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 17459,40366,16045,0,1,0,1,"{""git"":{""tag"":""pcre2-10.39"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+17460,40368,16046,0,1,0,1,"{""git"":{""tag"":""3.1.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
