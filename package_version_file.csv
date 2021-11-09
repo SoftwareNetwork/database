@@ -11621,3 +11621,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17459,40366,16045,0,1,0,1,"{""git"":{""tag"":""pcre2-10.39"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 17460,40368,16046,0,1,0,1,"{""git"":{""tag"":""3.1.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
 17461,40369,16047,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+17462,40371,16048,0,1,0,1,"{""git"":{""commit"":""ab34cbe5d4e3cf6d98c841ef3c38ef1f8a338119"",""url"":""https://github.com/emweb/wt""}}"
+17463,40370,16049,0,1,0,1,"{""git"":{""commit"":""ab34cbe5d4e3cf6d98c841ef3c38ef1f8a338119"",""url"":""https://github.com/emweb/wt""}}"
+17464,40373,16050,0,1,0,1,"{""git"":{""commit"":""ab34cbe5d4e3cf6d98c841ef3c38ef1f8a338119"",""url"":""https://github.com/emweb/wt""}}"
+17465,40372,16051,0,1,0,1,"{""git"":{""commit"":""ab34cbe5d4e3cf6d98c841ef3c38ef1f8a338119"",""url"":""https://github.com/emweb/wt""}}"
