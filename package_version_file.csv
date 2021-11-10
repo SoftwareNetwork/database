@@ -11642,3 +11642,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17512,40419,16085,0,1,0,1,"{""git"":{""commit"":""ab34cbe5d4e3cf6d98c841ef3c38ef1f8a338119"",""url"":""https://github.com/emweb/wt""}}"
 17513,40422,16084,0,1,0,1,"{""git"":{""commit"":""ab34cbe5d4e3cf6d98c841ef3c38ef1f8a338119"",""url"":""https://github.com/emweb/wt""}}"
 17514,40420,16086,0,1,0,1,"{""git"":{""commit"":""ab34cbe5d4e3cf6d98c841ef3c38ef1f8a338119"",""url"":""https://github.com/emweb/wt""}}"
+17515,40423,16087,0,1,0,1,"{""git"":{""tag"":""curl-7_80_0"",""url"":""https://github.com/curl/curl""}}"
