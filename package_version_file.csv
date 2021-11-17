@@ -11549,7 +11549,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17458,40364,16044,0,1,0,1,"{""git"":{""tag"":""pcre2-10.39"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 17459,40366,16045,0,1,0,1,"{""git"":{""tag"":""pcre2-10.39"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 17460,40368,16046,0,1,0,1,"{""git"":{""tag"":""3.1.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
-17461,40369,16047,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 17466,40376,16053,0,1,0,1,"{""git"":{""commit"":""4f1e5db8cd358f8c149f2a6183eb9f4cf0a86468"",""url"":""https://github.com/tdlib/td""}}"
 17467,40375,16055,0,1,0,1,"{""git"":{""commit"":""4f1e5db8cd358f8c149f2a6183eb9f4cf0a86468"",""url"":""https://github.com/tdlib/td""}}"
 17468,40377,16054,0,1,0,1,"{""git"":{""commit"":""4f1e5db8cd358f8c149f2a6183eb9f4cf0a86468"",""url"":""https://github.com/tdlib/td""}}"
@@ -11678,3 +11677,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17591,40499,16163,0,1,0,1,"{""git"":{""tag"":""v0.17.8"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17593,40501,16165,0,1,0,1,"{""git"":{""tag"":""0.15.0"",""url"":""https://github.com/google/highway""}}"
 17594,40502,16166,0,1,0,1,"{""git"":{""tag"":""v0.6.1"",""url"":""https://github.com/libjxl/libjxl""}}"
+17595,40503,16167,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/OSGeo/gdal""}}"
