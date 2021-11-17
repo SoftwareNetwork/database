@@ -11676,3 +11676,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17589,40497,16161,0,1,0,1,"{""git"":{""tag"":""v0.17.6"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17590,40498,16162,0,1,0,1,"{""git"":{""tag"":""v0.17.7"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17591,40499,16163,0,1,0,1,"{""git"":{""tag"":""v0.17.8"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+17592,40500,16164,0,1,0,1,"{""git"":{""tag"":""0.15.0"",""url"":""https://github.com/google/highway""}}"
