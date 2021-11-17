@@ -11665,3 +11665,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17578,40486,16149,0,1,0,1,"{""git"":{""tag"":""4.1.2"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 17579,40487,16151,0,1,0,1,"{""git"":{""tag"":""4.1.2"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 17580,40488,16152,0,1,0,1,"{""remote"":{""url"":""https://download.osgeo.org/libtiff/tiff-4.3.0.tar.gz""}}"
+17581,40489,16153,0,1,0,1,"{""git"":{""tag"":""v0.17.5"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+17582,40490,16154,0,1,0,1,"{""git"":{""tag"":""v2021.11.15.00"",""url"":""https://github.com/facebook/folly""}}"
