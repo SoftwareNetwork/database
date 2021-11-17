@@ -11674,3 +11674,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17587,40495,16159,0,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 17588,40496,16160,0,1,0,1,"{""git"":{""tag"":""v0.7.9"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 17589,40497,16161,0,1,0,1,"{""git"":{""tag"":""v0.17.6"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+17590,40498,16162,0,1,0,1,"{""git"":{""tag"":""v0.17.7"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+17591,40499,16163,0,1,0,1,"{""git"":{""tag"":""v0.17.8"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
