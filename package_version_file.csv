@@ -11695,3 +11695,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17610,40518,16181,0,1,0,1,"{""git"":{""tag"":""v0.14.2"",""url"":""https://github.com/apache/thrift""}}"
 17611,40519,16184,0,1,0,1,"{""git"":{""tag"":""v0.15.0"",""url"":""https://github.com/apache/thrift""}}"
 17612,40520,16183,0,1,0,1,"{""git"":{""tag"":""v0.15.0"",""url"":""https://github.com/apache/thrift""}}"
+17613,40521,16185,0,1,0,1,"{""git"":{""tag"":""v2.4.8"",""url"":""https://github.com/SanderMertens/flecs""}}"
