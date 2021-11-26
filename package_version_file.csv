@@ -11701,3 +11701,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17658,40566,16230,0,1,0,1,"{""git"":{""tag"":""3.1.2"",""url"":""https://github.com/behdad/harfbuzz""}}"
 17659,40567,16231,0,1,0,1,"{""git"":{""tag"":""6.3.0"",""url"":""https://github.com/Taywee/args""}}"
 17660,40568,16232,0,1,0,1,"{""git"":{""tag"":""v0.9.8"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+17661,40570,16234,0,1,0,1,"{""git"":{""tag"":""v2.2.4"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+17662,40569,16233,0,1,0,1,"{""git"":{""tag"":""v2.2.4"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+17663,40571,16235,0,1,0,1,"{""git"":{""tag"":""v0.17.9"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+17664,40572,16236,0,1,0,1,"{""git"":{""tag"":""v0.6.8"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
