@@ -11697,3 +11697,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17654,40562,16228,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 17655,40563,16227,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 17656,40564,16226,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+17657,40565,16229,0,1,0,1,"{""git"":{""tag"":""v1.4.1"",""url"":""https://github.com/cinemast/libjson-rpc-cpp""}}"
+17658,40566,16230,0,1,0,1,"{""git"":{""tag"":""3.1.2"",""url"":""https://github.com/behdad/harfbuzz""}}"
+17659,40567,16231,0,1,0,1,"{""git"":{""tag"":""6.3.0"",""url"":""https://github.com/Taywee/args""}}"
+17660,40568,16232,0,1,0,1,"{""git"":{""tag"":""v0.9.8"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
