@@ -11705,3 +11705,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17662,40569,16233,0,1,0,1,"{""git"":{""tag"":""v2.2.4"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 17663,40571,16235,0,1,0,1,"{""git"":{""tag"":""v0.17.9"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17664,40572,16236,0,1,0,1,"{""git"":{""tag"":""v0.6.8"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+17665,40573,16237,0,1,0,1,"{""git"":{""tag"":""v0.9.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
