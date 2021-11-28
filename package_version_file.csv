@@ -11706,3 +11706,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17663,40571,16235,0,1,0,1,"{""git"":{""tag"":""v0.17.9"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17664,40572,16236,0,1,0,1,"{""git"":{""tag"":""v0.6.8"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 17665,40573,16237,0,1,0,1,"{""git"":{""tag"":""v0.9.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+17666,40574,16238,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3370000.zip""}}"
+17667,40575,16239,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3370000.zip""}}"

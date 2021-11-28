@@ -73706,3 +73706,4 @@ package_version_id,package_id,version_range
 40571,7008,*
 40572,7006,*
 40572,7011,*
+40574,5,=3.37.0
