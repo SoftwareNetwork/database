@@ -11709,3 +11709,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17752,40660,16282,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 17753,40661,16279,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 17754,40662,16283,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+17755,40663,16285,0,1,0,1,"{""git"":{""tag"":""v0.8.1"",""url"":""https://github.com/Cyan4973/xxHash""}}"
