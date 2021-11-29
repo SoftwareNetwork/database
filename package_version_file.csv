@@ -11791,5 +11791,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17963,40871,16490,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 17964,40872,16493,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 17965,40873,16494,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
-17966,40875,16496,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
-17967,40874,16495,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
+17968,40876,16498,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
+17969,40877,16497,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
