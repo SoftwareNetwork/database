@@ -11708,3 +11708,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17665,40573,16237,0,1,0,1,"{""git"":{""tag"":""v0.9.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 17666,40574,16238,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3370000.zip""}}"
 17667,40575,16239,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2021/sqlite-amalgamation-3370000.zip""}}"
+17668,40576,16240,0,1,0,1,"{""git"":{""tag"":""v2021.11.29.00"",""url"":""https://github.com/facebook/folly""}}"
