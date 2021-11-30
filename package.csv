@@ -2138,7 +2138,6 @@ package_id,path
 7042,org.sw.demo.primitives.tools.syncqt
 7043,org.sw.demo.primitives.sw.main
 7044,org.sw.demo.primitives.data
-7045,org.sw.demo.primitives.command
 7046,org.sw.demo.primitives.cron
 7047,org.sw.demo.primitives.tools.create_git_rev
 7048,org.sw.demo.primitives.csv
