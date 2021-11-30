@@ -11707,7 +11707,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17835,40743,16358,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 17836,40744,16362,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 17837,40745,16366,0,1,0,1,"{""git"":{""tag"":""v0.1.27"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
-17960,40868,16491,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 17968,40876,16498,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
 17969,40877,16497,0,1,0,1,"{""git"":{""tag"":""v3.10.0"",""url"":""https://github.com/python/cpython""}}"
 17970,40878,16499,0,1,0,1,"{""git"":{""tag"":""v0.17.10"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
