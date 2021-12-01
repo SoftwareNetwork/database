@@ -11752,3 +11752,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18050,40958,16362,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 18051,40959,16363,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 18052,40960,16364,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
+18053,40961,16544,0,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.18.tar.gz""}}"
+18054,40962,16543,0,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.18.tar.gz""}}"
