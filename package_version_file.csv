@@ -11782,3 +11782,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18122,41030,16572,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/awslabs/s2n""}}"
 18123,41031,16573,0,1,0,1,"{""git"":{""tag"":""v0.10.14"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 18124,41032,16574,0,1,0,1,"{""git"":{""tag"":""v2.0.5"",""url"":""https://github.com/arvidn/libtorrent""}}"
+18125,41033,16575,0,1,0,1,"{""git"":{""tag"":""v2021.12.06.00"",""url"":""https://github.com/facebook/folly""}}"
