@@ -11831,3 +11831,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18173,41081,16491,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 18174,41082,16586,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 18175,41083,16494,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+18176,41084,16587,0,1,0,1,"{""git"":{""tag"":""v0.1.30"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
