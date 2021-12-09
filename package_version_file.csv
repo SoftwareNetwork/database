@@ -11967,4 +11967,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18309,41217,16717,0,1,0,1,"{""git"":{""commit"":""b5e614126bf0756d47fdf221f6c76452df2a2534"",""url"":""https://github.com/boostorg/winapi""}}"
 18310,41218,16723,0,1,0,1,"{""git"":{""commit"":""7110e5b73945b336daa5853f878be16e14b863a2"",""url"":""https://github.com/boostorg/atomic""}}"
 18311,41219,16720,0,1,0,1,"{""git"":{""commit"":""895335874d67987ada0d8bf6ca1725e70642ed49"",""url"":""https://github.com/boostorg/function_types""}}"
+18312,41220,16721,0,1,0,1,"{""git"":{""commit"":""34cad2c1a574d445812c7c2432d3a5a5c843b412"",""url"":""https://github.com/boostorg/vmd""}}"
 18313,41221,16727,0,1,0,1,"{""git"":{""commit"":""eca93d24b5d3bb909ed64c12b5feb5296c5cc070"",""url"":""https://github.com/boostorg/contract""}}"
+18314,41222,16724,0,1,0,1,"{""git"":{""commit"":""f6a03fd3f219167a0b082fab99e7464c956b5000"",""url"":""https://github.com/boostorg/container""}}"
+18315,41223,16726,0,1,0,1,"{""git"":{""commit"":""83f998828c377ebd27d32455154f1f9cebf09b93"",""url"":""https://github.com/boostorg/context""}}"
+18316,41224,16725,0,1,0,1,"{""git"":{""commit"":""6d98696d74e1cfbdbe502695cc6b3539b4d4acc9"",""url"":""https://github.com/boostorg/function""}}"
