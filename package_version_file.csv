@@ -11946,3 +11946,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18971,41879,17335,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 18972,41880,17336,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 18973,41881,17337,0,1,0,1,"{""git"":{""tag"":""3.11.4"",""url"":""https://github.com/martinus/robin-hood-hashing""}}"
+18974,41882,17338,0,1,0,1,"{""git"":{""tag"":""v0.10.15"",""url"":""https://github.com/awslabs/aws-c-io""}}"

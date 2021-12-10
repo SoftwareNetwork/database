@@ -77435,3 +77435,5 @@ package_version_id,package_id,version_range
 41880,2193,master
 41880,2200,master
 41880,6978,master
+41882,6703,*
+41882,6917,*
