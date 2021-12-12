@@ -11950,3 +11950,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18975,41883,17339,0,1,0,1,"{""git"":{""tag"":""v0.17.12"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 18976,41884,17340,0,1,0,1,"{""git"":{""tag"":""v0.9.10"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 18977,41885,17341,0,1,0,1,"{""git"":{""tag"":""3.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+18978,41887,17344,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/emweb/wt""}}"
+18979,41888,17343,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/emweb/wt""}}"
+18980,41886,17345,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/emweb/wt""}}"
+18981,41889,17342,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/emweb/wt""}}"
