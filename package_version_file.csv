@@ -11948,3 +11948,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18973,41881,17337,0,1,0,1,"{""git"":{""tag"":""3.11.4"",""url"":""https://github.com/martinus/robin-hood-hashing""}}"
 18974,41882,17338,0,1,0,1,"{""git"":{""tag"":""v0.10.15"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 18975,41883,17339,0,1,0,1,"{""git"":{""tag"":""v0.17.12"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+18976,41884,17340,0,1,0,1,"{""git"":{""tag"":""v0.9.10"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+18977,41885,17341,0,1,0,1,"{""git"":{""tag"":""3.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
