@@ -11954,3 +11954,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 18979,41888,17343,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/emweb/wt""}}"
 18980,41886,17345,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/emweb/wt""}}"
 18981,41889,17342,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/emweb/wt""}}"
+18982,41890,17346,0,1,0,1,"{""git"":{""tag"":""v2021.12.13.00"",""url"":""https://github.com/facebook/folly""}}"
