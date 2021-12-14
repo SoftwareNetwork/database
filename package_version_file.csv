@@ -11966,3 +11966,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19029,41937,17372,0,1,0,1,"{""git"":{""branch"":""b0.4.3"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 19030,41938,17370,0,1,0,1,"{""git"":{""branch"":""b0.4.3"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 19031,41939,17374,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/urnathan/libcody""}}"
+19032,41940,17375,0,1,0,1,"{""git"":{""tag"":""v5.3.1"",""url"":""https://github.com/CGAL/cgal""}}"
