@@ -2114,3 +2114,5 @@ package_id,path
 7060,org.sw.demo.tgbot
 7090,org.sw.demo.urnathan.libcody
 7091,org.sw.demo.google.protocolbuffers.upb.third_party.utf8_range
+7092,org.sw.demo.google.grpc.third_party.upb.upb
+7093,org.sw.demo.google.grpc.third_party.upb.port
