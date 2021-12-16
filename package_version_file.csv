@@ -11992,3 +11992,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19063,41971,17407,0,1,0,1,"{""git"":{""tag"":""v1.43.0"",""url"":""https://github.com/grpc/grpc""}}"
 19064,41972,17404,0,1,0,1,"{""git"":{""tag"":""v1.43.0"",""url"":""https://github.com/grpc/grpc""}}"
 19065,41973,17408,0,1,0,1,"{""git"":{""tag"":""v1.43.0"",""url"":""https://github.com/grpc/grpc""}}"
+19066,41977,17410,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/protocolbuffers/upb""}}"
+19067,41974,17412,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/protocolbuffers/upb""}}"
+19068,41976,17409,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/protocolbuffers/upb""}}"
+19069,41975,17411,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/protocolbuffers/upb""}}"
