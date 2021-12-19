@@ -12019,3 +12019,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19132,42040,17477,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.71/glib-2.71.0.tar.xz""}}"
 19133,42041,17474,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.71/glib-2.71.0.tar.xz""}}"
 19134,42042,17476,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.71/glib-2.71.0.tar.xz""}}"
+19135,42043,17478,0,1,0,1,"{""git"":{""tag"":""R_2_4_2"",""url"":""https://github.com/libexpat/libexpat""}}"
