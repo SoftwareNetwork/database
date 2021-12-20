@@ -12020,3 +12020,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19175,42083,16458,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 19176,42084,16494,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 19177,42085,16482,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+19178,42086,17481,0,1,0,1,"{""git"":{""tag"":""v2021.12.20.00"",""url"":""https://github.com/facebook/folly""}}"
