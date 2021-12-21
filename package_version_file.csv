@@ -12021,3 +12021,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19194,42102,17496,0,1,0,1,"{""git"":{""branch"":""b0.4.3"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 19195,42103,17498,0,1,0,1,"{""git"":{""branch"":""b0.4.3"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 19196,42104,17499,0,1,0,1,"{""git"":{""branch"":""b0.4.3"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+19197,42105,17500,0,1,0,1,"{""git"":{""tag"":""v1.5.1"",""url"":""https://github.com/facebook/zstd""}}"
