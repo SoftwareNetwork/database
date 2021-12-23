@@ -12044,3 +12044,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19217,42124,17519,0,1,0,1,"{""git"":{""tag"":""v2021.5.0"",""url"":""https://github.com/intel/tbb""}}"
 19218,42126,17521,0,1,0,1,"{""git"":{""tag"":""v2021.5.0"",""url"":""https://github.com/intel/tbb""}}"
 19219,42127,17522,0,1,0,1,"{""git"":{""tag"":""v1.4.4"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+19220,42128,17523,0,1,0,1,"{""git"":{""tag"":""5.8.0"",""url"":""https://github.com/htacg/tidy-html5""}}"
