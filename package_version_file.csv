@@ -12094,3 +12094,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19267,42175,17571,0,1,0,1,"{""git"":{""tag"":""4.5.5"",""url"":""https://github.com/opencv/opencv""}}"
 19268,42176,17570,0,1,0,1,"{""git"":{""tag"":""4.5.5"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 19269,42177,17572,0,1,0,1,"{""git"":{""tag"":""v2021.12.27.00"",""url"":""https://github.com/facebook/folly""}}"
+19270,42178,17573,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/palacaze/sigslot""}}"
