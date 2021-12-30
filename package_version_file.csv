@@ -12123,3 +12123,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19352,42260,17618,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 19353,42261,17621,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 19354,42262,17622,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
+19355,42263,17623,0,1,0,1,"{""git"":{""tag"":""v2.9.0"",""url"":""https://github.com/pybind/pybind11""}}"
+19356,42264,17624,0,1,0,1,"{""git"":{""tag"":""v0.3.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
+19357,42265,17625,0,1,0,1,"{""git"":{""tag"":""v0.6.19"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+19358,42266,17626,0,1,0,1,"{""git"":{""tag"":""v0.10.16"",""url"":""https://github.com/awslabs/aws-c-io""}}"
