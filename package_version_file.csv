@@ -12129,3 +12129,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19358,42266,17626,0,1,0,1,"{""git"":{""tag"":""v0.10.16"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 19359,42267,17627,0,1,0,1,"{""git"":{""tag"":""1.1.4.5.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 19360,42268,17628,0,1,0,1,"{""git"":{""tag"":""1.1.4.5.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+19361,42269,17629,0,1,0,1,"{""git"":{""tag"":""8.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
