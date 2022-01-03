@@ -12126,7 +12126,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19359,42267,17627,0,1,0,1,"{""git"":{""tag"":""1.1.4.5.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 19360,42268,17628,0,1,0,1,"{""git"":{""tag"":""1.1.4.5.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 19361,42269,17629,0,1,0,1,"{""git"":{""tag"":""8.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
-19362,42270,17630,0,1,0,1,"{""git"":{""tag"":""8.1.0"",""url"":""https://github.com/fmtlib/fmt""}}"
 19363,42273,17632,0,1,0,1,"{""git"":{""tag"":""4.6.1"",""url"":""https://github.com/emweb/wt""}}"
 19364,42271,17633,0,1,0,1,"{""git"":{""tag"":""4.6.1"",""url"":""https://github.com/emweb/wt""}}"
 19365,42274,17631,0,1,0,1,"{""git"":{""tag"":""4.6.1"",""url"":""https://github.com/emweb/wt""}}"
@@ -12135,3 +12134,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19368,42276,17636,0,1,0,1,"{""git"":{""tag"":""v2022.01.03.00"",""url"":""https://github.com/facebook/folly""}}"
 19369,42277,17637,0,1,0,1,"{""git"":{""tag"":""hidapi-0.11.1"",""url"":""https://github.com/libusb/hidapi""}}"
 19370,42278,17638,0,1,0,1,"{""git"":{""tag"":""hidapi-0.11.2"",""url"":""https://github.com/libusb/hidapi""}}"
+19371,42279,17639,0,1,0,1,"{""git"":{""tag"":""8.1.0"",""url"":""https://github.com/fmtlib/fmt""}}"
