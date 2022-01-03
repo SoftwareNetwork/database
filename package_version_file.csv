@@ -12133,3 +12133,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19366,42272,17634,0,1,0,1,"{""git"":{""tag"":""4.6.1"",""url"":""https://github.com/emweb/wt""}}"
 19367,42275,17635,0,1,0,1,"{""git"":{""tag"":""v3.10.5"",""url"":""https://github.com/nlohmann/json""}}"
 19368,42276,17636,0,1,0,1,"{""git"":{""tag"":""v2022.01.03.00"",""url"":""https://github.com/facebook/folly""}}"
+19369,42277,17637,0,1,0,1,"{""git"":{""tag"":""hidapi-0.11.1"",""url"":""https://github.com/libusb/hidapi""}}"
