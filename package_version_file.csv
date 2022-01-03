@@ -12136,3 +12136,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19370,42278,17638,0,1,0,1,"{""git"":{""tag"":""hidapi-0.11.2"",""url"":""https://github.com/libusb/hidapi""}}"
 19371,42279,17639,0,1,0,1,"{""git"":{""tag"":""8.1.0"",""url"":""https://github.com/fmtlib/fmt""}}"
 19372,42280,17640,0,1,0,1,"{""git"":{""tag"":""v2.13.8"",""url"":""https://github.com/catchorg/Catch2""}}"
+19373,42281,17641,0,1,0,1,"{""git"":{""tag"":""v0.17.13"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
