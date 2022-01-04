@@ -12138,3 +12138,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19372,42280,17640,0,1,0,1,"{""git"":{""tag"":""v2.13.8"",""url"":""https://github.com/catchorg/Catch2""}}"
 19373,42281,17641,0,1,0,1,"{""git"":{""tag"":""v0.17.13"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 19374,42282,17642,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+19375,42283,17643,0,1,0,1,"{""git"":{""tag"":""v3.4.1"",""url"":""https://github.com/OSGeo/gdal""}}"
