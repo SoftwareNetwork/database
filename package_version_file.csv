@@ -12181,3 +12181,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19461,42369,17688,0,1,0,1,"{""git"":{""tag"":""7.7.0"",""url"":""https://github.com/jtv/libpqxx""}}"
 19462,42370,17689,0,1,0,1,"{""git"":{""tag"":""7.6.1"",""url"":""https://github.com/jtv/libpqxx""}}"
 19463,42371,17690,0,1,0,1,"{""git"":{""tag"":""7.4.2"",""url"":""https://github.com/jtv/libpqxx""}}"
+19464,42372,17691,0,1,0,1,"{""git"":{""tag"":""7.5.3"",""url"":""https://github.com/jtv/libpqxx""}}"
+19465,42373,17692,0,1,0,1,"{""git"":{""tag"":""7.3.2"",""url"":""https://github.com/jtv/libpqxx""}}"
