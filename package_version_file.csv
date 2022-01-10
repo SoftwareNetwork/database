@@ -12183,3 +12183,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19463,42371,17690,0,1,0,1,"{""git"":{""tag"":""7.4.2"",""url"":""https://github.com/jtv/libpqxx""}}"
 19464,42372,17691,0,1,0,1,"{""git"":{""tag"":""7.5.3"",""url"":""https://github.com/jtv/libpqxx""}}"
 19465,42373,17692,0,1,0,1,"{""git"":{""tag"":""7.3.2"",""url"":""https://github.com/jtv/libpqxx""}}"
+19466,42374,17693,0,1,0,1,"{""git"":{""tag"":""v2022.01.10.00"",""url"":""https://github.com/facebook/folly""}}"
