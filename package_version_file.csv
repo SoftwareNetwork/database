@@ -12188,3 +12188,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19468,42376,17694,0,1,0,1,"{""git"":{""tag"":""v2.5.25"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 19469,42377,17696,0,1,0,1,"{""git"":{""tag"":""v2.5.25"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 19470,42378,17697,0,1,0,1,"{""git"":{""tag"":""v0.17.14"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+19471,42379,17701,0,1,0,1,"{""git"":{""tag"":""v3.19.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+19472,42380,17699,0,1,0,1,"{""git"":{""tag"":""v3.19.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+19473,42381,17698,0,1,0,1,"{""git"":{""tag"":""v3.19.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+19474,42382,17700,0,1,0,1,"{""git"":{""tag"":""v3.19.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
