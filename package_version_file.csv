@@ -12193,3 +12193,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19473,42381,17698,0,1,0,1,"{""git"":{""tag"":""v3.19.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 19474,42382,17700,0,1,0,1,"{""git"":{""tag"":""v3.19.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 19475,42383,17702,0,1,0,1,"{""git"":{""tag"":""v1.3.4"",""url"":""https://github.com/awslabs/s2n""}}"
+19476,42384,17703,0,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.20.tar.gz""}}"
+19477,42385,17704,0,1,0,1,"{""remote"":{""url"":""https://www.libsdl.org/release/SDL2-2.0.20.tar.gz""}}"
