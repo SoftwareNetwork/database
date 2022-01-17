@@ -12198,3 +12198,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19487,42396,17713,0,1,0,1,"{""git"":{""tag"":""libwebm-1.0.0.28"",""url"":""https://github.com/webmproject/libwebm""}}"
 19488,42394,17714,0,1,0,1,"{""git"":{""tag"":""libwebm-1.0.0.28"",""url"":""https://github.com/webmproject/libwebm""}}"
 19489,42397,17716,0,1,0,1,"{""git"":{""tag"":""3.11.5"",""url"":""https://github.com/martinus/robin-hood-hashing""}}"
+19490,42398,17717,0,1,0,1,"{""git"":{""tag"":""R_2_4_3"",""url"":""https://github.com/libexpat/libexpat""}}"
