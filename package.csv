@@ -2122,3 +2122,4 @@ package_id,path
 7097,org.sw.demo.palacaze.sigslot
 7098,org.sw.demo.marzer.tomlplusplus
 7099,org.sw.demo.ngtcp2
+7100,org.sw.demo.nghttp3
