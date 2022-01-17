@@ -12204,3 +12204,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19495,42403,17722,0,1,0,1,"{""git"":{""tag"":""v0.1.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 19496,42404,17723,0,1,0,1,"{""git"":{""tag"":""v0.1.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 19497,42405,17724,0,1,0,1,"{""git"":{""tag"":""curl-7_81_0"",""url"":""https://github.com/curl/curl""}}"
+19498,42407,17726,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.35.7.tar.gz""}}"
+19499,42408,17728,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.35.7.tar.gz""}}"
+19500,42406,17727,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.35.7.tar.gz""}}"
+19501,42409,17725,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.35.7.tar.gz""}}"
