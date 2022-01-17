@@ -12203,3 +12203,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19494,42402,17721,0,1,0,1,"{""git"":{""tag"":""v0.1.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 19495,42403,17722,0,1,0,1,"{""git"":{""tag"":""v0.1.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 19496,42404,17723,0,1,0,1,"{""git"":{""tag"":""v0.1.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+19497,42405,17724,0,1,0,1,"{""git"":{""tag"":""curl-7_81_0"",""url"":""https://github.com/curl/curl""}}"
