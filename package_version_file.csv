@@ -12209,3 +12209,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19500,42406,17727,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.35.7.tar.gz""}}"
 19501,42409,17725,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.35.7.tar.gz""}}"
 19502,42410,17729,0,1,0,1,"{""git"":{""tag"":""v1.5.2"",""url"":""https://github.com/facebook/zstd""}}"
+19503,42411,17730,0,1,0,1,"{""git"":{""tag"":""v2022.01.24.00"",""url"":""https://github.com/facebook/folly""}}"
