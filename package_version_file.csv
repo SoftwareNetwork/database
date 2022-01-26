@@ -12216,3 +12216,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19507,42414,17733,0,1,0,1,"{""git"":{""tag"":""v2.2.5"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 19508,42416,17735,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 19509,42417,17736,0,1,0,1,"{""git"":{""tag"":""v0.1.31"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+19510,42418,17737,0,1,0,1,"{""git"":{""tag"":""2.3.1"",""url"":""https://github.com/team-charls/charls""}}"
+19511,42419,17738,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/Microsoft/GSL""}}"
