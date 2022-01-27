@@ -12222,3 +12222,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19513,42421,17741,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 19514,42420,17740,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 19515,42422,17742,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+19516,42424,17743,0,1,0,1,"{""git"":{""tag"":""v0.10.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+19517,42426,17745,0,1,0,1,"{""git"":{""tag"":""3.0"",""url"":""https://github.com/skvadrik/re2c""}}"
+19518,42425,17744,0,1,0,1,"{""git"":{""tag"":""3.0"",""url"":""https://github.com/skvadrik/re2c""}}"
