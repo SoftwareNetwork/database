@@ -12218,3 +12218,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19509,42417,17736,0,1,0,1,"{""git"":{""tag"":""v0.1.31"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 19510,42418,17737,0,1,0,1,"{""git"":{""tag"":""2.3.1"",""url"":""https://github.com/team-charls/charls""}}"
 19511,42419,17738,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/Microsoft/GSL""}}"
+19512,42423,17739,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+19513,42421,17741,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+19514,42420,17740,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+19515,42422,17742,0,1,0,1,"{""git"":{""tag"":""v3.1.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
