@@ -12225,3 +12225,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19516,42424,17743,0,1,0,1,"{""git"":{""tag"":""v0.10.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 19517,42426,17745,0,1,0,1,"{""git"":{""tag"":""3.0"",""url"":""https://github.com/skvadrik/re2c""}}"
 19518,42425,17744,0,1,0,1,"{""git"":{""tag"":""3.0"",""url"":""https://github.com/skvadrik/re2c""}}"
+19519,42427,17746,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/groundswellaudio/swl-variant""}}"

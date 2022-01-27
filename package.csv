@@ -2124,3 +2124,4 @@ package_id,path
 7099,org.sw.demo.ngtcp2
 7100,org.sw.demo.nghttp3
 7101,org.sw.demo.ngtcp2.crypto.openssl
+7102,org.sw.demo.groundswellaudio.swl_variant
