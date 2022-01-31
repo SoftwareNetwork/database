@@ -12255,3 +12255,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19549,42457,17776,0,1,0,1,"{""git"":{""tag"":""v2.8.1"",""url"":""https://github.com/qt-labs/vstools""}}"
 19550,42458,17777,0,1,0,1,"{""git"":{""tag"":""v2.8.1"",""url"":""https://github.com/qt-labs/vstools""}}"
 19551,42459,17778,0,1,0,1,"{""git"":{""tag"":""v1.0.25"",""url"":""https://github.com/libusb/libusb""}}"
+19552,42460,17779,0,1,0,1,"{""git"":{""tag"":""v1.3.5"",""url"":""https://github.com/awslabs/s2n""}}"
+19553,42461,17780,0,1,0,1,"{""git"":{""tag"":""3.3.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
