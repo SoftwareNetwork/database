@@ -12248,3 +12248,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19540,42448,17767,0,1,0,1,"{""git"":{""tag"":""2022-02-01"",""url"":""https://github.com/google/re2""}}"
 19541,42449,17768,0,1,0,1,"{""git"":{""tag"":""20190724"",""url"":""https://github.com/BLAKE2/BLAKE2""}}"
 19542,42450,17769,0,1,0,1,"{""git"":{""tag"":""v5.4"",""url"":""https://github.com/CGAL/cgal""}}"
+19543,42451,17770,0,1,0,1,"{""git"":{""tag"":""3.3.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
