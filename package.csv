@@ -2127,3 +2127,4 @@ package_id,path
 7102,org.sw.demo.groundswellaudio.swl_variant
 7103,org.sw.demo.qtproject.qt.labs.vstools.natvis.qt6
 7104,org.sw.demo.qtproject.qt.labs.vstools.natvis.qt5
+7105,org.sw.demo.qtproject.qt.base.opengl
