@@ -12245,3 +12245,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19536,42444,17763,0,1,0,1,"{""git"":{""tag"":""v1.43.2"",""url"":""https://github.com/grpc/grpc""}}"
 19537,42445,17764,0,1,0,1,"{""git"":{""tag"":""2.3.2"",""url"":""https://github.com/team-charls/charls""}}"
 19538,42446,17765,0,1,0,1,"{""git"":{""tag"":""R_2_4_4"",""url"":""https://github.com/libexpat/libexpat""}}"
+19539,42447,17766,0,1,0,1,"{""git"":{""tag"":""v2022.01.31.00"",""url"":""https://github.com/facebook/folly""}}"
