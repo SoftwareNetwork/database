@@ -12249,3 +12249,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19543,42451,17770,0,1,0,1,"{""git"":{""tag"":""3.3.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 19544,42452,17772,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/HowardHinnant/date""}}"
 19545,42453,17771,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/HowardHinnant/date""}}"
+19546,42454,17773,0,1,0,1,"{""git"":{""tag"":""release-0.4.3"",""url"":""https://github.com/mity/md4c""}}"
