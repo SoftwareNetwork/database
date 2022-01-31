@@ -2125,3 +2125,5 @@ package_id,path
 7100,org.sw.demo.nghttp3
 7101,org.sw.demo.ngtcp2.crypto.openssl
 7102,org.sw.demo.groundswellaudio.swl_variant
+7103,org.sw.demo.qtproject.qt.labs.vstools.natvis.qt6
+7104,org.sw.demo.qtproject.qt.labs.vstools.natvis.qt5
