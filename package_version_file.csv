@@ -12304,3 +12304,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19657,42565,17881,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 19658,42566,17884,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 19659,42567,17575,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
+19660,42568,17885,0,1,0,1,"{""git"":{""tag"":""1.1.4.5.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+19661,42569,17886,0,1,0,1,"{""git"":{""tag"":""1.1.4.5.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
