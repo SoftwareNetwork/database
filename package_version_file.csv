@@ -12521,3 +12521,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19874,42782,18069,0,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-13.0.1/llvm-13.0.1.src.tar.xz""}}"
 19875,42783,18067,0,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-13.0.1/llvm-13.0.1.src.tar.xz""}}"
 19876,42784,18071,0,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-13.0.1/llvm-13.0.1.src.tar.xz""}}"
+19877,42786,18072,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3370200.zip""}}"
+19878,42785,18073,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3370200.zip""}}"
