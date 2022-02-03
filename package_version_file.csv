@@ -12527,3 +12527,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19881,42789,18076,0,1,0,1,"{""git"":{""tag"":""3.4.0"",""url"":""https://gitlab.com/libeigen/eigen""}}"
 19882,42790,18077,0,1,0,1,"{""remote"":{""url"":""https://www.ijg.org/files/jpegsr9e.zip""}}"
 19883,42791,18078,0,1,0,1,"{""git"":{""tag"":""2.12"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
+19884,42792,18079,0,1,0,1,"{""git"":{""tag"":""v0.1.33"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
