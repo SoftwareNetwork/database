@@ -12523,3 +12523,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19876,42784,18071,0,1,0,1,"{""remote"":{""url"":""https://github.com/llvm/llvm-project/releases/download/llvmorg-13.0.1/llvm-13.0.1.src.tar.xz""}}"
 19877,42786,18072,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3370200.zip""}}"
 19878,42785,18073,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3370200.zip""}}"
+19879,42787,18074,0,1,0,1,"{""git"":{""tag"":""v1.3.6"",""url"":""https://github.com/awslabs/s2n""}}"
+19880,42788,18075,0,1,0,1,"{""git"":{""tag"":""v2.9.1"",""url"":""https://github.com/pybind/pybind11""}}"
