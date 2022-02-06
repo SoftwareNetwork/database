@@ -12593,3 +12593,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19947,42855,18141,0,1,0,1,"{""git"":{""tag"":""v5.15.2"",""url"":""https://github.com/qt/qtbase""}}"
 19948,42856,18143,0,1,0,1,"{""git"":{""tag"":""2.3.3"",""url"":""https://github.com/team-charls/charls""}}"
 19949,42857,18144,0,1,0,1,"{""git"":{""tag"":""version-3.0.0"",""url"":""https://github.com/mdadams/jasper""}}"
+19950,42858,18145,0,1,0,1,"{""git"":{""tag"":""3.3.2"",""url"":""https://github.com/behdad/harfbuzz""}}"
