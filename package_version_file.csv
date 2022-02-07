@@ -12610,3 +12610,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19964,42872,18159,0,1,0,1,"{""git"":{""tag"":""v1.87"",""url"":""https://github.com/ocornut/imgui""}}"
 19965,42873,18160,0,1,0,1,"{""git"":{""tag"":""v1.87"",""url"":""https://github.com/ocornut/imgui""}}"
 19966,42874,18161,0,1,0,1,"{""git"":{""tag"":""v1.87"",""url"":""https://github.com/ocornut/imgui""}}"
+19967,42875,18162,0,1,0,1,"{""git"":{""tag"":""v0.10.18"",""url"":""https://github.com/awslabs/aws-c-io""}}"
