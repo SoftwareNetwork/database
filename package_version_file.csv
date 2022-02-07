@@ -12594,3 +12594,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19948,42856,18143,0,1,0,1,"{""git"":{""tag"":""2.3.3"",""url"":""https://github.com/team-charls/charls""}}"
 19949,42857,18144,0,1,0,1,"{""git"":{""tag"":""version-3.0.0"",""url"":""https://github.com/mdadams/jasper""}}"
 19950,42858,18145,0,1,0,1,"{""git"":{""tag"":""3.3.2"",""url"":""https://github.com/behdad/harfbuzz""}}"
+19951,42859,18146,0,1,0,1,"{""git"":{""tag"":""v2022.02.07.00"",""url"":""https://github.com/facebook/folly""}}"
