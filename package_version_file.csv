@@ -12613,3 +12613,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19967,42875,18162,0,1,0,1,"{""git"":{""tag"":""v0.10.18"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 19968,42876,18163,0,1,0,1,"{""git"":{""tag"":""v0.6.11"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 19969,42877,18164,0,1,0,1,"{""git"":{""tag"":""v3.5.3"",""url"":""https://github.com/libarchive/libarchive""}}"
+19970,42878,18165,0,1,0,1,"{""git"":{""tag"":""v1.12"",""url"":""https://github.com/zeux/pugixml""}}"
+19971,42879,18166,0,1,0,1,"{""git"":{""tag"":""v0.6.11"",""url"":""https://github.com/awslabs/aws-c-http""}}"
