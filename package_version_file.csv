@@ -12616,3 +12616,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19970,42878,18165,0,1,0,1,"{""git"":{""tag"":""v1.12"",""url"":""https://github.com/zeux/pugixml""}}"
 19971,42879,18166,0,1,0,1,"{""git"":{""tag"":""v0.6.11"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 19972,42880,18167,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/libarchive/libarchive""}}"
+19973,42881,18168,0,1,0,1,"{""git"":{""tag"":""v0.10.19"",""url"":""https://github.com/awslabs/aws-c-io""}}"
