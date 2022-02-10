@@ -12618,3 +12618,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19972,42880,18167,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/libarchive/libarchive""}}"
 19973,42881,18168,0,1,0,1,"{""git"":{""tag"":""v0.10.19"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 19974,42882,18169,0,1,0,1,"{""git"":{""tag"":""v0.17.16"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+19975,42883,18170,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.4.tar.gz""}}"
