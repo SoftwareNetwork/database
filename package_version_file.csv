@@ -12619,3 +12619,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19974,42882,18169,0,1,0,1,"{""git"":{""tag"":""v0.17.16"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 19975,42883,18170,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.4.tar.gz""}}"
 19976,42884,18171,0,1,0,1,"{""git"":{""tag"":""v1.0.9"",""url"":""https://github.com/google/brotli""}}"
+19977,42885,18172,0,1,0,1,"{""git"":{""tag"":""3.2.0"",""url"":""https://github.com/libsigcplusplus/libsigcplusplus""}}"
