@@ -12622,3 +12622,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19981,42889,18176,0,1,0,1,"{""git"":{""tag"":""v2.5.25"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 19982,42890,18178,0,1,0,1,"{""git"":{""tag"":""v2.5.25"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 19983,42891,18177,0,1,0,1,"{""git"":{""tag"":""v2.5.25"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+19984,42892,18179,0,1,0,1,"{""git"":{""tag"":""2.3.4"",""url"":""https://github.com/team-charls/charls""}}"
