@@ -12621,3 +12621,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19977,42885,18172,0,1,0,1,"{""git"":{""tag"":""3.2.0"",""url"":""https://github.com/libsigcplusplus/libsigcplusplus""}}"
 19978,42886,18173,0,1,0,1,"{""git"":{""tag"":""cpp-4.1.0"",""url"":""https://github.com/msgpack/msgpack-c""}}"
 19979,42887,18174,0,1,0,1,"{""git"":{""tag"":""version-3.0.0"",""url"":""https://github.com/mdadams/jasper""}}"
+19980,42888,18175,0,1,0,1,"{""git"":{""tag"":""v1.12.0"",""url"":""https://github.com/strukturag/libheif""}}"
