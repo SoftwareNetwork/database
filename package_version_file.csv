@@ -12624,3 +12624,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 19983,42891,18177,0,1,0,1,"{""git"":{""tag"":""v2.5.25"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 19984,42892,18179,0,1,0,1,"{""git"":{""tag"":""2.3.4"",""url"":""https://github.com/team-charls/charls""}}"
 19985,42893,18180,0,1,0,1,"{""git"":{""tag"":""version-3.0.1"",""url"":""https://github.com/mdadams/jasper""}}"
+19986,42894,18181,0,1,0,1,"{""git"":{""tag"":""3.4.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
