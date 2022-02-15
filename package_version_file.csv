@@ -12645,3 +12645,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20059,42967,18219,0,1,0,1,"{""git"":{""tag"":""v1.44.0"",""url"":""https://github.com/grpc/grpc""}}"
 20060,42968,18216,0,1,0,1,"{""git"":{""tag"":""v1.44.0"",""url"":""https://github.com/grpc/grpc""}}"
 20061,42969,18220,0,1,0,1,"{""git"":{""tag"":""v1.44.0"",""url"":""https://github.com/grpc/grpc""}}"
+20062,42971,18221,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/apache/thrift""}}"
+20063,42970,18222,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/apache/thrift""}}"
