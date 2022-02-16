@@ -12650,3 +12650,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20067,42976,18226,0,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 20068,42975,18228,0,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
 20069,42977,18227,0,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
+20070,42978,18229,0,1,0,1,"{""git"":{""tag"":""v1.12.1"",""url"":""https://github.com/zeux/pugixml""}}"
