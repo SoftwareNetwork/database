@@ -12661,3 +12661,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20201,43109,18354,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qttools""}}"
 20202,43110,18358,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 20203,43111,18359,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
+20204,43112,18360,0,1,0,1,"{""git"":{""tag"":""v0.1.35"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
