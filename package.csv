@@ -2132,3 +2132,4 @@ package_id,path
 7107,org.sw.demo.strukturag.libheif
 7108,org.sw.demo.qtproject.qt.base.third_party.forkfd
 7109,org.sw.demo.qtproject.qt.base.dbus
+7110,org.sw.demo.qtproject.qt.base.plugins.printsupport.cups
