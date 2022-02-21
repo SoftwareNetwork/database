@@ -2130,3 +2130,5 @@ package_id,path
 7105,org.sw.demo.qtproject.qt.base.opengl
 7106,org.sw.demo.qtproject.qt.base.entrypoint
 7107,org.sw.demo.strukturag.libheif
+7108,org.sw.demo.qtproject.qt.base.third_party.forkfd
+7109,org.sw.demo.qtproject.qt.base.dbus
