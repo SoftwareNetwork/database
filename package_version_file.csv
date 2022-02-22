@@ -12663,3 +12663,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20302,43211,18453,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtimageformats""}}"
 20303,43210,18455,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 20304,43212,18457,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtimageformats""}}"
+20305,43213,18459,0,1,0,1,"{""git"":{""tag"":""v1.3.7"",""url"":""https://github.com/awslabs/s2n""}}"
