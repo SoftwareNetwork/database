@@ -12664,3 +12664,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20403,43311,18552,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtdeclarative""}}"
 20404,43312,18557,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 20405,43313,18556,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
+20406,43314,18558,0,1,0,1,"{""git"":{""tag"":""v1.47.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
