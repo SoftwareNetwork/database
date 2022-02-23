@@ -12665,3 +12665,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20404,43312,18557,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 20405,43313,18556,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 20406,43314,18558,0,1,0,1,"{""git"":{""tag"":""v1.47.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+20407,43316,18559,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3380000.zip""}}"
+20408,43315,18560,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3380000.zip""}}"
