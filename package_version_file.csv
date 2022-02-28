@@ -12668,3 +12668,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20407,43316,18559,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3380000.zip""}}"
 20408,43315,18560,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3380000.zip""}}"
 20409,43317,18561,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
+20410,43318,18563,0,1,0,1,"{""git"":{""tag"":""v0.2.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+20411,43319,18562,0,1,0,1,"{""git"":{""tag"":""v0.2.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+20412,43320,18564,0,1,0,1,"{""git"":{""tag"":""v2022.02.28.00"",""url"":""https://github.com/facebook/folly""}}"
