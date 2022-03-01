@@ -12694,3 +12694,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20433,43341,18582,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 20434,43342,18586,0,1,0,1,"{""git"":{""tag"":""4.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 20435,43343,18587,0,1,0,1,"{""git"":{""tag"":""9.0.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
+20436,43344,18588,0,1,0,1,"{""git"":{""tag"":""v0.17.18"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
