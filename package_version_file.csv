@@ -12692,3 +12692,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20431,43339,18584,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 20432,43340,18583,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 20433,43341,18582,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
+20434,43342,18586,0,1,0,1,"{""git"":{""tag"":""4.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
