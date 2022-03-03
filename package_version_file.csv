@@ -12611,7 +12611,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20151,43059,18306,0,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 20152,43060,18307,0,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 20153,43061,18310,0,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
-20154,43062,18311,0,1,0,1,"{""git"":{""tag"":""v1.9.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 20204,43112,18360,0,1,0,1,"{""git"":{""tag"":""v0.1.35"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 20305,43213,18459,0,1,0,1,"{""git"":{""tag"":""v1.3.7"",""url"":""https://github.com/awslabs/s2n""}}"
 20356,43264,18511,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qttools""}}"
@@ -12695,3 +12694,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20434,43342,18586,0,1,0,1,"{""git"":{""tag"":""4.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 20435,43343,18587,0,1,0,1,"{""git"":{""tag"":""9.0.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
 20436,43344,18588,0,1,0,1,"{""git"":{""tag"":""v0.17.18"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+20437,43345,18589,0,1,0,1,"{""git"":{""tag"":""v1.9.0"",""url"":""https://github.com/webmproject/libvpx""}}"
