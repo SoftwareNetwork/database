@@ -12696,3 +12696,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20436,43344,18588,0,1,0,1,"{""git"":{""tag"":""v0.17.18"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 20437,43345,18589,0,1,0,1,"{""git"":{""tag"":""v1.9.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 20438,43346,18590,0,1,0,1,"{""git"":{""tag"":""v1.4.4.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+20439,43347,18591,0,1,0,1,"{""git"":{""tag"":""v5.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
