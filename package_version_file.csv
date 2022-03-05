@@ -12697,3 +12697,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20437,43345,18589,0,1,0,1,"{""git"":{""tag"":""v1.9.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 20438,43346,18590,0,1,0,1,"{""git"":{""tag"":""v1.4.4.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 20439,43347,18591,0,1,0,1,"{""git"":{""tag"":""v5.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
+20440,43348,18592,0,1,0,1,"{""git"":{""tag"":""curl-7_82_0"",""url"":""https://github.com/curl/curl""}}"
+20441,43349,18593,0,1,0,1,"{""git"":{""tag"":""R_2_4_7"",""url"":""https://github.com/libexpat/libexpat""}}"
