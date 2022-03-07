@@ -2138,3 +2138,4 @@ package_id,path
 7113,org.sw.demo.qtproject.qt.wayland.plugins.platforms.qwayland.egl
 7114,org.sw.demo.qtproject.qt.wayland.hardwareintegration.client.wayland.egl
 7115,org.sw.demo.qtproject.qt.wayland.plugins.platforms.qwayland.generic
+7116,org.sw.demo.qtproject.qt.wayland.plugins.shellintegration.xdg
