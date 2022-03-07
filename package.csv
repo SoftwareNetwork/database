@@ -2133,3 +2133,5 @@ package_id,path
 7108,org.sw.demo.qtproject.qt.base.third_party.forkfd
 7109,org.sw.demo.qtproject.qt.base.dbus
 7110,org.sw.demo.qtproject.qt.base.plugins.printsupport.cups
+7111,org.sw.demo.qtproject.qt.wayland.client
+7112,org.sw.demo.qtproject.qt.wayland.scanner
