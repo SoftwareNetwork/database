@@ -12770,3 +12770,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20785,43693,18932,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qttools""}}"
 20786,43694,18933,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 20787,43695,18935,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
+20788,43696,18936,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.95.tar.gz""}}"
