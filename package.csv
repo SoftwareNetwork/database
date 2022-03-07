@@ -2135,3 +2135,6 @@ package_id,path
 7110,org.sw.demo.qtproject.qt.base.plugins.printsupport.cups
 7111,org.sw.demo.qtproject.qt.wayland.client
 7112,org.sw.demo.qtproject.qt.wayland.scanner
+7113,org.sw.demo.qtproject.qt.wayland.plugins.platforms.qwayland.egl
+7114,org.sw.demo.qtproject.qt.wayland.hardwareintegration.client.wayland.egl
+7115,org.sw.demo.qtproject.qt.wayland.plugins.platforms.qwayland.generic
