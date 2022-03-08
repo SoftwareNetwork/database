@@ -12774,3 +12774,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21000,43909,16491,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21001,43910,16468,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21002,43911,19107,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+21003,43912,19108,0,1,0,1,"{""git"":{""tag"":""v1.44.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
+21004,43913,19109,0,1,0,1,"{""git"":{""tag"":""v1.44.0"",""url"":""https://github.com/libuv/libuv""}}"
