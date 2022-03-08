@@ -12776,3 +12776,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21060,43969,19113,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 21061,43970,19164,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtimageformats""}}"
 21062,43971,19166,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
+21063,43972,19167,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/google/cpu_features""}}"
