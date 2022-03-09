@@ -12778,3 +12778,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21062,43971,19166,0,1,0,1,"{""git"":{""tag"":""v6.2.3"",""url"":""https://github.com/qt/qtbase""}}"
 21063,43972,19167,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/google/cpu_features""}}"
 21064,43973,19168,0,1,0,1,"{""git"":{""tag"":""cpp-4.1.1"",""url"":""https://github.com/msgpack/msgpack-c""}}"
+21065,43974,19169,0,1,0,1,"{""git"":{""tag"":""v1.44.1-my"",""url"":""https://github.com/egorpugin/libuv""}}"
+21066,43975,19170,0,1,0,1,"{""git"":{""tag"":""v1.44.1"",""url"":""https://github.com/libuv/libuv""}}"
+21067,43976,19171,0,1,0,1,"{""git"":{""tag"":""v0.4.1"",""url"":""https://github.com/biojppm/rapidyaml""}}"
