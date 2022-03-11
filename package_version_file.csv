@@ -12785,3 +12785,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21069,43978,19175,0,1,0,1,"{""git"":{""tag"":""4.6.3"",""url"":""https://github.com/emweb/wt""}}"
 21070,43980,19173,0,1,0,1,"{""git"":{""tag"":""4.6.3"",""url"":""https://github.com/emweb/wt""}}"
 21071,43979,19172,0,1,0,1,"{""git"":{""tag"":""4.6.3"",""url"":""https://github.com/emweb/wt""}}"
+21072,43982,19179,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/emweb/wt""}}"
+21073,43983,19176,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/emweb/wt""}}"
+21074,43984,19177,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/emweb/wt""}}"
+21075,43981,19178,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/emweb/wt""}}"
+21076,43985,19180,0,1,0,1,"{""git"":{""tag"":""v0.6.12"",""url"":""https://github.com/awslabs/aws-c-http""}}"
