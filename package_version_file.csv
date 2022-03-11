@@ -12790,3 +12790,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21074,43984,19177,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/emweb/wt""}}"
 21075,43981,19178,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/emweb/wt""}}"
 21076,43985,19180,0,1,0,1,"{""git"":{""tag"":""v0.6.12"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+21077,43986,19181,0,1,0,1,"{""git"":{""tag"":""4.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
