@@ -2141,3 +2141,4 @@ package_id,path
 7116,org.sw.demo.qtproject.qt.wayland.plugins.shellintegration.xdg
 7117,org.sw.demo.qtproject.qt.wayland.plugins.decorations.bradient
 7118,org.sw.demo.qtproject.qt.wayland.plugins.hardwareintegration.client.wayland_egl
+7119,pub.egorpugin.primitives.tools.texpp
