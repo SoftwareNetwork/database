@@ -12799,3 +12799,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21125,44034,19229,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21126,44035,19230,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21127,44036,19231,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+21128,44038,19233,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1n"",""url"":""https://github.com/openssl/openssl""}}"
+21129,44037,19232,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1n"",""url"":""https://github.com/openssl/openssl""}}"
+21130,44039,19234,0,1,0,1,"{""git"":{""tag"":""v0.17.20"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
