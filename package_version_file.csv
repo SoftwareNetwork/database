@@ -12802,3 +12802,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21171,44080,19228,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21172,44081,19195,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21173,44082,19196,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+21174,44083,19236,0,1,0,1,"{""git"":{""tag"":""v0.10.20"",""url"":""https://github.com/awslabs/aws-c-io""}}"
