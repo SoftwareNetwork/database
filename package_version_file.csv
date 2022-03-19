@@ -12805,3 +12805,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21174,44083,19236,0,1,0,1,"{""git"":{""tag"":""v0.10.20"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 21175,44084,19237,0,1,0,1,"{""git"":{""tag"":""v0.10.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 21176,44085,19238,0,1,0,1,"{""git"":{""tag"":""v0.10.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+21177,44086,19239,0,1,0,1,"{""git"":{""tag"":""1.5.10"",""url"":""https://github.com/anholt/libepoxy""}}"
