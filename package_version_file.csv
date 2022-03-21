@@ -12887,3 +12887,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21284,44193,19342,0,1,0,1,"{""git"":{""tag"":""v1.45.0"",""url"":""https://github.com/grpc/grpc""}}"
 21285,44194,19347,0,1,0,1,"{""git"":{""tag"":""v1.45.0"",""url"":""https://github.com/grpc/grpc""}}"
 21286,44195,19346,0,1,0,1,"{""git"":{""tag"":""v1.45.0"",""url"":""https://github.com/grpc/grpc""}}"
+21287,44196,19348,0,1,0,1,"{""git"":{""tag"":""v5.0.1"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
