@@ -12821,3 +12821,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21190,44099,19252,0,1,0,1,"{""git"":{""tag"":""v1.45.0"",""url"":""https://github.com/grpc/grpc""}}"
 21191,44100,19253,0,1,0,1,"{""git"":{""tag"":""v2.2.6"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 21192,44101,19254,0,1,0,1,"{""git"":{""tag"":""v2.2.6"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+21193,44102,19255,0,1,0,1,"{""git"":{""tag"":""v2022.03.21.00"",""url"":""https://github.com/facebook/folly""}}"
