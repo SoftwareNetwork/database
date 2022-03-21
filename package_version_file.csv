@@ -12671,7 +12671,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 20566,43474,18719,0,1,0,1,"{""git"":{""tag"":""v5.15.3-lts-lgpl"",""url"":""https://github.com/qt/qtimageformats""}}"
 20567,43475,18718,0,1,0,1,"{""git"":{""tag"":""v5.15.3-lts-lgpl"",""url"":""https://github.com/qt/qtbase""}}"
 20620,43528,18771,0,1,0,1,"{""git"":{""tag"":""v2022.03.07.00"",""url"":""https://github.com/facebook/folly""}}"
-20621,43529,18772,0,1,0,1,"{""git"":{""tag"":""v0.1.36"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 20788,43696,18936,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.95.tar.gz""}}"
 20846,43755,18993,0,1,0,1,"{""git"":{""tag"":""v1.3.8"",""url"":""https://github.com/awslabs/s2n""}}"
 21003,43912,19108,0,1,0,1,"{""git"":{""tag"":""v1.44.0-my"",""url"":""https://github.com/egorpugin/libuv""}}"
@@ -12886,3 +12885,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21255,44164,19317,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtbase""}}"
 21256,44165,19314,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtbase""}}"
 21257,44166,19318,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtbase""}}"
+21258,44167,19319,0,1,0,1,"{""git"":{""tag"":""v0.1.36"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
