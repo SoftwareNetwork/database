@@ -12897,3 +12897,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21310,44219,19372,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.72/glib-2.72.0.tar.xz""}}"
 21313,44222,19374,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.72/glib-2.72.0.tar.xz""}}"
 21316,44225,19377,0,1,0,1,"{""git"":{""tag"":""v0.6.13"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+21317,44226,19378,0,1,0,1,"{""git"":{""tag"":""4.1.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
