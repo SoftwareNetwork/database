@@ -13112,3 +13112,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21615,44524,19640,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 21616,44525,19644,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 21617,44526,19648,0,1,0,1,"{""git"":{""tag"":""v0.17.21"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+21618,44527,19649,0,1,0,1,"{""git"":{""tag"":""v3.20.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+21619,44530,19652,0,1,0,1,"{""git"":{""tag"":""v3.20.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+21620,44528,19650,0,1,0,1,"{""git"":{""tag"":""v3.20.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+21621,44529,19651,0,1,0,1,"{""git"":{""tag"":""v3.20.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
