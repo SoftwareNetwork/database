@@ -13111,3 +13111,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21614,44523,19647,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 21615,44524,19640,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 21616,44525,19644,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
+21617,44526,19648,0,1,0,1,"{""git"":{""tag"":""v0.17.21"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
