@@ -13117,3 +13117,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21625,44534,19654,0,1,0,1,"{""git"":{""tag"":""v0.8.1"",""url"":""https://github.com/Tessil/ordered-map""}}"
 21626,44535,19658,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/Tessil/robin-map""}}"
 21627,44536,19657,0,1,0,1,"{""git"":{""tag"":""v0.6.0"",""url"":""https://github.com/Tessil/hat-trie""}}"
+21628,44537,19659,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/CLIUtils/CLI11""}}"
