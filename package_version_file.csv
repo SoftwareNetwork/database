@@ -13120,3 +13120,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21690,44599,19717,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtimageformats""}}"
 21691,44600,19721,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtbase""}}"
 21692,44601,19722,0,1,0,1,"{""git"":{""tag"":""R_2_4_8"",""url"":""https://github.com/libexpat/libexpat""}}"
+21693,44602,19723,0,1,0,1,"{""git"":{""tag"":""v0.1.37"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+21694,44603,19724,0,1,0,1,"{""git"":{""tag"":""v5.1.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
+21695,44604,19725,0,1,0,1,"{""git"":{""tag"":""v1.3.10"",""url"":""https://github.com/awslabs/s2n""}}"
