@@ -13119,3 +13119,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21689,44598,19720,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtbase""}}"
 21690,44599,19717,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtimageformats""}}"
 21691,44600,19721,0,1,0,1,"{""git"":{""tag"":""v6.2.4"",""url"":""https://github.com/qt/qtbase""}}"
+21692,44601,19722,0,1,0,1,"{""git"":{""tag"":""R_2_4_8"",""url"":""https://github.com/libexpat/libexpat""}}"
