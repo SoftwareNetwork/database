@@ -13127,3 +13127,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21697,44606,19727,0,1,0,1,"{""git"":{""tag"":""4.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 21698,44607,19728,0,1,0,1,"{""git"":{""tag"":""v2.9.2"",""url"":""https://github.com/pybind/pybind11""}}"
 21699,44608,19729,0,1,0,1,"{""git"":{""tag"":""2022-04-01"",""url"":""https://github.com/google/re2""}}"
+21700,44609,19730,0,1,0,1,"{""git"":{""tag"":""v0.5.15"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
