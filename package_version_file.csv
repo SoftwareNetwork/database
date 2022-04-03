@@ -13146,3 +13146,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21762,44671,19422,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21763,44672,19421,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 21764,44673,19423,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+21765,44674,19754,0,1,0,1,"{""git"":{""tag"":""v0.3.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
