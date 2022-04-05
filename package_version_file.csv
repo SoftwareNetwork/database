@@ -13151,3 +13151,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21767,44675,19755,0,1,0,1,"{""git"":{""tag"":""v0.3.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 21768,44677,19757,0,1,0,1,"{""git"":{""tag"":""v1.10.0"",""url"":""https://github.com/gabime/spdlog""}}"
 21769,44678,19758,0,1,0,1,"{""git"":{""tag"":""v0.17.22"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+21770,44679,19759,0,1,0,1,"{""git"":{""tag"":""v0.6.0"",""url"":""https://github.com/google/glog""}}"
