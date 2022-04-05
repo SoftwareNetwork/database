@@ -13153,3 +13153,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21769,44678,19758,0,1,0,1,"{""git"":{""tag"":""v0.17.22"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 21770,44679,19759,0,1,0,1,"{""git"":{""tag"":""v0.6.0"",""url"":""https://github.com/google/glog""}}"
 21771,44680,19760,0,1,0,1,"{""git"":{""tag"":""v1.2.12"",""url"":""https://github.com/madler/zlib""}}"
+21772,44681,19761,0,1,0,1,"{""git"":{""tag"":""3.3.7"",""url"":""https://github.com/glfw/glfw""}}"
