@@ -13155,3 +13155,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21776,44683,19763,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/Tessil/array-hash""}}"
 21777,44686,19767,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/Tessil/hopscotch-map""}}"
 21778,44687,19766,0,1,0,1,"{""git"":{""tag"":""v0.6.2"",""url"":""https://github.com/Tessil/sparse-map""}}"
+21779,44688,19768,0,1,0,1,"{""git"":{""tag"":""v0.6.20"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+21780,44689,19769,0,1,0,1,"{""git"":{""tag"":""v0.17.23"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
