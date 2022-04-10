@@ -13184,3 +13184,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21805,44714,19792,0,1,0,1,"{""git"":{""tag"":""v1.45.2"",""url"":""https://github.com/grpc/grpc""}}"
 21806,44715,19793,0,1,0,1,"{""git"":{""tag"":""v1.45.2"",""url"":""https://github.com/grpc/grpc""}}"
 21807,44716,19794,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+21808,44717,19795,0,1,0,1,"{""git"":{""tag"":""v1.0.26"",""url"":""https://github.com/libusb/libusb""}}"
+21809,44719,19796,0,1,0,1,"{""git"":{""tag"":""v0.3.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+21810,44718,19797,0,1,0,1,"{""git"":{""tag"":""v0.3.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
