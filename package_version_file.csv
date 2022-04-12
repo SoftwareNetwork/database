@@ -13203,3 +13203,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21824,44733,19807,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-71-1/icu4c-71_1-src.tgz""}}"
 21825,44734,19810,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-71-1/icu4c-71_1-src.zip""}}"
 21826,44735,19811,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-71-1/icu4c-71_1-src.tgz""}}"
+21827,44736,19812,0,1,0,1,"{""git"":{""tag"":""v0.17.26"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
