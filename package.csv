@@ -2186,3 +2186,4 @@ package_id,path
 7148,org.sw.demo.primitives.yaml
 7149,org.sw.demo.primitives.date_time
 7150,org.sw.demo.primitives.tools.embedder
+7151,org.sw.demo.ReactiveX.RxCpp
