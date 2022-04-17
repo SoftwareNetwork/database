@@ -13677,3 +13677,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22514,45423,20383,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
 22515,45424,20381,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtwayland""}}"
 22516,45425,20380,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
+22517,45426,20384,0,1,0,1,"{""git"":{""tag"":""v0.10.5"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
