@@ -13697,3 +13697,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22534,45443,20401,0,1,0,1,"{""git"":{""tag"":""poco-1.11.2-release"",""url"":""https://github.com/pocoproject/poco""}}"
 22535,45444,20402,0,1,0,1,"{""git"":{""tag"":""poco-1.11.2-release"",""url"":""https://github.com/pocoproject/poco""}}"
 22536,45445,20403,0,1,0,1,"{""git"":{""tag"":""v0.10.6"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+22537,45446,20404,0,1,0,1,"{""git"":{""tag"":""v0.3.1"",""url"":""https://github.com/jsonrpcx/json-rpc-cxx""}}"
