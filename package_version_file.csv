@@ -13707,3 +13707,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22544,45453,20411,0,1,0,1,"{""git"":{""tag"":""v1.0.12"",""url"":""https://github.com/fribidi/fribidi""}}"
 22545,45454,20412,0,1,0,1,"{""git"":{""tag"":""v1.0.12"",""url"":""https://github.com/fribidi/fribidi""}}"
 22546,45455,20410,0,1,0,1,"{""git"":{""tag"":""v1.0.12"",""url"":""https://github.com/fribidi/fribidi""}}"
+22547,45456,20414,0,1,0,1,"{""git"":{""tag"":""v0.10.22"",""url"":""https://github.com/awslabs/aws-c-io""}}"
