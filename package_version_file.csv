@@ -13709,3 +13709,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22546,45455,20410,0,1,0,1,"{""git"":{""tag"":""v1.0.12"",""url"":""https://github.com/fribidi/fribidi""}}"
 22547,45456,20414,0,1,0,1,"{""git"":{""tag"":""v0.10.22"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 22548,45457,20415,0,1,0,1,"{""git"":{""tag"":""v2.4"",""url"":""https://github.com/p-ranav/argparse""}}"
+22549,45458,20416,0,1,0,1,"{""git"":{""tag"":""v0.6.14"",""url"":""https://github.com/awslabs/aws-c-http""}}"
