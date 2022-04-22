@@ -13714,3 +13714,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22551,45459,20420,0,1,0,1,"{""git"":{""tag"":""v3.20.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 22552,45461,20417,0,1,0,1,"{""git"":{""tag"":""v3.20.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 22553,45462,20419,0,1,0,1,"{""git"":{""tag"":""v3.20.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+22554,45463,20421,0,1,0,1,"{""git"":{""tag"":""v0.17.28"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
