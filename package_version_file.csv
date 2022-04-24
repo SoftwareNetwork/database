@@ -13715,3 +13715,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22609,45518,20478,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
 22610,45519,20476,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtwayland""}}"
 22611,45520,20475,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
+22612,45521,20479,0,1,0,1,"{""git"":{""tag"":""4.2.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
