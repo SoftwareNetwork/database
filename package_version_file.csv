@@ -13718,3 +13718,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22612,45521,20479,0,1,0,1,"{""git"":{""tag"":""4.2.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
 22613,45522,20480,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/marzer/tomlplusplus""}}"
 22614,45523,20481,0,1,0,1,"{""git"":{""tag"":""v2022.04.25.00"",""url"":""https://github.com/facebook/folly""}}"
+22615,45524,20482,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+22616,45525,20483,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+22617,45526,20484,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
