@@ -13721,3 +13721,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22615,45524,20482,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 22616,45525,20483,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 22617,45526,20484,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
+22618,45527,20486,0,1,0,1,"{""git"":{""tag"":""v2.2.7"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+22619,45528,20485,0,1,0,1,"{""git"":{""tag"":""v2.2.7"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
