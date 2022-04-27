@@ -13976,3 +13976,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 22878,45787,20689,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.2"",""url"":""https://github.com/llvm/llvm-project""}}"
 22879,45788,20693,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.2"",""url"":""https://github.com/llvm/llvm-project""}}"
 22880,45789,20692,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.2"",""url"":""https://github.com/llvm/llvm-project""}}"
+22881,45790,20694,0,1,0,1,"{""git"":{""tag"":""curl-7_83_0"",""url"":""https://github.com/curl/curl""}}"
+22882,45791,20695,0,1,0,1,"{""git"":{""tag"":""v1.3.12"",""url"":""https://github.com/awslabs/s2n""}}"
