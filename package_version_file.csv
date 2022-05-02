@@ -14197,3 +14197,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23099,46008,20883,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 23100,46009,20880,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 23101,46010,20884,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
+23102,46011,20885,0,1,0,1,"{""git"":{""tag"":""v2022.05.02.00"",""url"":""https://github.com/facebook/folly""}}"
