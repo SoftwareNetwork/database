@@ -14200,3 +14200,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23102,46011,20885,0,1,0,1,"{""git"":{""tag"":""v2022.05.02.00"",""url"":""https://github.com/facebook/folly""}}"
 23103,46012,20886,0,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/jarro2783/cxxopts""}}"
 23104,46013,20887,0,1,0,1,"{""git"":{""tag"":""v0.7.1"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+23105,46014,20888,0,1,0,1,"{""git"":{""tag"":""v0.1.40"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
