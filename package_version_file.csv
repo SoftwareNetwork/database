@@ -14202,3 +14202,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23105,46014,20888,0,1,0,1,"{""git"":{""tag"":""v0.1.40"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 23106,46015,20889,0,1,0,1,"{""git"":{""tag"":""v3.4.3"",""url"":""https://github.com/OSGeo/gdal""}}"
 23107,46016,20890,0,1,0,1,"{""git"":{""tag"":""curl-7_83_0"",""url"":""https://github.com/curl/curl""}}"
+23108,46017,20891,0,1,0,1,"{""git"":{""tag"":""curl-7_83_0"",""url"":""https://github.com/curl/curl""}}"
