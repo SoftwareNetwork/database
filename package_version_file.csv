@@ -14220,3 +14220,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23143,46052,20925,0,1,0,1,"{""git"":{""tag"":""v1.46.0"",""url"":""https://github.com/grpc/grpc""}}"
 23144,46053,20924,0,1,0,1,"{""git"":{""tag"":""v1.46.0"",""url"":""https://github.com/grpc/grpc""}}"
 23145,46054,20926,0,1,0,1,"{""git"":{""tag"":""v1.46.0"",""url"":""https://github.com/grpc/grpc""}}"
+23146,46055,20927,0,1,0,1,"{""git"":{""tag"":""v0.17.29"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
