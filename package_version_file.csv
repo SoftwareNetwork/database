@@ -10752,7 +10752,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 16547,39455,15245,0,1,0,1,"{""git"":{""tag"":""v1.84"",""url"":""https://github.com/ocornut/imgui""}}"
 16548,39456,15244,0,1,0,1,"{""git"":{""tag"":""v1.84"",""url"":""https://github.com/ocornut/imgui""}}"
 16549,39457,15246,0,1,0,1,"{""git"":{""tag"":""asio-1-19-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
-16550,39458,15247,0,1,0,1,"{""git"":{""tag"":""0.8.2"",""url"":""https://github.com/zaphoyd/websocketpp""}}"
 16551,39459,15248,0,1,0,1,"{""git"":{""tag"":""2.7.0"",""url"":""https://github.com/zeroxs/aegis.cpp""}}"
 16552,39460,15249,0,1,0,1,"{""git"":{""tag"":""v19.0.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 16553,39461,15250,0,1,0,1,"{""git"":{""tag"":""v19.1.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
@@ -14223,3 +14222,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23146,46055,20927,0,1,0,1,"{""git"":{""tag"":""v0.17.29"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 23147,46056,20928,0,1,0,1,"{""git"":{""tag"":""v2.1.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 23148,46057,20929,0,1,0,1,"{""git"":{""tag"":""v2022.05.09.00"",""url"":""https://github.com/facebook/folly""}}"
+23149,46058,20930,0,1,0,1,"{""git"":{""tag"":""0.8.2"",""url"":""https://github.com/zaphoyd/websocketpp""}}"
