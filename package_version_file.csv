@@ -14224,3 +14224,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23148,46057,20929,0,1,0,1,"{""git"":{""tag"":""v2022.05.09.00"",""url"":""https://github.com/facebook/folly""}}"
 23149,46058,20930,0,1,0,1,"{""git"":{""tag"":""0.8.2"",""url"":""https://github.com/zaphoyd/websocketpp""}}"
 23150,46059,20931,0,1,0,1,"{""git"":{""tag"":""v0.7.3"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+23151,46060,20932,0,1,0,1,"{""git"":{""tag"":""v1.3.13"",""url"":""https://github.com/awslabs/s2n""}}"
