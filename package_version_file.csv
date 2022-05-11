@@ -14267,3 +14267,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23363,46272,20941,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.72/glib-2.72.1.tar.xz""}}"
 23364,46273,20944,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.72/glib-2.72.1.tar.xz""}}"
 23365,46274,20945,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.72/glib-2.72.1.tar.xz""}}"
+23366,46275,20946,0,1,0,1,"{""git"":{""tag"":""curl-7_83_1"",""url"":""https://github.com/curl/curl""}}"
