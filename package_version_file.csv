@@ -14346,3 +14346,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23862,46771,21207,0,1,0,1,"{""git"":{""tag"":""v1.46.1"",""url"":""https://github.com/grpc/grpc""}}"
 23863,46772,21208,0,1,0,1,"{""git"":{""tag"":""v1.46.1"",""url"":""https://github.com/grpc/grpc""}}"
 23864,46773,21209,0,1,0,1,"{""git"":{""tag"":""v1.46.1"",""url"":""https://github.com/grpc/grpc""}}"
+23865,46776,21211,0,1,0,1,"{""git"":{""tag"":""4.7.2"",""url"":""https://github.com/emweb/wt""}}"
+23866,46775,21213,0,1,0,1,"{""git"":{""tag"":""4.7.2"",""url"":""https://github.com/emweb/wt""}}"
+23867,46774,21210,0,1,0,1,"{""git"":{""tag"":""4.7.2"",""url"":""https://github.com/emweb/wt""}}"
+23868,46777,21212,0,1,0,1,"{""git"":{""tag"":""4.7.2"",""url"":""https://github.com/emweb/wt""}}"
