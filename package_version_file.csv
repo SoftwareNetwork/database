@@ -14353,3 +14353,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24010,46919,19418,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 24011,46920,19407,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 24012,46921,21236,0,1,0,1,"{""git"":{""tag"":""v2.5.0"",""url"":""https://github.com/uclouvain/openjpeg""}}"
+24013,46922,21237,0,1,0,1,"{""git"":{""tag"":""v0.2.8"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
+24014,46923,21238,0,1,0,1,"{""git"":{""tag"":""v0.2.2"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
+24015,46924,21239,0,1,0,1,"{""git"":{""tag"":""v0.2.3"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
+24016,46925,21240,0,1,0,1,"{""git"":{""tag"":""v0.2.4"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
+24017,46926,21241,0,1,0,1,"{""git"":{""tag"":""v0.2.7"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
