@@ -14352,3 +14352,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24009,46918,19408,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 24010,46919,19418,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 24011,46920,19407,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+24012,46921,21236,0,1,0,1,"{""git"":{""tag"":""v2.5.0"",""url"":""https://github.com/uclouvain/openjpeg""}}"
