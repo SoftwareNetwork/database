@@ -14350,3 +14350,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23949,46858,19418,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 23950,46859,19407,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 23951,46860,19408,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+23952,46861,21218,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/OSGeo/gdal""}}"
