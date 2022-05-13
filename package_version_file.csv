@@ -14358,3 +14358,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24015,46924,21239,0,1,0,1,"{""git"":{""tag"":""v0.2.3"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
 24016,46925,21240,0,1,0,1,"{""git"":{""tag"":""v0.2.4"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
 24017,46926,21241,0,1,0,1,"{""git"":{""tag"":""v0.2.7"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
+24018,46927,21242,0,1,0,1,"{""git"":{""tag"":""v0.2.6"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
+24019,46928,21243,0,1,0,1,"{""git"":{""tag"":""v0.2.5"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
