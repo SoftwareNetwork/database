@@ -2491,7 +2491,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 2512,14477,2512,1,1,0,1,
 2513,13093,2513,1,1,0,1,
 2514,14507,2514,1,1,0,1,
-2515,14347,2515,1,1,0,1,
 2516,14467,2516,1,1,0,1,
 2517,14512,2517,1,1,0,1,
 2518,14515,2518,1,1,0,1,
@@ -14406,3 +14405,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24323,47232,16337,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 24324,47233,21420,0,1,0,1,"{""git"":{""tag"":""9.0.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
 24325,47234,21421,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+24326,47235,21422,0,1,0,1,"{""git"":{""tag"":""v1.6.37"",""url"":""https://github.com/glennrp/libpng""}}"
