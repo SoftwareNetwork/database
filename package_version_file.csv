@@ -14368,3 +14368,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24026,46935,21251,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
 24027,46936,21250,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
 24028,46937,21252,0,1,0,1,"{""git"":{""tag"":""v2022.05.16.00"",""url"":""https://github.com/facebook/folly""}}"
+24029,46938,21253,0,1,0,1,"{""git"":{""tag"":""v0.4.1"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
+24030,46940,21255,0,1,0,1,"{""git"":{""tag"":""v0.5.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+24031,46939,21254,0,1,0,1,"{""git"":{""tag"":""v0.5.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
