@@ -14173,7 +14173,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23866,46775,21213,0,1,0,1,"{""git"":{""tag"":""4.7.2"",""url"":""https://github.com/emweb/wt""}}"
 23867,46774,21210,0,1,0,1,"{""git"":{""tag"":""4.7.2"",""url"":""https://github.com/emweb/wt""}}"
 23868,46777,21212,0,1,0,1,"{""git"":{""tag"":""4.7.2"",""url"":""https://github.com/emweb/wt""}}"
-23952,46861,21218,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 23953,46865,21219,0,1,0,1,"{""git"":{""tag"":""v1.46.1"",""url"":""https://github.com/grpc/grpc""}}"
 23954,46862,21222,0,1,0,1,"{""git"":{""tag"":""v1.46.1"",""url"":""https://github.com/grpc/grpc""}}"
 23955,46863,21220,0,1,0,1,"{""git"":{""tag"":""v1.46.1"",""url"":""https://github.com/grpc/grpc""}}"
@@ -14406,3 +14405,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24322,47231,21215,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 24323,47232,16337,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 24324,47233,21420,0,1,0,1,"{""git"":{""tag"":""9.0.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
+24325,47234,21421,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/OSGeo/gdal""}}"
