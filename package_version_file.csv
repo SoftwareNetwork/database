@@ -12678,7 +12678,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 21071,43979,19172,0,1,0,1,"{""git"":{""tag"":""4.6.3"",""url"":""https://github.com/emweb/wt""}}"
 21076,43985,19180,0,1,0,1,"{""git"":{""tag"":""v0.6.12"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 21077,43986,19181,0,1,0,1,"{""git"":{""tag"":""4.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
-21078,43987,19182,0,1,0,1,"{""git"":{""tag"":""version-3.0.3"",""url"":""https://github.com/mdadams/jasper""}}"
 21079,43988,19183,0,1,0,1,"{""git"":{""tag"":""v1.3.9"",""url"":""https://github.com/awslabs/s2n""}}"
 21080,43989,19184,0,1,0,1,"{""git"":{""tag"":""1.7.1"",""url"":""https://github.com/OSGeo/libgeotiff""}}"
 21081,43990,19185,0,1,0,1,"{""git"":{""tag"":""v3.7.1"",""url"":""https://github.com/ToruNiina/toml11""}}"
@@ -14406,3 +14405,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24192,47101,21410,0,1,0,1,"{""git"":{""tag"":""v3.0"",""url"":""https://github.com/Esri/lerc""}}"
 24193,47102,21411,0,1,0,1,"{""git"":{""tag"":""0.15.0"",""url"":""https://github.com/google/highway""}}"
 24194,47103,21412,0,1,0,1,"{""git"":{""tag"":""0.16.0"",""url"":""https://github.com/google/highway""}}"
+24195,47104,21413,0,1,0,1,"{""git"":{""tag"":""version-3.0.3"",""url"":""https://github.com/mdadams/jasper""}}"
