@@ -14405,3 +14405,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24191,47100,21409,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/Esri/lerc""}}"
 24192,47101,21410,0,1,0,1,"{""git"":{""tag"":""v3.0"",""url"":""https://github.com/Esri/lerc""}}"
 24193,47102,21411,0,1,0,1,"{""git"":{""tag"":""0.15.0"",""url"":""https://github.com/google/highway""}}"
+24194,47103,21412,0,1,0,1,"{""git"":{""tag"":""0.16.0"",""url"":""https://github.com/google/highway""}}"
