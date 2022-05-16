@@ -7522,7 +7522,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9623,32531,9069,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.5.tar.xz""}}"
 9624,32532,9072,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/sed/sed-4.7.tar.xz""}}"
 9625,32533,9071,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/sed/sed-4.7.tar.xz""}}"
-9641,32549,9088,1,1,0,1,"{""remote"":{""url"":""https://www.cairographics.org/releases/pixman-0.40.0.tar.gz""}}"
 9642,32550,9092,1,1,0,1,"{""git"":{""tag"":""v1.0.10"",""url"":""https://github.com/fribidi/fribidi""}}"
 9643,32551,9089,1,1,0,1,"{""git"":{""tag"":""v1.0.10"",""url"":""https://github.com/fribidi/fribidi""}}"
 9644,32552,9090,1,1,0,1,"{""git"":{""tag"":""v1.0.10"",""url"":""https://github.com/fribidi/fribidi""}}"
@@ -14406,3 +14405,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24367,47276,21462,0,1,0,1,"{""git"":{""tag"":""4.5.5"",""url"":""https://github.com/opencv/opencv""}}"
 24368,47277,21464,0,1,0,1,"{""git"":{""tag"":""4.5.5"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 24369,47278,21463,0,1,0,1,"{""git"":{""tag"":""4.5.5"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+24370,47279,21466,0,1,0,1,"{""remote"":{""url"":""https://www.cairographics.org/releases/pixman-0.40.0.tar.gz""}}"
