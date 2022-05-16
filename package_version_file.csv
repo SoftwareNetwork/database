@@ -14367,3 +14367,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24025,46932,21249,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
 24026,46935,21251,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
 24027,46936,21250,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
+24028,46937,21252,0,1,0,1,"{""git"":{""tag"":""v2022.05.16.00"",""url"":""https://github.com/facebook/folly""}}"
