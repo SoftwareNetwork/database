@@ -6514,7 +6514,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 6770,29492,6770,1,1,0,1,
 6771,29536,6771,1,1,0,1,
 6772,29541,6772,1,1,0,1,
-6773,29544,6773,1,1,0,1,
 6774,29540,6774,1,1,0,1,
 6775,29546,6775,1,1,0,1,
 6776,29547,6776,1,1,0,1,
@@ -11489,7 +11488,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 17589,40497,16161,0,1,0,1,"{""git"":{""tag"":""v0.17.6"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17590,40498,16162,0,1,0,1,"{""git"":{""tag"":""v0.17.7"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 17591,40499,16163,0,1,0,1,"{""git"":{""tag"":""v0.17.8"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
-17593,40501,16165,0,1,0,1,"{""git"":{""tag"":""0.15.0"",""url"":""https://github.com/google/highway""}}"
 17595,40503,16167,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 17605,40513,16177,0,1,0,1,"{""git"":{""tag"":""v0.14.0"",""url"":""https://github.com/apache/thrift""}}"
 17606,40514,16178,0,1,0,1,"{""git"":{""tag"":""v0.14.0"",""url"":""https://github.com/apache/thrift""}}"
@@ -14404,3 +14402,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24188,47097,21407,0,1,0,1,"{""git"":{""tag"":""v3.0.12"",""url"":""https://github.com/malaterre/GDCM""}}"
 24189,47098,21408,0,1,0,1,"{""git"":{""tag"":""v3.0.12"",""url"":""https://github.com/malaterre/GDCM""}}"
 24190,47099,21406,0,1,0,1,"{""git"":{""tag"":""v3.0.12"",""url"":""https://github.com/malaterre/GDCM""}}"
+24191,47100,21409,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/Esri/lerc""}}"
+24192,47101,21410,0,1,0,1,"{""git"":{""tag"":""v3.0"",""url"":""https://github.com/Esri/lerc""}}"
+24193,47102,21411,0,1,0,1,"{""git"":{""tag"":""0.15.0"",""url"":""https://github.com/google/highway""}}"
