@@ -14011,7 +14011,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24018,46927,21242,0,1,0,1,"{""git"":{""tag"":""v0.2.6"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
 24019,46928,21243,0,1,0,1,"{""git"":{""tag"":""v0.2.5"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
 24020,46929,21244,0,1,0,1,"{""git"":{""tag"":""curl-7_83_1"",""url"":""https://github.com/curl/curl""}}"
-24021,46930,21245,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.2.5.tar.gz""}}"
 24022,46933,21246,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
 24023,46931,21247,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
 24024,46934,21248,0,1,0,1,"{""git"":{""tag"":""v3.23.1"",""url"":""https://github.com/Kitware/CMake""}}"
@@ -14406,3 +14405,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24567,47476,21663,0,1,0,1,"{""git"":{""tag"":""v1.46.2"",""url"":""https://github.com/grpc/grpc""}}"
 24568,47477,21664,0,1,0,1,"{""git"":{""tag"":""v1.46.2"",""url"":""https://github.com/grpc/grpc""}}"
 24569,47478,21665,0,1,0,1,"{""git"":{""tag"":""v1.46.2"",""url"":""https://github.com/grpc/grpc""}}"
+24570,47479,21666,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.2.5.tar.gz""}}"
