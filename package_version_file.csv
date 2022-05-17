@@ -14432,3 +14432,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24673,47582,21769,0,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 24674,47583,21767,0,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 24675,47584,21771,0,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
+24676,47585,21772,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/webmproject/libvpx""}}"
