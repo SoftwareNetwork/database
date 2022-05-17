@@ -14434,3 +14434,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24679,47589,21776,0,1,0,1,"{""git"":{""tag"":""libwebm-1.0.0.28"",""url"":""https://github.com/webmproject/libwebm""}}"
 24680,47588,21775,0,1,0,1,"{""git"":{""tag"":""libwebm-1.0.0.28"",""url"":""https://github.com/webmproject/libwebm""}}"
 24681,47590,21777,0,1,0,1,"{""git"":{""tag"":""libwebm-1.0.0.28"",""url"":""https://github.com/webmproject/libwebm""}}"
+24682,47591,21778,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/catchorg/Catch2""}}"
