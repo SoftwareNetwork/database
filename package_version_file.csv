@@ -14433,3 +14433,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24675,47584,21771,0,1,0,1,"{""git"":{""branch"":""v1.3.0"",""url"":""https://github.com/yasm/yasm""}}"
 24676,47585,21772,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 24677,47586,21773,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/xiph/opus""}}"
+24678,47587,21774,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/lemire/simdjson""}}"
