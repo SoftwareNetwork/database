@@ -14426,3 +14426,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24588,47497,21684,0,1,0,1,"{""git"":{""tag"":""REL_14_2"",""url"":""https://github.com/postgres/postgres""}}"
 24589,47499,21685,0,1,0,1,"{""git"":{""tag"":""REL_14_2"",""url"":""https://github.com/postgres/postgres""}}"
 24590,47498,21683,0,1,0,1,"{""git"":{""tag"":""REL_14_2"",""url"":""https://github.com/postgres/postgres""}}"
+24591,47501,21688,0,1,0,1,"{""git"":{""tag"":""REL_14_3"",""url"":""https://github.com/postgres/postgres""}}"
+24592,47503,21690,0,1,0,1,"{""git"":{""tag"":""REL_14_3"",""url"":""https://github.com/postgres/postgres""}}"
+24593,47502,21687,0,1,0,1,"{""git"":{""tag"":""REL_14_3"",""url"":""https://github.com/postgres/postgres""}}"
+24594,47500,21689,0,1,0,1,"{""git"":{""tag"":""REL_14_3"",""url"":""https://github.com/postgres/postgres""}}"
