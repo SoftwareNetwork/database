@@ -14431,3 +14431,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24647,47556,21745,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
 24648,47557,21739,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
 24649,47558,21743,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
+24650,47559,21746,0,1,0,1,"{""git"":{""tag"":""v1.10.0"",""url"":""https://github.com/webmproject/libvpx""}}"
