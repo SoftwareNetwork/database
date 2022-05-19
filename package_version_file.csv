@@ -14449,3 +14449,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24770,47679,21866,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.14.0.tar.gz""}}"
 24771,47680,21867,0,1,0,1,"{""git"":{""tag"":""xorgproto-2022.1"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
 24772,47681,21868,0,1,0,1,"{""git"":{""tag"":""xcb-proto-1.15"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xcbproto""}}"
+24773,47682,21869,0,1,0,1,"{""git"":{""tag"":""libxcb-1.15"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
