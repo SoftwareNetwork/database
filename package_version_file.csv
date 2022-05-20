@@ -13618,7 +13618,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 23143,46052,20925,0,1,0,1,"{""git"":{""tag"":""v1.46.0"",""url"":""https://github.com/grpc/grpc""}}"
 23144,46053,20924,0,1,0,1,"{""git"":{""tag"":""v1.46.0"",""url"":""https://github.com/grpc/grpc""}}"
 23145,46054,20926,0,1,0,1,"{""git"":{""tag"":""v1.46.0"",""url"":""https://github.com/grpc/grpc""}}"
-23146,46055,20927,0,1,0,1,"{""git"":{""tag"":""v0.17.29"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 23147,46056,20928,0,1,0,1,"{""git"":{""tag"":""v2.1.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 23148,46057,20929,0,1,0,1,"{""git"":{""tag"":""v2022.05.09.00"",""url"":""https://github.com/facebook/folly""}}"
 23149,46058,20930,0,1,0,1,"{""git"":{""tag"":""0.8.2"",""url"":""https://github.com/zaphoyd/websocketpp""}}"
@@ -14452,3 +14451,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24777,47686,21873,0,1,0,1,"{""git"":{""tag"":""v0.7.4"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 24778,47687,21874,0,1,0,1,"{""git"":{""tag"":""v0.5.17"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 24779,47688,21875,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+24780,47689,21876,0,1,0,1,"{""git"":{""tag"":""v0.17.29"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
