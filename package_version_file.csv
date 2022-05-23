@@ -14468,3 +14468,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24855,47764,21950,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
 24856,47765,21953,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
 24857,47766,21952,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/qt/qtbase""}}"
+24858,47767,21954,0,1,0,1,"{""git"":{""tag"":""v2022.05.23.00"",""url"":""https://github.com/facebook/folly""}}"
