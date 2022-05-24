@@ -14489,3 +14489,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24876,47785,21972,0,1,0,1,"{""git"":{""tag"":""1.8.0"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 24877,47786,21973,0,1,0,1,"{""git"":{""tag"":""1.8.0"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 24878,47787,21974,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+24879,47788,21975,0,1,0,1,"{""git"":{""tag"":""v1.3.14"",""url"":""https://github.com/awslabs/s2n""}}"
