@@ -14702,3 +14702,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25117,48026,22183,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.4"",""url"":""https://github.com/llvm/llvm-project""}}"
 25118,48027,22182,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.4"",""url"":""https://github.com/llvm/llvm-project""}}"
 25119,48028,22185,0,1,0,1,"{""git"":{""tag"":""hidapi-0.12.0"",""url"":""https://github.com/libusb/hidapi""}}"
+25120,48029,22186,0,1,0,1,"{""git"":{""tag"":""v2.0.0"",""url"":""https://github.com/lemire/simdjson""}}"
