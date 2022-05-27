@@ -14709,3 +14709,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25124,48033,22189,0,1,0,1,"{""git"":{""tag"":""v21.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 25125,48034,22191,0,1,0,1,"{""git"":{""tag"":""v0.17.30"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 25126,48035,22192,0,1,0,1,"{""git"":{""tag"":""v2.0.1"",""url"":""https://github.com/lemire/simdjson""}}"
+25127,48036,22193,0,1,0,1,"{""git"":{""tag"":""v2.5"",""url"":""https://github.com/p-ranav/argparse""}}"
