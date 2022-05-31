@@ -14715,3 +14715,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25256,48165,16363,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 25257,48166,16364,0,1,0,1,"{""git"":{""branch"":""b0.2.0"",""url"":""https://github.com/egorpugin/primitives""}}"
 25258,48167,22201,0,1,0,1,"{""git"":{""tag"":""v2022.05.30.00"",""url"":""https://github.com/facebook/folly""}}"
+25259,48168,22202,0,1,0,1,"{""git"":{""tag"":""2022-06-01"",""url"":""https://github.com/google/re2""}}"
