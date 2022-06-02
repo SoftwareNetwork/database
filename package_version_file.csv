@@ -14721,3 +14721,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25665,48574,22271,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 25666,48575,22266,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 25667,48576,22301,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+25668,48577,22372,0,1,0,1,"{""git"":{""tag"":""v2.0.2"",""url"":""https://github.com/lemire/simdjson""}}"
