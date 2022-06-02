@@ -14722,3 +14722,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25666,48575,22266,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 25667,48576,22301,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 25668,48577,22372,0,1,0,1,"{""git"":{""tag"":""v2.0.2"",""url"":""https://github.com/lemire/simdjson""}}"
+25669,48578,22373,0,1,0,1,"{""git"":{""tag"":""v2.0.3"",""url"":""https://github.com/lemire/simdjson""}}"
+25670,48579,22374,0,1,0,1,"{""git"":{""tag"":""0.17.0"",""url"":""https://github.com/google/highway""}}"
