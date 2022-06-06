@@ -14740,3 +14740,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25727,48636,22428,0,1,0,1,"{""git"":{""tag"":""4.5.5"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 25728,48637,22429,0,1,0,1,"{""git"":{""tag"":""4.5.5"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 25729,48638,22431,0,1,0,1,"{""git"":{""tag"":""v2022.06.06.00"",""url"":""https://github.com/facebook/folly""}}"
+25730,48639,22432,0,1,0,1,"{""git"":{""tag"":""v5.4.1"",""url"":""https://github.com/CGAL/cgal""}}"
+25731,48640,22433,0,1,0,1,"{""git"":{""tag"":""v5.3.2"",""url"":""https://github.com/CGAL/cgal""}}"
