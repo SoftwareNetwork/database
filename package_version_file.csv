@@ -14742,3 +14742,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25729,48638,22431,0,1,0,1,"{""git"":{""tag"":""v2022.06.06.00"",""url"":""https://github.com/facebook/folly""}}"
 25730,48639,22432,0,1,0,1,"{""git"":{""tag"":""v5.4.1"",""url"":""https://github.com/CGAL/cgal""}}"
 25731,48640,22433,0,1,0,1,"{""git"":{""tag"":""v5.3.2"",""url"":""https://github.com/CGAL/cgal""}}"
+25732,48641,22434,0,1,0,1,"{""git"":{""tag"":""v1.3.15"",""url"":""https://github.com/awslabs/s2n""}}"
