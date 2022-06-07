@@ -14788,3 +14788,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 25775,48684,22475,0,1,0,1,"{""git"":{""tag"":""4.6.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 25776,48685,22478,0,1,0,1,"{""git"":{""tag"":""v3.10.5"",""url"":""https://github.com/python/cpython""}}"
 25777,48686,22479,0,1,0,1,"{""git"":{""tag"":""v3.10.5"",""url"":""https://github.com/python/cpython""}}"
+25778,48687,22480,0,1,0,1,"{""git"":{""tag"":""v0.10.8"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
