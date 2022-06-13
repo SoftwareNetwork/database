@@ -14042,7 +14042,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24790,47699,21887,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/googleapis/googleapis""}}"
 24791,47700,21886,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/googleapis/googleapis""}}"
 24792,47701,21888,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/googleapis/googleapis""}}"
-24793,47702,21889,0,1,0,1,"{""git"":{""tag"":""4.3.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 24794,47703,21892,0,1,0,1,"{""git"":{""tag"":""v1.46.3"",""url"":""https://github.com/grpc/grpc""}}"
 24795,47705,21890,0,1,0,1,"{""git"":{""tag"":""v1.46.3"",""url"":""https://github.com/grpc/grpc""}}"
 24796,47704,21891,0,1,0,1,"{""git"":{""tag"":""v1.46.3"",""url"":""https://github.com/grpc/grpc""}}"
@@ -15034,3 +15033,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 26487,49397,23011,0,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
 26488,49396,23009,0,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
 26489,49398,23010,0,1,0,1,"{""git"":{""tag"":""1.17.4"",""url"":""git://git.cairographics.org/git/cairo""}}"
+26490,49399,23012,0,1,0,1,"{""git"":{""tag"":""4.3.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
