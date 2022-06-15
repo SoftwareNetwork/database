@@ -15036,3 +15036,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 26772,49681,23199,0,1,0,1,"{""git"":{""tag"":""4.6.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 26773,49682,23200,0,1,0,1,"{""git"":{""tag"":""v1.4.3"",""url"":""https://github.com/rhash/RHash""}}"
 26774,49683,23201,0,1,0,1,"{""git"":{""tag"":""9.0.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
+26775,49685,23203,0,1,0,1,"{""git"":{""tag"":""1.1.4.6.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+26776,49684,23202,0,1,0,1,"{""git"":{""tag"":""1.1.4.6.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
