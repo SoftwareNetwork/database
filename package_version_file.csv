@@ -15035,3 +15035,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 26771,49680,23197,0,1,0,1,"{""git"":{""tag"":""4.6.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 26772,49681,23199,0,1,0,1,"{""git"":{""tag"":""4.6.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 26773,49682,23200,0,1,0,1,"{""git"":{""tag"":""v1.4.3"",""url"":""https://github.com/rhash/RHash""}}"
+26774,49683,23201,0,1,0,1,"{""git"":{""tag"":""9.0.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
