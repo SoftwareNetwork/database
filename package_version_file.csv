@@ -15038,3 +15038,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 26774,49683,23201,0,1,0,1,"{""git"":{""tag"":""9.0.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
 26775,49685,23203,0,1,0,1,"{""git"":{""tag"":""1.1.4.6.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 26776,49684,23202,0,1,0,1,"{""git"":{""tag"":""1.1.4.6.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+26777,49686,23204,0,1,0,1,"{""git"":{""tag"":""v2.0.4"",""url"":""https://github.com/lemire/simdjson""}}"
