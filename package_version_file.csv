@@ -15110,3 +15110,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 26889,49798,23310,0,1,0,1,"{""git"":{""tag"":""v3.0.14"",""url"":""https://github.com/malaterre/GDCM""}}"
 26890,49799,23306,0,1,0,1,"{""git"":{""tag"":""v3.0.14"",""url"":""https://github.com/malaterre/GDCM""}}"
 26891,49800,23312,0,1,0,1,"{""git"":{""tag"":""v3.0.14"",""url"":""https://github.com/malaterre/GDCM""}}"
+26892,49801,23313,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/ThePhD/sol2""}}"
