@@ -15369,3 +15369,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 27415,50324,23558,0,1,0,1,"{""git"":{""tag"":""v1.47.0"",""url"":""https://github.com/grpc/grpc""}}"
 27416,50325,23562,0,1,0,1,"{""git"":{""tag"":""v0.1.42"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 27417,50326,23563,0,1,0,1,"{""git"":{""tag"":""4.4.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
+27418,50327,23564,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/lemire/simdjson""}}"
