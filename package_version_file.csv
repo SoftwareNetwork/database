@@ -13915,7 +13915,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24324,47233,21420,0,1,0,1,"{""git"":{""tag"":""9.0.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
 24325,47234,21421,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 24326,47235,21422,0,1,0,1,"{""git"":{""tag"":""v1.6.37"",""url"":""https://github.com/glennrp/libpng""}}"
-24370,47279,21466,0,1,0,1,"{""remote"":{""url"":""https://www.cairographics.org/releases/pixman-0.40.0.tar.gz""}}"
 24414,47323,21510,0,1,0,1,"{""git"":{""tag"":""v3.4.2"",""url"":""https://github.com/libffi/libffi""}}"
 24555,47464,21652,0,1,0,1,"{""git"":{""tag"":""v1.46.2"",""url"":""https://github.com/grpc/grpc""}}"
 24556,47466,21653,0,1,0,1,"{""git"":{""tag"":""v1.46.2"",""url"":""https://github.com/grpc/grpc""}}"
@@ -15393,3 +15392,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 27546,50455,23693,0,1,0,1,"{""git"":{""tag"":""v6.3.1"",""url"":""https://github.com/qt/qtbase""}}"
 27547,50456,23690,0,1,0,1,"{""git"":{""tag"":""v6.3.1"",""url"":""https://github.com/qt/qtimageformats""}}"
 27548,50457,23694,0,1,0,1,"{""git"":{""tag"":""v6.3.1"",""url"":""https://github.com/qt/qtbase""}}"
+27549,50458,23695,0,1,0,1,"{""remote"":{""url"":""https://www.cairographics.org/releases/pixman-0.40.0.tar.gz""}}"
