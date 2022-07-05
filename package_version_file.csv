@@ -15397,3 +15397,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 27621,50530,23756,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/lemire/simdjson""}}"
 27622,50531,23757,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 27623,50532,23758,0,1,0,1,"{""git"":{""tag"":""9.0.0"",""url"":""https://github.com/fmtlib/fmt""}}"
+27624,50533,23759,0,1,0,1,"{""git"":{""tag"":""v1.3.16"",""url"":""https://github.com/awslabs/s2n""}}"
