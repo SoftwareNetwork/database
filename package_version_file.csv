@@ -15395,3 +15395,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 27619,50528,23634,0,1,0,1,"{""git"":{""branch"":""b0.4.4"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 27620,50529,23755,0,1,0,1,"{""git"":{""tag"":""v2022.07.04.00"",""url"":""https://github.com/facebook/folly""}}"
 27621,50530,23756,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/lemire/simdjson""}}"
+27622,50531,23757,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
