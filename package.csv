@@ -2194,3 +2194,15 @@ package_id,path
 7156,org.sw.demo.malaterre.GDCM.csa
 7157,pub.egorpugin.primitives.webdriver
 7158,org.sw.demo.gnome.glib.subprojects.gvdb
+7159,org.sw.demo.sw.client.sw.common
+7160,org.sw.demo.sw.client.driver.cpp.cl_generator
+7161,org.sw.demo.sw.client.driver.cpp.self_builder
+7162,org.sw.demo.sw.client.driver.cpp
+7163,org.sw.demo.sw.client.builder
+7164,org.sw.demo.sw.client.core
+7165,org.sw.demo.sw.client.manager
+7166,org.sw.demo.sw.server.mirror
+7167,org.sw.demo.sw.client.builder.distributed
+7168,org.sw.demo.sw.client.sw
+7169,org.sw.demo.sw.client.protos
+7170,org.sw.demo.sw.client.support
