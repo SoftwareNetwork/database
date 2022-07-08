@@ -15505,3 +15505,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 27920,50829,23953,0,1,0,1,"{""git"":{""tag"":""5.2.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 27921,50830,23954,0,1,0,1,"{""git"":{""tag"":""5.2.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 27922,50831,23951,0,1,0,1,"{""git"":{""tag"":""5.2.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
+27923,50832,23957,0,1,0,1,"{""git"":{""tag"":""1.17.6"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
+27924,50834,23955,0,1,0,1,"{""git"":{""tag"":""1.17.6"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
+27925,50833,23956,0,1,0,1,"{""git"":{""tag"":""1.17.6"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
