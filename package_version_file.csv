@@ -15547,4 +15547,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28020,50927,24053,0,1,0,1,"{""git"":{""tag"":""4.7.3"",""url"":""https://github.com/emweb/wt""}}"
 28021,50930,24050,0,1,0,1,"{""git"":{""tag"":""4.7.3"",""url"":""https://github.com/emweb/wt""}}"
 28022,50931,24054,0,1,0,1,"{""git"":{""tag"":""v0.10.9"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+28023,50932,24055,0,1,0,1,"{""git"":{""tag"":""4.8.0"",""url"":""https://github.com/emweb/wt""}}"
+28024,50935,24056,0,1,0,1,"{""git"":{""tag"":""4.8.0"",""url"":""https://github.com/emweb/wt""}}"
+28025,50933,24058,0,1,0,1,"{""git"":{""tag"":""4.8.0"",""url"":""https://github.com/emweb/wt""}}"
 28026,50934,24057,0,1,0,1,"{""git"":{""tag"":""4.8.0"",""url"":""https://github.com/emweb/wt""}}"
