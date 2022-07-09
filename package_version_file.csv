@@ -15542,3 +15542,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28015,50924,24049,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 28016,50925,24047,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 28017,50926,24048,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
+28018,50929,24051,0,1,0,1,"{""git"":{""tag"":""4.7.3"",""url"":""https://github.com/emweb/wt""}}"
+28019,50928,24052,0,1,0,1,"{""git"":{""tag"":""4.7.3"",""url"":""https://github.com/emweb/wt""}}"
+28020,50927,24053,0,1,0,1,"{""git"":{""tag"":""4.7.3"",""url"":""https://github.com/emweb/wt""}}"
+28021,50930,24050,0,1,0,1,"{""git"":{""tag"":""4.7.3"",""url"":""https://github.com/emweb/wt""}}"
