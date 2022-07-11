@@ -2207,3 +2207,4 @@ package_id,path
 7169,org.sw.demo.sw.client.protos
 7170,org.sw.demo.sw.client.support
 7171,org.sw.demo.qtproject.qt.base.plugins.platforms.xcb
+7172,org.sw.demo.qtproject.qt.serialport
