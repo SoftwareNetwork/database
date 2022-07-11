@@ -15554,3 +15554,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28027,50936,24060,0,1,0,1,"{""git"":{""tag"":""v2.2.8"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 28028,50937,24059,0,1,0,1,"{""git"":{""tag"":""v2.2.8"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 28029,50938,24061,0,1,0,1,"{""git"":{""tag"":""v0.17.33"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+28030,50939,24062,0,1,0,1,"{""git"":{""tag"":""v2022.07.11.00"",""url"":""https://github.com/facebook/folly""}}"
