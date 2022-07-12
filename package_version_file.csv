@@ -15557,3 +15557,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28089,50998,24120,0,1,0,1,"{""git"":{""tag"":""v6.3.1"",""url"":""https://github.com/qt/qttools""}}"
 28090,50999,24119,0,1,0,1,"{""git"":{""tag"":""v6.3.1"",""url"":""https://github.com/qt/qtbase""}}"
 28091,51000,24123,0,1,0,1,"{""git"":{""tag"":""v6.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
+28092,51001,24126,0,1,0,1,"{""git"":{""tag"":""1.19.1"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+28093,51002,24124,0,1,0,1,"{""git"":{""tag"":""1.19.1"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+28094,51003,24125,0,1,0,1,"{""git"":{""tag"":""1.19.1"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
