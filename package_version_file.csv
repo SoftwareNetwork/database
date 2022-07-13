@@ -15578,3 +15578,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28113,51021,24145,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3390000.zip""}}"
 28114,51023,24146,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/preshing/turf""}}"
 28115,51024,24147,0,1,0,1,"{""git"":{""tag"":""20220623.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+28116,51025,24148,0,1,0,1,"{""git"":{""tag"":""version-3.0.6"",""url"":""https://github.com/mdadams/jasper""}}"
