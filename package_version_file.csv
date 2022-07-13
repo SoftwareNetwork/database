@@ -15580,3 +15580,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28166,51075,23560,0,1,0,1,"{""git"":{""tag"":""v1.47.0"",""url"":""https://github.com/grpc/grpc""}}"
 28169,51078,24166,0,1,0,1,"{""git"":{""tag"":""20211102.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 28170,51079,24147,0,1,0,1,"{""git"":{""tag"":""20220623.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+28171,51080,24182,0,1,0,1,"{""git"":{""tag"":""v6.1.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
