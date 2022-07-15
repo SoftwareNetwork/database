@@ -15596,3 +15596,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28184,51093,24195,0,1,0,1,"{""git"":{""tag"":""v1.47.1"",""url"":""https://github.com/grpc/grpc""}}"
 28185,51094,24197,0,1,0,1,"{""git"":{""tag"":""v1.47.1"",""url"":""https://github.com/grpc/grpc""}}"
 28186,51095,24196,0,1,0,1,"{""git"":{""tag"":""v1.47.1"",""url"":""https://github.com/grpc/grpc""}}"
+28187,51096,24198,0,1,0,1,"{""git"":{""tag"":""v5.4.2"",""url"":""https://github.com/CGAL/cgal""}}"
+28188,51097,24199,0,1,0,1,"{""git"":{""tag"":""v5.5"",""url"":""https://github.com/CGAL/cgal""}}"
