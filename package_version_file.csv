@@ -15598,3 +15598,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28186,51095,24196,0,1,0,1,"{""git"":{""tag"":""v1.47.1"",""url"":""https://github.com/grpc/grpc""}}"
 28187,51096,24198,0,1,0,1,"{""git"":{""tag"":""v5.4.2"",""url"":""https://github.com/CGAL/cgal""}}"
 28188,51097,24199,0,1,0,1,"{""git"":{""tag"":""v5.5"",""url"":""https://github.com/CGAL/cgal""}}"
+28189,51098,24200,0,1,0,1,"{""git"":{""tag"":""v2.10.0"",""url"":""https://github.com/pybind/pybind11""}}"
