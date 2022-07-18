@@ -15620,3 +15620,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28208,51117,24219,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/catchorg/Catch2""}}"
 28209,51118,24220,0,1,0,1,"{""git"":{""tag"":""v2.0.7"",""url"":""https://github.com/arvidn/libtorrent""}}"
 28210,51119,24221,0,1,0,1,"{""git"":{""tag"":""v1.2.17"",""url"":""https://github.com/arvidn/libtorrent""}}"
+28211,51120,24222,0,1,0,1,"{""git"":{""tag"":""v2022.07.18.00"",""url"":""https://github.com/facebook/folly""}}"
