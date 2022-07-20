@@ -15637,3 +15637,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28225,51134,24236,0,1,0,1,"{""git"":{""tag"":""v1.48.0"",""url"":""https://github.com/grpc/grpc""}}"
 28226,51135,24238,0,1,0,1,"{""git"":{""tag"":""v1.48.0"",""url"":""https://github.com/grpc/grpc""}}"
 28227,51136,24237,0,1,0,1,"{""git"":{""tag"":""v1.48.0"",""url"":""https://github.com/grpc/grpc""}}"
+28228,51137,24239,0,1,0,1,"{""git"":{""tag"":""v1.3.17"",""url"":""https://github.com/awslabs/s2n""}}"
