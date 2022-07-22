@@ -15653,3 +15653,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28241,51150,24252,0,1,0,1,"{""git"":{""tag"":""v2.9.14"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 28242,51151,24254,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 28243,51152,24253,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+28244,51153,24255,0,1,0,1,"{""git"":{""tag"":""3.3.8"",""url"":""https://github.com/glfw/glfw""}}"
