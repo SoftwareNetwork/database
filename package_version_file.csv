@@ -15656,3 +15656,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28244,51153,24255,0,1,0,1,"{""git"":{""tag"":""3.3.8"",""url"":""https://github.com/glfw/glfw""}}"
 28245,51154,24256,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/ArtifexSoftware/extract""}}"
 28246,51155,24257,0,1,0,1,"{""git"":{""commit"":""10c442dfea1cb49f63ee9f97f05402d5678f271d"",""url"":""https://github.com/ArtifexSoftware/extract""}}"
+28247,51157,24259,0,1,0,1,"{""git"":{""tag"":""1.20.2"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+28249,51158,24258,0,1,0,1,"{""git"":{""tag"":""1.20.2"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
