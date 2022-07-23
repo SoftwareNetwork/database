@@ -15659,3 +15659,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28247,51157,24259,0,1,0,1,"{""git"":{""tag"":""1.20.2"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 28248,51156,24260,0,1,0,1,"{""git"":{""tag"":""1.20.2"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 28249,51158,24258,0,1,0,1,"{""git"":{""tag"":""1.20.2"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+28250,51159,24261,0,1,0,1,"{""git"":{""tag"":""5.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
