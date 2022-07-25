@@ -2210,3 +2210,4 @@ package_id,path
 7172,org.sw.demo.qtproject.qt.serialport
 7173,org.sw.demo.ArtifexSoftware.extract
 7174,org.sw.demo.ocornut.imgui.backend.emscripten_sdl
+7175,org.sw.demo.ocornut.imgui.backend.emscripten_glfw
