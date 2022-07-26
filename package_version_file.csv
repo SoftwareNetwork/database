@@ -15664,3 +15664,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28322,51231,24331,0,1,0,1,"{""git"":{""tag"":""5.2.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 28323,51232,24329,0,1,0,1,"{""git"":{""tag"":""5.2.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
 28324,51233,24332,0,1,0,1,"{""git"":{""tag"":""5.2.0"",""url"":""https://github.com/tesseract-ocr/tesseract""}}"
+28325,51234,24335,0,1,0,1,"{""git"":{""tag"":""v21.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+28326,51235,24336,0,1,0,1,"{""git"":{""tag"":""v21.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+28327,51237,24334,0,1,0,1,"{""git"":{""tag"":""v21.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+28328,51236,24333,0,1,0,1,"{""git"":{""tag"":""v21.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
