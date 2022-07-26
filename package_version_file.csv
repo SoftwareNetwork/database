@@ -15683,3 +15683,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28399,51308,24405,0,1,0,1,"{""git"":{""tag"":""v2.5.8"",""url"":""https://github.com/openexr/openexr""}}"
 28400,51309,24408,0,1,0,1,"{""git"":{""tag"":""v2.5.8"",""url"":""https://github.com/openexr/openexr""}}"
 28401,51310,24409,0,1,0,1,"{""git"":{""tag"":""cyrus-sasl-2.1.28"",""url"":""https://github.com/cyrusimap/cyrus-sasl""}}"
+28402,51311,24412,0,1,0,1,"{""remote"":{""url"":""https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.3.tgz""}}"
+28403,51313,24411,0,1,0,1,"{""remote"":{""url"":""https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.3.tgz""}}"
+28404,51312,24410,0,1,0,1,"{""remote"":{""url"":""https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.3.tgz""}}"
