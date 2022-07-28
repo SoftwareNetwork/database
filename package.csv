@@ -2219,4 +2219,6 @@ package_id,path
 7181,org.sw.demo.cisco.openh264.decoder.core
 7182,org.sw.demo.cisco.openh264.processing
 7183,org.sw.demo.cisco.openh264.api
+7184,org.sw.demo.cisco.openh264.decoder.plus
+7185,org.sw.demo.cisco.openh264.common
 7186,org.sw.demo.cisco.openh264
