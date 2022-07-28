@@ -2211,3 +2211,12 @@ package_id,path
 7173,org.sw.demo.ArtifexSoftware.extract
 7174,org.sw.demo.ocornut.imgui.backend.emscripten_sdl
 7175,org.sw.demo.ocornut.imgui.backend.emscripten_glfw
+7176,org.sw.demo.cisco.openh264.console.h264encoder
+7177,org.sw.demo.cisco.openh264.console.h264decoder
+7178,org.sw.demo.cisco.openh264.encoder.plus
+7179,org.sw.demo.cisco.openh264.console.common
+7180,org.sw.demo.cisco.openh264.encoder.core
+7181,org.sw.demo.cisco.openh264.decoder.core
+7182,org.sw.demo.cisco.openh264.processing
+7183,org.sw.demo.cisco.openh264.api
+7186,org.sw.demo.cisco.openh264
