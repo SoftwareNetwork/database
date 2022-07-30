@@ -15709,3 +15709,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28480,51389,24488,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/cisco/openh264""}}"
 28481,51390,24487,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/cisco/openh264""}}"
 28482,51391,24489,0,1,0,1,"{""git"":{""tag"":""v2.2.2"",""url"":""https://github.com/lemire/simdjson""}}"
+28483,51392,24490,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
