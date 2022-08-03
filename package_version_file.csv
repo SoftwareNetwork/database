@@ -15723,3 +15723,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28542,51451,24549,0,1,0,1,"{""git"":{""tag"":""v3.0.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
 28543,51452,24550,0,1,0,1,"{""git"":{""tag"":""v3.11.1"",""url"":""https://github.com/nlohmann/json""}}"
 28544,51453,24551,0,1,0,1,"{""git"":{""tag"":""v3.10.3"",""url"":""https://github.com/skypjack/entt""}}"
+28545,51454,24552,0,1,0,1,"{""git"":{""tag"":""v0.11.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
