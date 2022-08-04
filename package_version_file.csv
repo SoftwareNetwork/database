@@ -15725,3 +15725,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28686,51595,24691,0,1,0,1,"{""git"":{""commit"":""fb8cda1274b0e73e5ad1a9adaa4127bc2a2141b4"",""url"":""https://github.com/boostorg/context""}}"
 28687,51596,24695,0,1,0,1,"{""git"":{""commit"":""db44baba883b8da4dd5c03f6d6248f50be61840a"",""url"":""https://github.com/boostorg/fiber""}}"
 28688,51597,24693,0,1,0,1,"{""git"":{""commit"":""f5b2c7ba743f17ac5dd75f552cd9271397a13f2a"",""url"":""https://github.com/boostorg/container""}}"
+28689,51598,24696,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/SanderMertens/flecs""}}"
