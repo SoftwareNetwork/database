@@ -15746,3 +15746,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28707,51616,24716,0,1,0,1,"{""git"":{""tag"":""1.8.1"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 28708,51617,24715,0,1,0,1,"{""git"":{""tag"":""1.8.1"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 28709,51618,24714,0,1,0,1,"{""git"":{""tag"":""1.8.1"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
+28710,51619,24717,0,1,0,1,"{""git"":{""tag"":""RELEASE_2_3_0"",""url"":""https://github.com/libharu/libharu""}}"
