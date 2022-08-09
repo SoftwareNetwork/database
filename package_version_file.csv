@@ -15769,3 +15769,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28788,51697,24756,0,1,0,1,"{""git"":{""tag"":""v2022.08.08.00"",""url"":""https://github.com/facebook/folly""}}"
 28789,51698,24757,0,1,0,1,"{""git"":{""tag"":""v3.0.2"",""url"":""https://github.com/SanderMertens/flecs""}}"
 28790,51699,24758,0,1,0,1,"{""git"":{""tag"":""v1.3.19"",""url"":""https://github.com/awslabs/s2n""}}"
+28791,51700,24761,0,1,0,1,"{""git"":{""tag"":""v21.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+28792,51701,24759,0,1,0,1,"{""git"":{""tag"":""v21.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+28793,51702,24760,0,1,0,1,"{""git"":{""tag"":""v21.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+28794,51703,24762,0,1,0,1,"{""git"":{""tag"":""v21.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
