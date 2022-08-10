@@ -15775,4 +15775,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28794,51703,24762,0,1,0,1,"{""git"":{""tag"":""v21.5"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 28795,51704,24763,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/DigiDNA/ISOBMFF""}}"
 28796,51705,24764,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/DigiDNA/ISOBMFF""}}"
-28797,51706,24765,0,1,0,1,"{""git"":{""tag"":""v2.1.1"",""url"":""https://github.com/enzo1982/mp4v2""}}"
+28798,51707,24766,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/enzo1982/mp4v2""}}"
