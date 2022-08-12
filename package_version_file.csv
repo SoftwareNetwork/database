@@ -15936,3 +15936,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29061,51970,24979,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 29062,51971,24982,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 29063,51972,24981,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+29064,51974,24983,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+29065,51973,24985,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+29066,51975,24984,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
