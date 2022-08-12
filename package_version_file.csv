@@ -15934,3 +15934,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 28957,51866,24919,0,1,0,1,"{""git"":{""commit"":""2a56a3a2496cdb66496f844db55085dd992d5e49"",""url"":""https://github.com/boostorg/callable_traits""}}"
 28958,51867,24921,0,1,0,1,"{""git"":{""commit"":""123fe5faa635a521a32bcffc5c6f5ebf9f03e581"",""url"":""https://github.com/boostorg/filesystem""}}"
 28959,51868,24923,0,1,0,1,"{""git"":{""commit"":""ae49bf2744586e6bd6c0cedff4500a58a4386860"",""url"":""https://github.com/boostorg/yap""}}"
+28960,51869,24925,0,1,0,1,"{""git"":{""tag"":""v3.11.2"",""url"":""https://github.com/nlohmann/json""}}"
