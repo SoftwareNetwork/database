@@ -15954,3 +15954,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29315,52224,25220,0,1,0,1,"{""git"":{""tag"":""v6.3.1"",""url"":""https://github.com/qt/qtbase""}}"
 29316,52225,25221,0,1,0,1,"{""git"":{""tag"":""v6.3.1"",""url"":""https://github.com/qt/qttools""}}"
 29317,52226,25224,0,1,0,1,"{""git"":{""tag"":""asio-1-24-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+29318,52227,25225,0,1,0,1,"{""git"":{""tag"":""v2022.08.15.00"",""url"":""https://github.com/facebook/folly""}}"
