@@ -15969,3 +15969,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29336,52245,25243,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.73/glib-2.73.3.tar.xz""}}"
 29337,52246,25244,0,1,0,1,"{""git"":{""tag"":""v1.9.4"",""url"":""https://github.com/lz4/lz4""}}"
 29338,52247,25245,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/SanderMertens/flecs""}}"
+29339,52248,25246,0,1,0,1,"{""git"":{""tag"":""lcms2.13"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
+29340,52249,25247,0,1,0,1,"{""git"":{""tag"":""lcms2.13.1"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
