@@ -15967,3 +15967,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29334,52243,25239,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.73/glib-2.73.3.tar.xz""}}"
 29335,52244,25242,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.73/glib-2.73.3.tar.xz""}}"
 29336,52245,25243,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.73/glib-2.73.3.tar.xz""}}"
+29337,52246,25244,0,1,0,1,"{""git"":{""tag"":""v1.9.4"",""url"":""https://github.com/lz4/lz4""}}"
+29338,52247,25245,0,1,0,1,"{""git"":{""tag"":""v3.0.3"",""url"":""https://github.com/SanderMertens/flecs""}}"
