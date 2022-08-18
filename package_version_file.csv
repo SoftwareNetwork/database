@@ -15971,3 +15971,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29347,52256,25253,0,1,0,1,"{""git"":{""tag"":""n5.1"",""url"":""https://github.com/FFmpeg/FFmpeg""}}"
 29348,52257,25254,0,1,0,1,"{""git"":{""tag"":""n5.1"",""url"":""https://github.com/FFmpeg/FFmpeg""}}"
 29349,52258,25256,0,1,0,1,"{""git"":{""tag"":""n5.1"",""url"":""https://github.com/FFmpeg/FFmpeg""}}"
+29350,52259,25257,0,1,0,1,"{""git"":{""tag"":""v2.0.2"",""url"":""https://github.com/daniele77/cli""}}"
