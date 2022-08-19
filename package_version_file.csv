@@ -15973,3 +15973,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29361,52270,24389,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 29362,52271,24391,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 29363,52272,25260,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+29366,52275,25263,0,1,0,1,"{""git"":{""tag"":""release-2.24.0"",""url"":""https://github.com/libsdl-org/SDL""}}"
+29367,52276,25264,0,1,0,1,"{""git"":{""tag"":""release-2.24.0"",""url"":""https://github.com/libsdl-org/SDL""}}"
