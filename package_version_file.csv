@@ -15976,3 +15976,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29366,52275,25263,0,1,0,1,"{""git"":{""tag"":""release-2.24.0"",""url"":""https://github.com/libsdl-org/SDL""}}"
 29367,52276,25264,0,1,0,1,"{""git"":{""tag"":""release-2.24.0"",""url"":""https://github.com/libsdl-org/SDL""}}"
 29368,52277,25265,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
+29369,52279,25267,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+29370,52278,25266,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
