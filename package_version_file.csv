@@ -15978,3 +15978,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29368,52277,25265,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 29369,52279,25267,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 29370,52278,25266,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+29371,52280,25268,0,1,0,1,"{""git"":{""tag"":""v1.4.5.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+29372,52281,25269,0,1,0,1,"{""git"":{""tag"":""v2022.08.22.00"",""url"":""https://github.com/facebook/folly""}}"
