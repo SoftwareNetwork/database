@@ -15982,3 +15982,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29372,52281,25269,0,1,0,1,"{""git"":{""tag"":""v2022.08.22.00"",""url"":""https://github.com/facebook/folly""}}"
 29373,52282,25270,0,1,0,1,"{""git"":{""tag"":""v1.49.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 29374,52283,25271,0,1,0,1,"{""git"":{""tag"":""v1.3.20"",""url"":""https://github.com/awslabs/s2n""}}"
+29375,52284,25272,0,1,0,1,"{""git"":{""tag"":""v2.0.7"",""url"":""https://github.com/google/flatbuffers""}}"
+29376,52285,25273,0,1,0,1,"{""git"":{""tag"":""v2.0.7"",""url"":""https://github.com/google/flatbuffers""}}"
