@@ -15987,3 +15987,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29377,52286,25274,0,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 29378,52287,25275,0,1,0,1,"{""git"":{""tag"":""1.0.1"",""url"":""https://github.com/google/highway""}}"
 29379,52288,25276,0,1,0,1,"{""git"":{""tag"":""9.1.0"",""url"":""https://github.com/fmtlib/fmt""}}"
+29380,52289,25277,0,1,0,1,"{""git"":{""tag"":""v2022.08.29.00"",""url"":""https://github.com/facebook/folly""}}"
