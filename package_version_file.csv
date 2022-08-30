@@ -15989,3 +15989,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29379,52288,25276,0,1,0,1,"{""git"":{""tag"":""9.1.0"",""url"":""https://github.com/fmtlib/fmt""}}"
 29380,52289,25277,0,1,0,1,"{""git"":{""tag"":""v2022.08.29.00"",""url"":""https://github.com/facebook/folly""}}"
 29381,52290,25278,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/marzer/tomlplusplus""}}"
+29382,52291,25280,0,1,0,1,"{""git"":{""tag"":""v2.0.8"",""url"":""https://github.com/google/flatbuffers""}}"
+29383,52292,25279,0,1,0,1,"{""git"":{""tag"":""v2.0.8"",""url"":""https://github.com/google/flatbuffers""}}"
