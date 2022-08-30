@@ -16053,3 +16053,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29443,52352,25341,0,1,0,1,"{""git"":{""tag"":""v5.15.5-lts-lgpl"",""url"":""https://github.com/qt/qtdeclarative""}}"
 29444,52353,25342,0,1,0,1,"{""git"":{""tag"":""v5.15.5-lts-lgpl"",""url"":""https://github.com/qt/qtsvg""}}"
 29445,52354,25339,0,1,0,1,"{""git"":{""tag"":""v5.15.5-lts-lgpl"",""url"":""https://github.com/qt/qtimageformats""}}"
+29446,52355,25343,0,1,0,1,"{""git"":{""tag"":""v5.15.5-lts-lgpl"",""url"":""https://github.com/qt/qtbase""}}"
