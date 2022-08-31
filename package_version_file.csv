@@ -16064,3 +16064,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29454,52363,25346,0,1,0,1,"{""git"":{""tag"":""v3.0.16"",""url"":""https://github.com/malaterre/GDCM""}}"
 29455,52364,25350,0,1,0,1,"{""git"":{""tag"":""v3.0.16"",""url"":""https://github.com/malaterre/GDCM""}}"
 29456,52365,25351,0,1,0,1,"{""git"":{""tag"":""curl-7_85_0"",""url"":""https://github.com/curl/curl""}}"
+29457,52366,25352,0,1,0,1,"{""git"":{""tag"":""v10.0.17"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
+29458,52367,25353,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/SanderMertens/flecs""}}"
