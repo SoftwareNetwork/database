@@ -16063,3 +16063,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29453,52362,25346,0,1,0,1,"{""git"":{""tag"":""v3.0.16"",""url"":""https://github.com/malaterre/GDCM""}}"
 29454,52363,25346,0,1,0,1,"{""git"":{""tag"":""v3.0.16"",""url"":""https://github.com/malaterre/GDCM""}}"
 29455,52364,25350,0,1,0,1,"{""git"":{""tag"":""v3.0.16"",""url"":""https://github.com/malaterre/GDCM""}}"
+29456,52365,25351,0,1,0,1,"{""git"":{""tag"":""curl-7_85_0"",""url"":""https://github.com/curl/curl""}}"
