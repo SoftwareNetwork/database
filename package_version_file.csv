@@ -16082,3 +16082,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29474,52383,25367,0,1,0,1,"{""git"":{""tag"":""v1.48.1"",""url"":""https://github.com/grpc/grpc""}}"
 29475,52384,25369,0,1,0,1,"{""git"":{""tag"":""v1.48.1"",""url"":""https://github.com/grpc/grpc""}}"
 29476,52385,25368,0,1,0,1,"{""git"":{""tag"":""v1.48.1"",""url"":""https://github.com/grpc/grpc""}}"
+29477,52386,25371,0,1,0,1,"{""git"":{""tag"":""v0.8.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+29478,52387,25370,0,1,0,1,"{""git"":{""tag"":""v0.8.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
