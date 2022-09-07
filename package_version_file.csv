@@ -16310,3 +16310,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29702,52611,25565,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 29703,52612,25393,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 29704,52613,25564,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
+29705,52614,25566,0,1,0,1,"{""git"":{""tag"":""cpp-4.1.2"",""url"":""https://github.com/msgpack/msgpack-c""}}"
