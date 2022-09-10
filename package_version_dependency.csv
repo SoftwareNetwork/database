@@ -96329,3 +96329,5 @@ package_version_id,package_id,version_range
 52691,4355,=3.2.1
 52692,1275,master
 52692,4355,=3.2.1
+52693,3,*
+52693,655,*
