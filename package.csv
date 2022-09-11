@@ -2231,3 +2231,4 @@ package_id,path
 7193,pub.egorpugin.primitives.templates2
 7194,org.sw.demo.tgbot.examples.report_detection_bot
 7195,org.sw.demo.llvm_project.clang.Support
+7196,org.sw.demo.badger.curl
