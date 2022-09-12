@@ -16398,3 +16398,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29791,52701,25652,0,1,0,1,"{""git"":{""tag"":""curl-7_85_0"",""url"":""https://github.com/curl/curl""}}"
 29792,52700,25653,0,1,0,1,"{""git"":{""tag"":""curl-7_85_0"",""url"":""https://github.com/curl/curl""}}"
 29793,52702,25654,0,1,0,1,"{""git"":{""tag"":""v2.4.2"",""url"":""https://github.com/libharu/libharu""}}"
+29794,52703,25655,0,1,0,1,"{""git"":{""tag"":""v0.11.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
