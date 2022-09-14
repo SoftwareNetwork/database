@@ -16416,3 +16416,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29809,52718,25668,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3390200.zip""}}"
 29810,52720,25669,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3390300.zip""}}"
 29811,52719,25670,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3390300.zip""}}"
+29812,52721,25671,0,1,0,1,"{""git"":{""tag"":""v1.2.0"",""url"":""https://github.com/webmproject/libwebp""}}"
+29813,52722,25672,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/webmproject/libwebp""}}"
+29814,52723,25673,0,1,0,1,"{""git"":{""tag"":""v1.2.2"",""url"":""https://github.com/webmproject/libwebp""}}"
+29815,52724,25674,0,1,0,1,"{""git"":{""tag"":""v1.2.3"",""url"":""https://github.com/webmproject/libwebp""}}"
+29816,52725,25675,0,1,0,1,"{""git"":{""tag"":""v1.2.4"",""url"":""https://github.com/webmproject/libwebp""}}"
