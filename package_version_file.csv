@@ -16471,3 +16471,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29864,52773,25723,0,1,0,1,"{""git"":{""tag"":""v1.49.0"",""url"":""https://github.com/grpc/grpc""}}"
 29865,52774,25724,0,1,0,1,"{""git"":{""tag"":""v1.49.0"",""url"":""https://github.com/grpc/grpc""}}"
 29866,52775,25725,0,1,0,1,"{""git"":{""tag"":""v2.4.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+29867,52776,25726,0,1,0,1,"{""git"":{""tag"":""5.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
