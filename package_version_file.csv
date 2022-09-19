@@ -16420,7 +16420,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29813,52722,25672,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/webmproject/libwebp""}}"
 29814,52723,25673,0,1,0,1,"{""git"":{""tag"":""v1.2.2"",""url"":""https://github.com/webmproject/libwebp""}}"
 29815,52724,25674,0,1,0,1,"{""git"":{""tag"":""v1.2.3"",""url"":""https://github.com/webmproject/libwebp""}}"
-29816,52725,25675,0,1,0,1,"{""git"":{""tag"":""v1.2.4"",""url"":""https://github.com/webmproject/libwebp""}}"
 29817,52726,25678,0,1,0,1,"{""git"":{""tag"":""v3.24.0"",""url"":""https://github.com/Kitware/CMake""}}"
 29818,52728,25676,0,1,0,1,"{""git"":{""tag"":""v3.24.0"",""url"":""https://github.com/Kitware/CMake""}}"
 29819,52727,25677,0,1,0,1,"{""git"":{""tag"":""v3.24.0"",""url"":""https://github.com/Kitware/CMake""}}"
@@ -16476,3 +16475,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29869,52779,25728,0,1,0,1,"{""git"":{""tag"":""v0.17.0"",""url"":""https://github.com/apache/thrift""}}"
 29870,52778,25729,0,1,0,1,"{""git"":{""tag"":""v0.17.0"",""url"":""https://github.com/apache/thrift""}}"
 29871,52780,25730,0,1,0,1,"{""git"":{""tag"":""v2.7"",""url"":""https://github.com/p-ranav/argparse""}}"
+29872,52781,25731,0,1,0,1,"{""git"":{""tag"":""v1.2.4"",""url"":""https://github.com/webmproject/libwebp""}}"
