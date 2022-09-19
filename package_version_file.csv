@@ -16476,3 +16476,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29870,52778,25729,0,1,0,1,"{""git"":{""tag"":""v0.17.0"",""url"":""https://github.com/apache/thrift""}}"
 29871,52780,25730,0,1,0,1,"{""git"":{""tag"":""v2.7"",""url"":""https://github.com/p-ranav/argparse""}}"
 29872,52781,25731,0,1,0,1,"{""git"":{""tag"":""v1.2.4"",""url"":""https://github.com/webmproject/libwebp""}}"
+29873,52782,25732,0,1,0,1,"{""git"":{""tag"":""v3.4.3"",""url"":""https://github.com/libffi/libffi""}}"
