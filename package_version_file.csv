@@ -16477,3 +16477,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 29871,52780,25730,0,1,0,1,"{""git"":{""tag"":""v2.7"",""url"":""https://github.com/p-ranav/argparse""}}"
 29872,52781,25731,0,1,0,1,"{""git"":{""tag"":""v1.2.4"",""url"":""https://github.com/webmproject/libwebp""}}"
 29873,52782,25732,0,1,0,1,"{""git"":{""tag"":""v3.4.3"",""url"":""https://github.com/libffi/libffi""}}"
+29874,52783,25733,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+29875,52784,25734,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
