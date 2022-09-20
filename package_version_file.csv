@@ -16692,3 +16692,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 30086,52995,25912,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 30087,52996,25915,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 30088,52997,25917,0,1,0,1,"{""git"":{""tag"":""R_2_4_9"",""url"":""https://github.com/libexpat/libexpat""}}"
+30089,52998,25919,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+30090,52999,25918,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
