@@ -16694,3 +16694,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 30089,52998,25919,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 30090,52999,25918,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 30091,53000,25920,0,1,0,1,"{""git"":{""tag"":""v3.4.3"",""url"":""https://github.com/libffi/libffi""}}"
+30092,53001,25921,0,1,0,1,"{""git"":{""tag"":""v1.3.22"",""url"":""https://github.com/awslabs/s2n""}}"
