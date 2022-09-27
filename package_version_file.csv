@@ -16738,3 +16738,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 30133,53042,25960,0,1,0,1,"{""git"":{""tag"":""v3.0.19"",""url"":""https://github.com/malaterre/GDCM""}}"
 30134,53043,25961,0,1,0,1,"{""git"":{""tag"":""v3.0.19"",""url"":""https://github.com/malaterre/GDCM""}}"
 30135,53044,25962,0,1,0,1,"{""git"":{""tag"":""v1.3.23"",""url"":""https://github.com/awslabs/s2n""}}"
+30136,53045,25963,0,1,0,1,"{""git"":{""tag"":""v22.9.24"",""url"":""https://github.com/google/flatbuffers""}}"
+30137,53046,25964,0,1,0,1,"{""git"":{""tag"":""v22.9.24"",""url"":""https://github.com/google/flatbuffers""}}"
