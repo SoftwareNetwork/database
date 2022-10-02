@@ -16760,3 +16760,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 30166,53075,25993,0,1,0,1,"{""git"":{""tag"":""v2.4.2"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 30167,53076,25995,0,1,0,1,"{""git"":{""tag"":""v22.9.29"",""url"":""https://github.com/google/flatbuffers""}}"
 30168,53077,25994,0,1,0,1,"{""git"":{""tag"":""v22.9.29"",""url"":""https://github.com/google/flatbuffers""}}"
+30169,53078,25996,0,1,0,1,"{""git"":{""tag"":""v2.2.3"",""url"":""https://github.com/lemire/simdjson""}}"
