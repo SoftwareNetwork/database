@@ -17033,3 +17033,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 30439,53348,26228,0,1,0,1,"{""git"":{""tag"":""v6.3.2"",""url"":""https://github.com/qt/qttools""}}"
 30440,53349,26232,0,1,0,1,"{""git"":{""tag"":""v6.3.2"",""url"":""https://github.com/qt/qtbase""}}"
 30441,53350,26236,0,1,0,1,"{""git"":{""tag"":""v6.3.2"",""url"":""https://github.com/qt/qttools""}}"
+30442,53351,26239,0,1,0,1,"{""git"":{""tag"":""v1.3.24"",""url"":""https://github.com/awslabs/s2n""}}"
