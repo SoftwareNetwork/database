@@ -17101,3 +17101,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31014,53923,26719,0,1,0,1,"{""git"":{""tag"":""v6.4.0"",""url"":""https://github.com/qt/qttools""}}"
 31015,53924,26717,0,1,0,1,"{""git"":{""tag"":""v6.4.0"",""url"":""https://github.com/qt/qttools""}}"
 31016,53925,26721,0,1,0,1,"{""git"":{""tag"":""v6.4.0"",""url"":""https://github.com/qt/qtwayland""}}"
+31017,53926,26722,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/CLIUtils/CLI11""}}"
