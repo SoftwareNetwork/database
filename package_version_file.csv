@@ -17114,3 +17114,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31027,53936,26732,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.74/glib-2.74.0.tar.xz""}}"
 31028,53937,26733,0,1,0,1,"{""git"":{""tag"":""5.3.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 31029,53938,26734,0,1,0,1,"{""git"":{""tag"":""v4.9.0"",""url"":""https://github.com/zeromq/cppzmq""}}"
+31030,53939,26735,0,1,0,1,"{""git"":{""tag"":""v5.5.1"",""url"":""https://github.com/CGAL/cgal""}}"
+31031,53940,26736,0,1,0,1,"{""git"":{""tag"":""v5.4.3"",""url"":""https://github.com/CGAL/cgal""}}"
