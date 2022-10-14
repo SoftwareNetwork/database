@@ -17116,3 +17116,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31029,53938,26734,0,1,0,1,"{""git"":{""tag"":""v4.9.0"",""url"":""https://github.com/zeromq/cppzmq""}}"
 31030,53939,26735,0,1,0,1,"{""git"":{""tag"":""v5.5.1"",""url"":""https://github.com/CGAL/cgal""}}"
 31031,53940,26736,0,1,0,1,"{""git"":{""tag"":""v5.4.3"",""url"":""https://github.com/CGAL/cgal""}}"
+31032,53941,26737,0,1,0,1,"{""git"":{""tag"":""v2.4.3"",""url"":""https://github.com/libharu/libharu""}}"
