@@ -17129,3 +17129,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31042,53951,26747,0,1,0,1,"{""git"":{""tag"":""v1.50.0"",""url"":""https://github.com/grpc/grpc""}}"
 31043,53952,26746,0,1,0,1,"{""git"":{""tag"":""v1.50.0"",""url"":""https://github.com/grpc/grpc""}}"
 31044,53953,26749,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
+31045,53954,26750,0,1,0,1,"{""git"":{""tag"":""v2.13.10"",""url"":""https://github.com/catchorg/Catch2""}}"
