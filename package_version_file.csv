@@ -17130,3 +17130,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31049,53958,26752,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.74/glib-2.74.0.tar.xz""}}"
 31050,53959,26755,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.74/glib-2.74.0.tar.xz""}}"
 31051,53960,26756,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.74/glib-2.74.0.tar.xz""}}"
+31052,53961,26757,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/catchorg/Catch2""}}"
