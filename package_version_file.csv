@@ -17343,3 +17343,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31262,54171,26933,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 31263,54172,26938,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 31264,54173,26771,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
+31265,54174,26941,0,1,0,1,"{""git"":{""tag"":""v0.10.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+31266,54175,26940,0,1,0,1,"{""git"":{""tag"":""v0.10.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
