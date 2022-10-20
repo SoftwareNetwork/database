@@ -17358,3 +17358,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31277,54186,26950,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-72-1/icu4c-72_1-src.tgz""}}"
 31278,54187,26949,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-72-1/icu4c-72_1-src.tgz""}}"
 31279,54188,26948,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-72-1/icu4c-72_1-src.tgz""}}"
+31280,54189,26953,0,1,0,1,"{""git"":{""tag"":""5.3.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
