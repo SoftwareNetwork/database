@@ -17359,3 +17359,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31348,54257,27013,0,1,0,1,"{""git"":{""tag"":""v6.4.0"",""url"":""https://github.com/qt/qtwayland""}}"
 31349,54258,27017,0,1,0,1,"{""git"":{""tag"":""v6.4.0"",""url"":""https://github.com/qt/qtbase""}}"
 31350,54259,27021,0,1,0,1,"{""git"":{""tag"":""v6.4.0"",""url"":""https://github.com/qt/qtbase""}}"
+31351,54260,27022,0,1,0,1,"{""git"":{""tag"":""v1.3.25"",""url"":""https://github.com/awslabs/s2n""}}"
