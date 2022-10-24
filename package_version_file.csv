@@ -17363,3 +17363,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31385,54294,27056,0,1,0,1,"{""git"":{""tag"":""v2.0.8"",""url"":""https://github.com/arvidn/libtorrent""}}"
 31386,54295,27057,0,1,0,1,"{""git"":{""tag"":""v1.2.18"",""url"":""https://github.com/arvidn/libtorrent""}}"
 31387,54296,27058,0,1,0,1,"{""git"":{""tag"":""v2.4.3"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+31388,54297,27059,0,1,0,1,"{""git"":{""tag"":""v3.4.4"",""url"":""https://github.com/libffi/libffi""}}"
