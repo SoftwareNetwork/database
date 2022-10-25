@@ -17402,3 +17402,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31424,54333,27095,0,1,0,1,"{""git"":{""tag"":""poco-1.12.3-release"",""url"":""https://github.com/pocoproject/poco""}}"
 31425,54334,27097,0,1,0,1,"{""git"":{""tag"":""v3.10.6"",""url"":""https://github.com/python/cpython""}}"
 31426,54335,27096,0,1,0,1,"{""git"":{""tag"":""v3.10.6"",""url"":""https://github.com/python/cpython""}}"
+31427,54336,27098,0,1,0,1,"{""git"":{""tag"":""v3.10.7"",""url"":""https://github.com/python/cpython""}}"
+31428,54337,27099,0,1,0,1,"{""git"":{""tag"":""v3.10.7"",""url"":""https://github.com/python/cpython""}}"
+31429,54338,27101,0,1,0,1,"{""git"":{""tag"":""v3.10.8"",""url"":""https://github.com/python/cpython""}}"
+31430,54339,27100,0,1,0,1,"{""git"":{""tag"":""v3.10.8"",""url"":""https://github.com/python/cpython""}}"
