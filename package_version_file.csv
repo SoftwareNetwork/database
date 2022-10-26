@@ -17412,3 +17412,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31434,54343,27104,0,1,0,1,"{""git"":{""tag"":""v22.10.25"",""url"":""https://github.com/google/flatbuffers""}}"
 31435,54344,27106,0,1,0,1,"{""git"":{""tag"":""curl-7_86_0"",""url"":""https://github.com/curl/curl""}}"
 31436,54345,27107,0,1,0,1,"{""git"":{""tag"":""curl-7_86_0"",""url"":""https://github.com/curl/curl""}}"
+31437,54346,27108,0,1,0,1,"{""git"":{""tag"":""v21.9"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+31438,54347,27109,0,1,0,1,"{""git"":{""tag"":""v21.9"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+31439,54348,27111,0,1,0,1,"{""git"":{""tag"":""v21.9"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+31440,54349,27110,0,1,0,1,"{""git"":{""tag"":""v21.9"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+31441,54350,27112,0,1,0,1,"{""git"":{""tag"":""v1.2.13"",""url"":""https://github.com/madler/zlib""}}"
