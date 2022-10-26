@@ -17410,3 +17410,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31432,54341,27103,0,1,0,1,"{""git"":{""tag"":""v1.3.26"",""url"":""https://github.com/awslabs/s2n""}}"
 31433,54342,27105,0,1,0,1,"{""git"":{""tag"":""v22.10.25"",""url"":""https://github.com/google/flatbuffers""}}"
 31434,54343,27104,0,1,0,1,"{""git"":{""tag"":""v22.10.25"",""url"":""https://github.com/google/flatbuffers""}}"
+31435,54344,27106,0,1,0,1,"{""git"":{""tag"":""curl-7_86_0"",""url"":""https://github.com/curl/curl""}}"
+31436,54345,27107,0,1,0,1,"{""git"":{""tag"":""curl-7_86_0"",""url"":""https://github.com/curl/curl""}}"
