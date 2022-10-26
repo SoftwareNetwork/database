@@ -17407,3 +17407,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31429,54338,27101,0,1,0,1,"{""git"":{""tag"":""v3.10.8"",""url"":""https://github.com/python/cpython""}}"
 31430,54339,27100,0,1,0,1,"{""git"":{""tag"":""v3.10.8"",""url"":""https://github.com/python/cpython""}}"
 31431,54340,27102,0,1,0,1,"{""git"":{""tag"":""R_2_5_0"",""url"":""https://github.com/libexpat/libexpat""}}"
+31432,54341,27103,0,1,0,1,"{""git"":{""tag"":""v1.3.26"",""url"":""https://github.com/awslabs/s2n""}}"
