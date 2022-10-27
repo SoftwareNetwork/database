@@ -17417,3 +17417,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31439,54348,27111,0,1,0,1,"{""git"":{""tag"":""v21.9"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 31440,54349,27110,0,1,0,1,"{""git"":{""tag"":""v21.9"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 31441,54350,27112,0,1,0,1,"{""git"":{""tag"":""v1.2.13"",""url"":""https://github.com/madler/zlib""}}"
+31442,54351,27114,0,1,0,1,"{""git"":{""tag"":""v22.10.26"",""url"":""https://github.com/google/flatbuffers""}}"
+31443,54352,27113,0,1,0,1,"{""git"":{""tag"":""v22.10.26"",""url"":""https://github.com/google/flatbuffers""}}"
