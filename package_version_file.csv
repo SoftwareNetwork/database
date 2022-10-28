@@ -17430,3 +17430,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31452,54361,27125,0,1,0,1,"{""git"":{""tag"":""v1.50.1"",""url"":""https://github.com/grpc/grpc""}}"
 31453,54362,27124,0,1,0,1,"{""git"":{""tag"":""v1.50.1"",""url"":""https://github.com/grpc/grpc""}}"
 31454,54363,27123,0,1,0,1,"{""git"":{""tag"":""v1.50.1"",""url"":""https://github.com/grpc/grpc""}}"
+31455,54364,27127,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1r"",""url"":""https://github.com/openssl/openssl""}}"
+31456,54365,27126,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1r"",""url"":""https://github.com/openssl/openssl""}}"
