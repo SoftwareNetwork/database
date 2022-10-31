@@ -17475,3 +17475,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31500,54409,27170,0,1,0,1,"{""git"":{""tag"":""poco-1.11.5-release"",""url"":""https://github.com/pocoproject/poco""}}"
 31501,54410,27173,0,1,0,1,"{""git"":{""tag"":""poco-1.11.5-release"",""url"":""https://github.com/pocoproject/poco""}}"
 31502,54411,27172,0,1,0,1,"{""git"":{""tag"":""poco-1.11.5-release"",""url"":""https://github.com/pocoproject/poco""}}"
+31503,54412,27174,0,1,0,1,"{""git"":{""tag"":""v2.10.1"",""url"":""https://github.com/pybind/pybind11""}}"
+31504,54413,27175,0,1,0,1,"{""git"":{""tag"":""v3.5.3"",""url"":""https://github.com/OSGeo/gdal""}}"
