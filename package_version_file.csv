@@ -17479,3 +17479,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31504,54413,27175,0,1,0,1,"{""git"":{""tag"":""v3.5.3"",""url"":""https://github.com/OSGeo/gdal""}}"
 31505,54414,27176,0,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/CLIUtils/CLI11""}}"
 31506,54415,27177,0,1,0,1,"{""git"":{""tag"":""v10.0.21"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
+31507,54416,27178,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1s"",""url"":""https://github.com/openssl/openssl""}}"
+31508,54417,27179,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1s"",""url"":""https://github.com/openssl/openssl""}}"
