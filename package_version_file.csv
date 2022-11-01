@@ -17478,3 +17478,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31503,54412,27174,0,1,0,1,"{""git"":{""tag"":""v2.10.1"",""url"":""https://github.com/pybind/pybind11""}}"
 31504,54413,27175,0,1,0,1,"{""git"":{""tag"":""v3.5.3"",""url"":""https://github.com/OSGeo/gdal""}}"
 31505,54414,27176,0,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/CLIUtils/CLI11""}}"
+31506,54415,27177,0,1,0,1,"{""git"":{""tag"":""v10.0.21"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
