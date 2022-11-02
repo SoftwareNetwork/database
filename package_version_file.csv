@@ -17697,3 +17697,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31769,54678,27406,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 31770,54679,27410,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 31771,54680,27412,0,1,0,1,"{""git"":{""tag"":""v1.13"",""url"":""https://github.com/zeux/pugixml""}}"
+31772,54681,27413,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/gabime/spdlog""}}"
