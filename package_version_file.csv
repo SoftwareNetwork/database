@@ -17483,3 +17483,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31508,54417,27179,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1s"",""url"":""https://github.com/openssl/openssl""}}"
 31509,54418,27180,0,1,0,1,"{""git"":{""tag"":""v1.3"",""url"":""https://github.com/reo7sp/tgbot-cpp""}}"
 31510,54419,27181,0,1,0,1,"{""git"":{""tag"":""v1.4"",""url"":""https://github.com/reo7sp/tgbot-cpp""}}"
+31511,54420,27182,0,1,0,1,"{""git"":{""tag"":""cpp-4.1.3"",""url"":""https://github.com/msgpack/msgpack-c""}}"
