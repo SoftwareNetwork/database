@@ -17707,3 +17707,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31779,54688,27420,0,1,0,1,"{""git"":{""tag"":""4.8.2"",""url"":""https://github.com/emweb/wt""}}"
 31780,54689,27421,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
 31781,54690,27422,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
+31782,54691,27423,0,1,0,1,"{""git"":{""tag"":""version-4.0.0"",""url"":""https://github.com/mdadams/jasper""}}"
