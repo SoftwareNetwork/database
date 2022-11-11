@@ -17711,3 +17711,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31910,54819,27427,0,1,0,1,"{""git"":{""tag"":""v3.1.6"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 31911,54820,27428,0,1,0,1,"{""git"":{""tag"":""v1.5"",""url"":""https://github.com/reo7sp/tgbot-cpp""}}"
 31912,54821,27429,0,1,0,1,"{""git"":{""tag"":""v3.11.0"",""url"":""https://github.com/skypjack/entt""}}"
+31913,54822,27430,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/OSGeo/gdal""}}"
