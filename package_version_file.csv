@@ -17714,3 +17714,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31913,54822,27430,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 31914,54823,27431,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 31915,54824,27432,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+31916,54825,27433,0,1,0,1,"{""git"":{""tag"":""v1.51.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
