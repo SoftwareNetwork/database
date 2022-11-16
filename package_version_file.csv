@@ -18029,3 +18029,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32275,55184,27710,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 32276,55186,27714,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 32277,55185,27711,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
+32278,55187,27715,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3400000.zip""}}"
+32279,55188,27716,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3400000.zip""}}"
+32280,55189,27717,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/catchorg/Catch2""}}"
