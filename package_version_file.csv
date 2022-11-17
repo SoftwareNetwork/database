@@ -18032,3 +18032,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32278,55187,27715,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3400000.zip""}}"
 32279,55188,27716,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2022/sqlite-amalgamation-3400000.zip""}}"
 32280,55189,27717,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/catchorg/Catch2""}}"
+32281,55190,27718,0,1,0,1,"{""git"":{""tag"":""2.0.0"",""url"":""https://github.com/apolukhin/magic_get""}}"
+32282,55191,27719,0,1,0,1,"{""git"":{""tag"":""2.0.1"",""url"":""https://github.com/apolukhin/magic_get""}}"
+32283,55192,27720,0,1,0,1,"{""git"":{""tag"":""2.0.2"",""url"":""https://github.com/apolukhin/magic_get""}}"
