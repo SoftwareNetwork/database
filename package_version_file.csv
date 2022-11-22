@@ -18110,3 +18110,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32680,55589,27377,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 32681,55590,27409,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 32682,55591,27387,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+32683,55592,27983,0,1,0,1,"{""git"":{""tag"":""v22.11.22"",""url"":""https://github.com/google/flatbuffers""}}"
+32684,55593,27984,0,1,0,1,"{""git"":{""tag"":""v22.11.22"",""url"":""https://github.com/google/flatbuffers""}}"
