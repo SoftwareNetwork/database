@@ -18203,3 +18203,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32780,55689,28080,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.9.tar.xz""}}"
 32781,55690,28081,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.9.tar.xz""}}"
 32782,55691,28082,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/preshing/junction""}}"
+32783,55692,28084,0,1,0,1,"{""git"":{""tag"":""v22.11.23"",""url"":""https://github.com/google/flatbuffers""}}"
+32784,55693,28083,0,1,0,1,"{""git"":{""tag"":""v22.11.23"",""url"":""https://github.com/google/flatbuffers""}}"

@@ -101809,3 +101809,4 @@ package_version_id,package_id,version_range
 55690,1909,>=3.0.0 <4.0.0
 55690,4388,*
 55691,669,master
+55693,5419,=22.11.23
