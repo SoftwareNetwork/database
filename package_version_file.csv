@@ -18151,3 +18151,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32727,55636,28027,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.49/pango-1.49.0.tar.xz""}}"
 32728,55638,28028,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.49/pango-1.49.0.tar.xz""}}"
 32729,55637,28029,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.49/pango-1.49.0.tar.xz""}}"
+32730,55640,28031,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.12.tar.xz""}}"
+32731,55639,28030,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.12.tar.xz""}}"
+32732,55641,28032,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.12.tar.xz""}}"
