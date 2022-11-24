@@ -17663,7 +17663,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31910,54819,27427,0,1,0,1,"{""git"":{""tag"":""v3.1.6"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 31911,54820,27428,0,1,0,1,"{""git"":{""tag"":""v1.5"",""url"":""https://github.com/reo7sp/tgbot-cpp""}}"
 31912,54821,27429,0,1,0,1,"{""git"":{""tag"":""v3.11.0"",""url"":""https://github.com/skypjack/entt""}}"
-31913,54822,27430,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 31914,54823,27431,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 31915,54824,27432,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 31916,54825,27433,0,1,0,1,"{""git"":{""tag"":""v1.51.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
@@ -18205,3 +18204,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32785,55694,28087,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.12.tar.xz""}}"
 32786,55695,28086,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.12.tar.xz""}}"
 32787,55696,28085,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.12.tar.xz""}}"
+32788,55697,28088,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/OSGeo/gdal""}}"
