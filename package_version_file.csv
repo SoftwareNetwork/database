@@ -18222,3 +18222,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32866,55775,28165,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtimageformats""}}"
 32867,55776,28162,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtdeclarative""}}"
 32868,55777,28166,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtbase""}}"
+32869,55778,28167,0,1,0,1,"{""git"":{""tag"":""3.0.1"",""url"":""https://github.com/richgel999/miniz""}}"
