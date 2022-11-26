@@ -18226,3 +18226,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33073,55982,27409,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 33074,55983,28234,0,1,0,1,"{""git"":{""tag"":""v1.7.1"",""url"":""https://github.com/hunspell/hunspell""}}"
 33075,55984,28235,0,1,0,1,"{""git"":{""tag"":""v3.4.4"",""url"":""https://github.com/libffi/libffi""}}"
+33076,55985,28236,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.1.tar.gz""}}"
