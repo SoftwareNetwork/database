@@ -2236,3 +2236,5 @@ package_id,path
 7198,org.sw.demo.richgel999.miniz
 7199,org.sw.demo.qtproject.qt.5compat
 7200,org.sw.demo.hunspell.hunspell
+7201,org.sw.demo.qtproject.qt.webengine.core
+7202,org.sw.demo.qtproject.qt.declarative.qml.integration
