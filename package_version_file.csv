@@ -18225,3 +18225,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33071,55980,27411,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 33072,55981,27982,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 33073,55982,27409,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+33074,55983,28234,0,1,0,1,"{""git"":{""tag"":""v1.7.1"",""url"":""https://github.com/hunspell/hunspell""}}"
