@@ -17183,7 +17183,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 31268,54177,26945,0,1,0,1,"{""git"":{""tag"":""v21.8"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 31269,54179,26943,0,1,0,1,"{""git"":{""tag"":""v21.8"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 31270,54178,26942,0,1,0,1,"{""git"":{""tag"":""v21.8"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
-31280,54189,26953,0,1,0,1,"{""git"":{""tag"":""5.3.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
 31281,54190,26955,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-72-1/icu4c-72_1-src.tgz""}}"
 31282,54191,26956,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-72-1/icu4c-72_1-src.tgz""}}"
 31283,54192,26955,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-72-1/icu4c-72_1-src.tgz""}}"
@@ -18233,3 +18232,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33090,55999,28252,0,1,0,1,"{""git"":{""tag"":""1.17.6"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
 33091,56000,28251,0,1,0,1,"{""git"":{""tag"":""1.17.6"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
 33092,56001,28250,0,1,0,1,"{""git"":{""tag"":""1.17.6"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
+33093,56002,28253,0,1,0,1,"{""git"":{""tag"":""5.3.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
