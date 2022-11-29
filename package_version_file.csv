@@ -18236,3 +18236,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33476,56385,28635,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qttools""}}"
 33477,56386,28636,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtbase""}}"
 33478,56387,28638,0,1,0,1,"{""git"":{""tag"":""v2.5.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+33479,56388,28639,0,1,0,1,"{""git"":{""branch"":""stable"",""url"":""https://github.com/kokkos/mdspan""}}"
