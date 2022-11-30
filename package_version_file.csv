@@ -18463,3 +18463,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33703,56612,28833,0,1,0,1,"{""git"":{""tag"":""v1.3.29"",""url"":""https://github.com/awslabs/s2n""}}"
 33704,56613,28834,0,1,0,1,"{""git"":{""tag"":""v0.11.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 33705,56614,28835,0,1,0,1,"{""git"":{""tag"":""2022-12-01"",""url"":""https://github.com/google/re2""}}"
+33706,56616,28839,0,1,0,1,"{""git"":{""tag"":""v21.10"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+33707,56615,28838,0,1,0,1,"{""git"":{""tag"":""v21.10"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+33708,56617,28837,0,1,0,1,"{""git"":{""tag"":""v21.10"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+33709,56618,28836,0,1,0,1,"{""git"":{""tag"":""v21.10"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
