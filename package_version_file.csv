@@ -18470,3 +18470,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33710,56619,28840,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/SanderMertens/flecs""}}"
 33711,56620,28841,0,1,0,1,"{""git"":{""tag"":""9.1.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
 33712,56621,28842,0,1,0,1,"{""git"":{""tag"":""v3.11.1"",""url"":""https://github.com/skypjack/entt""}}"
+33713,56622,28843,0,1,0,1,"{""git"":{""tag"":""release-2.26.1"",""url"":""https://github.com/libsdl-org/SDL""}}"
+33714,56623,28843,0,1,0,1,"{""git"":{""tag"":""release-2.26.1"",""url"":""https://github.com/libsdl-org/SDL""}}"
