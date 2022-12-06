@@ -18473,3 +18473,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33713,56622,28843,0,1,0,1,"{""git"":{""tag"":""release-2.26.1"",""url"":""https://github.com/libsdl-org/SDL""}}"
 33714,56623,28843,0,1,0,1,"{""git"":{""tag"":""release-2.26.1"",""url"":""https://github.com/libsdl-org/SDL""}}"
 33715,56624,28844,0,1,0,1,"{""git"":{""tag"":""v1.4.5.2"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+33716,56625,28846,0,1,0,1,"{""git"":{""tag"":""pcre2-10.41"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+33717,56626,28845,0,1,0,1,"{""git"":{""tag"":""pcre2-10.41"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+33718,56627,28845,0,1,0,1,"{""git"":{""tag"":""pcre2-10.41"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+33719,56628,28845,0,1,0,1,"{""git"":{""tag"":""pcre2-10.41"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
