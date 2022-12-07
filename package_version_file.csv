@@ -18477,3 +18477,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33717,56626,28845,0,1,0,1,"{""git"":{""tag"":""pcre2-10.41"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 33718,56627,28845,0,1,0,1,"{""git"":{""tag"":""pcre2-10.41"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 33719,56628,28845,0,1,0,1,"{""git"":{""tag"":""pcre2-10.41"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+33720,56629,28847,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
+33721,56630,28848,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
