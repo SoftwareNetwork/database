@@ -18480,3 +18480,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33720,56629,28847,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
 33721,56630,28848,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
 33722,56631,28849,0,1,0,1,"{""git"":{""tag"":""v1.3.30"",""url"":""https://github.com/awslabs/s2n""}}"
+33723,56632,28852,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+33724,56633,28851,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+33725,56635,28853,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+33726,56634,28850,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
