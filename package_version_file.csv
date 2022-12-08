@@ -18484,3 +18484,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33724,56633,28851,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 33725,56635,28853,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 33726,56634,28850,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+33727,56636,28854,0,1,0,1,"{""git"":{""tag"":""v2.6.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
