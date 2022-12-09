@@ -18486,3 +18486,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33726,56634,28850,0,1,0,1,"{""git"":{""tag"":""v21.11"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 33727,56636,28854,0,1,0,1,"{""git"":{""tag"":""v2.6.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 33728,56637,28855,0,1,0,1,"{""git"":{""tag"":""v0.7.11"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+33729,56638,28856,0,1,0,1,"{""git"":{""tag"":""v0.7.12"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+33730,56639,28857,0,1,0,1,"{""git"":{""tag"":""v0.7.13"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+33731,56640,28858,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+33732,56641,28859,0,1,0,1,"{""git"":{""tag"":""v0.8.1"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
