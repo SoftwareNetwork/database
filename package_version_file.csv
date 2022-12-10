@@ -18495,3 +18495,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33735,56644,28862,0,1,0,1,"{""git"":{""tag"":""v1.6.39"",""url"":""https://github.com/glennrp/libpng""}}"
 33736,56645,28863,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 33737,56646,28864,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/catchorg/Catch2""}}"
+33738,56647,28865,0,1,0,1,"{""git"":{""tag"":""v0.8.5"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+33739,56648,28866,0,1,0,1,"{""git"":{""tag"":""v0.6.28"",""url"":""https://github.com/awslabs/aws-c-http""}}"
