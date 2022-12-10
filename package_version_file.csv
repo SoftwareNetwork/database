@@ -18493,3 +18493,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33733,56642,28860,0,1,0,1,"{""git"":{""tag"":""v0.8.2"",""url"":""https://github.com/Neargye/magic_enum""}}"
 33734,56643,28861,0,1,0,1,"{""git"":{""tag"":""v3.6.2"",""url"":""https://github.com/libarchive/libarchive""}}"
 33735,56644,28862,0,1,0,1,"{""git"":{""tag"":""v1.6.39"",""url"":""https://github.com/glennrp/libpng""}}"
+33736,56645,28863,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
+33737,56646,28864,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/catchorg/Catch2""}}"
