@@ -2239,3 +2239,4 @@ package_id,path
 7201,org.sw.demo.qtproject.qt.webengine.core
 7202,org.sw.demo.qtproject.qt.declarative.qml.integration
 7203,org.sw.demo.kokkos.mdspan
+7204,org.sw.demo.boost.url
