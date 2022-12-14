@@ -18510,3 +18510,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 33752,56661,28877,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.74/glib-2.74.3.tar.xz""}}"
 33753,56662,28878,0,1,0,1,"{""git"":{""tag"":""v1.1.4"",""url"":""https://github.com/imageworks/pystring""}}"
 33754,56663,28879,0,1,0,1,"{""git"":{""tag"":""v1.3.31"",""url"":""https://github.com/awslabs/s2n""}}"
+33755,56664,28880,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/SanderMertens/flecs""}}"
