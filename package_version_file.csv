@@ -18659,3 +18659,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34059,56968,29094,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtimageformats""}}"
 34060,56969,29095,0,1,0,1,"{""git"":{""tag"":""v2.6.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 34061,56970,29096,0,1,0,1,"{""git"":{""tag"":""v3.6.1"",""url"":""https://github.com/OSGeo/gdal""}}"
+34062,56971,29097,0,1,0,1,"{""git"":{""tag"":""v0.8.2"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
