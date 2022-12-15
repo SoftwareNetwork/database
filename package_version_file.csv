@@ -18657,3 +18657,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34057,56966,29093,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtbase""}}"
 34058,56967,29090,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtwayland""}}"
 34059,56968,29094,0,1,0,1,"{""git"":{""tag"":""v6.4.1"",""url"":""https://github.com/qt/qtimageformats""}}"
+34060,56969,29095,0,1,0,1,"{""git"":{""tag"":""v2.6.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
