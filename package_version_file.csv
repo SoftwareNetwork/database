@@ -18679,3 +18679,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34143,57052,29178,0,1,0,1,"{""git"":{""tag"":""poco-1.11.6-release"",""url"":""https://github.com/pocoproject/poco""}}"
 34144,57053,29179,0,1,0,1,"{""git"":{""tag"":""poco-1.11.6-release"",""url"":""https://github.com/pocoproject/poco""}}"
 34145,57054,29180,0,1,0,1,"{""git"":{""tag"":""6.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+34146,57055,29181,0,1,0,1,"{""git"":{""tag"":""v0.5.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
