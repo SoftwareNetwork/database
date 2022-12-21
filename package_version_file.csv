@@ -18681,3 +18681,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34145,57054,29180,0,1,0,1,"{""git"":{""tag"":""6.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 34146,57055,29181,0,1,0,1,"{""git"":{""tag"":""v0.5.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
 34147,57056,29182,0,1,0,1,"{""git"":{""tag"":""1.9.3"",""url"":""https://github.com/whoshuu/cpr""}}"
+34148,57057,29183,0,1,0,1,"{""git"":{""tag"":""v2.10.2"",""url"":""https://github.com/pybind/pybind11""}}"
+34149,57058,29184,0,1,0,1,"{""git"":{""tag"":""1.83.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
