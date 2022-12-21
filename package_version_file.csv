@@ -18683,3 +18683,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34147,57056,29182,0,1,0,1,"{""git"":{""tag"":""1.9.3"",""url"":""https://github.com/whoshuu/cpr""}}"
 34148,57057,29183,0,1,0,1,"{""git"":{""tag"":""v2.10.2"",""url"":""https://github.com/pybind/pybind11""}}"
 34149,57058,29184,0,1,0,1,"{""git"":{""tag"":""1.83.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
+34150,57059,29185,0,1,0,1,"{""git"":{""tag"":""curl-7_87_0"",""url"":""https://github.com/curl/curl""}}"
+34151,57060,29186,0,1,0,1,"{""git"":{""tag"":""curl-7_87_0"",""url"":""https://github.com/curl/curl""}}"
