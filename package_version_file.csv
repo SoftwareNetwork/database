@@ -18714,3 +18714,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34179,57088,29211,0,1,0,1,"{""git"":{""tag"":""4.9.0"",""url"":""https://github.com/emweb/wt""}}"
 34180,57089,29215,0,1,0,1,"{""git"":{""tag"":""v2.4.3"",""url"":""https://github.com/libharu/libharu""}}"
 34181,57090,29216,0,1,0,1,"{""git"":{""tag"":""3.4.0"",""url"":""https://github.com/libsigcplusplus/libsigcplusplus""}}"
+34182,57091,29217,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/alitrack/mman-win32""}}"
