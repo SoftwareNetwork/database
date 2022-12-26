@@ -18105,7 +18105,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 32932,55841,28230,0,1,0,1,"{""git"":{""tag"":""1.3.3"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
 33074,55983,28234,0,1,0,1,"{""git"":{""tag"":""v1.7.1"",""url"":""https://github.com/hunspell/hunspell""}}"
 33075,55984,28235,0,1,0,1,"{""git"":{""tag"":""v3.4.4"",""url"":""https://github.com/libffi/libffi""}}"
-33076,55985,28236,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.1.tar.gz""}}"
 33077,55986,28237,0,1,0,1,"{""remote"":{""url"":""https://www.cairographics.org/releases/pixman-0.42.2.tar.gz""}}"
 33078,55987,28241,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.74/glib-2.74.1.tar.xz""}}"
 33079,55988,28240,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.74/glib-2.74.1.tar.xz""}}"
@@ -18751,3 +18750,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34216,57125,29251,0,1,0,1,"{""git"":{""tag"":""1.10.38"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 34217,57126,29252,0,1,0,1,"{""git"":{""tag"":""v0.19.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 34218,57127,29253,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+34220,57129,29254,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.1.tar.gz""}}"
+34221,57130,29255,0,1,0,1,"{""git"":{""tag"":""v0.1.6"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
