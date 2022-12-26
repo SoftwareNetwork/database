@@ -18732,3 +18732,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34197,57106,29232,0,1,0,1,"{""git"":{""tag"":""v0.6.19"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 34198,57107,29233,0,1,0,1,"{""git"":{""tag"":""v0.6.20"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 34199,57108,29234,0,1,0,1,"{""git"":{""tag"":""v0.6.21"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+34200,57109,29235,0,1,0,1,"{""git"":{""tag"":""v0.1.44"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+34201,57110,29236,0,1,0,1,"{""git"":{""tag"":""v0.1.45"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+34202,57111,29237,0,1,0,1,"{""git"":{""tag"":""v0.1.46"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+34203,57112,29238,0,1,0,1,"{""git"":{""tag"":""v0.1.47"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+34204,57113,29239,0,1,0,1,"{""git"":{""tag"":""v0.1.48"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
