@@ -18751,7 +18751,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34218,57127,29253,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 34220,57129,29254,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.21.1.tar.gz""}}"
 34221,57130,29255,0,1,0,1,"{""git"":{""tag"":""v0.1.6"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
-34222,57131,29256,0,1,0,1,"{""git"":{""tag"":""v0.13.12"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 34223,57132,29257,0,1,0,1,"{""git"":{""tag"":""v0.19.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 34224,57133,29258,0,1,0,1,"{""git"":{""tag"":""v0.1.7"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
 34225,57134,29259,0,1,0,1,"{""git"":{""tag"":""v0.8.3"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
@@ -18774,3 +18773,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34254,57165,29283,0,1,0,1,"{""git"":{""tag"":""REL_15_1"",""url"":""https://github.com/postgres/postgres""}}"
 34255,57163,29286,0,1,0,1,"{""git"":{""tag"":""REL_15_1"",""url"":""https://github.com/postgres/postgres""}}"
 34256,57164,29285,0,1,0,1,"{""git"":{""tag"":""REL_15_1"",""url"":""https://github.com/postgres/postgres""}}"
+34257,57166,29287,0,1,0,1,"{""git"":{""tag"":""v0.13.12"",""url"":""https://github.com/awslabs/aws-c-io""}}"
