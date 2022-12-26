@@ -18770,3 +18770,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34242,57151,29276,0,1,0,1,"{""git"":{""tag"":""xorgproto-2022.2"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
 34243,57153,29277,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.1"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 34244,57152,29278,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.1"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
+34245,57155,29279,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.2"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
+34246,57154,29280,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.2"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
