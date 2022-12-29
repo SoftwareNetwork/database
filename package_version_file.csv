@@ -18834,4 +18834,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34336,57245,29366,0,1,0,1,"{""git"":{""tag"":""6.4.0"",""url"":""https://github.com/Taywee/args""}}"
 34337,57246,29367,0,1,0,1,"{""git"":{""tag"":""2.18.1"",""url"":""https://github.com/randombit/botan""}}"
 34338,57247,29368,0,1,0,1,"{""git"":{""tag"":""2.18.2"",""url"":""https://github.com/randombit/botan""}}"
-34339,57248,29369,0,1,0,1,"{""git"":{""tag"":""2.19.0"",""url"":""https://github.com/randombit/botan""}}"
+34340,57249,29369,0,1,0,1,"{""git"":{""tag"":""2.19.0"",""url"":""https://github.com/randombit/botan""}}"
+34341,57250,29370,0,1,0,1,"{""git"":{""tag"":""2.19.1"",""url"":""https://github.com/randombit/botan""}}"
+34342,57251,29371,0,1,0,1,"{""git"":{""tag"":""2.19.2"",""url"":""https://github.com/randombit/botan""}}"
+34343,57252,29372,0,1,0,1,"{""git"":{""tag"":""2.19.3"",""url"":""https://github.com/randombit/botan""}}"
