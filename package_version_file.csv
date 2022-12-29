@@ -18831,3 +18831,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34333,57243,29363,0,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 34334,57242,29364,0,1,0,1,"{""git"":{""tag"":""v2.3.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 34335,57244,29365,0,1,0,1,"{""git"":{""tag"":""2.4.0"",""url"":""https://github.com/team-charls/charls""}}"
+34336,57245,29366,0,1,0,1,"{""git"":{""tag"":""6.4.0"",""url"":""https://github.com/Taywee/args""}}"
