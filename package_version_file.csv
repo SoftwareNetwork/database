@@ -18843,3 +18843,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34346,57255,29375,0,1,0,1,"{""git"":{""tag"":""6.4.2"",""url"":""https://github.com/Taywee/args""}}"
 34347,57256,29376,0,1,0,1,"{""git"":{""tag"":""6.4.4"",""url"":""https://github.com/Taywee/args""}}"
 34348,57257,29377,0,1,0,1,"{""git"":{""tag"":""v0.10.2"",""url"":""https://github.com/Neargye/nameof""}}"
+34349,57258,29378,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+34350,57259,29379,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+34351,57260,29380,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
