@@ -18848,3 +18848,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34634,57543,29663,0,1,0,1,"{""git"":{""tag"":""boost-1.81.0"",""url"":""https://github.com/boostorg/variant2""}}"
 34635,57544,29664,0,1,0,1,"{""git"":{""tag"":""boost-1.81.0"",""url"":""https://github.com/boostorg/yap""}}"
 34636,57545,29665,0,1,0,1,"{""git"":{""tag"":""2.4.1"",""url"":""https://github.com/team-charls/charls""}}"
+34637,57546,29666,0,1,0,1,"{""git"":{""tag"":""v2.10.3"",""url"":""https://github.com/pybind/pybind11""}}"
