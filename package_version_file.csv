@@ -18874,3 +18874,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34665,57574,29681,0,1,0,1,"{""git"":{""tag"":""v1.89.2"",""url"":""https://github.com/ocornut/imgui""}}"
 34666,57575,29688,0,1,0,1,"{""git"":{""tag"":""v1.89.2"",""url"":""https://github.com/ocornut/imgui""}}"
 34667,57576,29689,0,1,0,1,"{""git"":{""tag"":""hidapi-0.13.0"",""url"":""https://github.com/libusb/hidapi""}}"
+34668,57577,29690,0,1,0,1,"{""git"":{""tag"":""v1.3.32"",""url"":""https://github.com/awslabs/s2n""}}"
