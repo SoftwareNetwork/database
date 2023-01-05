@@ -18855,3 +18855,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34644,57553,29672,0,1,0,1,"{""git"":{""tag"":""v1.6"",""url"":""https://github.com/reo7sp/tgbot-cpp""}}"
 34647,57556,28848,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
 34648,57557,28847,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
+34649,57558,29673,0,1,0,1,"{""git"":{""tag"":""v3.6.2"",""url"":""https://github.com/OSGeo/gdal""}}"
