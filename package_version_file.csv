@@ -18877,3 +18877,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34673,57582,29695,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/Tessil/array-hash""}}"
 34674,57583,29696,0,1,0,1,"{""git"":{""tag"":""v1.2.0"",""url"":""https://github.com/Tessil/robin-map""}}"
 34675,57584,29697,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+34676,57586,29698,0,1,0,1,"{""git"":{""tag"":""v0.12.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+34677,57585,29699,0,1,0,1,"{""git"":{""tag"":""v0.12.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
