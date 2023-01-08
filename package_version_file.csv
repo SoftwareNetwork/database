@@ -18879,3 +18879,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34722,57631,27409,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 34723,57632,27401,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 34724,57633,27370,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+34725,57634,29706,0,1,0,1,"{""git"":{""tag"":""CRYPTOPP_8_3_0"",""url"":""https://github.com/weidai11/cryptopp""}}"
