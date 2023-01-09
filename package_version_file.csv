@@ -18884,3 +18884,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34727,57636,29708,0,1,0,1,"{""git"":{""tag"":""CRYPTOPP_8_5_0"",""url"":""https://github.com/weidai11/cryptopp""}}"
 34728,57637,29709,0,1,0,1,"{""git"":{""tag"":""CRYPTOPP_8_6_0"",""url"":""https://github.com/weidai11/cryptopp""}}"
 34729,57638,29710,0,1,0,1,"{""git"":{""tag"":""CRYPTOPP_8_7_0"",""url"":""https://github.com/weidai11/cryptopp""}}"
+34730,57639,29711,0,1,0,1,"{""git"":{""tag"":""hidapi-0.13.1"",""url"":""https://github.com/libusb/hidapi""}}"
