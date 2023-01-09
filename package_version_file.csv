@@ -18891,3 +18891,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34734,57643,29715,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.4.0.tar.gz""}}"
 34735,57644,29716,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.2.6.tar.gz""}}"
 34736,57645,29717,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.2.7.tar.gz""}}"
+34737,57646,29718,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.2.9.tar.gz""}}"
+34738,57647,29719,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.2.8.tar.gz""}}"
