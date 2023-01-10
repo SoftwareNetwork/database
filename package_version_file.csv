@@ -18893,3 +18893,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 34783,57692,27401,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 34784,57693,27370,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 34785,57694,27409,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+34786,57695,29721,0,1,0,1,"{""git"":{""tag"":""v0.11.4"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
