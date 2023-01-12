@@ -19112,3 +19112,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35003,57912,29907,0,1,0,1,"{""git"":{""tag"":""v0.2.2"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 35004,57913,29908,0,1,0,1,"{""git"":{""tag"":""v0.8.8"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 35005,57914,29909,0,1,0,1,"{""git"":{""tag"":""v0.13.13"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+35006,57915,29910,0,1,0,1,"{""git"":{""tag"":""v0.6.22"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+35007,57916,29911,0,1,0,1,"{""git"":{""tag"":""v0.2.18"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
