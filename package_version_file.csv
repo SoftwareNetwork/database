@@ -19109,3 +19109,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35000,57909,29904,0,1,0,1,"{""git"":{""tag"":""llvmorg-15.0.7"",""url"":""https://github.com/llvm/llvm-project""}}"
 35001,57910,29905,0,1,0,1,"{""git"":{""tag"":""6.4.6"",""url"":""https://github.com/Taywee/args""}}"
 35002,57911,29906,0,1,0,1,"{""git"":{""tag"":""v0.8.7"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+35003,57912,29907,0,1,0,1,"{""git"":{""tag"":""v0.2.2"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+35004,57913,29908,0,1,0,1,"{""git"":{""tag"":""v0.8.8"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+35005,57914,29909,0,1,0,1,"{""git"":{""tag"":""v0.13.13"",""url"":""https://github.com/awslabs/aws-c-io""}}"
