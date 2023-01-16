@@ -19244,3 +19244,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35153,58062,29687,0,1,0,1,"{""git"":{""tag"":""v1.89.2"",""url"":""https://github.com/ocornut/imgui""}}"
 35154,58063,29688,0,1,0,1,"{""git"":{""tag"":""v1.89.2"",""url"":""https://github.com/ocornut/imgui""}}"
 35155,58064,30042,0,1,0,1,"{""git"":{""tag"":""1.9.3"",""url"":""https://github.com/whoshuu/cpr""}}"
+35156,58065,30043,0,1,0,1,"{""remote"":{""url"":""https://www.mpfr.org/mpfr-current/mpfr-4.2.0.tar.xz""}}"
