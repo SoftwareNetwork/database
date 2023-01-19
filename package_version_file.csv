@@ -19246,3 +19246,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35155,58064,30042,0,1,0,1,"{""git"":{""tag"":""1.9.3"",""url"":""https://github.com/whoshuu/cpr""}}"
 35156,58065,30043,0,1,0,1,"{""remote"":{""url"":""https://www.mpfr.org/mpfr-current/mpfr-4.2.0.tar.xz""}}"
 35157,58066,30044,0,1,0,1,"{""git"":{""tag"":""v1.3.33"",""url"":""https://github.com/awslabs/s2n""}}"
+35158,58067,30045,0,1,0,1,"{""git"":{""tag"":""1.0.3"",""url"":""https://github.com/google/highway""}}"
