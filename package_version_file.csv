@@ -19248,3 +19248,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35157,58066,30044,0,1,0,1,"{""git"":{""tag"":""v1.3.33"",""url"":""https://github.com/awslabs/s2n""}}"
 35158,58067,30045,0,1,0,1,"{""git"":{""tag"":""1.0.3"",""url"":""https://github.com/google/highway""}}"
 35159,58068,30046,0,1,0,1,"{""git"":{""tag"":""v0.2.3"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+35160,58069,30050,0,1,0,1,"{""git"":{""tag"":""4.9.1"",""url"":""https://github.com/emweb/wt""}}"
+35161,58070,30048,0,1,0,1,"{""git"":{""tag"":""4.9.1"",""url"":""https://github.com/emweb/wt""}}"
+35162,58071,30047,0,1,0,1,"{""git"":{""tag"":""4.9.1"",""url"":""https://github.com/emweb/wt""}}"
+35163,58072,30049,0,1,0,1,"{""git"":{""tag"":""4.9.1"",""url"":""https://github.com/emweb/wt""}}"
