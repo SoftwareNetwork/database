@@ -19254,3 +19254,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35165,58074,30052,0,1,0,1,"{""git"":{""tag"":""1.7"",""url"":""https://github.com/skywind3000/kcp""}}"
 35168,58077,28847,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
 35169,58078,28848,0,1,0,1,"{""git"":{""tag"":""v22.12.06"",""url"":""https://github.com/google/flatbuffers""}}"
+35170,58079,30053,0,1,0,1,"{""git"":{""tag"":""v23.1.21"",""url"":""https://github.com/google/flatbuffers""}}"
+35171,58080,30054,0,1,0,1,"{""git"":{""tag"":""v23.1.21"",""url"":""https://github.com/google/flatbuffers""}}"
+35172,58081,30055,0,1,0,1,"{""git"":{""tag"":""v23.1.20"",""url"":""https://github.com/google/flatbuffers""}}"
+35173,58082,30056,0,1,0,1,"{""git"":{""tag"":""v23.1.20"",""url"":""https://github.com/google/flatbuffers""}}"
