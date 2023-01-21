@@ -19253,3 +19253,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35162,58071,30047,0,1,0,1,"{""git"":{""tag"":""4.9.1"",""url"":""https://github.com/emweb/wt""}}"
 35163,58072,30049,0,1,0,1,"{""git"":{""tag"":""4.9.1"",""url"":""https://github.com/emweb/wt""}}"
 35164,58073,30051,0,1,0,1,"{""git"":{""tag"":""v1.4.5.3"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+35165,58074,30052,0,1,0,1,"{""git"":{""tag"":""1.7"",""url"":""https://github.com/skywind3000/kcp""}}"
