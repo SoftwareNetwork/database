@@ -19260,3 +19260,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35173,58082,30056,0,1,0,1,"{""git"":{""tag"":""v23.1.20"",""url"":""https://github.com/google/flatbuffers""}}"
 35174,58083,30057,0,1,0,1,"{""git"":{""tag"":""v1.4.5.4"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 35175,58084,30058,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/catchorg/Catch2""}}"
+35176,58085,30059,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/lemire/simdjson""}}"
+35177,58086,30060,0,1,0,1,"{""git"":{""tag"":""v0.8.5"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
