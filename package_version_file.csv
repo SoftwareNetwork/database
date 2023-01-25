@@ -19262,3 +19262,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35175,58084,30058,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/catchorg/Catch2""}}"
 35176,58085,30059,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/lemire/simdjson""}}"
 35177,58086,30060,0,1,0,1,"{""git"":{""tag"":""v0.8.5"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+35178,58087,30061,0,1,0,1,"{""git"":{""tag"":""v0.19.3"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+35179,58088,30062,0,1,0,1,"{""git"":{""tag"":""v0.19.4"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
