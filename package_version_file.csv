@@ -19274,3 +19274,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35187,58096,30069,0,1,0,1,"{""git"":{""tag"":""v3.0.21"",""url"":""https://github.com/malaterre/GDCM""}}"
 35188,58097,30067,0,1,0,1,"{""git"":{""tag"":""v3.0.21"",""url"":""https://github.com/malaterre/GDCM""}}"
 35189,58098,30064,0,1,0,1,"{""git"":{""tag"":""v3.0.21"",""url"":""https://github.com/malaterre/GDCM""}}"
+35190,58099,30071,0,1,0,1,"{""git"":{""tag"":""v0.19.5"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
