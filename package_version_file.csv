@@ -19277,3 +19277,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35190,58099,30071,0,1,0,1,"{""git"":{""tag"":""v0.19.5"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 35191,58100,30072,0,1,0,1,"{""git"":{""tag"":""1.83.1"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
 35192,58101,30073,0,1,0,1,"{""git"":{""tag"":""v1.3.34"",""url"":""https://github.com/awslabs/s2n""}}"
+35193,58102,30074,0,1,0,1,"{""git"":{""tag"":""cares-1_19_0"",""url"":""https://github.com/c-ares/c-ares""}}"
