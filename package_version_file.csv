@@ -19280,3 +19280,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35193,58102,30074,0,1,0,1,"{""git"":{""tag"":""cares-1_19_0"",""url"":""https://github.com/c-ares/c-ares""}}"
 35194,58103,30075,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/pantor/inja""}}"
 35195,58104,30076,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/marzer/tomlplusplus""}}"
+35196,58105,30077,0,1,0,1,"{""git"":{""tag"":""v3.3.1"",""url"":""https://github.com/catchorg/Catch2""}}"
