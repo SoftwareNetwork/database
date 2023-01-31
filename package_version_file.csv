@@ -19281,3 +19281,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35194,58103,30075,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/pantor/inja""}}"
 35195,58104,30076,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/marzer/tomlplusplus""}}"
 35196,58105,30077,0,1,0,1,"{""git"":{""tag"":""v3.3.1"",""url"":""https://github.com/catchorg/Catch2""}}"
+35197,58106,30079,0,1,0,1,"{""git"":{""tag"":""v0.13.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+35198,58107,30078,0,1,0,1,"{""git"":{""tag"":""v0.13.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
