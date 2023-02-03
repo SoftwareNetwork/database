@@ -19285,3 +19285,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35198,58107,30078,0,1,0,1,"{""git"":{""tag"":""v0.13.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 35199,58108,30080,0,1,0,1,"{""git"":{""tag"":""v1.3.35"",""url"":""https://github.com/awslabs/s2n""}}"
 35200,58109,30081,0,1,0,1,"{""git"":{""tag"":""2023-02-01"",""url"":""https://github.com/google/re2""}}"
+35201,58110,30083,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+35202,58112,30082,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+35203,58111,30084,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
