@@ -19288,3 +19288,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35201,58110,30083,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
 35202,58112,30082,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
 35203,58111,30084,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+35204,58113,30085,0,1,0,1,"{""git"":{""tag"":""openal-soft-1.20.1"",""url"":""https://github.com/kcat/openal-soft""}}"
+35205,58114,30086,0,1,0,1,"{""git"":{""tag"":""openal-soft-1.20.1"",""url"":""https://github.com/kcat/openal-soft""}}"
+35206,58115,30087,0,1,0,1,"{""git"":{""tag"":""openal-soft-1.20.1"",""url"":""https://github.com/kcat/openal-soft""}}"
