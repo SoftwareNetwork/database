@@ -19303,3 +19303,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35216,58125,30098,0,1,0,1,"{""git"":{""tag"":""v1.52.0"",""url"":""https://github.com/grpc/grpc""}}"
 35217,58126,30097,0,1,0,1,"{""git"":{""tag"":""v1.52.0"",""url"":""https://github.com/grpc/grpc""}}"
 35218,58127,30099,0,1,0,1,"{""git"":{""tag"":""v1.52.0"",""url"":""https://github.com/grpc/grpc""}}"
+35219,58128,30102,0,1,0,1,"{""git"":{""tag"":""1.17.8"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
+35220,58129,30100,0,1,0,1,"{""git"":{""tag"":""1.17.8"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
+35221,58130,30101,0,1,0,1,"{""git"":{""tag"":""1.17.8"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
