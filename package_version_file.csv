@@ -19309,3 +19309,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35222,58131,30103,0,1,0,1,"{""git"":{""tag"":""v0.12.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 35223,58132,30104,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/lemire/simdjson""}}"
 35224,58133,30105,0,1,0,1,"{""git"":{""tag"":""v0.2.4"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+35225,58134,30106,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1t"",""url"":""https://github.com/openssl/openssl""}}"
+35226,58135,30107,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1t"",""url"":""https://github.com/openssl/openssl""}}"
