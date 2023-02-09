@@ -19312,3 +19312,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35228,58138,30108,0,1,0,1,"{""git"":{""tag"":""1.17.8"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
 35229,58137,30109,0,1,0,1,"{""git"":{""tag"":""1.17.8"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
 35230,58139,30111,0,1,0,1,"{""git"":{""tag"":""v1.3.36"",""url"":""https://github.com/awslabs/s2n""}}"
+35231,58140,30112,0,1,0,1,"{""git"":{""tag"":""VER-2-13-0"",""url"":""https://gitlab.freedesktop.org/freetype/freetype""}}"
