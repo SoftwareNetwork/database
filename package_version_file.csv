@@ -19330,3 +19330,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35246,58155,30127,0,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 35247,58156,30128,0,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 35248,58157,30129,0,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
+35249,58158,30130,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/enzo1982/mp4v2""}}"
