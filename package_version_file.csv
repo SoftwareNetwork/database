@@ -19333,3 +19333,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35249,58158,30130,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/enzo1982/mp4v2""}}"
 35250,58159,30131,0,1,0,1,"{""git"":{""tag"":""v1.5.4"",""url"":""https://github.com/facebook/zstd""}}"
 35251,58160,30132,0,1,0,1,"{""git"":{""tag"":""7.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+35252,58161,30133,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/jarro2783/cxxopts""}}"
