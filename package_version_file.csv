@@ -19355,3 +19355,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35324,58233,30203,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 35325,58234,30201,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 35326,58235,30202,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+35327,58236,30204,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.4.1.tar.gz""}}"
+35328,58237,30205,0,1,0,1,"{""git"":{""tag"":""release-2.26.2"",""url"":""https://github.com/libsdl-org/SDL""}}"
+35329,58238,30206,0,1,0,1,"{""git"":{""tag"":""release-2.26.2"",""url"":""https://github.com/libsdl-org/SDL""}}"
+35330,58239,30207,0,1,0,1,"{""git"":{""tag"":""release-2.26.3"",""url"":""https://github.com/libsdl-org/SDL""}}"
+35331,58240,30208,0,1,0,1,"{""git"":{""tag"":""release-2.26.3"",""url"":""https://github.com/libsdl-org/SDL""}}"
