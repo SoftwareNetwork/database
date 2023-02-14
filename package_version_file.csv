@@ -19337,3 +19337,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35253,58162,30134,0,1,0,1,"{""git"":{""tag"":""v1.52.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 35254,58163,30136,0,1,0,1,"{""git"":{""tag"":""v0.18.0"",""url"":""https://github.com/apache/thrift""}}"
 35255,58164,30135,0,1,0,1,"{""git"":{""tag"":""v0.18.0"",""url"":""https://github.com/apache/thrift""}}"
+35256,58165,30137,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/webmproject/libvpx""}}"
