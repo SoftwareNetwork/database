@@ -19334,3 +19334,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35250,58159,30131,0,1,0,1,"{""git"":{""tag"":""v1.5.4"",""url"":""https://github.com/facebook/zstd""}}"
 35251,58160,30132,0,1,0,1,"{""git"":{""tag"":""7.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 35252,58161,30133,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/jarro2783/cxxopts""}}"
+35253,58162,30134,0,1,0,1,"{""git"":{""tag"":""v1.52.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+35254,58163,30136,0,1,0,1,"{""git"":{""tag"":""v0.18.0"",""url"":""https://github.com/apache/thrift""}}"
+35255,58164,30135,0,1,0,1,"{""git"":{""tag"":""v0.18.0"",""url"":""https://github.com/apache/thrift""}}"
