@@ -2243,3 +2243,5 @@ package_id,path
 7205,org.sw.demo.alitrack.mman_win32_mmap
 7206,org.sw.demo.boost.coroutine
 7207,org.sw.demo.skywind3000.kcp
+7208,org.sw.demo.google.protocolbuffers.utf8_range
+7209,org.sw.demo.google.protocolbuffers.utf8_validity
