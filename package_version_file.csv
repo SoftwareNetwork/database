@@ -19379,3 +19379,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35355,58264,30232,0,1,0,1,"{""git"":{""tag"":""20230125.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 35356,58265,30233,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/protocolbuffers/utf8_range""}}"
 35357,58266,30234,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/protocolbuffers/utf8_range""}}"
+35358,58267,30238,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.0/protobuf-22.0.tar.gz""}}"
+35359,58268,30236,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.0/protobuf-22.0.tar.gz""}}"
+35360,58270,30237,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.0/protobuf-22.0.tar.gz""}}"
+35361,58269,30235,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.0/protobuf-22.0.tar.gz""}}"
