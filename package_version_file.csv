@@ -19386,3 +19386,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35375,58284,30250,0,1,0,1,"{""git"":{""tag"":""v1.52.1"",""url"":""https://github.com/grpc/grpc""}}"
 35376,58285,30252,0,1,0,1,"{""git"":{""tag"":""curl-7_88_1"",""url"":""https://github.com/curl/curl""}}"
 35377,58286,30251,0,1,0,1,"{""git"":{""tag"":""curl-7_88_1"",""url"":""https://github.com/curl/curl""}}"
+35378,58287,30253,0,1,0,1,"{""git"":{""tag"":""7.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
