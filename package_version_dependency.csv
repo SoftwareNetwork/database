@@ -108342,3 +108342,4 @@ package_version_id,package_id,version_range
 58287,1308,master
 58287,1309,*
 58287,1310,*
+58288,5,=3.41.0

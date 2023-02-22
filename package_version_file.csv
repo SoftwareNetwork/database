@@ -19387,3 +19387,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35376,58285,30252,0,1,0,1,"{""git"":{""tag"":""curl-7_88_1"",""url"":""https://github.com/curl/curl""}}"
 35377,58286,30251,0,1,0,1,"{""git"":{""tag"":""curl-7_88_1"",""url"":""https://github.com/curl/curl""}}"
 35378,58287,30253,0,1,0,1,"{""git"":{""tag"":""7.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
+35379,58288,30254,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3410000.zip""}}"
+35380,58289,30255,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3410000.zip""}}"
