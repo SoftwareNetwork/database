@@ -19389,3 +19389,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35378,58287,30253,0,1,0,1,"{""git"":{""tag"":""7.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
 35379,58288,30254,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3410000.zip""}}"
 35380,58289,30255,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3410000.zip""}}"
+35381,58290,30256,0,1,0,1,"{""git"":{""tag"":""v3.1.2"",""url"":""https://github.com/lemire/simdjson""}}"
