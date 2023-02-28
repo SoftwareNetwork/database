@@ -19391,3 +19391,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35516,58425,30390,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 35517,58426,30391,0,1,0,1,"{""git"":{""tag"":""4.7.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 35518,58427,30393,0,1,0,1,"{""git"":{""tag"":""v3.3.2"",""url"":""https://github.com/catchorg/Catch2""}}"
+35519,58428,30394,0,1,0,1,"{""git"":{""tag"":""v10.0.23"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
