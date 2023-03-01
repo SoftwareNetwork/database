@@ -19395,3 +19395,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35520,58429,30395,0,1,0,1,"{""git"":{""tag"":""v5.5.2"",""url"":""https://github.com/CGAL/cgal""}}"
 35521,58430,30396,0,1,0,1,"{""git"":{""tag"":""2023-03-01"",""url"":""https://github.com/google/re2""}}"
 35522,58431,30397,0,1,0,1,"{""git"":{""tag"":""9.2.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
+35523,58432,30398,0,1,0,1,"{""git"":{""tag"":""v1.4.5.5"",""url"":""https://github.com/zmartzone/liboauth2""}}"
