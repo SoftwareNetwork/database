@@ -19393,3 +19393,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35518,58427,30393,0,1,0,1,"{""git"":{""tag"":""v3.3.2"",""url"":""https://github.com/catchorg/Catch2""}}"
 35519,58428,30394,0,1,0,1,"{""git"":{""tag"":""v10.0.23"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
 35520,58429,30395,0,1,0,1,"{""git"":{""tag"":""v5.5.2"",""url"":""https://github.com/CGAL/cgal""}}"
+35521,58430,30396,0,1,0,1,"{""git"":{""tag"":""2023-03-01"",""url"":""https://github.com/google/re2""}}"
