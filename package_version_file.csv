@@ -19399,3 +19399,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35524,58434,30399,0,1,0,1,"{""git"":{""tag"":""v0.18.1"",""url"":""https://github.com/apache/thrift""}}"
 35525,58433,30400,0,1,0,1,"{""git"":{""tag"":""v0.18.1"",""url"":""https://github.com/apache/thrift""}}"
 35526,58435,30401,0,1,0,1,"{""git"":{""tag"":""v3.1.7"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
+35527,58436,30402,0,1,0,1,"{""git"":{""tag"":""v3.1.3"",""url"":""https://github.com/lemire/simdjson""}}"
