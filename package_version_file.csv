@@ -19402,3 +19402,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35527,58436,30402,0,1,0,1,"{""git"":{""tag"":""v3.1.3"",""url"":""https://github.com/lemire/simdjson""}}"
 35528,58437,30403,0,1,0,1,"{""git"":{""tag"":""7.1.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 35529,58438,30404,0,1,0,1,"{""git"":{""tag"":""v3.2.3"",""url"":""https://github.com/nemtrif/utfcpp""}}"
+35530,58439,30406,0,1,0,1,"{""git"":{""tag"":""v23.3.3"",""url"":""https://github.com/google/flatbuffers""}}"
+35531,58440,30405,0,1,0,1,"{""git"":{""tag"":""v23.3.3"",""url"":""https://github.com/google/flatbuffers""}}"
