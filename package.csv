@@ -2246,3 +2246,4 @@ package_id,path
 7208,org.sw.demo.google.protocolbuffers.utf8_range
 7209,org.sw.demo.google.protocolbuffers.utf8_validity
 7210,org.sw.demo.nemtrif.utfcpp
+7211,org.sw.demo.gsoap
