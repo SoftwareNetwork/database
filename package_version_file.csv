@@ -19406,3 +19406,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35531,58440,30405,0,1,0,1,"{""git"":{""tag"":""v23.3.3"",""url"":""https://github.com/google/flatbuffers""}}"
 35532,58441,30407,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/gsoap2/files/gsoap_2.8.125.zip/download""}}"
 35533,58442,30408,0,1,0,1,"{""git"":{""tag"":""cpp-6.0.0"",""url"":""https://github.com/msgpack/msgpack-c""}}"
+35534,58443,30410,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+35535,58445,30409,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+35536,58444,30411,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
