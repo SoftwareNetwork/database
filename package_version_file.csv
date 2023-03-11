@@ -19417,3 +19417,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35542,58452,30416,0,1,0,1,"{""git"":{""tag"":""v3.1.6"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 35543,58450,30417,0,1,0,1,"{""git"":{""tag"":""v3.1.6"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 35544,58451,30419,0,1,0,1,"{""git"":{""tag"":""v3.1.6"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+35545,58454,30420,0,1,0,1,"{""git"":{""tag"":""v0.12.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
