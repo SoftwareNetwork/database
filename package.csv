@@ -2247,3 +2247,8 @@ package_id,path
 7209,org.sw.demo.google.protocolbuffers.utf8_validity
 7210,org.sw.demo.nemtrif.utfcpp
 7211,org.sw.demo.gsoap
+7212,org.sw.demo.llvm_project.llvm.IRPrinter
+7213,org.sw.demo.llvm_project.llvm.Frontend.HLSL
+7214,org.sw.demo.llvm_project.clang.ExtractAPI
+7215,org.sw.demo.llvm_project.llvm.WindowsDriver
+7216,org.sw.demo.llvm_project.llvm.TargetParser
