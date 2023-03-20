@@ -19721,3 +19721,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35846,58755,30689,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 35847,58756,30688,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 35848,58757,30691,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.0"",""url"":""https://github.com/llvm/llvm-project""}}"
+35849,58758,30692,0,1,0,1,"{""git"":{""tag"":""curl-8_0_0"",""url"":""https://github.com/curl/curl""}}"
+35850,58759,30693,0,1,0,1,"{""git"":{""tag"":""curl-8_0_0"",""url"":""https://github.com/curl/curl""}}"
