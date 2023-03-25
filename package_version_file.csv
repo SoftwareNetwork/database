@@ -19727,3 +19727,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35852,58761,30695,0,1,0,1,"{""git"":{""tag"":""curl-8_0_1"",""url"":""https://github.com/curl/curl""}}"
 35853,58762,30696,0,1,0,1,"{""git"":{""tag"":""v0.10.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 35854,58763,30697,0,1,0,1,"{""git"":{""tag"":""v2.8.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+35855,58764,30698,0,1,0,1,"{""git"":{""tag"":""v0.14.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+35856,58765,30699,0,1,0,1,"{""git"":{""tag"":""v0.14.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
