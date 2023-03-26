@@ -19729,3 +19729,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35854,58763,30697,0,1,0,1,"{""git"":{""tag"":""v2.8.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 35855,58764,30698,0,1,0,1,"{""git"":{""tag"":""v0.14.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 35856,58765,30699,0,1,0,1,"{""git"":{""tag"":""v0.14.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+35857,58766,30700,0,1,0,1,"{""git"":{""tag"":""v0.12.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
