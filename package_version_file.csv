@@ -19748,3 +19748,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 35874,58783,30717,0,1,0,1,"{""git"":{""tag"":""v1.53.0"",""url"":""https://github.com/grpc/grpc""}}"
 35875,58784,30718,0,1,0,1,"{""git"":{""tag"":""v1.53.0"",""url"":""https://github.com/grpc/grpc""}}"
 35876,58785,30716,0,1,0,1,"{""git"":{""tag"":""v1.53.0"",""url"":""https://github.com/grpc/grpc""}}"
+35877,58787,30720,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protobuf-22.2.tar.gz""}}"
+35878,58786,30719,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protobuf-22.2.tar.gz""}}"
+35879,58788,30722,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protobuf-22.2.tar.gz""}}"
+35880,58789,30721,0,1,0,1,"{""remote"":{""url"":""https://github.com/protocolbuffers/protobuf/releases/download/v22.2/protobuf-22.2.tar.gz""}}"
