@@ -19748,3 +19748,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36028,58937,30861,0,1,0,1,"{""git"":{""tag"":""v6.4.3"",""url"":""https://github.com/qt/qtimageformats""}}"
 36029,58938,30858,0,1,0,1,"{""git"":{""tag"":""v6.4.3"",""url"":""https://github.com/qt/qtimageformats""}}"
 36030,58939,30860,0,1,0,1,"{""git"":{""tag"":""v6.4.3"",""url"":""https://github.com/qt/qttranslations""}}"
+36031,58940,30863,0,1,0,1,"{""git"":{""tag"":""v0.14.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+36032,58941,30862,0,1,0,1,"{""git"":{""tag"":""v0.14.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
