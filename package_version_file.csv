@@ -19777,3 +19777,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36057,58967,30889,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.14.tar.xz""}}"
 36058,58966,30888,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.14.tar.xz""}}"
 36059,58968,30890,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.50/pango-1.50.14.tar.xz""}}"
+36060,58969,30891,0,1,0,1,"{""git"":{""tag"":""v2.3.2"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+36061,58970,30892,0,1,0,1,"{""git"":{""tag"":""v2.3.2"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
