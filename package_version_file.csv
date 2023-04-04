@@ -19841,3 +19841,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36121,59030,30952,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtbase""}}"
 36122,59031,30950,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtbase""}}"
 36123,59032,30953,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtwayland""}}"
+36124,59033,30956,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+36125,59034,30957,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+36126,59035,30954,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtwayland""}}"
