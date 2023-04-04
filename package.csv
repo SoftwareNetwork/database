@@ -2252,3 +2252,4 @@ package_id,path
 7214,org.sw.demo.llvm_project.clang.ExtractAPI
 7215,org.sw.demo.llvm_project.llvm.WindowsDriver
 7216,org.sw.demo.llvm_project.llvm.TargetParser
+7217,org.sw.demo.qtproject.qt.base.tools.tracepointgen
