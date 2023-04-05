@@ -19844,3 +19844,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36254,59163,31086,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 36255,59164,31087,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 36256,59165,31085,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+36257,59166,31088,0,1,0,1,"{""git"":{""tag"":""v1.5.5"",""url"":""https://github.com/facebook/zstd""}}"
