@@ -19845,3 +19845,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36255,59164,31087,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 36256,59165,31085,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 36257,59166,31088,0,1,0,1,"{""git"":{""tag"":""v1.5.5"",""url"":""https://github.com/facebook/zstd""}}"
+36258,59167,31089,0,1,0,1,"{""git"":{""tag"":""v1.3.38"",""url"":""https://github.com/awslabs/s2n""}}"
+36259,59168,31090,0,1,0,1,"{""git"":{""tag"":""v1.3.39"",""url"":""https://github.com/awslabs/s2n""}}"
+36260,59169,31091,0,1,0,1,"{""git"":{""tag"":""v1.3.40"",""url"":""https://github.com/awslabs/s2n""}}"
+36261,59170,31092,0,1,0,1,"{""git"":{""tag"":""v1.3.41"",""url"":""https://github.com/awslabs/s2n""}}"
+36262,59171,31093,0,1,0,1,"{""git"":{""tag"":""v1.3.42"",""url"":""https://github.com/awslabs/s2n""}}"
