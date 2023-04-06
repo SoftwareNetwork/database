@@ -20067,3 +20067,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36477,59386,31274,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 36478,59387,31278,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 36479,59388,31279,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
+36480,59389,31281,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3410100.zip""}}"
+36481,59390,31282,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3410100.zip""}}"
