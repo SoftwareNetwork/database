@@ -20256,3 +20256,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36666,59575,31460,0,1,0,1,"{""git"":{""tag"":""boost-1.82.0"",""url"":""https://github.com/boostorg/static_assert""}}"
 36667,59576,31464,0,1,0,1,"{""git"":{""tag"":""boost-1.82.0"",""url"":""https://github.com/boostorg/tokenizer""}}"
 36668,59577,31461,0,1,0,1,"{""git"":{""tag"":""boost-1.82.0"",""url"":""https://github.com/boostorg/lambda""}}"
+36669,59578,31465,0,1,0,1,"{""git"":{""tag"":""boost-1.82.0"",""url"":""https://github.com/boostorg/variant2""}}"
