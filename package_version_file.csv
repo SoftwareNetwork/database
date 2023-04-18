@@ -20258,3 +20258,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36668,59577,31461,0,1,0,1,"{""git"":{""tag"":""boost-1.82.0"",""url"":""https://github.com/boostorg/lambda""}}"
 36669,59578,31465,0,1,0,1,"{""git"":{""tag"":""boost-1.82.0"",""url"":""https://github.com/boostorg/variant2""}}"
 36670,59579,31467,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/SanderMertens/flecs""}}"
+36671,59580,31471,0,1,0,1,"{""git"":{""tag"":""4.9.2"",""url"":""https://github.com/emweb/wt""}}"
+36672,59581,31468,0,1,0,1,"{""git"":{""tag"":""4.9.2"",""url"":""https://github.com/emweb/wt""}}"
+36673,59582,31470,0,1,0,1,"{""git"":{""tag"":""4.9.2"",""url"":""https://github.com/emweb/wt""}}"
+36674,59583,31469,0,1,0,1,"{""git"":{""tag"":""4.9.2"",""url"":""https://github.com/emweb/wt""}}"
