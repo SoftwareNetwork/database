@@ -20480,3 +20480,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36890,59799,31655,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.2"",""url"":""https://github.com/llvm/llvm-project""}}"
 36891,59800,31656,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.2"",""url"":""https://github.com/llvm/llvm-project""}}"
 36892,59801,31659,0,1,0,1,"{""git"":{""tag"":""v1.5.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+36893,59802,31660,0,1,0,1,"{""git"":{""tag"":""v1.4"",""url"":""https://github.com/xiph/opus""}}"
