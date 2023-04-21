@@ -20484,3 +20484,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36894,59803,31662,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
 36895,59804,31661,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
 36896,59805,31663,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+36897,59806,31664,0,1,0,1,"{""git"":{""tag"":""v3.6.4"",""url"":""https://github.com/OSGeo/gdal""}}"
