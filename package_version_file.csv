@@ -20481,3 +20481,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36891,59800,31656,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.2"",""url"":""https://github.com/llvm/llvm-project""}}"
 36892,59801,31659,0,1,0,1,"{""git"":{""tag"":""v1.5.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 36893,59802,31660,0,1,0,1,"{""git"":{""tag"":""v1.4"",""url"":""https://github.com/xiph/opus""}}"
+36894,59803,31662,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+36895,59804,31661,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+36896,59805,31663,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
