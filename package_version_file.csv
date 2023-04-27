@@ -20489,3 +20489,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 36899,59808,31666,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 36900,59809,31668,0,1,0,1,"{""git"":{""tag"":""v0.15.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 36901,59810,31667,0,1,0,1,"{""git"":{""tag"":""v0.15.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+36902,59811,31669,0,1,0,1,"{""git"":{""tag"":""7.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
