@@ -20752,3 +20752,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37162,60071,31896,0,1,0,1,"{""git"":{""tag"":""v23.5.8"",""url"":""https://github.com/google/flatbuffers""}}"
 37163,60072,31899,0,1,0,1,"{""git"":{""tag"":""v23.5.9"",""url"":""https://github.com/google/flatbuffers""}}"
 37164,60073,31898,0,1,0,1,"{""git"":{""tag"":""v23.5.9"",""url"":""https://github.com/google/flatbuffers""}}"
+37165,60074,31900,0,1,0,1,"{""git"":{""tag"":""7.3.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
