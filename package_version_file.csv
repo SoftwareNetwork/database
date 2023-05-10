@@ -20753,3 +20753,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37163,60072,31899,0,1,0,1,"{""git"":{""tag"":""v23.5.9"",""url"":""https://github.com/google/flatbuffers""}}"
 37164,60073,31898,0,1,0,1,"{""git"":{""tag"":""v23.5.9"",""url"":""https://github.com/google/flatbuffers""}}"
 37165,60074,31900,0,1,0,1,"{""git"":{""tag"":""7.3.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+37166,60075,31901,0,1,0,1,"{""git"":{""tag"":""10.0.0"",""url"":""https://github.com/fmtlib/fmt""}}"
+37167,60076,31902,0,1,0,1,"{""git"":{""tag"":""v3.7.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+37168,60077,31903,0,1,0,1,"{""git"":{""tag"":""v2.9.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+37169,60078,31904,0,1,0,1,"{""git"":{""tag"":""v1.53.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
