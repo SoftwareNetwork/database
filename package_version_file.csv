@@ -20770,3 +20770,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37180,60089,31915,0,1,0,1,"{""git"":{""tag"":""v1.54.2"",""url"":""https://github.com/grpc/grpc""}}"
 37181,60090,31916,0,1,0,1,"{""git"":{""tag"":""v1.54.2"",""url"":""https://github.com/grpc/grpc""}}"
 37182,60091,31917,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/enzo1982/mp4v2""}}"
+37183,60092,31918,0,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/SanderMertens/flecs""}}"
