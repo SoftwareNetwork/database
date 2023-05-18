@@ -20999,3 +20999,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37409,60318,32106,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.4"",""url"":""https://github.com/llvm/llvm-project""}}"
 37410,60319,32110,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.4"",""url"":""https://github.com/llvm/llvm-project""}}"
 37411,60320,32114,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.4"",""url"":""https://github.com/llvm/llvm-project""}}"
+37412,60321,32117,0,1,0,1,"{""git"":{""tag"":""v2.9.2"",""url"":""https://github.com/Blosc/c-blosc2""}}"
