@@ -21010,3 +21010,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37420,60329,32125,0,1,0,1,"{""git"":{""tag"":""v2.0.9"",""url"":""https://github.com/arvidn/libtorrent""}}"
 37421,60330,32126,0,1,0,1,"{""git"":{""tag"":""v1.2.19"",""url"":""https://github.com/arvidn/libtorrent""}}"
 37422,60331,32127,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/Neargye/magic_enum""}}"
+37423,60332,32128,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3420000.zip""}}"
+37424,60333,32129,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3420000.zip""}}"
