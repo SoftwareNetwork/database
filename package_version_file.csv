@@ -21038,3 +21038,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37448,60357,32148,0,1,0,1,"{""git"":{""tag"":""v1.89.6"",""url"":""https://github.com/ocornut/imgui""}}"
 37449,60358,32151,0,1,0,1,"{""git"":{""tag"":""v1.89.6"",""url"":""https://github.com/ocornut/imgui""}}"
 37450,60359,32148,0,1,0,1,"{""git"":{""tag"":""v1.89.6"",""url"":""https://github.com/ocornut/imgui""}}"
+37451,60360,32154,0,1,0,1,"{""git"":{""tag"":""v3.1.9"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
+37452,60361,32155,0,1,0,1,"{""git"":{""tag"":""9.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
