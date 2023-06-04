@@ -21040,3 +21040,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37450,60359,32148,0,1,0,1,"{""git"":{""tag"":""v1.89.6"",""url"":""https://github.com/ocornut/imgui""}}"
 37451,60360,32154,0,1,0,1,"{""git"":{""tag"":""v3.1.9"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 37452,60361,32155,0,1,0,1,"{""git"":{""tag"":""9.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
+37453,60362,32156,0,1,0,1,"{""git"":{""tag"":""v0.12.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
+37454,60363,32158,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+37455,60364,32157,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
