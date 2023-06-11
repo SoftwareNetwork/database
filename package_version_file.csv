@@ -21260,3 +21260,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37670,60579,32336,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 37671,60580,32338,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 37672,60581,32342,0,1,0,1,"{""git"":{""tag"":""llvmorg-16.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
+37673,60582,32346,0,1,0,1,"{""git"":{""tag"":""1.4.0"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
+37674,60583,32347,0,1,0,1,"{""git"":{""tag"":""v1.54.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
