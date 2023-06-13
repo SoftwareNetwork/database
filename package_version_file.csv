@@ -21314,7 +21314,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37737,60646,32404,0,1,0,1,"{""git"":{""tag"":""v6.5.1"",""url"":""https://github.com/qt/qtbase""}}"
 37738,60647,32408,0,1,0,1,"{""git"":{""tag"":""v6.5.1"",""url"":""https://github.com/qt/qtdeclarative""}}"
 37739,60648,32412,0,1,0,1,"{""git"":{""tag"":""v6.5.1"",""url"":""https://github.com/qt/qtimageformats""}}"
-37740,60649,32413,0,1,0,1,"{""git"":{""tag"":""v1.45.0"",""url"":""https://github.com/libuv/libuv""}}"
 37741,60651,24380,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 37742,60650,32416,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 37743,60652,32415,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
@@ -21327,3 +21326,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37750,60659,32420,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 37751,60660,24390,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 37752,60661,24389,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+37753,60662,32421,0,1,0,1,"{""git"":{""tag"":""v1.45.0"",""url"":""https://github.com/libuv/libuv""}}"
