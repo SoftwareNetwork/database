@@ -21610,3 +21610,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38034,60943,32670,0,1,0,1,"{""git"":{""tag"":""v1.4.4"",""url"":""https://github.com/rhash/RHash""}}"
 38035,60944,32671,0,1,0,1,"{""git"":{""tag"":""v2.11.0"",""url"":""https://github.com/pybind/pybind11""}}"
 38036,60945,32672,0,1,0,1,"{""git"":{""tag"":""v1.55.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+38037,60946,32673,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/catchorg/Catch2""}}"
+38038,60947,32674,0,1,0,1,"{""git"":{""tag"":""v3.7.1"",""url"":""https://github.com/OSGeo/gdal""}}"
