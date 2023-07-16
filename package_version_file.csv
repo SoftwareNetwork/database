@@ -21613,3 +21613,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38037,60946,32673,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/catchorg/Catch2""}}"
 38038,60947,32674,0,1,0,1,"{""git"":{""tag"":""v3.7.1"",""url"":""https://github.com/OSGeo/gdal""}}"
 38039,60948,32675,0,1,0,1,"{""git"":{""tag"":""v1.55.1"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+38040,60949,32676,0,1,0,1,"{""git"":{""tag"":""8.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
