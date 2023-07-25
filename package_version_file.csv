@@ -21620,3 +21620,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38044,60953,32680,0,1,0,1,"{""git"":{""tag"":""v3.7.0"",""url"":""https://github.com/libarchive/libarchive""}}"
 38045,60954,32681,0,1,0,1,"{""git"":{""tag"":""curl-8_2_0"",""url"":""https://github.com/curl/curl""}}"
 38046,60955,32682,0,1,0,1,"{""git"":{""tag"":""curl-8_2_0"",""url"":""https://github.com/curl/curl""}}"
+38047,60956,32683,0,1,0,1,"{""git"":{""tag"":""7.8.0"",""url"":""https://github.com/jtv/libpqxx""}}"
