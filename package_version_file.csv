@@ -21623,3 +21623,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38047,60956,32683,0,1,0,1,"{""git"":{""tag"":""7.8.0"",""url"":""https://github.com/jtv/libpqxx""}}"
 38048,60957,32684,0,1,0,1,"{""git"":{""tag"":""curl-8_2_1"",""url"":""https://github.com/curl/curl""}}"
 38049,60958,32685,0,1,0,1,"{""git"":{""tag"":""curl-8_2_1"",""url"":""https://github.com/curl/curl""}}"
+38050,60959,32686,0,1,0,1,"{""git"":{""tag"":""7.8.1"",""url"":""https://github.com/jtv/libpqxx""}}"
