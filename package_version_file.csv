@@ -21645,3 +21645,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38069,60978,32703,0,1,0,1,"{""git"":{""tag"":""v1.89.8"",""url"":""https://github.com/ocornut/imgui""}}"
 38070,60979,32704,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1v"",""url"":""https://github.com/openssl/openssl""}}"
 38071,60980,32705,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1v"",""url"":""https://github.com/openssl/openssl""}}"
+38072,60981,32706,0,1,0,1,"{""git"":{""tag"":""8.1.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
