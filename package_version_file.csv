@@ -21675,7 +21675,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38210,61119,32844,0,1,0,1,"{""git"":{""tag"":""v3.7.1"",""url"":""https://github.com/OSGeo/gdal""}}"
 38211,61120,32845,0,1,0,1,"{""git"":{""tag"":""3.1"",""url"":""https://github.com/skvadrik/re2c""}}"
 38212,61121,32846,0,1,0,1,"{""git"":{""tag"":""3.1"",""url"":""https://github.com/skvadrik/re2c""}}"
-38276,61185,32911,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qttools""}}"
 38278,61187,32915,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtwayland""}}"
 38279,61188,32913,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtserialport""}}"
 38280,61189,32912,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtwebengine""}}"
@@ -21740,3 +21739,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38339,61248,32972,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 38340,61249,32975,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 38341,61250,32974,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtimageformats""}}"
+38342,61251,32976,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qttools""}}"
