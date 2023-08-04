@@ -21738,3 +21738,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38162,61071,32797,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 38163,61072,32794,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 38164,61073,32798,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qttools""}}"
+38165,61074,32799,0,1,0,1,"{""remote"":{""url"":""https://download.osgeo.org/libtiff/tiff-4.5.1.tar.gz""}}"
