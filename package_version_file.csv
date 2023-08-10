@@ -21738,5 +21738,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38340,61249,32975,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 38341,61250,32974,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtimageformats""}}"
 38342,61251,32976,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qttools""}}"
-38343,61252,32977,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 38344,61253,32978,0,1,0,1,"{""git"":{""tag"":""v1.4"",""url"":""https://github.com/xiph/opus""}}"
+38345,61254,32979,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/webmproject/libvpx""}}"
