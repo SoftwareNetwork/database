@@ -21885,3 +21885,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38489,61398,33122,0,1,0,1,"{""git"":{""tag"":""boost-1.83.0"",""url"":""https://github.com/boostorg/static_assert""}}"
 38490,61399,33124,0,1,0,1,"{""git"":{""tag"":""boost-1.83.0"",""url"":""https://github.com/boostorg/variant""}}"
 38491,61400,33125,0,1,0,1,"{""git"":{""tag"":""10.1.0"",""url"":""https://github.com/fmtlib/fmt""}}"
+38492,61401,33126,0,1,0,1,"{""git"":{""tag"":""0.8.0"",""url"":""https://github.com/jbeder/yaml-cpp""}}"
