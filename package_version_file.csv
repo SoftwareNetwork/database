@@ -21886,3 +21886,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38493,61402,31662,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
 38494,61403,31663,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
 38495,61404,31661,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+38496,61406,33129,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.8"",""url"":""https://github.com/egorpugin/tgbot""}}"
+38497,61405,33128,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.8"",""url"":""https://github.com/egorpugin/tgbot""}}"
+38498,61407,33127,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.8"",""url"":""https://github.com/egorpugin/tgbot""}}"
