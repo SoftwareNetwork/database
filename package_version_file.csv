@@ -21901,3 +21901,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38542,61451,33169,0,1,0,1,"{""git"":{""tag"":""v1.89.8"",""url"":""https://github.com/ocornut/imgui""}}"
 38543,61452,33171,0,1,0,1,"{""git"":{""tag"":""release-2.28.2"",""url"":""https://github.com/libsdl-org/SDL""}}"
 38544,61453,33170,0,1,0,1,"{""git"":{""tag"":""release-2.28.2"",""url"":""https://github.com/libsdl-org/SDL""}}"
+38545,61454,33172,0,1,0,1,"{""git"":{""tag"":""10.1.1"",""url"":""https://github.com/fmtlib/fmt""}}"
