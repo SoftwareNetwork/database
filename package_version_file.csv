@@ -21938,3 +21938,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38579,61488,33204,0,1,0,1,"{""git"":{""tag"":""v0.19.0"",""url"":""https://github.com/apache/thrift""}}"
 38580,61489,33205,0,1,0,1,"{""git"":{""tag"":""v0.19.0"",""url"":""https://github.com/apache/thrift""}}"
 38581,61490,33206,0,1,0,1,"{""git"":{""tag"":""v3.2.7"",""url"":""https://github.com/SanderMertens/flecs""}}"
+38582,61491,33207,0,1,0,1,"{""git"":{""tag"":""v3.7.2"",""url"":""https://github.com/OSGeo/gdal""}}"
+38583,61492,33209,0,1,0,1,"{""git"":{""tag"":""curl-8_3_0"",""url"":""https://github.com/curl/curl""}}"
+38584,61493,33208,0,1,0,1,"{""git"":{""tag"":""curl-8_3_0"",""url"":""https://github.com/curl/curl""}}"
