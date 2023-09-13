@@ -21945,3 +21945,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38586,61495,33211,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1w"",""url"":""https://github.com/openssl/openssl""}}"
 38587,61496,33212,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1w"",""url"":""https://github.com/openssl/openssl""}}"
 38588,61497,33213,0,1,0,1,"{""git"":{""tag"":""8.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+38589,61498,33214,0,1,0,1,"{""git"":{""tag"":""v1.3.0"",""url"":""https://github.com/webmproject/libwebp""}}"
+38590,61499,33215,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/webmproject/libwebp""}}"
