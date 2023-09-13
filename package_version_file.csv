@@ -21941,3 +21941,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38582,61491,33207,0,1,0,1,"{""git"":{""tag"":""v3.7.2"",""url"":""https://github.com/OSGeo/gdal""}}"
 38583,61492,33209,0,1,0,1,"{""git"":{""tag"":""curl-8_3_0"",""url"":""https://github.com/curl/curl""}}"
 38584,61493,33208,0,1,0,1,"{""git"":{""tag"":""curl-8_3_0"",""url"":""https://github.com/curl/curl""}}"
+38585,61494,33210,0,1,0,1,"{""git"":{""tag"":""v3.7.2"",""url"":""https://github.com/libarchive/libarchive""}}"
+38586,61495,33211,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1w"",""url"":""https://github.com/openssl/openssl""}}"
+38587,61496,33212,0,1,0,1,"{""git"":{""tag"":""OpenSSL_1_1_1w"",""url"":""https://github.com/openssl/openssl""}}"
+38588,61497,33213,0,1,0,1,"{""git"":{""tag"":""8.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
