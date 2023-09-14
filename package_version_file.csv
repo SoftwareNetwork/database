@@ -21947,3 +21947,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38589,61498,33214,0,1,0,1,"{""git"":{""tag"":""v1.3.0"",""url"":""https://github.com/webmproject/libwebp""}}"
 38590,61499,33215,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/webmproject/libwebp""}}"
 38591,61500,33216,0,1,0,1,"{""git"":{""tag"":""2023-09-01"",""url"":""https://github.com/google/re2""}}"
+38592,61501,33217,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/google/cpu_features""}}"
