@@ -21951,3 +21951,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38593,61502,33218,0,1,0,1,"{""git"":{""tag"":""0.61"",""url"":""https://github.com/rbock/sqlpp11""}}"
 38594,61503,33219,0,1,0,1,"{""git"":{""tag"":""0.62"",""url"":""https://github.com/rbock/sqlpp11""}}"
 38595,61504,33220,0,1,0,1,"{""git"":{""tag"":""0.63"",""url"":""https://github.com/rbock/sqlpp11""}}"
+38596,61505,33221,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3430000.zip""}}"
+38597,61506,33222,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3430000.zip""}}"
+38598,61507,33223,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3430100.zip""}}"
+38599,61508,33224,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3430100.zip""}}"
