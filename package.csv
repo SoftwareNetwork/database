@@ -2256,3 +2256,5 @@ package_id,path
 7218,org.sw.demo.boost.compat
 7219,org.sw.demo.ocornut.imgui.backend.sdl2
 7220,org.sw.demo.ocornut.imgui.backend.emscripten_sdl2
+7221,org.sw.demo.llvm_project.llvm.Utils.MinTablegen
+7222,org.sw.demo.llvm_project.llvm.min_gen
