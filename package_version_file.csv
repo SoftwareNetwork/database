@@ -22188,3 +22188,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38834,61743,33427,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 38835,61744,33426,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 38836,61745,33424,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
+38837,61746,33428,0,1,0,1,"{""git"":{""branch"":""24.x"",""url"":""https://github.com/protocolbuffers/upb""}}"
