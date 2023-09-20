@@ -22208,3 +22208,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38865,61774,33456,0,1,0,1,"{""git"":{""tag"":""v1.58.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 38866,61775,33457,0,1,0,1,"{""git"":{""tag"":""v1.58.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 38867,61776,33458,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
+38868,61777,33459,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/lemire/simdjson""}}"
+38869,61778,33460,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/lemire/simdjson""}}"
