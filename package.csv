@@ -2259,3 +2259,4 @@ package_id,path
 7221,org.sw.demo.llvm_project.llvm.Utils.MinTablegen
 7222,org.sw.demo.llvm_project.llvm.min_gen
 7223,org.sw.demo.google.protocolbuffers.upb
+7224,org.sw.demo.opentelemetry

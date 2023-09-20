@@ -22193,3 +22193,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38839,61747,33432,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 38840,61750,33430,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 38841,61749,33429,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+38842,61751,33433,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
