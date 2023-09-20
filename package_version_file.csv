@@ -22193,7 +22193,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38839,61747,33432,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 38840,61750,33430,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 38841,61749,33429,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
-38842,61751,33433,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 38853,61763,33445,0,1,0,1,"{""git"":{""tag"":""4.10.1"",""url"":""https://github.com/emweb/wt""}}"
 38854,61765,33446,0,1,0,1,"{""git"":{""tag"":""4.10.1"",""url"":""https://github.com/emweb/wt""}}"
 38855,61764,33447,0,1,0,1,"{""git"":{""tag"":""4.10.1"",""url"":""https://github.com/emweb/wt""}}"
@@ -22208,3 +22207,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38864,61773,33452,0,1,0,1,"{""git"":{""tag"":""v1.58.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 38865,61774,33456,0,1,0,1,"{""git"":{""tag"":""v1.58.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 38866,61775,33457,0,1,0,1,"{""git"":{""tag"":""v1.58.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+38867,61776,33458,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
