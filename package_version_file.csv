@@ -525,7 +525,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 534,10852,534,1,1,0,1,
 535,12052,535,1,1,0,1,
 536,12676,536,1,1,0,1,
-537,12699,537,1,1,0,1,
 538,12303,538,1,1,0,1,
 539,12873,539,1,1,0,1,
 540,11780,540,1,1,0,1,
@@ -22212,3 +22211,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38870,61779,33461,0,1,0,1,"{""git"":{""tag"":""v1.11.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 38871,61780,33462,0,1,0,1,"{""git"":{""tag"":""1.5.0"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
 38872,61781,33463,0,1,0,1,"{""git"":{""tag"":""1.4.1"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
+38873,61782,33464,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/miloyip/rapidjson""}}"
