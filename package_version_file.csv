@@ -21718,7 +21718,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38341,61250,32974,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtimageformats""}}"
 38342,61251,32976,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qttools""}}"
 38344,61253,32978,0,1,0,1,"{""git"":{""tag"":""v1.4"",""url"":""https://github.com/xiph/opus""}}"
-38346,61255,32980,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 38347,61256,32981,0,1,0,1,"{""git"":{""tag"":""1.0.6"",""url"":""https://github.com/google/highway""}}"
 38348,61257,32985,0,1,0,1,"{""git"":{""tag"":""boost-1.83.0"",""url"":""https://github.com/boostorg/log""}}"
 38349,61260,32984,0,1,0,1,"{""git"":{""tag"":""boost-1.83.0"",""url"":""https://github.com/boostorg/url""}}"
@@ -22212,3 +22211,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38871,61780,33462,0,1,0,1,"{""git"":{""tag"":""1.5.0"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
 38872,61781,33463,0,1,0,1,"{""git"":{""tag"":""1.4.1"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
 38873,61782,33464,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/miloyip/rapidjson""}}"
+38874,61783,33465,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/webmproject/libvpx""}}"
