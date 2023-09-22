@@ -20986,7 +20986,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 37416,60325,32121,0,1,0,1,"{""git"":{""tag"":""v3.1.8"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 37417,60326,32122,0,1,0,1,"{""git"":{""tag"":""hidapi-0.14.0"",""url"":""https://github.com/libusb/hidapi""}}"
 37418,60327,32123,0,1,0,1,"{""git"":{""tag"":""v10.0.24"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
-37419,60328,32124,0,1,0,1,"{""git"":{""tag"":""cares-1_19_1"",""url"":""https://github.com/c-ares/c-ares""}}"
 37420,60329,32125,0,1,0,1,"{""git"":{""tag"":""v2.0.9"",""url"":""https://github.com/arvidn/libtorrent""}}"
 37421,60330,32126,0,1,0,1,"{""git"":{""tag"":""v1.2.19"",""url"":""https://github.com/arvidn/libtorrent""}}"
 37422,60331,32127,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/Neargye/magic_enum""}}"
@@ -22212,3 +22211,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39158,62067,33749,0,1,0,1,"{""git"":{""tag"":""boost-1.83.0"",""url"":""https://github.com/boostorg/static_assert""}}"
 39159,62068,33747,0,1,0,1,"{""git"":{""tag"":""boost-1.83.0"",""url"":""https://github.com/boostorg/throw_exception""}}"
 39160,62069,33751,0,1,0,1,"{""git"":{""tag"":""boost-1.83.0"",""url"":""https://github.com/boostorg/variant""}}"
+39161,62070,33752,0,1,0,1,"{""git"":{""tag"":""cares-1_19_1"",""url"":""https://github.com/c-ares/c-ares""}}"
