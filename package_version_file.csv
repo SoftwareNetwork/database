@@ -22212,3 +22212,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39163,62072,33753,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 39164,62073,33754,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 39165,62074,33755,0,1,0,1,"{""git"":{""tag"":""v24.3"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+39166,62075,33759,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
+39167,62076,33758,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
+39168,62077,33757,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
