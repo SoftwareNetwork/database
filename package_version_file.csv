@@ -22214,4 +22214,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39167,62076,33758,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
 39168,62077,33757,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
 39169,62078,33760,0,1,0,1,"{""git"":{""tag"":""2023-09-01"",""url"":""https://github.com/google/re2""}}"
-39170,62079,33761,0,1,0,1,"{""git"":{""tag"":""20230802.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+39171,62080,33762,0,1,0,1,"{""git"":{""tag"":""20230802.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
