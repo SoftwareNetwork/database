@@ -21821,7 +21821,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38612,61521,30707,0,1,0,1,"{""git"":{""tag"":""20230125.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 38614,61523,33235,0,1,0,1,"{""git"":{""tag"":""20230125.3"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 38615,61524,33236,0,1,0,1,"{""git"":{""tag"":""20230802.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
-38617,61526,33238,0,1,0,1,"{""git"":{""tag"":""20230802.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 38618,61527,33242,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 38619,61528,33240,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 38620,61529,33239,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.1"",""url"":""https://github.com/llvm/llvm-project""}}"
@@ -22215,3 +22214,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39167,62076,33758,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
 39168,62077,33757,0,1,0,1,"{""git"":{""tag"":""1.1.5.6.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
 39169,62078,33760,0,1,0,1,"{""git"":{""tag"":""2023-09-01"",""url"":""https://github.com/google/re2""}}"
+39170,62079,33761,0,1,0,1,"{""git"":{""tag"":""20230802.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
