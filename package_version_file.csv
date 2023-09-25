@@ -22218,3 +22218,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39469,62378,34054,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 39470,62379,34061,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 39471,62380,34058,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
+39472,62382,34062,0,1,0,1,"{""git"":{""tag"":""v2.3.3"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+39473,62381,34063,0,1,0,1,"{""git"":{""tag"":""v2.3.3"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
