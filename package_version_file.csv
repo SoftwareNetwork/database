@@ -22157,7 +22157,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39476,62385,34067,0,1,0,1,"{""git"":{""tag"":""1.18.0"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
 39477,62386,34068,0,1,0,1,"{""git"":{""tag"":""1.18.0"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
 39478,62387,34066,0,1,0,1,"{""git"":{""tag"":""1.18.0"",""url"":""https://gitlab.freedesktop.org/cairo/cairo""}}"
-39542,62451,34133,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
 39544,62453,34134,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtserialport""}}"
 39545,62454,34137,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtsvg""}}"
 39546,62455,34136,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtwayland""}}"
@@ -22222,3 +22221,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39605,62514,34190,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qttools""}}"
 39606,62515,34196,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qttools""}}"
 39607,62516,34194,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtimageformats""}}"
+39608,62517,34198,0,1,0,1,"{""git"":{""tag"":""v6.5.2"",""url"":""https://github.com/qt/qtbase""}}"
