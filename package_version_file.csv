@@ -22265,3 +22265,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39726,62635,34318,0,1,0,1,"{""git"":{""tag"":""4.8.1"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 39727,62636,34316,0,1,0,1,"{""git"":{""tag"":""4.8.1"",""url"":""https://github.com/opencv/opencv""}}"
 39728,62637,34317,0,1,0,1,"{""git"":{""tag"":""4.8.1"",""url"":""https://github.com/opencv/opencv""}}"
+39729,62638,34322,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+39731,62640,34319,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+39732,62641,34320,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
