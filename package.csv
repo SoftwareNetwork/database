@@ -2262,3 +2262,4 @@ package_id,path
 7224,org.sw.demo.opentelemetry
 7225,org.sw.demo.xorg.xcb.util
 7226,org.sw.demo.xorg.xcb.image
+7227,org.sw.demo.xorg.xcb.renderutil

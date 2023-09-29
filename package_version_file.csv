@@ -22271,3 +22271,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39732,62641,34320,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
 39733,62642,34323,0,1,0,1,"{""git"":{""tag"":""xcb-util-0.4.1"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb-util""}}"
 39734,62643,34324,0,1,0,1,"{""git"":{""tag"":""xcb-util-image-0.4.1"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb-image""}}"
+39735,62644,34325,0,1,0,1,"{""git"":{""tag"":""xcb-util-renderutil-0.3.10"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb-render-util""}}"
