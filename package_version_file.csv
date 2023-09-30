@@ -22283,3 +22283,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 39971,62880,34548,0,1,0,1,"{""git"":{""tag"":""v1.59.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 39972,62881,34551,0,1,0,1,"{""git"":{""tag"":""v1.59.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 39973,62882,34552,0,1,0,1,"{""git"":{""tag"":""v1.59.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+39974,62883,34553,0,1,0,1,"{""git"":{""tag"":""v1.13.1"",""url"":""https://github.com/webmproject/libvpx""}}"
