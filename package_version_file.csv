@@ -22507,3 +22507,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40426,63335,34209,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 40427,63336,34207,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 40428,63337,34208,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+40429,63338,34752,0,1,0,1,"{""git"":{""tag"":""v24.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+40430,63341,34751,0,1,0,1,"{""git"":{""tag"":""v24.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+40431,63340,34749,0,1,0,1,"{""git"":{""tag"":""v24.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+40432,63339,34750,0,1,0,1,"{""git"":{""tag"":""v24.4"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
