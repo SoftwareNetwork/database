@@ -22513,4 +22513,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40441,63350,34759,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-73-2/icu4c-73_2-src.tgz""}}"
 40442,63351,34760,0,1,0,1,"{""git"":{""branch"":""develop"",""url"":""https://github.com/boostorg/pfr""}}"
 40443,63352,34761,0,1,0,1,"{""git"":{""tag"":""v1.3.2"",""url"":""https://github.com/webmproject/libwebp""}}"
-40444,63353,34762,0,1,0,1,"{""remote"":{""url"":""https://download.osgeo.org/libtiff/tiff-4.6.0.tar.gz""}}"
+40445,63354,34763,0,1,0,1,"{""git"":{""tag"":""v4.6.0"",""url"":""https://gitlab.com/libtiff/libtiff""}}"
