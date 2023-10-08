@@ -22733,3 +22733,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40662,63571,34978,0,1,0,1,"{""git"":{""tag"":""v1.59.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 40663,63572,34981,0,1,0,1,"{""git"":{""tag"":""v1.59.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 40664,63573,34982,0,1,0,1,"{""git"":{""tag"":""v1.59.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+40665,63574,34983,0,1,0,1,"{""git"":{""tag"":""cares-1_20_0"",""url"":""https://github.com/c-ares/c-ares""}}"
