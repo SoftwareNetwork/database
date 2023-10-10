@@ -2267,3 +2267,4 @@ package_id,path
 7229,org.sw.demo.boostorg.pfr
 7230,org.sw.demo.google.googleapis.storage
 7231,org.sw.demo.google.googleapis.iam
+7232,org.sw.demo.google.cloud.storage
