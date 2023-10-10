@@ -22740,4 +22740,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40686,63595,35003,0,1,0,1,"{""git"":{""tag"":""v1.57.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 40687,63596,35004,0,1,0,1,"{""git"":{""tag"":""1.1.2"",""url"":""https://github.com/google/crc32c""}}"
 40688,63597,35005,0,1,0,1,"{""git"":{""tag"":""1.1.2"",""url"":""https://github.com/google/crc32c""}}"
-40689,63598,35006,0,1,0,1,"{""git"":{""tag"":""v2.16.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+40690,63599,35007,0,1,0,1,"{""git"":{""tag"":""v2.16.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+40691,63600,35008,0,1,0,1,"{""git"":{""tag"":""v2.16.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
