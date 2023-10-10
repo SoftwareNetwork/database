@@ -2265,3 +2265,5 @@ package_id,path
 7227,org.sw.demo.xorg.xcb.renderutil
 7228,org.sw.demo.xorg.xcb.cursor
 7229,org.sw.demo.boostorg.pfr
+7230,org.sw.demo.google.googleapis.storage
+7231,org.sw.demo.google.googleapis.iam
