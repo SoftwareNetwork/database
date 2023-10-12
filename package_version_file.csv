@@ -22811,3 +22811,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40770,63679,35087,0,1,0,1,"{""git"":{""tag"":""v6.5.3"",""url"":""https://github.com/qt/qttranslations""}}"
 40771,63680,35088,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/qt-labs/vstools""}}"
 40772,63681,35089,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/qt-labs/vstools""}}"
+40773,63682,35090,0,1,0,1,"{""git"":{""tag"":""v2.0.1"",""url"":""https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator""}}"
