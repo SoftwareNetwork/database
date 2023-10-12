@@ -22874,3 +22874,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40833,63742,35152,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtwayland""}}"
 40834,63743,35154,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtwayland""}}"
 40835,63744,35147,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
+40836,63745,35153,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
+40837,63746,35151,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtbase""}}"
+40838,63747,35155,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtimageformats""}}"
