@@ -22921,3 +22921,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40901,63810,35218,0,1,0,1,"{""git"":{""tag"":""v3.20.1"",""url"":""https://github.com/beached/daw_json_link""}}"
 40902,63811,17768,0,1,0,1,"{""git"":{""tag"":""20190724"",""url"":""https://github.com/BLAKE2/BLAKE2""}}"
 40903,63812,35219,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/daniele77/cli""}}"
+40904,63813,35220,0,1,0,1,"{""git"":{""tag"":""v.3.2.0"",""url"":""https://github.com/dtschump/CImg""}}"
+40905,63814,35221,0,1,0,1,"{""git"":{""tag"":""1.2.2"",""url"":""https://github.com/erikd/libsndfile""}}"
+40906,63815,35222,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/google/double-conversion""}}"
+40907,63816,35224,0,1,0,1,"{""git"":{""tag"":""v23.5.26"",""url"":""https://github.com/google/flatbuffers""}}"
+40908,63817,35223,0,1,0,1,"{""git"":{""tag"":""v23.5.26"",""url"":""https://github.com/google/flatbuffers""}}"
