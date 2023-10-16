@@ -22882,3 +22882,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40841,63750,35158,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
 40842,63751,35156,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
 40843,63752,35160,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
+40844,63753,35162,0,1,0,1,"{""git"":{""tag"":""1.20.3"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+40845,63754,35161,0,1,0,1,"{""git"":{""tag"":""1.20.3"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+40846,63755,35163,0,1,0,1,"{""git"":{""tag"":""1.20.3"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
