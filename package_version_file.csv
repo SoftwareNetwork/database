@@ -22945,3 +22945,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40941,63850,35255,0,1,0,1,"{""git"":{""tag"":""v1.12.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 40942,63851,35256,0,1,0,1,"{""git"":{""tag"":""v1.2.2"",""url"":""https://github.com/palacaze/sigslot""}}"
 40943,63852,35257,0,1,0,1,"{""git"":{""tag"":""v2.11.1"",""url"":""https://github.com/pybind/pybind11""}}"
+40944,63853,35258,0,1,0,1,"{""git"":{""tag"":""v3.0.1"",""url"":""https://github.com/qt-labs/vstools""}}"
