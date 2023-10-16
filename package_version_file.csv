@@ -22963,3 +22963,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40972,63881,35283,0,1,0,1,"{""git"":{""tag"":""v3.27.7"",""url"":""https://github.com/Kitware/CMake""}}"
 40973,63882,35285,0,1,0,1,"{""git"":{""tag"":""v3.27.7"",""url"":""https://github.com/Kitware/CMake""}}"
 40974,63883,35284,0,1,0,1,"{""git"":{""tag"":""v3.27.7"",""url"":""https://github.com/Kitware/CMake""}}"
+40975,63884,35286,0,1,0,1,"{""git"":{""tag"":""v1.3"",""url"":""https://github.com/madler/zlib""}}"
+40976,63885,35287,0,1,0,1,"{""git"":{""tag"":""v3.3.1"",""url"":""https://github.com/ThePhD/sol2""}}"
+40977,63886,35288,0,1,0,1,"{""git"":{""tag"":""v2.14"",""url"":""https://github.com/akheron/jansson""}}"
