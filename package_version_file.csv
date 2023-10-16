@@ -22877,3 +22877,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40836,63745,35153,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
 40837,63746,35151,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtbase""}}"
 40838,63747,35155,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+40839,63748,35159,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
+40840,63749,35157,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
+40841,63750,35158,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
+40842,63751,35156,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
+40843,63752,35160,0,1,0,1,"{""git"":{""tag"":""2.6.0"",""url"":""https://github.com/SFML/SFML""}}"
