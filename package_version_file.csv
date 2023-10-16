@@ -22885,3 +22885,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40844,63753,35162,0,1,0,1,"{""git"":{""tag"":""1.20.3"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 40845,63754,35161,0,1,0,1,"{""git"":{""tag"":""1.20.3"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 40846,63755,35163,0,1,0,1,"{""git"":{""tag"":""1.20.3"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+40847,63758,35165,0,1,0,1,"{""git"":{""tag"":""1.23.4"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+40848,63756,35164,0,1,0,1,"{""git"":{""tag"":""1.23.4"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+40849,63757,35166,0,1,0,1,"{""git"":{""tag"":""1.23.4"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+40850,63759,35167,0,1,0,1,"{""git"":{""tag"":""v2.10.5"",""url"":""https://github.com/Blosc/c-blosc2""}}"
