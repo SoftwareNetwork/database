@@ -23013,3 +23013,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41039,63948,35348,0,1,0,1,"{""git"":{""tag"":""v3.2.3"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 41040,63949,35347,0,1,0,1,"{""git"":{""tag"":""v3.2.3"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 41041,63950,35349,0,1,0,1,"{""git"":{""tag"":""v3.2.3"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
+41042,63951,35350,0,1,0,1,"{""git"":{""tag"":""v0.24.3"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+41043,63952,35351,0,1,0,1,"{""git"":{""tag"":""v0.3.18"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
