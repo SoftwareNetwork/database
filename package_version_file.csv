@@ -23026,3 +23026,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41061,63970,35369,0,1,0,1,"{""git"":{""tag"":""1.11.180"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 41062,63971,35370,0,1,0,1,"{""git"":{""tag"":""1.11.180"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 41063,63972,35371,0,1,0,1,"{""git"":{""tag"":""v1.3.54"",""url"":""https://github.com/awslabs/s2n""}}"
+41064,63973,35372,0,1,0,1,"{""git"":{""tag"":""v1.3.268"",""url"":""https://github.com/KhronosGroup/Vulkan-Loader""}}"
