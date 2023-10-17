@@ -23030,3 +23030,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41068,63977,35374,0,1,0,1,"{""git"":{""tag"":""v2.14"",""url"":""https://github.com/akheron/jansson""}}"
 41069,63978,35375,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 41070,63979,35376,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+41071,63980,35377,0,1,0,1,"{""git"":{""tag"":""Version_2.12.0"",""url"":""https://github.com/dpilger26/NumCpp""}}"
+41072,63981,35378,0,1,0,1,"{""git"":{""tag"":""v.3.3.1"",""url"":""https://github.com/dtschump/CImg""}}"
+41073,63982,35380,0,1,0,1,"{""git"":{""tag"":""v2021.10.0"",""url"":""https://github.com/intel/tbb""}}"
+41074,63983,35379,0,1,0,1,"{""git"":{""tag"":""v2021.10.0"",""url"":""https://github.com/intel/tbb""}}"
+41075,63984,35381,0,1,0,1,"{""git"":{""tag"":""v2021.10.0"",""url"":""https://github.com/intel/tbb""}}"
