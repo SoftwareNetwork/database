@@ -13929,7 +13929,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 24770,47679,21866,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.14.0.tar.gz""}}"
 24771,47680,21867,0,1,0,1,"{""git"":{""tag"":""xorgproto-2022.1"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
 24772,47681,21868,0,1,0,1,"{""git"":{""tag"":""xcb-proto-1.15"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xcbproto""}}"
-24773,47682,21869,0,1,0,1,"{""git"":{""tag"":""libxcb-1.15"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
 24774,47683,21870,0,1,0,1,"{""git"":{""tag"":""libX11-1.8"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 24775,47684,21871,0,1,0,1,"{""git"":{""tag"":""libX11-1.8"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 24776,47685,21872,0,1,0,1,"{""git"":{""tag"":""v1.3.13"",""url"":""https://github.com/awslabs/s2n""}}"
@@ -23048,3 +23047,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41087,63996,35393,0,1,0,1,"{""git"":{""tag"":""xorgproto-2023.2"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
 41088,63997,35394,0,1,0,1,"{""git"":{""tag"":""xcb-proto-1.15.2"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xcbproto""}}"
 41089,63998,35395,0,1,0,1,"{""git"":{""tag"":""libxcb-1.16"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
+41090,63999,35396,0,1,0,1,"{""git"":{""tag"":""libxcb-1.15"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
