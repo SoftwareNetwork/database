@@ -22883,7 +22883,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40892,63801,35209,0,1,0,1,"{""git"":{""tag"":""v0.2.17"",""url"":""https://github.com/awslabs/aws-c-compression""}}"
 40893,63802,35210,0,1,0,1,"{""git"":{""tag"":""v0.3.2"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
 40894,63803,35211,0,1,0,1,"{""git"":{""tag"":""v0.7.13"",""url"":""https://github.com/awslabs/aws-c-http""}}"
-40895,63804,35212,0,1,0,1,"{""git"":{""tag"":""v0.13.35"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 40896,63805,35213,0,1,0,1,"{""git"":{""tag"":""v0.9.7"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 40897,63806,35214,0,1,0,1,"{""git"":{""tag"":""v0.3.17"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 40898,63807,35215,0,1,0,1,"{""git"":{""tag"":""v0.1.12"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
@@ -23018,3 +23017,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41044,63953,35352,0,1,0,1,"{""git"":{""tag"":""v2.11.5"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 41045,63954,35353,0,1,0,1,"{""git"":{""tag"":""3.2.0"",""url"":""https://github.com/randombit/botan""}}"
 41046,63955,35354,0,1,0,1,"{""git"":{""tag"":""17.01.28"",""url"":""https://github.com/intel/IntelSEAPI""}}"
+41047,63956,35355,0,1,0,1,"{""git"":{""tag"":""v0.13.35"",""url"":""https://github.com/awslabs/aws-c-io""}}"
