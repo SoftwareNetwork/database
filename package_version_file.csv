@@ -23028,3 +23028,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41064,63973,35372,0,1,0,1,"{""git"":{""tag"":""v1.3.268"",""url"":""https://github.com/KhronosGroup/Vulkan-Loader""}}"
 41065,63974,35373,0,1,0,1,"{""git"":{""tag"":""7.0.7"",""url"":""https://github.com/juce-framework/JUCE""}}"
 41068,63977,35374,0,1,0,1,"{""git"":{""tag"":""v2.14"",""url"":""https://github.com/akheron/jansson""}}"
+41069,63978,35375,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+41070,63979,35376,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"

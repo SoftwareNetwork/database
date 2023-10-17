@@ -125930,3 +125930,5 @@ package_version_id,package_id,version_range
 63974,1275,master
 63974,1276,*
 63974,1798,*
+63979,655,*
+63979,7099,=1.0.0
