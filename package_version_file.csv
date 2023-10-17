@@ -22946,7 +22946,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 40974,63883,35284,0,1,0,1,"{""git"":{""tag"":""v3.27.7"",""url"":""https://github.com/Kitware/CMake""}}"
 40975,63884,35286,0,1,0,1,"{""git"":{""tag"":""v1.3"",""url"":""https://github.com/madler/zlib""}}"
 40976,63885,35287,0,1,0,1,"{""git"":{""tag"":""v3.3.1"",""url"":""https://github.com/ThePhD/sol2""}}"
-40977,63886,35288,0,1,0,1,"{""git"":{""tag"":""v2.14"",""url"":""https://github.com/akheron/jansson""}}"
 40978,63887,35289,0,1,0,1,"{""git"":{""tag"":""v3.2.4"",""url"":""https://github.com/apache/xerces-c""}}"
 40979,63888,17768,0,1,0,1,"{""git"":{""tag"":""20190724"",""url"":""https://github.com/BLAKE2/BLAKE2""}}"
 40980,63889,35291,0,1,0,1,"{""git"":{""tag"":""n6.0"",""url"":""https://github.com/FFmpeg/FFmpeg""}}"
@@ -23028,3 +23027,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41063,63972,35371,0,1,0,1,"{""git"":{""tag"":""v1.3.54"",""url"":""https://github.com/awslabs/s2n""}}"
 41064,63973,35372,0,1,0,1,"{""git"":{""tag"":""v1.3.268"",""url"":""https://github.com/KhronosGroup/Vulkan-Loader""}}"
 41065,63974,35373,0,1,0,1,"{""git"":{""tag"":""7.0.7"",""url"":""https://github.com/juce-framework/JUCE""}}"
+41066,63975,35374,0,1,0,1,"{""git"":{""tag"":""v2.14"",""url"":""https://github.com/akheron/jansson""}}"
