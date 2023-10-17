@@ -2275,3 +2275,4 @@ package_id,path
 7237,org.sw.demo.Kitware.CMake.cmcppdap
 7238,org.sw.demo.intel.ittnotify
 7239,org.sw.demo.opentelemetry.exporters.ostream
+7240,org.sw.demo.python.freeze_module

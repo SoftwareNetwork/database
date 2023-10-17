@@ -23270,3 +23270,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41312,64221,35583,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 41313,64222,35587,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 41314,64223,35589,0,1,0,1,"{""git"":{""tag"":""openal-soft-1.21.0"",""url"":""https://github.com/kcat/openal-soft""}}"
+41315,64224,35592,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/python/cpython""}}"
+41316,64225,35590,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/python/cpython""}}"
+41317,64226,35591,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/python/cpython""}}"
