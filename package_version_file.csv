@@ -23284,4 +23284,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41412,64321,34208,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 41413,64322,35680,0,1,0,1,"{""git"":{""tag"":""8.2.2"",""url"":""https://github.com/behdad/harfbuzz""}}"
 41414,64323,35681,0,1,0,1,"{""git"":{""tag"":""v2.11.4"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
-41415,64324,35352,0,1,0,1,"{""git"":{""tag"":""v2.11.5"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+41416,64325,35682,0,1,0,1,"{""git"":{""tag"":""v2.11.4"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
