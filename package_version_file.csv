@@ -22933,7 +22933,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41041,63950,35349,0,1,0,1,"{""git"":{""tag"":""v3.2.3"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 41042,63951,35350,0,1,0,1,"{""git"":{""tag"":""v0.24.3"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 41043,63952,35351,0,1,0,1,"{""git"":{""tag"":""v0.3.18"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
-41044,63953,35352,0,1,0,1,"{""git"":{""tag"":""v2.11.5"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 41045,63954,35353,0,1,0,1,"{""git"":{""tag"":""3.2.0"",""url"":""https://github.com/randombit/botan""}}"
 41046,63955,35354,0,1,0,1,"{""git"":{""tag"":""17.01.28"",""url"":""https://github.com/intel/IntelSEAPI""}}"
 41047,63956,35355,0,1,0,1,"{""git"":{""tag"":""v0.13.35"",""url"":""https://github.com/awslabs/aws-c-io""}}"
