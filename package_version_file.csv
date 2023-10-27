@@ -23361,3 +23361,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41567,64476,35830,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtbase""}}"
 41568,64477,35831,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtwayland""}}"
 41569,64478,35834,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+41570,64479,35835,0,1,0,1,"{""git"":{""tag"":""cares-1_21_0"",""url"":""https://github.com/c-ares/c-ares""}}"
