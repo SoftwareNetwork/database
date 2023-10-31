@@ -23364,3 +23364,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41635,64544,35900,0,1,0,1,"{""git"":{""tag"":""v6.6.0"",""url"":""https://github.com/qt/qtbase""}}"
 41636,64545,35901,0,1,0,1,"{""git"":{""tag"":""v1.58.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 41637,64546,35902,0,1,0,1,"{""git"":{""tag"":""v10.0.27"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
+41638,64547,35903,0,1,0,1,"{""git"":{""tag"":""2023-11-01"",""url"":""https://github.com/google/re2""}}"
