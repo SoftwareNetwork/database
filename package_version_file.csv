@@ -23367,3 +23367,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41638,64547,35903,0,1,0,1,"{""git"":{""tag"":""2023-11-01"",""url"":""https://github.com/google/re2""}}"
 41639,64548,35905,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3440000.zip""}}"
 41640,64549,35904,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2023/sqlite-amalgamation-3440000.zip""}}"
+41641,64550,35908,0,1,0,1,"{""git"":{""tag"":""v25.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+41642,64551,35909,0,1,0,1,"{""git"":{""tag"":""v25.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+41643,64552,35907,0,1,0,1,"{""git"":{""tag"":""v25.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+41644,64553,35906,0,1,0,1,"{""git"":{""tag"":""v25.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
