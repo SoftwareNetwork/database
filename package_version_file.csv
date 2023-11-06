@@ -23405,3 +23405,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 41676,64585,35939,0,1,0,1,"{""git"":{""tag"":""v1.59.2"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 41677,64586,35942,0,1,0,1,"{""git"":{""tag"":""v1.59.2"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 41678,64587,35943,0,1,0,1,"{""git"":{""tag"":""v1.59.2"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+41679,64588,35944,0,1,0,1,"{""git"":{""tag"":""7.0.8"",""url"":""https://github.com/juce-framework/JUCE""}}"
+41680,64589,35945,0,1,0,1,"{""git"":{""tag"":""v1.3.269"",""url"":""https://github.com/KhronosGroup/Vulkan-Headers""}}"
+41681,64590,35946,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/lemire/simdjson""}}"
+41682,64591,35947,0,1,0,1,"{""git"":{""tag"":""v1.47.0"",""url"":""https://github.com/libuv/libuv""}}"
