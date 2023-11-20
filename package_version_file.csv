@@ -23940,3 +23940,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42277,65186,36477,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 42278,65187,36481,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 42279,65188,36303,0,1,0,1,"{""git"":{""tag"":""llvmorg-17.0.5"",""url"":""https://github.com/llvm/llvm-project""}}"
+42280,65189,36483,0,1,0,1,"{""git"":{""tag"":""v2.11.6"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
