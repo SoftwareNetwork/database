@@ -23963,3 +23963,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42302,65211,36505,0,1,0,1,"{""git"":{""tag"":""1.3.1"",""url"":""https://github.com/jinja2cpp/Jinja2Cpp""}}"
 42303,65212,36506,0,1,0,1,"{""git"":{""tag"":""v2.12.0"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 42304,65213,36507,0,1,0,1,"{""git"":{""tag"":""v0.9.5"",""url"":""https://github.com/Neargye/magic_enum""}}"
+42305,65214,36508,0,1,0,1,"{""git"":{""tag"":""v4.1.0"",""url"":""https://github.com/swig/swig""}}"
