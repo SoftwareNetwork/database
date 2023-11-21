@@ -23964,3 +23964,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42303,65212,36506,0,1,0,1,"{""git"":{""tag"":""v2.12.0"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 42304,65213,36507,0,1,0,1,"{""git"":{""tag"":""v0.9.5"",""url"":""https://github.com/Neargye/magic_enum""}}"
 42305,65214,36508,0,1,0,1,"{""git"":{""tag"":""v4.1.0"",""url"":""https://github.com/swig/swig""}}"
+42307,65216,36510,0,1,0,1,"{""git"":{""tag"":""cares-1_22_1"",""url"":""https://github.com/c-ares/c-ares""}}"
+42308,65217,36509,0,1,0,1,"{""git"":{""tag"":""v2023.09.25.00"",""url"":""https://github.com/facebook/folly""}}"
