@@ -23966,3 +23966,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42305,65214,36508,0,1,0,1,"{""git"":{""tag"":""v4.1.0"",""url"":""https://github.com/swig/swig""}}"
 42307,65216,36510,0,1,0,1,"{""git"":{""tag"":""cares-1_22_1"",""url"":""https://github.com/c-ares/c-ares""}}"
 42308,65217,36509,0,1,0,1,"{""git"":{""tag"":""v2023.09.25.00"",""url"":""https://github.com/facebook/folly""}}"
+42309,65218,36511,0,1,0,1,"{""git"":{""tag"":""VER-2-13-2"",""url"":""https://gitlab.freedesktop.org/freetype/freetype""}}"
+42310,65219,36514,0,1,0,1,"{""git"":{""tag"":""7.1.1-21"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
+42311,65220,36512,0,1,0,1,"{""git"":{""tag"":""7.1.1-21"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
+42312,65221,36513,0,1,0,1,"{""git"":{""tag"":""7.1.1-21"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
