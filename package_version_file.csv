@@ -24040,3 +24040,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42382,65291,36577,0,1,0,1,"{""git"":{""tag"":""v6.6.1"",""url"":""https://github.com/qt/qttools""}}"
 42383,65292,36583,0,1,0,1,"{""git"":{""tag"":""v6.6.1"",""url"":""https://github.com/qt/qtsvg""}}"
 42384,65293,36581,0,1,0,1,"{""git"":{""tag"":""v6.6.1"",""url"":""https://github.com/qt/qtimageformats""}}"
+42385,65294,36585,0,1,0,1,"{""git"":{""tag"":""v6.6.1"",""url"":""https://github.com/qt/qtimageformats""}}"
