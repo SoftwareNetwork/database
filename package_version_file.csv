@@ -21541,7 +21541,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38047,60956,32683,0,1,0,1,"{""git"":{""tag"":""7.8.0"",""url"":""https://github.com/jtv/libpqxx""}}"
 38048,60957,32684,0,1,0,1,"{""git"":{""tag"":""curl-8_2_1"",""url"":""https://github.com/curl/curl""}}"
 38049,60958,32685,0,1,0,1,"{""git"":{""tag"":""curl-8_2_1"",""url"":""https://github.com/curl/curl""}}"
-38050,60959,32686,0,1,0,1,"{""git"":{""tag"":""7.8.1"",""url"":""https://github.com/jtv/libpqxx""}}"
 38051,60960,32687,0,1,0,1,"{""git"":{""tag"":""v3.7.1"",""url"":""https://github.com/libarchive/libarchive""}}"
 38052,60961,32688,0,1,0,1,"{""git"":{""tag"":""8.1.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 38057,60966,32693,0,1,0,1,"{""git"":{""tag"":""v1.89.8"",""url"":""https://github.com/ocornut/imgui""}}"
@@ -24062,3 +24061,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42410,65319,36607,0,1,0,1,"{""git"":{""tag"":""4.10.2"",""url"":""https://github.com/emweb/wt""}}"
 42411,65321,36609,0,1,0,1,"{""git"":{""tag"":""4.10.2"",""url"":""https://github.com/emweb/wt""}}"
 42412,65320,36608,0,1,0,1,"{""git"":{""tag"":""4.10.2"",""url"":""https://github.com/emweb/wt""}}"
+42413,65322,36611,0,1,0,1,"{""git"":{""tag"":""7.8.1"",""url"":""https://github.com/jtv/libpqxx""}}"
