@@ -24314,3 +24314,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42666,65575,36832,0,1,0,1,"{""git"":{""tag"":""v1.60.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 42667,65576,36833,0,1,0,1,"{""git"":{""tag"":""v1.60.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 42668,65577,36834,0,1,0,1,"{""git"":{""tag"":""v0.7.8"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+42669,65578,36835,0,1,0,1,"{""git"":{""tag"":""v0.9.10"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+42670,65579,36836,0,1,0,1,"{""git"":{""tag"":""v0.9.10"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
