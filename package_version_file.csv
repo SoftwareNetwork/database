@@ -24333,3 +24333,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42689,65599,36853,0,1,0,1,"{""git"":{""tag"":""REL_16_1"",""url"":""https://github.com/postgres/postgres""}}"
 42690,65598,36854,0,1,0,1,"{""git"":{""tag"":""REL_16_1"",""url"":""https://github.com/postgres/postgres""}}"
 42692,65601,36857,0,1,0,1,"{""git"":{""tag"":""cares-1_23_0"",""url"":""https://github.com/c-ares/c-ares""}}"
+42693,65602,36858,0,1,0,1,"{""git"":{""tag"":""v2.11.3"",""url"":""https://github.com/Blosc/c-blosc2""}}"
