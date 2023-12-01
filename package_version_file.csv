@@ -24335,3 +24335,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42692,65601,36857,0,1,0,1,"{""git"":{""tag"":""cares-1_23_0"",""url"":""https://github.com/c-ares/c-ares""}}"
 42693,65602,36858,0,1,0,1,"{""git"":{""tag"":""v2.11.3"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 42694,65603,36859,0,1,0,1,"{""git"":{""tag"":""v3.6.1"",""url"":""https://github.com/lemire/simdjson""}}"
+42695,65604,36860,0,1,0,1,"{""git"":{""tag"":""v3.8.1"",""url"":""https://github.com/OSGeo/gdal""}}"
