@@ -24337,3 +24337,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42694,65603,36859,0,1,0,1,"{""git"":{""tag"":""v3.6.1"",""url"":""https://github.com/lemire/simdjson""}}"
 42695,65604,36860,0,1,0,1,"{""git"":{""tag"":""v3.8.1"",""url"":""https://github.com/OSGeo/gdal""}}"
 42696,65605,36861,0,1,0,1,"{""git"":{""tag"":""v3.6.2"",""url"":""https://github.com/lemire/simdjson""}}"
+42697,65606,36862,0,1,0,1,"{""git"":{""tag"":""9.3.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
