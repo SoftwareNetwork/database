@@ -24382,3 +24382,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42740,65648,36905,0,1,0,1,"{""git"":{""tag"":""v3.12.1"",""url"":""https://github.com/python/cpython""}}"
 42741,65649,36904,0,1,0,1,"{""git"":{""tag"":""v3.12.1"",""url"":""https://github.com/python/cpython""}}"
 42742,65651,36907,0,1,0,1,"{""git"":{""tag"":""v1.4.0"",""url"":""https://github.com/awslabs/s2n""}}"
+42743,65652,36908,0,1,0,1,"{""git"":{""tag"":""v3.6.3"",""url"":""https://github.com/lemire/simdjson""}}"
+42744,65653,36909,0,1,0,1,"{""git"":{""tag"":""v0.4.4"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
