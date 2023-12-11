@@ -24401,4 +24401,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 42759,65668,36920,0,1,0,1,"{""git"":{""tag"":""7.1.1-23"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
 42760,65669,36923,0,1,0,1,"{""git"":{""tag"":""v4.0.4"",""url"":""https://github.com/nemtrif/utfcpp""}}"
 42761,65670,36924,0,1,0,1,"{""git"":{""tag"":""v20.49.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
-42762,65671,36925,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
+42763,65672,36926,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
