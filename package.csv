@@ -2276,3 +2276,6 @@ package_id,path
 7239,org.sw.demo.opentelemetry.exporters.ostream
 7240,org.sw.demo.python.freeze_module
 7241,org.sw.demo.zxing_cpp.zxing_cpp
+7242,org.sw.demo.boost.cobalt
+7243,org.sw.demo.boost.redis
+7244,org.sw.demo.boost.mysql
