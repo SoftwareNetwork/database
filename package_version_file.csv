@@ -24594,3 +24594,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43007,65916,37169,0,1,0,1,"{""git"":{""tag"":""v2.5.10"",""url"":""https://github.com/openexr/openexr""}}"
 43008,65917,37168,0,1,0,1,"{""git"":{""tag"":""v2.5.10"",""url"":""https://github.com/openexr/openexr""}}"
 43009,65918,37167,0,1,0,1,"{""git"":{""tag"":""v2.5.10"",""url"":""https://github.com/openexr/openexr""}}"
+43010,65919,37171,0,1,0,1,"{""git"":{""tag"":""v3.2.5"",""url"":""https://github.com/apache/xerces-c""}}"
