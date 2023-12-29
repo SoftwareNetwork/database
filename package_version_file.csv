@@ -24739,3 +24739,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43153,66062,37314,0,1,0,1,"{""git"":{""tag"":""v20.55.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 43154,66063,37315,0,1,0,1,"{""git"":{""tag"":""v0.8.2"",""url"":""https://github.com/libjxl/libjxl""}}"
 43155,66064,37316,0,1,0,1,"{""git"":{""tag"":""v0.14.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+43157,66066,37318,0,1,0,1,"{""git"":{""tag"":""1.84.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
+43158,66067,37317,0,1,0,1,"{""git"":{""tag"":""v0.9.0"",""url"":""https://github.com/libjxl/libjxl""}}"
