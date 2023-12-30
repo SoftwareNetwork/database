@@ -24749,3 +24749,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43166,66075,37326,0,1,0,1,"{""git"":{""tag"":""v0.4.0"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
 43167,66076,37327,0,1,0,1,"{""git"":{""tag"":""v0.8.0"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 43168,66077,37328,0,1,0,1,"{""git"":{""tag"":""v0.14.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+43169,66078,37329,0,1,0,1,"{""git"":{""tag"":""v0.10.1"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+43170,66079,37330,0,1,0,1,"{""git"":{""tag"":""v0.4.9"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+43171,66080,37331,0,1,0,1,"{""git"":{""tag"":""v0.26.0"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
