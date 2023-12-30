@@ -24623,7 +24623,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43038,65947,37199,0,1,0,1,"{""git"":{""tag"":""v0.9.11"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 43039,65948,37200,0,1,0,1,"{""git"":{""tag"":""v0.7.15"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 43040,65949,37201,0,1,0,1,"{""git"":{""tag"":""v0.4.8"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
-43041,65950,37202,0,1,0,1,"{""git"":{""tag"":""v0.25.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 43042,65951,37203,0,1,0,1,"{""git"":{""tag"":""v1.4.1"",""url"":""https://github.com/awslabs/s2n""}}"
 43043,65952,37204,0,1,0,1,"{""git"":{""tag"":""v2.12.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 43044,65954,37205,0,1,0,1,"{""git"":{""tag"":""7.1.1-24"",""url"":""https://github.com/ImageMagick/ImageMagick""}}"
@@ -24744,3 +24743,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43160,66069,37321,0,1,0,1,"{""git"":{""tag"":""1.1.5.7.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 43161,66070,37322,0,1,0,1,"{""git"":{""tag"":""1.1.5.7.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 43162,66071,37320,0,1,0,1,"{""git"":{""tag"":""1.1.5.7.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+43163,66072,37323,0,1,0,1,"{""git"":{""tag"":""v0.25.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
