@@ -24765,3 +24765,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43182,66091,37342,0,1,0,1,"{""git"":{""tag"":""v1.3.274"",""url"":""https://github.com/KhronosGroup/Vulkan-Headers""}}"
 43183,66092,37343,0,1,0,1,"{""git"":{""tag"":""v4.0.5"",""url"":""https://github.com/nemtrif/utfcpp""}}"
 43184,66093,37344,0,1,0,1,"{""git"":{""tag"":""v4.2.0"",""url"":""https://github.com/swig/swig""}}"
+43185,66094,37345,0,1,0,1,"{""git"":{""tag"":""10.2.0"",""url"":""https://github.com/fmtlib/fmt""}}"
