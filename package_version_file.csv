@@ -24769,3 +24769,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43186,66095,37346,0,1,0,1,"{""git"":{""tag"":""cares-1_25_0"",""url"":""https://github.com/c-ares/c-ares""}}"
 43187,66096,37347,0,1,0,1,"{""git"":{""tag"":""1.84.1"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
 43188,66097,37348,0,1,0,1,"{""git"":{""tag"":""10.2.1"",""url"":""https://github.com/fmtlib/fmt""}}"
+43189,66098,37349,0,1,0,1,"{""git"":{""tag"":""v0.7.11"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+43190,66099,37350,0,1,0,1,"{""git"":{""tag"":""v0.4.1"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
