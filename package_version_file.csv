@@ -24771,3 +24771,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43200,66109,34209,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 43201,66110,34210,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 43202,66111,34208,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+43203,66114,37355,0,1,0,1,"{""git"":{""tag"":""1.23.8"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+43204,66113,37353,0,1,0,1,"{""git"":{""tag"":""1.23.8"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+43205,66112,37354,0,1,0,1,"{""git"":{""tag"":""1.23.8"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+43206,66115,37356,0,1,0,1,"{""git"":{""tag"":""v2.20.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+43207,66116,37357,0,1,0,1,"{""git"":{""tag"":""v2.20.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
