@@ -24820,3 +24820,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43264,66173,37407,0,1,0,1,"{""git"":{""tag"":""v1.90.1"",""url"":""https://github.com/ocornut/imgui""}}"
 43265,66174,37408,0,1,0,1,"{""git"":{""tag"":""v1.90.1"",""url"":""https://github.com/ocornut/imgui""}}"
 43266,66175,37410,0,1,0,1,"{""git"":{""tag"":""v1.90.1"",""url"":""https://github.com/ocornut/imgui""}}"
+43267,66176,37411,0,1,0,1,"{""git"":{""tag"":""v0.14.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+43268,66177,37412,0,1,0,1,"{""git"":{""tag"":""v0.26.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
