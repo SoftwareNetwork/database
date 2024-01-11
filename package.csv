@@ -2279,3 +2279,4 @@ package_id,path
 7242,org.sw.demo.boost.cobalt
 7243,org.sw.demo.boost.redis
 7244,org.sw.demo.boost.mysql
+7245,org.sw.demo.ocornut.imgui.backend.sdl2
