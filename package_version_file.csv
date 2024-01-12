@@ -24822,3 +24822,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43266,66175,37410,0,1,0,1,"{""git"":{""tag"":""v1.90.1"",""url"":""https://github.com/ocornut/imgui""}}"
 43267,66176,37411,0,1,0,1,"{""git"":{""tag"":""v0.14.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 43268,66177,37412,0,1,0,1,"{""git"":{""tag"":""v0.26.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+43269,66178,37413,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/gabime/spdlog""}}"
+43270,66179,37414,0,1,0,1,"{""git"":{""tag"":""v.3.3.3"",""url"":""https://github.com/dtschump/CImg""}}"
