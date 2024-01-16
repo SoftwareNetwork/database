@@ -24824,3 +24824,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43268,66177,37412,0,1,0,1,"{""git"":{""tag"":""v0.26.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 43269,66178,37413,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/gabime/spdlog""}}"
 43270,66179,37414,0,1,0,1,"{""git"":{""tag"":""v.3.3.3"",""url"":""https://github.com/dtschump/CImg""}}"
+43271,66180,37415,0,1,0,1,"{""git"":{""tag"":""v3.5.2"",""url"":""https://github.com/catchorg/Catch2""}}"
+43272,66181,37416,0,1,0,1,"{""git"":{""tag"":""v2024.01.15.00"",""url"":""https://github.com/facebook/folly""}}"
+43273,66182,37417,0,1,0,1,"{""git"":{""tag"":""release-0.5.0"",""url"":""https://github.com/mity/md4c""}}"
+43274,66183,37418,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/skypjack/entt""}}"
+43275,66184,37419,0,1,0,1,"{""git"":{""tag"":""v2.12.4"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
