@@ -24829,3 +24829,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43273,66182,37417,0,1,0,1,"{""git"":{""tag"":""release-0.5.0"",""url"":""https://github.com/mity/md4c""}}"
 43274,66183,37418,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/skypjack/entt""}}"
 43275,66184,37419,0,1,0,1,"{""git"":{""tag"":""v2.12.4"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+43276,66185,37420,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/qt-labs/vstools""}}"
+43277,66186,37421,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/qt-labs/vstools""}}"
