@@ -134695,3 +134695,4 @@ package_version_id,package_id,version_range
 66221,2767,*
 66221,3135,master
 66221,4049,*
+66223,5,=3.45.0
