@@ -24868,3 +24868,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43312,66221,37456,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 43313,66222,37458,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450000.zip""}}"
 43314,66223,37457,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450000.zip""}}"
+43315,66224,37459,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/madler/zlib""}}"
+43316,66225,37460,0,1,0,1,"{""git"":{""tag"":""v2024.01.22.00"",""url"":""https://github.com/facebook/folly""}}"
+43317,66226,37461,0,1,0,1,"{""git"":{""tag"":""v20.57.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
