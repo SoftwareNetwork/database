@@ -24871,3 +24871,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43315,66224,37459,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/madler/zlib""}}"
 43316,66225,37460,0,1,0,1,"{""git"":{""tag"":""v2024.01.22.00"",""url"":""https://github.com/facebook/folly""}}"
 43317,66226,37461,0,1,0,1,"{""git"":{""tag"":""v20.57.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+43318,66227,37462,0,1,0,1,"{""git"":{""tag"":""v2.13.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+43319,66228,37463,0,1,0,1,"{""git"":{""tag"":""1.0.0"",""url"":""https://github.com/g-truc/glm""}}"
+43320,66229,37464,0,1,0,1,"{""git"":{""tag"":""v0.1.14"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
+43321,66230,37465,0,1,0,1,"{""git"":{""tag"":""1.0.0"",""url"":""https://github.com/g-truc/glm""}}"
