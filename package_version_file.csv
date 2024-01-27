@@ -24875,3 +24875,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43319,66228,37463,0,1,0,1,"{""git"":{""tag"":""1.0.0"",""url"":""https://github.com/g-truc/glm""}}"
 43320,66229,37464,0,1,0,1,"{""git"":{""tag"":""v0.1.14"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
 43321,66230,37465,0,1,0,1,"{""git"":{""tag"":""1.0.0"",""url"":""https://github.com/g-truc/glm""}}"
+43322,66231,37466,0,1,0,1,"{""git"":{""tag"":""cares-1_26_0"",""url"":""https://github.com/c-ares/c-ares""}}"
