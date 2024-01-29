@@ -24948,3 +24948,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43426,66336,37566,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.9.tar.gz""}}"
 43427,66335,37565,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.9.tar.gz""}}"
 43428,66337,37567,0,1,0,1,"{""remote"":{""url"":""https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.8.2.tar.gz""}}"
+43429,66338,37568,0,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/nasm-2.16.01.tar.xz""}}"
