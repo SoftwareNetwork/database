@@ -8359,7 +8359,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 12378,35286,11642,1,1,0,1,"{""git"":{""tag"":""libxcb-1.14"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
 12419,35327,11683,1,1,0,1,"{""git"":{""tag"":""7.2.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
 12461,35369,11725,1,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/skypjack/entt""}}"
-12462,35370,11726,1,1,0,1,"{""remote"":{""url"":""https://freefr.dl.sourceforge.net/project/glew/glew/2.2.0/glew-2.2.0.tgz""}}"
 12463,35371,11727,1,1,0,1,"{""git"":{""tag"":""2.1.0"",""url"":""https://github.com/team-charls/charls""}}"
 12464,35372,11728,1,1,0,1,"{""git"":{""tag"":""2.2.0"",""url"":""https://github.com/team-charls/charls""}}"
 12465,35373,11730,1,1,0,1,"{""git"":{""tag"":""v2.5.24"",""url"":""https://github.com/lexxmark/winflexbison""}}"
@@ -24907,3 +24906,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43351,66259,37492,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.79/glib-2.79.1.tar.xz""}}"
 43352,66261,37496,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.79/glib-2.79.1.tar.xz""}}"
 43353,66262,37497,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/glibmm/2.78/glibmm-2.78.0.tar.xz""}}"
+43354,66263,37498,0,1,0,1,"{""remote"":{""url"":""https://github.com/nigels-com/glew/releases/download/glew-2.2.0/glew-2.2.0.tgz""}}"
