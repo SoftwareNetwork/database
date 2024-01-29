@@ -24945,3 +24945,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43423,66332,37562,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.79/glib-2.79.1.tar.xz""}}"
 43424,66333,37563,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/m4/m4-1.4.18.tar.xz""}}"
 43425,66334,37564,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/m4/m4-1.4.18.tar.xz""}}"
+43426,66336,37566,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.9.tar.gz""}}"
+43427,66335,37565,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.9.tar.gz""}}"
+43428,66337,37567,0,1,0,1,"{""remote"":{""url"":""https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.8.2.tar.gz""}}"
