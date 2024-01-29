@@ -24855,7 +24855,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43319,66228,37463,0,1,0,1,"{""git"":{""tag"":""1.0.0"",""url"":""https://github.com/g-truc/glm""}}"
 43320,66229,37464,0,1,0,1,"{""git"":{""tag"":""v0.1.14"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
 43321,66230,37465,0,1,0,1,"{""git"":{""tag"":""1.0.0"",""url"":""https://github.com/g-truc/glm""}}"
-43322,66231,37466,0,1,0,1,"{""git"":{""tag"":""cares-1_26_0"",""url"":""https://github.com/c-ares/c-ares""}}"
 43323,66232,37467,0,1,0,1,"{""git"":{""tag"":""v3.1.10"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
 43324,66233,37468,0,1,0,1,"{""git"":{""tag"":""v0.7.14"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 43325,66234,37469,0,1,0,1,"{""git"":{""tag"":""v0.14.2"",""url"":""https://github.com/awslabs/aws-c-io""}}"
@@ -24944,3 +24943,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43408,66317,37550,0,1,0,1,"{""git"":{""tag"":""v0.15.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 43409,66318,37420,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/qt-labs/vstools""}}"
 43410,66319,37421,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/qt-labs/vstools""}}"
+43411,66320,37551,0,1,0,1,"{""git"":{""tag"":""cares-1_26_0"",""url"":""https://github.com/c-ares/c-ares""}}"
+43413,66322,37552,0,1,0,1,"{""git"":{""tag"":""23.2"",""url"":""https://github.com/pypa/packaging""}}"
