@@ -24769,7 +24769,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43224,66134,37374,0,1,0,1,"{""git"":{""tag"":""1.23.9"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 43225,66135,37372,0,1,0,1,"{""git"":{""tag"":""1.23.9"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 43226,66133,37373,0,1,0,1,"{""git"":{""tag"":""1.23.9"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
-43231,66140,37379,0,1,0,1,"{""git"":{""tag"":""v0.9.1"",""url"":""https://github.com/libjxl/libjxl""}}"
 43232,66141,37380,0,1,0,1,"{""git"":{""tag"":""version-4.1.2"",""url"":""https://github.com/mdadams/jasper""}}"
 43233,66142,37381,0,1,0,1,"{""git"":{""tag"":""v1.90"",""url"":""https://github.com/ocornut/imgui""}}"
 43234,66143,37384,0,1,0,1,"{""git"":{""tag"":""v1.90"",""url"":""https://github.com/ocornut/imgui""}}"
@@ -24951,3 +24950,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43439,66348,37578,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
 43440,66349,37579,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
 43441,66350,37580,0,1,0,1,"{""git"":{""tag"":""1.0.7"",""url"":""https://github.com/google/highway""}}"
+43442,66351,37581,0,1,0,1,"{""git"":{""tag"":""v0.9.1"",""url"":""https://github.com/libjxl/libjxl""}}"
