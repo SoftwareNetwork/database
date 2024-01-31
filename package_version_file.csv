@@ -24951,4 +24951,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43442,66351,37581,0,1,0,1,"{""git"":{""tag"":""v0.9.1"",""url"":""https://github.com/libjxl/libjxl""}}"
 43443,66352,37582,0,1,0,1,"{""git"":{""tag"":""2024-02-01"",""url"":""https://github.com/google/re2""}}"
 43444,66353,37583,0,1,0,1,"{""git"":{""tag"":""v0.8.2"",""url"":""https://github.com/libjxl/libjxl""}}"
-43445,66354,37584,0,1,0,1,"{""git"":{""tag"":""v3.8.3"",""url"":""https://github.com/OSGeo/gdal""}}"
+43446,66355,37585,0,1,0,1,"{""git"":{""tag"":""v3.8.3"",""url"":""https://github.com/OSGeo/gdal""}}"
