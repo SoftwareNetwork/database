@@ -21609,7 +21609,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 38544,61453,33170,0,1,0,1,"{""git"":{""tag"":""release-2.28.2"",""url"":""https://github.com/libsdl-org/SDL""}}"
 38545,61454,33172,0,1,0,1,"{""git"":{""tag"":""10.1.1"",""url"":""https://github.com/fmtlib/fmt""}}"
 38547,61457,33175,0,1,0,1,"{""git"":{""tag"":""v1.89.9"",""url"":""https://github.com/ocornut/imgui""}}"
-38563,61472,33188,0,1,0,1,"{""git"":{""tag"":""1.0.7"",""url"":""https://github.com/google/highway""}}"
 38564,61473,33189,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/google/brotli""}}"
 38566,61475,33191,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/libtom/libtommath""}}"
 38567,61477,33192,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
@@ -24951,3 +24950,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43438,66347,37576,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.39.7.tar.gz""}}"
 43439,66348,37578,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
 43440,66349,37579,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
+43441,66350,37580,0,1,0,1,"{""git"":{""tag"":""1.0.7"",""url"":""https://github.com/google/highway""}}"
