@@ -24949,3 +24949,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43436,66346,37575,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.39.7.tar.gz""}}"
 43437,66345,37574,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.39.7.tar.gz""}}"
 43438,66347,37576,0,1,0,1,"{""remote"":{""url"":""https://github.com/Perl/perl5/archive/refs/tags/v5.39.7.tar.gz""}}"
+43439,66348,37578,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
+43440,66349,37579,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
