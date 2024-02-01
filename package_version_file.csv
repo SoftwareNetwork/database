@@ -24985,3 +24985,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43481,66390,37621,0,1,0,1,"{""git"":{""tag"":""1.51.1"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 43482,66391,37620,0,1,0,1,"{""git"":{""tag"":""1.51.1"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 43483,66392,37622,0,1,0,1,"{""git"":{""tag"":""1.51.1"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
+43484,66393,37623,0,1,0,1,"{""git"":{""tag"":""pixman-0.43.2"",""url"":""https://gitlab.freedesktop.org/pixman/pixman""}}"
