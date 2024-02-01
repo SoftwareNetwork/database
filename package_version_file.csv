@@ -24986,3 +24986,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43482,66391,37620,0,1,0,1,"{""git"":{""tag"":""1.51.1"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 43483,66392,37622,0,1,0,1,"{""git"":{""tag"":""1.51.1"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 43484,66393,37623,0,1,0,1,"{""git"":{""tag"":""pixman-0.43.2"",""url"":""https://gitlab.freedesktop.org/pixman/pixman""}}"
+43485,66396,37626,0,1,0,1,"{""remote"":{""url"":""https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.7.tgz""}}"
+43486,66395,37624,0,1,0,1,"{""remote"":{""url"":""https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.7.tgz""}}"
+43487,66394,37625,0,1,0,1,"{""remote"":{""url"":""https://www.openldap.org/software/download/OpenLDAP/openldap-release/openldap-2.6.7.tgz""}}"
