@@ -24928,7 +24928,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43434,66342,37570,0,1,0,1,"{""git"":{""tag"":""v25.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 43439,66348,37578,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
 43440,66349,37579,0,1,0,1,"{""git"":{""tag"":""curl-8_6_0"",""url"":""https://github.com/curl/curl""}}"
-43441,66350,37580,0,1,0,1,"{""git"":{""tag"":""1.0.7"",""url"":""https://github.com/google/highway""}}"
 43442,66351,37581,0,1,0,1,"{""git"":{""tag"":""v0.9.1"",""url"":""https://github.com/libjxl/libjxl""}}"
 43443,66352,37582,0,1,0,1,"{""git"":{""tag"":""2024-02-01"",""url"":""https://github.com/google/re2""}}"
 43444,66353,37583,0,1,0,1,"{""git"":{""tag"":""v0.8.2"",""url"":""https://github.com/libjxl/libjxl""}}"
@@ -24992,3 +24991,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43505,66414,37641,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 43506,66415,37645,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 43507,66416,37646,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
+43508,66417,37647,0,1,0,1,"{""git"":{""tag"":""1.0.7"",""url"":""https://github.com/google/highway""}}"
