@@ -25009,3 +25009,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43558,66467,37680,0,1,0,1,"{""git"":{""tag"":""v2.4.1"",""url"":""https://github.com/cisco/openh264""}}"
 43559,66468,37682,0,1,0,1,"{""git"":{""tag"":""v2.4.1"",""url"":""https://github.com/cisco/openh264""}}"
 43560,66469,37683,0,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/CLIUtils/CLI11""}}"
+43561,66470,37684,0,1,0,1,"{""git"":{""tag"":""R_2_6_0"",""url"":""https://github.com/libexpat/libexpat""}}"
+43562,66471,37685,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/glibmm/2.78/glibmm-2.78.1.tar.xz""}}"
+43563,66472,37686,0,1,0,1,"{""git"":{""tag"":""version-4.2.0"",""url"":""https://github.com/mdadams/jasper""}}"
