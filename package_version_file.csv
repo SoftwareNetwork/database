@@ -25040,3 +25040,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43589,66498,37712,0,1,0,1,"{""git"":{""tag"":""v3.13.1"",""url"":""https://github.com/skypjack/entt""}}"
 43590,66499,37713,0,1,0,1,"{""git"":{""tag"":""v2.12.5"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 43591,66500,37714,0,1,0,1,"{""git"":{""tag"":""v0.15.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+43592,66501,37715,0,1,0,1,"{""git"":{""tag"":""v2.21.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+43593,66502,37716,0,1,0,1,"{""git"":{""tag"":""v2.21.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
