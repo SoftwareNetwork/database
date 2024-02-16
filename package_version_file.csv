@@ -25211,3 +25211,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43827,66736,37897,0,1,0,1,"{""git"":{""tag"":""1.4.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 43828,66738,37896,0,1,0,1,"{""git"":{""tag"":""1.4.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 43829,66737,37896,0,1,0,1,"{""git"":{""tag"":""1.4.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
+43830,66739,37898,0,1,0,1,"{""git"":{""tag"":""v0.3.0"",""url"":""https://github.com/census-instrumentation/opencensus-cpp""}}"
