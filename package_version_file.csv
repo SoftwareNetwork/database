@@ -25230,3 +25230,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43944,66853,37945,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 43945,66854,37946,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 43946,66855,37947,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/mpusz/units""}}"
+43947,66856,37948,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
+43948,66857,37949,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
+43949,66858,37950,0,1,0,1,"{""git"":{""tag"":""1.1.0"",""url"":""https://github.com/google/highway""}}"
+43950,66859,37951,0,1,0,1,"{""git"":{""tag"":""7.9.0"",""url"":""https://github.com/jtv/libpqxx""}}"
+43951,66860,37952,0,1,0,1,"{""git"":{""tag"":""v3.4.6"",""url"":""https://github.com/libffi/libffi""}}"
