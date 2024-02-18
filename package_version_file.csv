@@ -25235,3 +25235,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43949,66858,37950,0,1,0,1,"{""git"":{""tag"":""1.1.0"",""url"":""https://github.com/google/highway""}}"
 43950,66859,37951,0,1,0,1,"{""git"":{""tag"":""7.9.0"",""url"":""https://github.com/jtv/libpqxx""}}"
 43951,66860,37952,0,1,0,1,"{""git"":{""tag"":""v3.4.6"",""url"":""https://github.com/libffi/libffi""}}"
+43952,66861,37953,0,1,0,1,"{""git"":{""tag"":""v3.8.4"",""url"":""https://github.com/OSGeo/gdal""}}"
