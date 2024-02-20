@@ -25239,3 +25239,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43953,66862,37954,0,1,0,1,"{""git"":{""tag"":""v2.0.10"",""url"":""https://github.com/arvidn/libtorrent""}}"
 43954,66863,37955,0,1,0,1,"{""git"":{""tag"":""v3.23.2"",""url"":""https://github.com/beached/daw_json_link""}}"
 43955,66864,37956,0,1,0,1,"{""git"":{""tag"":""v.3.3.4"",""url"":""https://github.com/dtschump/CImg""}}"
+43956,66865,37957,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/alandefreitas/matplotplusplus""}}"
+43957,66866,37958,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/jarro2783/cxxopts""}}"
