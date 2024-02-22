@@ -25271,3 +25271,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43988,66897,37989,0,1,0,1,"{""git"":{""tag"":""v1.62.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 43989,66898,37990,0,1,0,1,"{""git"":{""tag"":""v1.62.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 43990,66899,37991,0,1,0,1,"{""git"":{""tag"":""3.3.0"",""url"":""https://github.com/randombit/botan""}}"
+43991,66900,37992,0,1,0,1,"{""remote"":{""url"":""https://www.ijg.org/files/jpegsr9f.zip""}}"
