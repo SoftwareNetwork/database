@@ -25295,3 +25295,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44015,66925,38015,0,1,0,1,"{""git"":{""tag"":""v3.12.2"",""url"":""https://github.com/python/cpython""}}"
 44016,66924,38014,0,1,0,1,"{""git"":{""tag"":""v3.12.2"",""url"":""https://github.com/python/cpython""}}"
 44017,66926,38016,0,1,0,1,"{""git"":{""tag"":""v3.12.2"",""url"":""https://github.com/python/cpython""}}"
+44018,66927,38018,0,1,0,1,"{""git"":{""tag"":""1.23.11"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+44019,66928,38019,0,1,0,1,"{""git"":{""tag"":""1.23.11"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+44020,66929,38017,0,1,0,1,"{""git"":{""tag"":""1.23.11"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+44021,66930,38020,0,1,0,1,"{""git"":{""tag"":""v4.0.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
+44022,66931,38021,0,1,0,1,"{""git"":{""tag"":""v4.0.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
