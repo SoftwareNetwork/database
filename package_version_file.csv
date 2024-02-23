@@ -25308,3 +25308,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44028,66937,38027,0,1,0,1,"{""git"":{""tag"":""v5.39.8"",""url"":""https://github.com/Perl/perl5""}}"
 44029,66938,38026,0,1,0,1,"{""git"":{""tag"":""v5.39.8"",""url"":""https://github.com/Perl/perl5""}}"
 44030,66939,38028,0,1,0,1,"{""git"":{""tag"":""v5.39.8"",""url"":""https://github.com/Perl/perl5""}}"
+44031,66940,38030,0,1,0,1,"{""git"":{""tag"":""3.4"",""url"":""https://github.com/glfw/glfw""}}"
