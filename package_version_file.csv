@@ -25233,7 +25233,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43953,66862,37954,0,1,0,1,"{""git"":{""tag"":""v2.0.10"",""url"":""https://github.com/arvidn/libtorrent""}}"
 43954,66863,37955,0,1,0,1,"{""git"":{""tag"":""v3.23.2"",""url"":""https://github.com/beached/daw_json_link""}}"
 43955,66864,37956,0,1,0,1,"{""git"":{""tag"":""v.3.3.4"",""url"":""https://github.com/dtschump/CImg""}}"
-43956,66865,37957,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/alandefreitas/matplotplusplus""}}"
 43957,66866,37958,0,1,0,1,"{""git"":{""tag"":""v3.2.1"",""url"":""https://github.com/jarro2783/cxxopts""}}"
 43958,66867,37959,0,1,0,1,"{""git"":{""tag"":""version-4.2.1"",""url"":""https://github.com/mdadams/jasper""}}"
 43959,66868,37963,0,1,0,1,"{""git"":{""tag"":""poco-1.13.2-release"",""url"":""https://github.com/pocoproject/poco""}}"
@@ -25309,3 +25308,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44029,66938,38026,0,1,0,1,"{""git"":{""tag"":""v5.39.8"",""url"":""https://github.com/Perl/perl5""}}"
 44030,66939,38028,0,1,0,1,"{""git"":{""tag"":""v5.39.8"",""url"":""https://github.com/Perl/perl5""}}"
 44031,66940,38030,0,1,0,1,"{""git"":{""tag"":""3.4"",""url"":""https://github.com/glfw/glfw""}}"
+44032,66941,38031,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/alandefreitas/matplotplusplus""}}"
