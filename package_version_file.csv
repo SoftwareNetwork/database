@@ -25318,3 +25318,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44062,66971,38060,0,1,0,1,"{""git"":{""tag"":""2.1.5"",""url"":""https://github.com/pallets/markupsafe""}}"
 44065,66974,38064,0,1,0,1,"{""git"":{""tag"":""v3.11.3"",""url"":""https://github.com/nlohmann/json""}}"
 44066,66975,38063,0,1,0,1,"{""git"":{""tag"":""v3.11.3"",""url"":""https://github.com/nlohmann/json""}}"
+44067,66976,38065,0,1,0,1,"{""git"":{""tag"":""v1.14.1"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
+44068,66977,38066,0,1,0,1,"{""git"":{""tag"":""v1.14.1"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
