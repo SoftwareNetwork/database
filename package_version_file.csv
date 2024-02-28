@@ -25329,3 +25329,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44157,67066,37907,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 44158,67067,34208,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 44159,67068,34210,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+44160,67069,38124,0,1,0,1,"{""git"":{""tag"":""v5.6.1"",""url"":""https://github.com/CGAL/cgal""}}"
+44161,67070,38125,0,1,0,1,"{""git"":{""tag"":""v0.10.1"",""url"":""https://github.com/libjxl/libjxl""}}"
+44162,67071,38126,0,1,0,1,"{""git"":{""tag"":""v1.14.2"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
+44163,67072,38127,0,1,0,1,"{""git"":{""tag"":""v1.14.2"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
+44164,67073,38128,0,1,0,1,"{""git"":{""tag"":""v2.5.2"",""url"":""https://github.com/uclouvain/openjpeg""}}"
