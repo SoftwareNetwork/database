@@ -25334,3 +25334,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44162,67071,38126,0,1,0,1,"{""git"":{""tag"":""v1.14.2"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 44163,67072,38127,0,1,0,1,"{""git"":{""tag"":""v1.14.2"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 44164,67073,38128,0,1,0,1,"{""git"":{""tag"":""v2.5.2"",""url"":""https://github.com/uclouvain/openjpeg""}}"
+44165,67074,38129,0,1,0,1,"{""git"":{""tag"":""2024-03-01"",""url"":""https://github.com/google/re2""}}"
+44166,67075,38130,0,1,0,1,"{""git"":{""tag"":""v3.1.11"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
