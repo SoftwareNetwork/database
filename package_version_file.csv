@@ -25339,3 +25339,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44167,67076,38131,0,1,0,1,"{""git"":{""tag"":""v0.10.3"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 44168,67077,38132,0,1,0,1,"{""git"":{""tag"":""v0.5.2"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 44169,67078,38133,0,1,0,1,"{""git"":{""tag"":""pixman-0.43.4"",""url"":""https://gitlab.freedesktop.org/pixman/pixman""}}"
+44170,67079,38134,0,1,0,1,"{""git"":{""tag"":""v0.26.3"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+44171,67080,38135,0,1,0,1,"{""git"":{""tag"":""R_2_6_1"",""url"":""https://github.com/libexpat/libexpat""}}"
