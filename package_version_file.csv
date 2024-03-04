@@ -25343,3 +25343,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44171,67080,38135,0,1,0,1,"{""git"":{""tag"":""R_2_6_1"",""url"":""https://github.com/libexpat/libexpat""}}"
 44172,67081,38136,0,1,0,1,"{""git"":{""tag"":""v1.60.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 44173,67082,38137,0,1,0,1,"{""git"":{""tag"":""9.4.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
+44174,67083,38138,0,1,0,1,"{""git"":{""tag"":""v3.5.3"",""url"":""https://github.com/catchorg/Catch2""}}"
+44175,67084,38139,0,1,0,1,"{""git"":{""tag"":""v1.7.3"",""url"":""https://github.com/reo7sp/tgbot-cpp""}}"
+44176,67085,38140,0,1,0,1,"{""git"":{""tag"":""libxcb-1.16.1"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
