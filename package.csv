@@ -2300,3 +2300,4 @@ package_id,path
 7266,org.sw.demo.python.pypi.jinja2
 7267,org.sw.demo.python.pypi.markupsafe
 7268,org.sw.demo.nlohmann.json.natvis
+7269,org.sw.demo.h2o.picohttpparser
