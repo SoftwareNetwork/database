@@ -25348,3 +25348,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44176,67085,38140,0,1,0,1,"{""git"":{""tag"":""libxcb-1.16.1"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb""}}"
 44177,67086,38141,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/h2o/picohttpparser""}}"
 44178,67087,38142,0,1,0,1,"{""git"":{""tag"":""v0.9.14"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+44179,67088,38143,0,1,0,1,"{""git"":{""tag"":""v2.22.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+44180,67089,38144,0,1,0,1,"{""git"":{""tag"":""v2.22.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+44181,67090,38145,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla542.zip""}}"
+44182,67091,38146,0,1,0,1,"{""git"":{""tag"":""v1.5.1"",""url"":""https://github.com/xiph/opus""}}"
