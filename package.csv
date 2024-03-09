@@ -2301,3 +2301,7 @@ package_id,path
 7267,org.sw.demo.python.pypi.markupsafe
 7268,org.sw.demo.nlohmann.json.natvis
 7269,org.sw.demo.h2o.picohttpparser
+7270,org.sw.demo.llvm_project.llvm.Frontend.Offloading
+7271,org.sw.demo.llvm_project.clang.APINotes
+7272,org.sw.demo.llvm_project.llvm.Frontend.Driver
+7273,org.sw.demo.llvm_project.llvm.HipStdPar
