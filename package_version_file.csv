@@ -25592,3 +25592,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44421,67330,38355,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 44422,67331,38357,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.1"",""url"":""https://github.com/llvm/llvm-project""}}"
 44423,67332,38356,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.1"",""url"":""https://github.com/llvm/llvm-project""}}"
+44424,67333,38358,0,1,0,1,"{""git"":{""tag"":""v1.4.6"",""url"":""https://github.com/awslabs/s2n""}}"
+44425,67334,38360,0,1,0,1,"{""git"":{""tag"":""v24.3.7"",""url"":""https://github.com/google/flatbuffers""}}"
+44426,67335,38359,0,1,0,1,"{""git"":{""tag"":""v24.3.7"",""url"":""https://github.com/google/flatbuffers""}}"
