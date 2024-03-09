@@ -25670,3 +25670,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44500,67409,38427,0,1,0,1,"{""git"":{""tag"":""v5.15.13-lts-lgpl"",""url"":""https://github.com/qt/qtimageformats""}}"
 44501,67410,38431,0,1,0,1,"{""git"":{""tag"":""v5.15.13-lts-lgpl"",""url"":""https://github.com/qt/qtbase""}}"
 44502,67411,38435,0,1,0,1,"{""git"":{""tag"":""v5.15.13-lts-lgpl"",""url"":""https://github.com/qt/qtbase""}}"
+44503,67412,38437,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla543.zip""}}"
