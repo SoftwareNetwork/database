@@ -25676,3 +25676,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44506,67415,38440,0,1,0,1,"{""git"":{""tag"":""v3.8.0"",""url"":""https://github.com/lemire/simdjson""}}"
 44507,67416,38441,0,1,0,1,"{""git"":{""tag"":""24.0"",""url"":""https://github.com/pypa/packaging""}}"
 44508,67417,38442,0,1,0,1,"{""git"":{""tag"":""v20.62.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+44509,67418,38443,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
+44510,67419,38444,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
