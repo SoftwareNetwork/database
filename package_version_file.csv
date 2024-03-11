@@ -25673,3 +25673,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44503,67412,38437,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla543.zip""}}"
 44504,67413,38438,0,1,0,1,"{""remote"":{""url"":""https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.9.0.tar.gz""}}"
 44505,67414,38439,0,1,0,1,"{""git"":{""tag"":""v20.61.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+44506,67415,38440,0,1,0,1,"{""git"":{""tag"":""v3.8.0"",""url"":""https://github.com/lemire/simdjson""}}"
+44507,67416,38441,0,1,0,1,"{""git"":{""tag"":""24.0"",""url"":""https://github.com/pypa/packaging""}}"
+44508,67417,38442,0,1,0,1,"{""git"":{""tag"":""v20.62.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
