@@ -25678,3 +25678,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44508,67417,38442,0,1,0,1,"{""git"":{""tag"":""v20.62.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 44509,67418,38443,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
 44510,67419,38444,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
+44511,67420,38445,0,1,0,1,"{""git"":{""tag"":""v1.6.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
