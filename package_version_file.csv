@@ -25679,3 +25679,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44509,67418,38443,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
 44510,67419,38444,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
 44511,67420,38445,0,1,0,1,"{""git"":{""tag"":""v1.6.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+44512,67421,38446,0,1,0,1,"{""git"":{""tag"":""v1.3.0"",""url"":""https://github.com/mohabouje/WinToast""}}"

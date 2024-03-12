@@ -2305,3 +2305,4 @@ package_id,path
 7271,org.sw.demo.llvm_project.clang.APINotes
 7272,org.sw.demo.llvm_project.llvm.Frontend.Driver
 7273,org.sw.demo.llvm_project.llvm.HipStdPar
+7274,org.sw.demo.mohabouje.WinToast
