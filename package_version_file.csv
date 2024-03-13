@@ -25691,3 +25691,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44523,67432,38455,0,1,0,1,"{""git"":{""tag"":""v26.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 44524,67433,38458,0,1,0,1,"{""git"":{""tag"":""v26.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 44525,67434,38459,0,1,0,1,"{""git"":{""tag"":""R_2_6_2"",""url"":""https://github.com/libexpat/libexpat""}}"
+44526,67435,38460,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/qt-labs/vstools""}}"
+44527,67436,38461,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/qt-labs/vstools""}}"
