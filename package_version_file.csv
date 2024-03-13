@@ -25685,3 +25685,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44517,67426,38451,0,1,0,1,"{""git"":{""tag"":""v.3.3.5"",""url"":""https://github.com/dtschump/CImg""}}"
 44518,67427,38452,0,1,0,1,"{""git"":{""tag"":""version-4.2.2"",""url"":""https://github.com/mdadams/jasper""}}"
 44519,67428,38453,0,1,0,1,"{""git"":{""tag"":""20240116.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+44520,67429,38457,0,1,0,1,"{""git"":{""tag"":""v26.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+44521,67431,38456,0,1,0,1,"{""git"":{""tag"":""v26.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+44522,67430,38454,0,1,0,1,"{""git"":{""tag"":""v26.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+44523,67432,38455,0,1,0,1,"{""git"":{""tag"":""v26.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+44524,67433,38458,0,1,0,1,"{""git"":{""tag"":""v26.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
