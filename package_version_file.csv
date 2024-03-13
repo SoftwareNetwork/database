@@ -25680,3 +25680,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44510,67419,38444,0,1,0,1,"{""git"":{""tag"":""v4.1.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
 44511,67420,38445,0,1,0,1,"{""git"":{""tag"":""v1.6.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 44514,67423,38448,0,1,0,1,"{""git"":{""tag"":""v1.3.0"",""url"":""https://github.com/mohabouje/WinToast""}}"
+44515,67424,38449,0,1,0,1,"{""git"":{""tag"":""v0.14.6"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+44516,67425,38450,0,1,0,1,"{""git"":{""tag"":""1.5.1"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
+44517,67426,38451,0,1,0,1,"{""git"":{""tag"":""v.3.3.5"",""url"":""https://github.com/dtschump/CImg""}}"
+44518,67427,38452,0,1,0,1,"{""git"":{""tag"":""version-4.2.2"",""url"":""https://github.com/mdadams/jasper""}}"
