@@ -25693,3 +25693,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44525,67434,38459,0,1,0,1,"{""git"":{""tag"":""R_2_6_2"",""url"":""https://github.com/libexpat/libexpat""}}"
 44526,67435,38460,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/qt-labs/vstools""}}"
 44527,67436,38461,0,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/qt-labs/vstools""}}"
+44528,67437,38462,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450100.zip""}}"
+44529,67438,38463,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450100.zip""}}"
+44530,67439,38464,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450200.zip""}}"
+44531,67440,38465,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450200.zip""}}"
