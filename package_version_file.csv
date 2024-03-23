@@ -25956,3 +25956,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44896,67805,37152,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 44897,67806,37154,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 44898,67807,37153,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+44899,67808,38713,0,1,0,1,"{""git"":{""tag"":""v0.20.0"",""url"":""https://github.com/apache/thrift""}}"
+44900,67809,38714,0,1,0,1,"{""git"":{""tag"":""v0.20.0"",""url"":""https://github.com/apache/thrift""}}"
