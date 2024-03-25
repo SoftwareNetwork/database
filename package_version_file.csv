@@ -25959,3 +25959,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44899,67808,38713,0,1,0,1,"{""git"":{""tag"":""v0.20.0"",""url"":""https://github.com/apache/thrift""}}"
 44900,67809,38714,0,1,0,1,"{""git"":{""tag"":""v0.20.0"",""url"":""https://github.com/apache/thrift""}}"
 44901,67810,38715,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/gsoap2/files/gsoap_2.8.133.zip/download""}}"
+44902,67811,38716,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.8"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
+44903,67812,38717,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.8"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
