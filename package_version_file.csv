@@ -26028,3 +26028,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45033,67942,38783,0,1,0,1,"{""git"":{""tag"":""v6.6.3"",""url"":""https://github.com/qt/qtimageformats""}}"
 45034,67943,38780,0,1,0,1,"{""git"":{""tag"":""v6.6.3"",""url"":""https://github.com/qt/qtbase""}}"
 45035,67944,38784,0,1,0,1,"{""git"":{""tag"":""xorgproto-2024.1"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
+45036,67945,38788,0,1,0,1,"{""git"":{""tag"":""v3.2.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+45037,67946,38785,0,1,0,1,"{""git"":{""tag"":""v3.2.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+45038,67947,38787,0,1,0,1,"{""git"":{""tag"":""v3.2.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+45039,67948,38786,0,1,0,1,"{""git"":{""tag"":""v3.2.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
