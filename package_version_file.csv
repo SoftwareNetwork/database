@@ -26038,3 +26038,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45043,67952,38792,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
 45044,67953,38793,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
 45045,67954,38794,0,1,0,1,"{""git"":{""tag"":""v1.5.6"",""url"":""https://github.com/facebook/zstd""}}"
+45046,67955,38795,0,1,0,1,"{""git"":{""tag"":""v1.3.0"",""url"":""https://github.com/libtom/libtommath""}}"
