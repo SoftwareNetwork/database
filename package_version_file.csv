@@ -25887,7 +25887,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 44780,67689,38684,0,1,0,1,"{""git"":{""tag"":""v3.28.4"",""url"":""https://github.com/Kitware/CMake""}}"
 44781,67690,38683,0,1,0,1,"{""git"":{""tag"":""v3.28.4"",""url"":""https://github.com/Kitware/CMake""}}"
 44782,67691,38685,0,1,0,1,"{""git"":{""tag"":""v3.28.4"",""url"":""https://github.com/Kitware/CMake""}}"
-44783,67692,38686,0,1,0,1,"{""git"":{""tag"":""v1.8.0"",""url"":""https://github.com/libgit2/libgit2""}}"
 44784,67693,38687,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.2"",""url"":""https://github.com/llvm/llvm-project""}}"
 44785,67694,38688,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.2"",""url"":""https://github.com/llvm/llvm-project""}}"
 44786,67697,38692,0,1,0,1,"{""git"":{""tag"":""v5.39.9"",""url"":""https://github.com/Perl/perl5""}}"
@@ -26047,3 +26046,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45123,68033,38872,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 45124,68032,38871,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
 45125,68034,38873,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/DataManager""}}"
+45126,68035,38875,0,1,0,1,"{""git"":{""tag"":""v1.8.0"",""url"":""https://github.com/libgit2/libgit2""}}"
