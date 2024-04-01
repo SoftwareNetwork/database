@@ -26051,3 +26051,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45131,68040,38880,0,1,0,1,"{""remote"":{""url"":""https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.9.1.tar.gz""}}"
 45132,68041,38881,0,1,0,1,"{""git"":{""tag"":""version-4.2.3"",""url"":""https://github.com/mdadams/jasper""}}"
 45133,68042,38882,0,1,0,1,"{""git"":{""tag"":""2024-04-01"",""url"":""https://github.com/google/re2""}}"
+45134,68043,38883,0,1,0,1,"{""git"":{""tag"":""1.1.5.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+45135,68045,38884,0,1,0,1,"{""git"":{""tag"":""1.1.5.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+45136,68044,38885,0,1,0,1,"{""git"":{""tag"":""1.1.5.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
