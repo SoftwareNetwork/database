@@ -2307,3 +2307,4 @@ package_id,path
 7273,org.sw.demo.llvm_project.llvm.HipStdPar
 7274,org.sw.demo.mohabouje.WinToast
 7275,org.sw.demo.google.protobuf.upb_generator.mangle
+7276,org.sw.demo.baldurk.renderdoc
