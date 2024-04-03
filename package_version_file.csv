@@ -26120,3 +26120,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45226,68135,38974,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 45227,68136,38976,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 45228,68137,38977,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
+45229,68138,38978,0,1,0,1,"{""git"":{""tag"":""v0.9.15"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+45230,68139,38979,0,1,0,1,"{""git"":{""tag"":""v0.14.7"",""url"":""https://github.com/awslabs/aws-c-io""}}"
