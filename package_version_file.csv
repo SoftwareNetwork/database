@@ -26372,3 +26372,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45479,68388,39198,0,1,0,1,"{""git"":{""tag"":""v1.61.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 45480,68389,39199,0,1,0,1,"{""git"":{""tag"":""v3.9.0"",""url"":""https://github.com/lemire/simdjson""}}"
 45481,68390,39200,0,1,0,1,"{""git"":{""tag"":""v3.8.5"",""url"":""https://github.com/OSGeo/gdal""}}"
+45482,68391,39201,0,1,0,1,"{""git"":{""tag"":""v2.14.1"",""url"":""https://github.com/Blosc/c-blosc2""}}"
