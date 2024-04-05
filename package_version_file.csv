@@ -26382,3 +26382,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45489,68398,39207,0,1,0,1,"{""git"":{""tag"":""n7.0"",""url"":""https://github.com/FFmpeg/FFmpeg""}}"
 45490,68399,39208,0,1,0,1,"{""git"":{""tag"":""n7.0"",""url"":""https://github.com/FFmpeg/FFmpeg""}}"
 45491,68400,39210,0,1,0,1,"{""git"":{""tag"":""n7.0"",""url"":""https://github.com/FFmpeg/FFmpeg""}}"
+45492,68401,39211,0,1,0,1,"{""git"":{""tag"":""1.2.0"",""url"":""https://github.com/google/snappy""}}"
