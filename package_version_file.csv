@@ -26370,3 +26370,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45477,68386,39196,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 45478,68387,39197,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.3"",""url"":""https://github.com/llvm/llvm-project""}}"
 45479,68388,39198,0,1,0,1,"{""git"":{""tag"":""v1.61.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+45480,68389,39199,0,1,0,1,"{""git"":{""tag"":""v3.9.0"",""url"":""https://github.com/lemire/simdjson""}}"
