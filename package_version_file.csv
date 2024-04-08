@@ -26407,3 +26407,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45566,68475,39284,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
 45567,68476,39285,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
 45568,68477,39283,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
+45569,68478,39286,0,1,0,1,"{""git"":{""tag"":""v5.4.0"",""url"":""https://github.com/assimp/assimp""}}"
