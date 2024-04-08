@@ -1855,7 +1855,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1876,12491,1876,1,1,0,1,
 1877,16782,1877,1,1,0,1,
 1878,10384,1878,1,1,0,1,
-1879,10391,1879,1,1,0,1,
 1880,12400,1880,1,1,0,1,
 1881,21077,1881,1,1,0,1,
 1882,9596,1882,1,1,0,1,
@@ -1884,7 +1883,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1905,12489,1905,1,1,0,1,
 1906,12493,1906,1,1,0,1,
 1907,10385,1907,1,1,0,1,
-1908,10389,1908,1,1,0,1,
 1909,12223,1909,1,1,0,1,
 1910,12497,1910,1,1,0,1,
 1911,8281,1911,1,1,0,1,
@@ -1936,7 +1934,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1957,27011,1957,1,1,0,1,
 1958,13082,1958,1,1,0,1,
 1959,12615,1959,1,1,0,1,
-1960,10390,1960,1,1,0,1,
 1961,12234,1961,1,1,0,1,
 1962,12214,1962,1,1,0,1,
 1963,27015,1963,1,1,0,1,
@@ -26407,3 +26404,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45563,68472,39280,0,1,0,1,"{""git"":{""tag"":""v3.9.1"",""url"":""https://github.com/lemire/simdjson""}}"
 45564,68473,39282,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.9"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 45565,68474,39281,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.9"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
+45566,68475,39284,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
+45567,68476,39285,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
+45568,68477,39283,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
