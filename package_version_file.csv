@@ -26410,3 +26410,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45636,68545,39347,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qttools""}}"
 45637,68546,39351,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtbase""}}"
 45638,68547,39355,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+45639,68548,39356,0,1,0,1,"{""git"":{""tag"":""v0.5.7"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+45640,68549,39357,0,1,0,1,"{""git"":{""tag"":""v3.7.3"",""url"":""https://github.com/libarchive/libarchive""}}"
+45641,68550,39358,0,1,0,1,"{""git"":{""tag"":""3.4.0"",""url"":""https://github.com/randombit/botan""}}"
