@@ -2310,3 +2310,5 @@ package_id,path
 7276,org.sw.demo.baldurk.renderdoc
 7277,org.sw.demo.qtproject.qt.base.plugins.styles.modernwindows
 7278,org.sw.demo.wtl
+7279,org.sw.demo.libproxy.libproxy
+7280,org.sw.demo.libproxy.backend
