@@ -24741,7 +24741,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43309,66218,37453,0,1,0,1,"{""git"":{""tag"":""v1.59.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
 43310,66219,37454,0,1,0,1,"{""git"":{""tag"":""v1.2.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 43311,66220,37455,0,1,0,1,"{""git"":{""tag"":""v1.2.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
-43312,66221,37456,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 43313,66222,37458,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450000.zip""}}"
 43314,66223,37457,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450000.zip""}}"
 43315,66224,37459,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/madler/zlib""}}"
@@ -26409,3 +26408,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45568,68477,39283,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
 45569,68478,39286,0,1,0,1,"{""git"":{""tag"":""v5.4.0"",""url"":""https://github.com/assimp/assimp""}}"
 45570,68479,39287,0,1,0,1,"{""git"":{""tag"":""20240116.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+45571,68480,39288,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/webmproject/libvpx""}}"
