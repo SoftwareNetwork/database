@@ -24788,7 +24788,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43364,66273,37508,0,1,0,1,"{""git"":{""tag"":""v1.3.5"",""url"":""https://github.com/xiph/ogg""}}"
 43365,66274,37509,0,1,0,1,"{""remote"":{""url"":""http://baical.net/files/libP7Client_v5.6.zip""}}"
 43366,66275,37510,0,1,0,1,"{""remote"":{""url"":""https://dbus.freedesktop.org/releases/dbus/dbus-1.15.8.tar.xz""}}"
-43367,66276,37511,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.15.0.tar.gz""}}"
 43368,66277,37513,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.51/pango-1.51.0.tar.xz""}}"
 43369,66278,37514,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.51/pango-1.51.0.tar.xz""}}"
 43370,66279,37512,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/GNOME/sources/pango/1.51/pango-1.51.0.tar.xz""}}"
@@ -26477,3 +26476,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46036,68945,39705,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.0.tar.xz""}}"
 46037,68946,39707,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.0.tar.xz""}}"
 46038,68947,39709,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.0.tar.xz""}}"
+46039,68948,39710,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.15.0.tar.gz""}}"
