@@ -26330,7 +26330,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45568,68477,39283,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/nothings/stb""}}"
 45569,68478,39286,0,1,0,1,"{""git"":{""tag"":""v5.4.0"",""url"":""https://github.com/assimp/assimp""}}"
 45570,68479,39287,0,1,0,1,"{""git"":{""tag"":""20240116.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
-45571,68480,39288,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/webmproject/libvpx""}}"
 45572,68481,39289,0,1,0,1,"{""git"":{""tag"":""v1.5.1"",""url"":""https://github.com/xiph/opus""}}"
 45573,68482,39290,0,1,0,1,"{""git"":{""tag"":""Release_10.0"",""url"":""https://git.code.sf.net/p/wtl/git""}}"
 45639,68548,39356,0,1,0,1,"{""git"":{""tag"":""v0.5.7"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
@@ -26477,3 +26476,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46028,68937,39693,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qttools""}}"
 46029,68938,39697,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtbase""}}"
 46030,68939,39701,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+46031,68940,39702,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/webmproject/libvpx""}}"
