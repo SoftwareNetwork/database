@@ -25880,8 +25880,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 45052,67961,38799,0,1,0,1,"{""git"":{""tag"":""v26.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 45053,67962,38802,0,1,0,1,"{""git"":{""tag"":""v26.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 45054,67963,38803,0,1,0,1,"{""git"":{""tag"":""v2.12.0"",""url"":""https://github.com/pybind/pybind11""}}"
-45055,67964,38804,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
-45056,67965,38805,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
 45057,67966,38809,0,1,0,1,"{""git"":{""tag"":""v6.6.3"",""url"":""https://github.com/qt/qtdeclarative""}}"
 45058,67968,38808,0,1,0,1,"{""git"":{""tag"":""v6.6.3"",""url"":""https://github.com/qt/qttools""}}"
 45059,67967,38806,0,1,0,1,"{""git"":{""tag"":""v6.6.3"",""url"":""https://github.com/qt/qtwebengine""}}"
