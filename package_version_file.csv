@@ -26475,3 +26475,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46344,69253,40016,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 46345,69254,40013,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtbase""}}"
 46346,69255,40017,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtimageformats""}}"
+46347,69256,38792,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
+46348,69257,38793,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
