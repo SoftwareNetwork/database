@@ -26477,3 +26477,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46415,69324,40084,0,1,0,1,"{""git"":{""tag"":""v6.7.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 46416,69325,40086,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
 46417,69326,40085,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
+46418,69327,40088,0,1,0,1,"{""git"":{""tag"":""v2021.12.0"",""url"":""https://github.com/intel/tbb""}}"
+46419,69329,40089,0,1,0,1,"{""git"":{""tag"":""v2021.12.0"",""url"":""https://github.com/intel/tbb""}}"
+46420,69328,40087,0,1,0,1,"{""git"":{""tag"":""v2021.12.0"",""url"":""https://github.com/intel/tbb""}}"
