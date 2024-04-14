@@ -26480,3 +26480,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46444,69353,38974,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 46445,69354,40094,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 46446,69355,38977,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
+46447,69356,40096,0,1,0,1,"{""git"":{""tag"":""1.1.6.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+46448,69357,40095,0,1,0,1,"{""git"":{""tag"":""1.1.6.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+46449,69358,40097,0,1,0,1,"{""git"":{""tag"":""1.1.6.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
