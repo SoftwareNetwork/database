@@ -26634,3 +26634,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46599,69508,40247,0,1,0,1,"{""git"":{""tag"":""v0.26.8"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
 46600,69509,40248,0,1,0,1,"{""git"":{""tag"":""v1.4.11"",""url"":""https://github.com/awslabs/s2n""}}"
 46601,69510,40249,0,1,0,1,"{""git"":{""tag"":""v3.5.4"",""url"":""https://github.com/catchorg/Catch2""}}"
+46602,69511,40250,0,1,0,1,"{""git"":{""tag"":""asio-1-30-2"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+46603,69512,40252,0,1,0,1,"{""git"":{""tag"":""v4.2.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
+46604,69513,40251,0,1,0,1,"{""git"":{""tag"":""v4.2.1"",""url"":""https://github.com/Genivia/RE-flex""}}"
+46605,69515,40254,0,1,0,1,"{""git"":{""tag"":""v2.23.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+46606,69514,40253,0,1,0,1,"{""git"":{""tag"":""v2.23.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
