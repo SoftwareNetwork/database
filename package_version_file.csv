@@ -26631,3 +26631,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46596,69505,40242,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/unordered""}}"
 46597,69506,40243,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/stacktrace""}}"
 46598,69507,40246,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/units""}}"
+46599,69508,40247,0,1,0,1,"{""git"":{""tag"":""v0.26.8"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+46600,69509,40248,0,1,0,1,"{""git"":{""tag"":""v1.4.11"",""url"":""https://github.com/awslabs/s2n""}}"
+46601,69510,40249,0,1,0,1,"{""git"":{""tag"":""v3.5.4"",""url"":""https://github.com/catchorg/Catch2""}}"
