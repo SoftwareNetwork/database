@@ -26629,3 +26629,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46594,69503,40239,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/scope_exit""}}"
 46595,69504,40244,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/tuple""}}"
 46596,69505,40242,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/unordered""}}"
+46597,69506,40243,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/stacktrace""}}"
+46598,69507,40246,0,1,0,1,"{""git"":{""tag"":""boost-1.85.0"",""url"":""https://github.com/boostorg/units""}}"
