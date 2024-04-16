@@ -26650,3 +26650,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46615,69525,40264,0,1,0,1,"{""git"":{""tag"":""v3.12.3"",""url"":""https://github.com/python/cpython""}}"
 46616,69524,40263,0,1,0,1,"{""git"":{""tag"":""v3.12.3"",""url"":""https://github.com/python/cpython""}}"
 46617,69526,40265,0,1,0,1,"{""git"":{""tag"":""v3.12.3"",""url"":""https://github.com/python/cpython""}}"
+46618,69527,40266,0,1,0,1,"{""git"":{""tag"":""v1.5.2"",""url"":""https://github.com/xiph/opus""}}"
+46619,69528,40267,0,1,0,1,"{""git"":{""tag"":""xcb-proto-1.17.0"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xcbproto""}}"
