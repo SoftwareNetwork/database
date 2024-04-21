@@ -26694,3 +26694,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46754,69663,40398,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 46755,69664,40397,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 46756,69665,40396,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+46757,69666,40399,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/Benjamin-Dobell/s3tc-dxt-decompression""}}"
