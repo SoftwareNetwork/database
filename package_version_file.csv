@@ -26944,3 +26944,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47178,70087,40708,0,1,0,1,"{""git"":{""tag"":""4.10.4"",""url"":""https://github.com/emweb/wt""}}"
 47179,70088,40710,0,1,0,1,"{""git"":{""tag"":""4.10.4"",""url"":""https://github.com/emweb/wt""}}"
 47180,70089,40709,0,1,0,1,"{""git"":{""tag"":""4.10.4"",""url"":""https://github.com/emweb/wt""}}"
+47182,70091,40713,0,1,0,1,"{""git"":{""tag"":""v0.10.4"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
