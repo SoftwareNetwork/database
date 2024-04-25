@@ -26697,3 +26697,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46922,69831,40482,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 46923,69832,40480,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
 46924,69833,40481,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/aimrebirth/tools""}}"
+46925,69834,40486,0,1,0,1,"{""git"":{""tag"":""v0.7.18"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+46926,69835,40487,0,1,0,1,"{""git"":{""tag"":""v0.9.17"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+46927,69836,40488,0,1,0,1,"{""git"":{""tag"":""v0.1.16"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
