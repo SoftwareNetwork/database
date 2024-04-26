@@ -26947,3 +26947,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47187,70096,40718,0,1,0,1,"{""git"":{""tag"":""4.10.4"",""url"":""https://github.com/emweb/wt""}}"
 47188,70097,40717,0,1,0,1,"{""git"":{""tag"":""4.10.4"",""url"":""https://github.com/emweb/wt""}}"
 47189,70098,40720,0,1,0,1,"{""git"":{""tag"":""4.10.4"",""url"":""https://github.com/emweb/wt""}}"
+47190,70099,40721,0,1,0,1,"{""git"":{""tag"":""v1.14.0"",""url"":""https://github.com/gabime/spdlog""}}"
+47191,70100,40723,0,1,0,1,"{""git"":{""tag"":""0.5.6"",""url"":""https://github.com/libproxy/libproxy""}}"
+47192,70101,40722,0,1,0,1,"{""git"":{""tag"":""0.5.6"",""url"":""https://github.com/libproxy/libproxy""}}"
