@@ -26969,3 +26969,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47244,70153,40773,0,1,0,1,"{""git"":{""tag"":""v1.63.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47245,70154,40774,0,1,0,1,"{""git"":{""tag"":""v1.63.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47246,70155,40777,0,1,0,1,"{""git"":{""tag"":""v1.63.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+47247,70156,40778,0,1,0,1,"{""git"":{""tag"":""2024-05-01"",""url"":""https://github.com/google/re2""}}"
