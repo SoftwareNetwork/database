@@ -2318,3 +2318,6 @@ package_id,path
 7284,pub.lzwdgc.Polygon4.Tools.tm_converter2
 7285,pub.lzwdgc.Polygon4.Tools.aim1.mod_maker.injections
 7287,org.sw.demo.emweb.wt.resources
+7288,org.sw.demo.google.protobuf.upb
+7289,org.sw.demo.google.protobuf.utf8_validity
+7290,org.sw.demo.google.protobuf.utf8_range
