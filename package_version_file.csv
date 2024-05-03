@@ -26977,3 +26977,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47372,70281,40827,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/giflib/files/giflib-5.2.2.tar.gz""}}"
 47373,70282,40828,0,1,0,1,"{""git"":{""tag"":""v0.6.12"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 47374,70283,40829,0,1,0,1,"{""git"":{""tag"":""v1.4.13"",""url"":""https://github.com/awslabs/s2n""}}"
+47375,70284,40830,0,1,0,1,"{""git"":{""tag"":""v0.6.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
+47376,70285,40832,0,1,0,1,"{""git"":{""tag"":""v2.24.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+47377,70286,40831,0,1,0,1,"{""git"":{""tag"":""v2.24.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+47378,70287,40833,0,1,0,1,"{""git"":{""tag"":""release-2.30.3"",""url"":""https://github.com/libsdl-org/SDL""}}"
+47379,70288,40834,0,1,0,1,"{""git"":{""tag"":""release-2.30.3"",""url"":""https://github.com/libsdl-org/SDL""}}"
