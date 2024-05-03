@@ -26974,3 +26974,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47369,70278,40824,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 47370,70280,40823,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 47371,70279,40825,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+47372,70281,40827,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/giflib/files/giflib-5.2.2.tar.gz""}}"
+47373,70282,40828,0,1,0,1,"{""git"":{""tag"":""v0.6.12"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+47374,70283,40829,0,1,0,1,"{""git"":{""tag"":""v1.4.13"",""url"":""https://github.com/awslabs/s2n""}}"
