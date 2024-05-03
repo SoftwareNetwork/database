@@ -26970,3 +26970,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47365,70274,40359,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 47366,70276,40822,0,1,0,1,"{""git"":{""tag"":""v3.10.13"",""url"":""https://github.com/python/cpython""}}"
 47367,70275,40821,0,1,0,1,"{""git"":{""tag"":""v3.10.13"",""url"":""https://github.com/python/cpython""}}"
+47368,70277,40826,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+47369,70278,40824,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+47370,70280,40823,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+47371,70279,40825,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.2"",""url"":""https://github.com/egorpugin/tgbot""}}"

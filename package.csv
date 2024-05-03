@@ -2321,3 +2321,4 @@ package_id,path
 7288,org.sw.demo.google.protobuf.upb
 7289,org.sw.demo.google.protobuf.utf8_validity
 7290,org.sw.demo.google.protobuf.utf8_range
+7291,org.sw.demo.tgbot.curl_skeleton
