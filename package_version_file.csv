@@ -26847,7 +26847,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47191,70100,40723,0,1,0,1,"{""git"":{""tag"":""0.5.6"",""url"":""https://github.com/libproxy/libproxy""}}"
 47192,70101,40722,0,1,0,1,"{""git"":{""tag"":""0.5.6"",""url"":""https://github.com/libproxy/libproxy""}}"
 47193,70102,40724,0,1,0,1,"{""git"":{""tag"":""v1.5.6"",""url"":""https://github.com/facebook/zstd""}}"
-47204,70113,40735,0,1,0,1,"{""git"":{""tag"":""v3.7.4"",""url"":""https://github.com/libarchive/libarchive""}}"
 47205,70114,40736,0,1,0,1,"{""git"":{""tag"":""version-4.2.4"",""url"":""https://github.com/mdadams/jasper""}}"
 47206,70115,40739,0,1,0,1,"{""git"":{""tag"":""v5.39.10"",""url"":""https://github.com/Perl/perl5""}}"
 47207,70117,40740,0,1,0,1,"{""git"":{""tag"":""v5.39.10"",""url"":""https://github.com/Perl/perl5""}}"
@@ -26985,3 +26984,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47416,70325,40842,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.22.5.tar.gz""}}"
 47417,70326,40843,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
 47418,70327,40844,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
+47419,70328,40845,0,1,0,1,"{""git"":{""tag"":""v3.7.4"",""url"":""https://github.com/libarchive/libarchive""}}"
