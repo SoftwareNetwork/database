@@ -26538,7 +26538,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46612,69521,40261,0,1,0,1,"{""git"":{""tag"":""v3.29.2"",""url"":""https://github.com/Kitware/CMake""}}"
 46613,69522,40260,0,1,0,1,"{""git"":{""tag"":""v3.29.2"",""url"":""https://github.com/Kitware/CMake""}}"
 46614,69523,40262,0,1,0,1,"{""git"":{""tag"":""v3.29.2"",""url"":""https://github.com/Kitware/CMake""}}"
-46618,69527,40266,0,1,0,1,"{""git"":{""tag"":""v1.5.2"",""url"":""https://github.com/xiph/opus""}}"
 46619,69528,40267,0,1,0,1,"{""git"":{""tag"":""xcb-proto-1.17.0"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xcbproto""}}"
 46620,69529,40268,0,1,0,1,"{""git"":{""tag"":""v1.4.12"",""url"":""https://github.com/awslabs/s2n""}}"
 46621,69530,40269,0,1,0,1,"{""git"":{""tag"":""v3.23.3"",""url"":""https://github.com/beached/daw_json_link""}}"
@@ -26987,3 +26986,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47419,70328,40845,0,1,0,1,"{""git"":{""tag"":""v3.7.4"",""url"":""https://github.com/libarchive/libarchive""}}"
 47420,70329,40846,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450300.zip""}}"
 47421,70330,40847,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450300.zip""}}"
+47422,70331,40848,0,1,0,1,"{""git"":{""tag"":""v1.5.2"",""url"":""https://github.com/xiph/opus""}}"
