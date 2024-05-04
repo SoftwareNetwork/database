@@ -26985,3 +26985,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47417,70326,40843,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
 47418,70327,40844,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
 47419,70328,40845,0,1,0,1,"{""git"":{""tag"":""v3.7.4"",""url"":""https://github.com/libarchive/libarchive""}}"
+47420,70329,40846,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450300.zip""}}"
+47421,70330,40847,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3450300.zip""}}"
