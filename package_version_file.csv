@@ -26982,3 +26982,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47411,70320,40836,0,1,0,1,"{""git"":{""tag"":""pcre2-10.43"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 47412,70321,40838,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.15.0.tar.gz""}}"
 47413,70322,40839,0,1,0,1,"{""git"":{""tag"":""pixman-0.43.4"",""url"":""https://gitlab.freedesktop.org/pixman/pixman""}}"
+47414,70323,40840,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
+47415,70324,40841,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
