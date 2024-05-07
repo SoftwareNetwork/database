@@ -26991,4 +26991,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47425,70334,40851,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
 47426,70335,40850,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
 47427,70336,40852,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
-47428,70337,40854,0,1,0,1,"{""git"":{""tag"":""vs-2022-17.9"",""url"":""https://github.com/microsoft/STL""}}"
+47430,70339,40856,0,1,0,1,"{""git"":{""tag"":""vs-2022-17.9"",""url"":""https://github.com/microsoft/STL""}}"
