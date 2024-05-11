@@ -26992,3 +26992,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47430,70339,40856,0,1,0,1,"{""git"":{""tag"":""vs-2022-17.9"",""url"":""https://github.com/microsoft/STL""}}"
 47431,70340,40858,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
 47432,70341,40857,0,1,0,1,"{""git"":{""tag"":""curl-8_7_1"",""url"":""https://github.com/curl/curl""}}"
+47433,70342,40859,0,1,0,1,"{""git"":{""tag"":""v0.14.8"",""url"":""https://github.com/awslabs/aws-c-io""}}"
