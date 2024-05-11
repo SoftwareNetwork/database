@@ -27039,3 +27039,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47477,70386,40901,0,1,0,1,"{""git"":{""tag"":""v0.6.13"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 47478,70387,40902,0,1,0,1,"{""git"":{""tag"":""v0.9.19"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 47479,70388,40903,0,1,0,1,"{""git"":{""tag"":""v1.4.14"",""url"":""https://github.com/awslabs/s2n""}}"
+47480,70389,40904,0,1,0,1,"{""git"":{""tag"":""v1.14.1"",""url"":""https://github.com/gabime/spdlog""}}"
