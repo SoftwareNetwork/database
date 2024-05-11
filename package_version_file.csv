@@ -27263,3 +27263,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47701,70610,41096,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 47702,70611,41094,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 47703,70612,41097,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.5"",""url"":""https://github.com/llvm/llvm-project""}}"
+47704,70613,41098,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/martinmoene/span-lite""}}"
