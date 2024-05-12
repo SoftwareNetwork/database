@@ -27266,3 +27266,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47714,70623,41106,0,1,0,1,"{""git"":{""tag"":""llvmorg-14.0.6"",""url"":""https://github.com/llvm/llvm-project""}}"
 47719,70628,41111,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 47720,70629,41112,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.5"",""url"":""https://github.com/llvm/llvm-project""}}"
+47721,70630,41116,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.1.tar.xz""}}"
+47722,70631,41114,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.1.tar.xz""}}"
+47723,70632,41115,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.1.tar.xz""}}"
+47724,70633,41113,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.1.tar.xz""}}"
+47725,70634,41117,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.80/glib-2.80.1.tar.xz""}}"
