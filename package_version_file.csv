@@ -6282,7 +6282,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 6444,25432,6444,1,1,0,1,
 6473,25433,6473,1,1,0,1,
 6474,25436,6474,1,1,0,1,
-6497,29414,6497,1,1,0,1,
 6499,25434,6499,1,1,0,1,
 6524,29427,6524,1,1,0,1,
 6525,25435,6525,1,1,0,1,
@@ -6488,7 +6487,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 6753,29139,6753,1,1,0,1,
 6754,29143,6754,1,1,0,1,
 6755,26891,6755,1,1,0,1,
-6756,29413,6756,1,1,0,1,
 6757,28352,6757,1,1,0,1,
 6758,29478,6758,1,1,0,1,
 6759,29486,6759,1,1,0,1,
@@ -7660,8 +7658,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 9989,32897,9392,1,1,0,1,"{""git"":{""tag"":""v1.11.1"",""url"":""https://github.com/zeux/pugixml""}}"
 9990,32898,9393,1,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/lemire/simdjson""}}"
 9992,32900,9395,1,1,0,1,"{""git"":{""tag"":""v3.2.0"",""url"":""https://github.com/OSGeo/gdal""}}"
-9995,32903,9399,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
-9996,32904,9398,1,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
 9997,32905,9400,1,1,0,1,"{""git"":{""tag"":""version-2.0.17"",""url"":""https://github.com/mdadams/jasper""}}"
 9998,32906,9401,1,1,0,1,"{""git"":{""tag"":""version-2.0.19"",""url"":""https://github.com/mdadams/jasper""}}"
 9999,32907,9402,1,1,0,1,"{""git"":{""tag"":""version-2.0.20"",""url"":""https://github.com/mdadams/jasper""}}"
@@ -27264,3 +27260,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47702,70611,41094,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 47703,70612,41097,0,1,0,1,"{""git"":{""tag"":""llvmorg-18.1.5"",""url"":""https://github.com/llvm/llvm-project""}}"
 47704,70613,41098,0,1,0,1,"{""git"":{""tag"":""v0.11.0"",""url"":""https://github.com/martinmoene/span-lite""}}"
+47705,70614,41099,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
+47706,70615,41100,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/grep/grep-3.6.tar.xz""}}"
+47707,70616,41101,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/gawk/gawk-5.1.0.tar.xz""}}"
+47708,70617,41102,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/gawk/gawk-5.1.0.tar.xz""}}"
