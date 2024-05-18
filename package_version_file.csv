@@ -27317,4 +27317,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47850,70759,41238,0,1,0,1,"{""git"":{""tag"":""v2.9.4"",""url"":""https://github.com/nodejs/http-parser""}}"
 47851,70760,41239,0,1,0,1,"{""git"":{""tag"":""v1.8.1"",""url"":""https://github.com/libgit2/libgit2""}}"
 47852,70761,41240,0,1,0,1,"{""git"":{""tag"":""9.4.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
-47853,70762,41241,0,1,0,1,"{""git"":{""tag"":""v3.9.0"",""url"":""https://github.com/OSGeo/gdal""}}"
+47854,70763,41242,0,1,0,1,"{""git"":{""tag"":""v3.9.0"",""url"":""https://github.com/OSGeo/gdal""}}"
