@@ -2322,3 +2322,4 @@ package_id,path
 7289,org.sw.demo.google.protobuf.utf8_validity
 7290,org.sw.demo.google.protobuf.utf8_range
 7291,org.sw.demo.tgbot.curl_skeleton
+7292,org.sw.demo.nodejs.http_parser

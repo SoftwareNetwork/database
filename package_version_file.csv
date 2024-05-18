@@ -27315,3 +27315,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47847,70756,41234,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47848,70757,41237,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47849,70758,41236,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+47850,70759,41238,0,1,0,1,"{""git"":{""tag"":""v2.9.4"",""url"":""https://github.com/nodejs/http-parser""}}"
