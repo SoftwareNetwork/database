@@ -27284,8 +27284,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47793,70702,41181,0,1,0,1,"{""git"":{""tag"":""v.3.3.6"",""url"":""https://github.com/dtschump/CImg""}}"
 47794,70703,41183,0,1,0,1,"{""git"":{""tag"":""v4.3.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
 47795,70704,41182,0,1,0,1,"{""git"":{""tag"":""v4.3.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
-47796,70705,41184,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/gawk/gawk-5.3.0.tar.xz""}}"
-47797,70706,41185,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/gawk/gawk-5.3.0.tar.xz""}}"
 47798,70710,41186,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47799,70708,41189,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47800,70707,41187,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
