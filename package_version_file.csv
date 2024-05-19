@@ -24953,7 +24953,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 43622,66531,37745,0,1,0,1,"{""git"":{""tag"":""v1.61.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 43623,66532,37746,0,1,0,1,"{""git"":{""tag"":""7.0.10"",""url"":""https://github.com/juce-framework/JUCE""}}"
 43624,66533,37747,0,1,0,1,"{""git"":{""tag"":""v0.9.2"",""url"":""https://github.com/libjxl/libjxl""}}"
-43625,66534,37748,0,1,0,1,"{""git"":{""tag"":""v1.48.0"",""url"":""https://github.com/libuv/libuv""}}"
 43626,66535,37749,0,1,0,1,"{""git"":{""tag"":""v1.90.2"",""url"":""https://github.com/ocornut/imgui""}}"
 43627,66536,37752,0,1,0,1,"{""git"":{""tag"":""v1.90.2"",""url"":""https://github.com/ocornut/imgui""}}"
 43628,66537,37750,0,1,0,1,"{""git"":{""tag"":""v1.90.2"",""url"":""https://github.com/ocornut/imgui""}}"
@@ -27318,3 +27317,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47873,70782,41262,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47874,70783,41259,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 47875,70784,41263,0,1,0,1,"{""git"":{""tag"":""v1.64.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+47876,70785,41264,0,1,0,1,"{""git"":{""tag"":""v1.48.0"",""url"":""https://github.com/libuv/libuv""}}"
