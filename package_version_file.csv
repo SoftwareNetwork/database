@@ -27319,3 +27319,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47882,70791,41270,0,1,0,1,"{""git"":{""tag"":""v1.4.0"",""url"":""https://github.com/webmproject/libwebp""}}"
 47883,70792,41271,0,1,0,1,"{""remote"":{""url"":""https://www.ijg.org/files/jpegsr9f.zip""}}"
 47884,70793,41272,0,1,0,1,"{""git"":{""tag"":""json-c-0.15-20200726"",""url"":""https://github.com/json-c/json-c""}}"
+47885,70794,41273,0,1,0,1,"{""git"":{""tag"":""json-c-0.15-20200726"",""url"":""https://github.com/json-c/json-c""}}"
+47886,70795,41274,0,1,0,1,"{""git"":{""tag"":""json-c-0.16-20220414"",""url"":""https://github.com/json-c/json-c""}}"
