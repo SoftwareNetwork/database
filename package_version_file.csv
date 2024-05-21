@@ -27320,3 +27320,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47885,70794,41273,0,1,0,1,"{""git"":{""tag"":""json-c-0.15-20200726"",""url"":""https://github.com/json-c/json-c""}}"
 47886,70795,41274,0,1,0,1,"{""git"":{""tag"":""json-c-0.16-20220414"",""url"":""https://github.com/json-c/json-c""}}"
 47889,70798,41277,0,1,0,1,"{""git"":{""tag"":""json-c-0.17-20230812"",""url"":""https://github.com/json-c/json-c""}}"
+47890,70799,41278,0,1,0,1,"{""git"":{""tag"":""vs-2022-17.10"",""url"":""https://github.com/microsoft/STL""}}"
