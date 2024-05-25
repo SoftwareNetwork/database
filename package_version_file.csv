@@ -27446,3 +27446,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48055,70964,41434,0,1,0,1,"{""git"":{""tag"":""7.9.0"",""url"":""https://github.com/jtv/libpqxx""}}"
 48056,70965,41435,0,1,0,1,"{""git"":{""tag"":""cares-1_29_0"",""url"":""https://github.com/c-ares/c-ares""}}"
 48057,70966,41436,0,1,0,1,"{""git"":{""tag"":""1.7.3"",""url"":""https://github.com/OSGeo/libgeotiff""}}"
+48058,70967,41437,0,1,0,1,"{""git"":{""tag"":""1.4.2"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
+48059,70968,41437,0,1,0,1,"{""git"":{""tag"":""1.4.2"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
+48060,70969,41438,0,1,0,1,"{""git"":{""tag"":""1.4.2"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
