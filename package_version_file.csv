@@ -27513,3 +27513,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48204,71113,41581,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 48205,71114,41583,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 48207,71116,41585,0,1,0,1,"{""git"":{""tag"":""cares-1_29_0"",""url"":""https://github.com/c-ares/c-ares""}}"
+48208,71117,41586,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48209,71120,41588,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48210,71119,41589,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48211,71118,41587,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
