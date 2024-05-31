@@ -27517,3 +27517,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48221,71130,41594,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 48222,71131,40816,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 48223,71132,40396,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
+48224,71133,41595,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://gitlab.com/gsasl/gsasl""}}"
