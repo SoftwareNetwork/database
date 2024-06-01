@@ -27519,3 +27519,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48223,71132,40396,0,1,0,1,"{""git"":{""branch"":""b0.4.5"",""url"":""https://github.com/SoftwareNetwork/sw""}}"
 48224,71133,41595,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://gitlab.com/gsasl/gsasl""}}"
 48225,71134,41596,0,1,0,1,"{""git"":{""tag"":""2024-06-01"",""url"":""https://github.com/google/re2""}}"
+48226,71135,41597,0,1,0,1,"{""git"":{""branch"":""v2.1"",""url"":""https://github.com/LuaJIT/LuaJIT""}}"
+48227,71136,41598,0,1,0,1,"{""git"":{""branch"":""v2.1"",""url"":""https://github.com/LuaJIT/LuaJIT""}}"
+48228,71137,41599,0,1,0,1,"{""git"":{""branch"":""v2.1"",""url"":""https://github.com/LuaJIT/LuaJIT""}}"

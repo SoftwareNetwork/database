@@ -2357,3 +2357,6 @@ package_id,path
 7324,org.sw.demo.jtv.pqxx1111
 7325,org.sw.demo.telegram.td.sqlite
 7326,org.sw.demo.gnu.sasl
+7327,org.sw.demo.luajit.buildvm
+7328,org.sw.demo.luajit.minilua
+7329,org.sw.demo.luajit
