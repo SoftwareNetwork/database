@@ -2360,3 +2360,5 @@ package_id,path
 7327,org.sw.demo.luajit.buildvm
 7328,org.sw.demo.luajit.minilua
 7329,org.sw.demo.luajit
+7330,org.sw.demo.luajit.exe
+7331,org.sw.demo.wg.wrk
