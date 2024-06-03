@@ -27567,3 +27567,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48333,71242,41654,0,1,0,1,"{""git"":{""tag"":""4.10.0"",""url"":""https://github.com/opencv/opencv""}}"
 48334,71243,41653,0,1,0,1,"{""git"":{""tag"":""4.10.0"",""url"":""https://github.com/opencv/opencv""}}"
 48335,71244,41655,0,1,0,1,"{""git"":{""tag"":""4.10.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+48336,71245,41657,0,1,0,1,"{""remote"":{""url"":""https://ftp.osuosl.org/pub/xiph/releases/vorbis/libvorbis-1.3.7.tar.xz""}}"
+48337,71246,41656,0,1,0,1,"{""remote"":{""url"":""https://ftp.osuosl.org/pub/xiph/releases/vorbis/libvorbis-1.3.7.tar.xz""}}"
