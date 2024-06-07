@@ -27693,3 +27693,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48571,71480,41790,0,1,0,1,"{""git"":{""tag"":""v1.10.0"",""url"":""https://github.com/STEllAR-GROUP/hpx""}}"
 48572,71481,41791,0,1,0,1,"{""git"":{""tag"":""v1.14.1"",""url"":""https://github.com/webmproject/libvpx""}}"
 48573,71482,41792,0,1,0,1,"{""git"":{""tag"":""v1.6.2"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+48574,71483,41793,0,1,0,1,"{""git"":{""tag"":""pcre2-10.44"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+48575,71484,41793,0,1,0,1,"{""git"":{""tag"":""pcre2-10.44"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+48576,71486,41794,0,1,0,1,"{""git"":{""tag"":""pcre2-10.44"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+48577,71485,41793,0,1,0,1,"{""git"":{""tag"":""pcre2-10.44"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
