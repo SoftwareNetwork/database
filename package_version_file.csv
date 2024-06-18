@@ -28028,3 +28028,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48938,71847,42091,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qtbase""}}"
 48939,71848,42093,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qtbase""}}"
 48940,71849,42097,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qtdeclarative""}}"
+48941,71850,42095,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qtbase""}}"
+48942,71851,42101,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qtdeclarative""}}"
+48943,71852,42105,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qtimageformats""}}"
+48944,71853,42099,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qtdeclarative""}}"
+48945,71854,42103,0,1,0,1,"{""git"":{""tag"":""v6.7.2"",""url"":""https://github.com/qt/qt5compat""}}"
