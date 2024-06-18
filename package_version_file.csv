@@ -27964,3 +27964,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48874,71783,42034,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 48875,71784,42035,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/ToruNiina/toml11""}}"
 48876,71785,42036,0,1,0,1,"{""git"":{""tag"":""v2.13.0"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+48877,71787,42038,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48878,71786,42040,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48879,71789,42039,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48880,71788,42037,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.5"",""url"":""https://github.com/egorpugin/tgbot""}}"
