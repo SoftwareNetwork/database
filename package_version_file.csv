@@ -27962,3 +27962,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48872,71781,42032,0,1,0,1,"{""git"":{""tag"":""1.4.3"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 48873,71782,42032,0,1,0,1,"{""git"":{""tag"":""1.4.3"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 48874,71783,42034,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+48875,71784,42035,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/ToruNiina/toml11""}}"
