@@ -28054,3 +28054,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48965,71874,42125,0,1,0,1,"{""git"":{""tag"":""v1.6.3"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 48966,71875,42126,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.10.tar.gz""}}"
 48967,71876,42127,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/nettle/nettle-3.10.tar.gz""}}"
+48968,71877,42128,0,1,0,1,"{""git"":{""tag"":""win-10.0.22621.1"",""url"":""https://github.com/microsoft/Windows-Driver-Frameworks""}}"
