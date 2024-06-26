@@ -28064,3 +28064,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48975,71884,42137,0,1,0,1,"{""git"":{""tag"":""v27.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 48976,71885,42136,0,1,0,1,"{""git"":{""tag"":""v27.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 48977,71886,42135,0,1,0,1,"{""git"":{""tag"":""v27.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+48978,71887,42138,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.7.tar.gz""}}"
+48979,71888,42139,0,1,0,1,"{""git"":{""tag"":""hwloc-2.11.0"",""url"":""https://github.com/open-mpi/hwloc""}}"
+48980,71889,42140,0,1,0,1,"{""git"":{""tag"":""v2.13.0"",""url"":""https://github.com/pybind/pybind11""}}"
