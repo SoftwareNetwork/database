@@ -28115,3 +28115,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49026,71935,42175,0,1,0,1,"{""git"":{""tag"":""v1.90.9"",""url"":""https://github.com/ocornut/imgui""}}"
 49027,71936,42183,0,1,0,1,"{""git"":{""tag"":""v1.90.9"",""url"":""https://github.com/ocornut/imgui""}}"
 49028,71937,42186,0,1,0,1,"{""git"":{""tag"":""v1.90.9"",""url"":""https://github.com/ocornut/imgui""}}"
+49029,71938,42187,0,1,0,1,"{""git"":{""tag"":""v3.9.1"",""url"":""https://github.com/OSGeo/gdal""}}"
+49030,71939,42188,0,1,0,1,"{""git"":{""tag"":""v2.13.1"",""url"":""https://github.com/pybind/pybind11""}}"
+49031,71940,42189,0,1,0,1,"{""git"":{""tag"":""v4.0.2"",""url"":""https://github.com/ToruNiina/toml11""}}"
