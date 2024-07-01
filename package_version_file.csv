@@ -28068,3 +28068,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48979,71888,42139,0,1,0,1,"{""git"":{""tag"":""hwloc-2.11.0"",""url"":""https://github.com/open-mpi/hwloc""}}"
 48980,71889,42140,0,1,0,1,"{""git"":{""tag"":""v2.13.0"",""url"":""https://github.com/pybind/pybind11""}}"
 48981,71890,42141,0,1,0,1,"{""git"":{""tag"":""2024-07-01"",""url"":""https://github.com/google/re2""}}"
+48982,71891,42144,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48983,71892,42142,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48984,71893,42143,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+48985,71894,42145,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
