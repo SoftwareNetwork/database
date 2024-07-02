@@ -28079,7 +28079,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48990,71899,42150,0,1,0,1,"{""git"":{""tag"":""1.24.5"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 48991,71900,42151,0,1,0,1,"{""git"":{""tag"":""v3.24.1"",""url"":""https://github.com/beached/daw_json_link""}}"
 48992,71901,42152,0,1,0,1,"{""git"":{""tag"":""9.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
-48993,71902,42153,0,1,0,1,"{""git"":{""tag"":""11.0.0"",""url"":""https://github.com/fmtlib/fmt""}}"
 48994,71903,42154,0,1,0,1,"{""git"":{""tag"":""v2.26.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
 48995,71904,42155,0,1,0,1,"{""git"":{""tag"":""v2.26.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
 48996,71906,42158,0,1,0,1,"{""git"":{""tag"":""v1.65.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
@@ -28118,3 +28117,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49029,71938,42187,0,1,0,1,"{""git"":{""tag"":""v3.9.1"",""url"":""https://github.com/OSGeo/gdal""}}"
 49030,71939,42188,0,1,0,1,"{""git"":{""tag"":""v2.13.1"",""url"":""https://github.com/pybind/pybind11""}}"
 49031,71940,42189,0,1,0,1,"{""git"":{""tag"":""v4.0.2"",""url"":""https://github.com/ToruNiina/toml11""}}"
+49032,71941,42190,0,1,0,1,"{""git"":{""tag"":""11.0.0"",""url"":""https://github.com/fmtlib/fmt""}}"
