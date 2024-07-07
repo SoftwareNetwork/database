@@ -28118,3 +28118,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49050,71959,42205,0,1,0,1,"{""git"":{""tag"":""v1.65.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 49051,71960,42209,0,1,0,1,"{""git"":{""tag"":""v1.65.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 49052,71961,42210,0,1,0,1,"{""git"":{""tag"":""v1.65.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+49053,71962,42213,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49054,71965,42211,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49055,71963,42214,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49056,71964,42212,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.7"",""url"":""https://github.com/egorpugin/tgbot""}}"
