@@ -28163,3 +28163,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49095,72003,42250,0,1,0,1,"{""git"":{""tag"":""v5.41.1"",""url"":""https://github.com/Perl/perl5""}}"
 49096,72005,42254,0,1,0,1,"{""git"":{""tag"":""3.5.0"",""url"":""https://github.com/randombit/botan""}}"
 49097,72006,42255,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/SanderMertens/flecs""}}"
+49098,72007,42256,0,1,0,1,"{""git"":{""tag"":""v4.0.3"",""url"":""https://github.com/ToruNiina/toml11""}}"
+49099,72008,42257,0,1,0,1,"{""git"":{""tag"":""v20.64.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+49100,72010,42258,0,1,0,1,"{""git"":{""tag"":""release-2.30.5"",""url"":""https://github.com/libsdl-org/SDL""}}"
+49101,72009,42259,0,1,0,1,"{""git"":{""tag"":""release-2.30.5"",""url"":""https://github.com/libsdl-org/SDL""}}"
+49102,72011,42260,0,1,0,1,"{""git"":{""tag"":""v2.13.2"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
