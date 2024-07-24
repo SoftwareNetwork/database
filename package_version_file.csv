@@ -28168,3 +28168,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49100,72010,42258,0,1,0,1,"{""git"":{""tag"":""release-2.30.5"",""url"":""https://github.com/libsdl-org/SDL""}}"
 49101,72009,42259,0,1,0,1,"{""git"":{""tag"":""release-2.30.5"",""url"":""https://github.com/libsdl-org/SDL""}}"
 49102,72011,42260,0,1,0,1,"{""git"":{""tag"":""v2.13.2"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+49103,72012,42261,0,1,0,1,"{""git"":{""tag"":""v1.4.18"",""url"":""https://github.com/awslabs/s2n""}}"
+49104,72013,42264,0,1,0,1,"{""git"":{""tag"":""1.24.7"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+49105,72014,42263,0,1,0,1,"{""git"":{""tag"":""1.24.7"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+49106,72015,42262,0,1,0,1,"{""git"":{""tag"":""1.24.7"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+49107,72016,42265,0,1,0,1,"{""git"":{""tag"":""11.0.2"",""url"":""https://github.com/fmtlib/fmt""}}"
