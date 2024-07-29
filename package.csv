@@ -2364,3 +2364,5 @@ package_id,path
 7332,org.sw.demo.google.tesseract.svpaint
 7333,org.sw.demo.microsoft.windows.driver_frameworks.shared
 7334,org.sw.demo.cofyc.argparse
+7335,org.sw.demo.telegram.td.generate.lib
+7336,org.sw.demo.telegram.td.generate.mtproto
