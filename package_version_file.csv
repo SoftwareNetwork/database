@@ -27567,7 +27567,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 48491,71400,41711,0,1,0,1,"{""git"":{""tag"":""v1.64.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 48492,71401,41713,0,1,0,1,"{""git"":{""tag"":""v1.64.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 48493,71402,41714,0,1,0,1,"{""git"":{""tag"":""v1.64.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
-48494,71403,41715,0,1,0,1,"{""git"":{""tag"":""1.2.0"",""url"":""https://github.com/google/highway""}}"
 48495,71404,41719,0,1,0,1,"{""git"":{""tag"":""v27.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 48496,71405,41716,0,1,0,1,"{""git"":{""tag"":""v27.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 48497,71407,41718,0,1,0,1,"{""git"":{""tag"":""v27.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
@@ -28191,3 +28190,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49172,72081,42329,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 49173,72082,42331,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 49174,72083,42332,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
+49175,72084,42333,0,1,0,1,"{""git"":{""tag"":""1.2.0"",""url"":""https://github.com/google/highway""}}"
