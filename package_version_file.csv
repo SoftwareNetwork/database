@@ -28191,3 +28191,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49173,72082,42331,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 49174,72083,42332,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 49175,72084,42333,0,1,0,1,"{""git"":{""tag"":""1.2.0"",""url"":""https://github.com/google/highway""}}"
+49176,72085,42337,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.8"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49177,72088,42335,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.8"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49178,72087,42336,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.8"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49179,72086,42334,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.8"",""url"":""https://github.com/egorpugin/tgbot""}}"
