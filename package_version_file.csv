@@ -28218,3 +28218,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49211,72120,42369,0,1,0,1,"{""git"":{""tag"":""v1.65.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 49212,72121,42371,0,1,0,1,"{""git"":{""tag"":""v1.65.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 49213,72122,42370,0,1,0,1,"{""git"":{""tag"":""v1.65.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+49214,72123,42372,0,1,0,1,"{""git"":{""tag"":""v0.7.24"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
