@@ -28292,3 +28292,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49295,72204,42453,0,1,0,1,"{""git"":{""tag"":""v4.2.0"",""url"":""https://github.com/ToruNiina/toml11""}}"
 49296,72205,42454,0,1,0,1,"{""git"":{""tag"":""v20.65.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 49297,72206,42455,0,1,0,1,"{""git"":{""tag"":""v0.16.2"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+49298,72208,42458,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49299,72207,42459,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49300,72210,42457,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49301,72209,42456,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.9"",""url"":""https://github.com/egorpugin/tgbot""}}"
