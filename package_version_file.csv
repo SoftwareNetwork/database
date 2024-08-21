@@ -28466,3 +28466,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49469,72378,42627,0,1,0,1,"{""git"":{""tag"":""v3.9.2"",""url"":""https://github.com/OSGeo/gdal""}}"
 49470,72379,42628,0,1,0,1,"{""git"":{""tag"":""v2.13.4"",""url"":""https://github.com/pybind/pybind11""}}"
 49471,72380,42629,0,1,0,1,"{""git"":{""tag"":""v4.0.1"",""url"":""https://github.com/SanderMertens/flecs""}}"
+49472,72381,42630,0,1,0,1,"{""git"":{""tag"":""v0.16.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
