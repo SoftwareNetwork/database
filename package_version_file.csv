@@ -28467,3 +28467,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49472,72381,42630,0,1,0,1,"{""git"":{""tag"":""v0.16.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 49473,72382,42631,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/gawk/gawk-5.1.0.tar.xz""}}"
 49474,72383,42632,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/gnu/gawk/gawk-5.1.0.tar.xz""}}"
+49475,72385,42636,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.10"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49476,72386,42634,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.10"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49477,72384,42635,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.10"",""url"":""https://github.com/egorpugin/tgbot""}}"
+49478,72387,42633,0,1,0,1,"{""git"":{""tag"":""1.1.7.7.10"",""url"":""https://github.com/egorpugin/tgbot""}}"
