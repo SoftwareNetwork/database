@@ -28570,3 +28570,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49595,72504,42749,0,1,0,1,"{""git"":{""tag"":""v1.66.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 49596,72505,42752,0,1,0,1,"{""git"":{""tag"":""v1.66.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 49597,72506,42753,0,1,0,1,"{""git"":{""tag"":""v1.66.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+49598,72507,42754,0,1,0,1,"{""git"":{""tag"":""v0.7.31"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+49599,72508,42755,0,1,0,1,"{""git"":{""tag"":""v0.8.10"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+49600,72509,42756,0,1,0,1,"{""git"":{""tag"":""v0.10.5"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+49601,72510,42757,0,1,0,1,"{""git"":{""tag"":""v0.6.6"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
