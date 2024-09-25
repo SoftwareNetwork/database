@@ -1844,7 +1844,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1865,12479,1865,1,1,0,1,
 1866,12471,1866,1,1,0,1,
 1867,11838,1867,1,1,0,1,
-1868,11840,1868,1,1,0,1,
 1869,16774,1869,1,1,0,1,
 1870,16778,1870,1,1,0,1,
 1871,12402,1871,1,1,0,1,
@@ -1873,7 +1872,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 1895,12406,1895,1,1,0,1,
 1896,11851,1896,1,1,0,1,
 1897,12473,1897,1,1,0,1,
-1898,11839,1898,1,1,0,1,
 1899,17311,1899,1,1,0,1,
 1900,12410,1900,1,1,0,1,
 1901,12233,1901,1,1,0,1,
@@ -28614,3 +28612,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49645,72555,42801,0,1,0,1,"{""git"":{""tag"":""1.24.9"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 49646,72556,42800,0,1,0,1,"{""git"":{""tag"":""1.24.9"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 49647,72554,42799,0,1,0,1,"{""git"":{""tag"":""1.24.9"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
+49648,72557,42802,0,1,0,1,"{""git"":{""tag"":""v1.3.0"",""url"":""https://github.com/tfussell/xlnt""}}"
+49649,72558,42803,0,1,0,1,"{""git"":{""tag"":""v1.3.0"",""url"":""https://github.com/tfussell/xlnt""}}"
