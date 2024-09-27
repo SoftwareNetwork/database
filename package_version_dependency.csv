@@ -151789,3 +151789,4 @@ package_version_id,package_id,version_range
 72557,1294,>=2.0.0 <3.0.0
 72558,4262,master
 72558,4264,=1.3.0
+72559,4541,*
