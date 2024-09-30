@@ -28624,3 +28624,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49657,72566,42811,0,1,0,1,"{""git"":{""tag"":""v0.21.0"",""url"":""https://github.com/apache/thrift""}}"
 49658,72567,42812,0,1,0,1,"{""git"":{""tag"":""v0.21.0"",""url"":""https://github.com/apache/thrift""}}"
 49659,72568,42813,0,1,0,1,"{""git"":{""tag"":""v1.35"",""url"":""https://github.com/baldurk/renderdoc""}}"
+49660,72569,42814,0,1,0,1,"{""git"":{""tag"":""10.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
+49661,72570,42815,0,1,0,1,"{""git"":{""tag"":""v10.0.31"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
+49662,72571,42816,0,1,0,1,"{""git"":{""tag"":""v6.0"",""url"":""https://github.com/CGAL/cgal""}}"
