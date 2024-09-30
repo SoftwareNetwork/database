@@ -28656,3 +28656,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49689,72596,42844,0,1,0,1,"{""git"":{""tag"":""REL_17_0"",""url"":""https://github.com/postgres/postgres""}}"
 49690,72598,42841,0,1,0,1,"{""git"":{""tag"":""REL_17_0"",""url"":""https://github.com/postgres/postgres""}}"
 49691,72600,42845,0,1,0,1,"{""git"":{""tag"":""v4.0.2"",""url"":""https://github.com/SanderMertens/flecs""}}"
+49692,72601,42846,0,1,0,1,"{""git"":{""tag"":""v20.67.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
