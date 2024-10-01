@@ -28658,3 +28658,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49692,72601,42846,0,1,0,1,"{""git"":{""tag"":""v20.67.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 49693,72602,42847,0,1,0,1,"{""git"":{""tag"":""v0.9.28"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 49694,72603,42848,0,1,0,1,"{""git"":{""tag"":""v0.1.20"",""url"":""https://github.com/awslabs/aws-checksums""}}"
+49695,72604,42849,0,1,0,1,"{""git"":{""tag"":""v3_6_0"",""url"":""https://github.com/PixarAnimationStudios/OpenSubdiv""}}"
