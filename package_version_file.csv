@@ -28663,3 +28663,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49700,72609,42854,0,1,0,1,"{""git"":{""tag"":""v5.4.3"",""url"":""https://github.com/assimp/assimp""}}"
 49701,72610,42855,0,1,0,1,"{""git"":{""tag"":""v1.5.0"",""url"":""https://github.com/tfussell/xlnt""}}"
 49702,72611,42856,0,1,0,1,"{""git"":{""tag"":""v1.5.0"",""url"":""https://github.com/tfussell/xlnt""}}"
+49703,72612,42857,0,1,0,1,"{""git"":{""tag"":""v1.18.2"",""url"":""https://github.com/strukturag/libheif""}}"
