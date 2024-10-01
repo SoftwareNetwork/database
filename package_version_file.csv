@@ -28664,3 +28664,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49701,72610,42855,0,1,0,1,"{""git"":{""tag"":""v1.5.0"",""url"":""https://github.com/tfussell/xlnt""}}"
 49702,72611,42856,0,1,0,1,"{""git"":{""tag"":""v1.5.0"",""url"":""https://github.com/tfussell/xlnt""}}"
 49703,72612,42857,0,1,0,1,"{""git"":{""tag"":""v1.18.2"",""url"":""https://github.com/strukturag/libheif""}}"
+49704,72614,42859,0,1,0,1,"{""git"":{""tag"":""v4.6.1"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+49705,72616,42861,0,1,0,1,"{""git"":{""tag"":""v4.6.1"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+49706,72613,42860,0,1,0,1,"{""git"":{""tag"":""v4.6.1"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+49707,72615,42858,0,1,0,1,"{""git"":{""tag"":""v4.6.1"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+49708,72617,42862,0,1,0,1,"{""git"":{""tag"":""v4.6.1"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
