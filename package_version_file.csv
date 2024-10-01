@@ -28659,4 +28659,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49693,72602,42847,0,1,0,1,"{""git"":{""tag"":""v0.9.28"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 49694,72603,42848,0,1,0,1,"{""git"":{""tag"":""v0.1.20"",""url"":""https://github.com/awslabs/aws-checksums""}}"
 49695,72604,42849,0,1,0,1,"{""git"":{""tag"":""v3_6_0"",""url"":""https://github.com/PixarAnimationStudios/OpenSubdiv""}}"
-49698,72607,42852,0,1,0,1,"{""git"":{""branch"":""dev"",""url"":""https://github.com/lighttransport/tinyusdz""}}"
+49699,72608,42853,0,1,0,1,"{""git"":{""branch"":""dev"",""url"":""https://github.com/lighttransport/tinyusdz""}}"
