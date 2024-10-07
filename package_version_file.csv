@@ -28743,3 +28743,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49780,72689,42932,0,1,0,1,"{""git"":{""tag"":""v6.7.3"",""url"":""https://github.com/qt/qtdeclarative""}}"
 49781,72690,42933,0,1,0,1,"{""git"":{""tag"":""v6.7.3"",""url"":""https://github.com/qt/qtbase""}}"
 49782,72691,42936,0,1,0,1,"{""git"":{""tag"":""v6.7.3"",""url"":""https://github.com/qt/qtimageformats""}}"
+49783,72692,42937,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3460100.zip""}}"
+49784,72693,42938,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3460100.zip""}}"
