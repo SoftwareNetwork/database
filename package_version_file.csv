@@ -28804,3 +28804,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49841,72750,42993,0,1,0,1,"{""git"":{""tag"":""v1.17.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
 49842,72751,42994,0,1,0,1,"{""git"":{""tag"":""3.0.1"",""url"":""https://github.com/pallets/markupsafe""}}"
 49843,72752,42995,0,1,0,1,"{""git"":{""tag"":""v3.8.0"",""url"":""https://github.com/taskflow/taskflow""}}"
+49844,72753,42996,0,1,0,1,"{""git"":{""tag"":""release-2.30.8"",""url"":""https://github.com/libsdl-org/SDL""}}"
+49845,72754,42997,0,1,0,1,"{""git"":{""tag"":""release-2.30.8"",""url"":""https://github.com/libsdl-org/SDL""}}"
+49846,72755,42998,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.6.3.tar.gz""}}"
