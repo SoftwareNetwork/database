@@ -28807,3 +28807,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49844,72753,42996,0,1,0,1,"{""git"":{""tag"":""release-2.30.8"",""url"":""https://github.com/libsdl-org/SDL""}}"
 49845,72754,42997,0,1,0,1,"{""git"":{""tag"":""release-2.30.8"",""url"":""https://github.com/libsdl-org/SDL""}}"
 49846,72755,42998,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.6.3.tar.gz""}}"
+49847,72756,42999,0,1,0,1,"{""git"":{""tag"":""v10.0.32"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
+49848,72758,43000,0,1,0,1,"{""git"":{""tag"":""v3.0.2"",""url"":""https://github.com/HowardHinnant/date""}}"
+49849,72757,43001,0,1,0,1,"{""git"":{""tag"":""v3.0.2"",""url"":""https://github.com/HowardHinnant/date""}}"
+49850,72759,43002,0,1,0,1,"{""git"":{""tag"":""v3.7.7"",""url"":""https://github.com/libarchive/libarchive""}}"
+49851,72760,43003,0,1,0,1,"{""git"":{""tag"":""1.11.0"",""url"":""https://github.com/whoshuu/cpr""}}"
