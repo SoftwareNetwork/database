@@ -28878,3 +28878,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 49962,72871,43114,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 49963,72872,43115,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 49964,72873,43116,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+49965,72874,43117,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470000.zip""}}"
+49966,72875,43118,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470000.zip""}}"
