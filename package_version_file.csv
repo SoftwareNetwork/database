@@ -28959,3 +28959,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50052,72961,43189,0,1,0,1,"{""remote"":{""url"":""https://github.com/unicode-org/icu/releases/download/release-76-1/icu4c-76_1-src.tgz""}}"
 50053,72962,43192,0,1,0,1,"{""git"":{""tag"":""v0.18.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 50054,72963,43193,0,1,0,1,"{""git"":{""tag"":""1.85.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
+50055,72964,43196,0,1,0,1,"{""git"":{""tag"":""4.11.0"",""url"":""https://github.com/emweb/wt""}}"
+50056,72966,43194,0,1,0,1,"{""git"":{""tag"":""4.11.0"",""url"":""https://github.com/emweb/wt""}}"
+50057,72965,43197,0,1,0,1,"{""git"":{""tag"":""4.11.0"",""url"":""https://github.com/emweb/wt""}}"
+50058,72967,43195,0,1,0,1,"{""git"":{""tag"":""4.11.0"",""url"":""https://github.com/emweb/wt""}}"
+50059,72968,43198,0,1,0,1,"{""git"":{""tag"":""4.11.0"",""url"":""https://github.com/emweb/wt""}}"
