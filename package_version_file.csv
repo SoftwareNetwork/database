@@ -26857,7 +26857,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 47411,70320,40836,0,1,0,1,"{""git"":{""tag"":""pcre2-10.43"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 47412,70321,40838,0,1,0,1,"{""remote"":{""url"":""https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.15.0.tar.gz""}}"
 47413,70322,40839,0,1,0,1,"{""git"":{""tag"":""pixman-0.43.4"",""url"":""https://gitlab.freedesktop.org/pixman/pixman""}}"
-47416,70325,40842,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.22.5.tar.gz""}}"
 47417,70326,40843,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
 47418,70327,40844,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.17.tar.gz""}}"
 47419,70328,40845,0,1,0,1,"{""git"":{""tag"":""v3.7.4"",""url"":""https://github.com/libarchive/libarchive""}}"
@@ -28967,3 +28966,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50060,72969,43199,0,1,0,1,"{""git"":{""tag"":""1.5.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 50061,72970,43199,0,1,0,1,"{""git"":{""tag"":""1.5.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 50062,72971,43200,0,1,0,1,"{""git"":{""tag"":""1.5.0"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
+50063,72972,43201,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/gettext/gettext-0.22.5.tar.gz""}}"
