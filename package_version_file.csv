@@ -28975,3 +28975,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50072,72981,43212,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50073,72982,43210,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50074,72983,43211,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
+50075,72984,43213,0,1,0,1,"{""git"":{""tag"":""v0.15.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
