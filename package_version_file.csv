@@ -28976,3 +28976,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50073,72982,43210,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50074,72983,43211,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50075,72984,43213,0,1,0,1,"{""git"":{""tag"":""v0.15.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+50076,72985,43214,0,1,0,1,"{""git"":{""tag"":""v0.29.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+50077,72986,43215,0,1,0,1,"{""git"":{""tag"":""v1.5.7"",""url"":""https://github.com/awslabs/s2n""}}"
+50078,72987,43216,0,1,0,1,"{""git"":{""tag"":""v10.0.35"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
