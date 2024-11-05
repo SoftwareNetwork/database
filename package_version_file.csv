@@ -29011,3 +29011,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50108,73017,43246,0,1,0,1,"{""git"":{""tag"":""v20.70.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 50109,73018,43248,0,1,0,1,"{""git"":{""tag"":""release-2.30.9"",""url"":""https://github.com/libsdl-org/SDL""}}"
 50110,73019,43247,0,1,0,1,"{""git"":{""tag"":""release-2.30.9"",""url"":""https://github.com/libsdl-org/SDL""}}"
+50111,73020,43249,0,1,0,1,"{""git"":{""tag"":""v1.15.0"",""url"":""https://github.com/webmproject/libvpx""}}"
