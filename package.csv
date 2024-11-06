@@ -2370,3 +2370,9 @@ package_id,path
 7338,org.sw.demo.PixarAnimationStudios.OpenSubdiv
 7339,org.sw.demo.lighttransport.tinyusdz
 7340,org.sw.demo.qtproject.qt.base.tools.syncqt
+7341,org.sw.demo.cisco.mlspp.tls_syntax
+7342,org.sw.demo.cisco.mlspp.mls_ds
+7343,org.sw.demo.cisco.mlspp.mls_vectors
+7344,org.sw.demo.cisco.mlspp
+7345,org.sw.demo.cisco.mlspp.bytes
+7346,org.sw.demo.cisco.mlspp.hpke
