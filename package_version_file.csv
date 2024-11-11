@@ -29018,3 +29018,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50121,73032,43259,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50122,73030,43261,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50123,73031,43260,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
+50124,73033,43264,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
+50125,73035,43262,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
+50126,73034,43265,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
+50127,73036,43263,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
+50128,73037,43266,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
