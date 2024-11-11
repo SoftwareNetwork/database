@@ -29023,3 +29023,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50126,73034,43265,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
 50127,73036,43263,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
 50128,73037,43266,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.82/glib-2.82.2.tar.xz""}}"
+50129,73039,43270,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
+50130,73038,43267,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
+50131,73041,43269,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
+50132,73040,43268,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
+50133,73042,43271,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
