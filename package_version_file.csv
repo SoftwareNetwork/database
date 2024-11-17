@@ -29028,3 +29028,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50147,73056,43287,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50148,73057,43286,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
 50149,73058,43285,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/python/cpython""}}"
+50150,73060,43291,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+50151,73059,43290,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+50152,73061,43288,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+50153,73062,43289,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
