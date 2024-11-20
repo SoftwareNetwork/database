@@ -29129,3 +29129,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50253,73161,43386,0,1,0,1,"{""git"":{""tag"":""2.6.2"",""url"":""https://github.com/SFML/SFML""}}"
 50254,73163,43390,0,1,0,1,"{""git"":{""tag"":""2.6.2"",""url"":""https://github.com/SFML/SFML""}}"
 50255,73164,43391,0,1,0,1,"{""git"":{""tag"":""v1.19.5"",""url"":""https://github.com/strukturag/libheif""}}"
+50256,73165,43392,0,1,0,1,"{""git"":{""tag"":""v2.13.5"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
