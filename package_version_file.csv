@@ -29032,3 +29032,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50156,73065,43292,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
 50157,73064,43293,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
 50158,73067,43296,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.83/glib-2.83.0.tar.xz""}}"
+50159,73068,43300,0,1,0,1,"{""git"":{""tag"":""v3.3.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+50160,73071,43298,0,1,0,1,"{""git"":{""tag"":""v3.3.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+50161,73069,43297,0,1,0,1,"{""git"":{""tag"":""v3.3.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+50162,73070,43299,0,1,0,1,"{""git"":{""tag"":""v3.3.2"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
