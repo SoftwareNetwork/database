@@ -29138,3 +29138,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50739,73647,43876,0,1,0,1,"{""git"":{""tag"":""v6.8.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
 50740,73649,43877,0,1,0,1,"{""git"":{""tag"":""v6.8.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 50741,73650,43874,0,1,0,1,"{""git"":{""tag"":""v6.8.0"",""url"":""https://github.com/qt/qtsvg""}}"
+50742,73651,43878,0,1,0,1,"{""git"":{""tag"":""v0.10.4"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+50743,73652,43879,0,1,0,1,"{""git"":{""tag"":""v0.7.2"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
