@@ -29185,5 +29185,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50813,73722,43939,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470100.zip""}}"
 50814,73723,43940,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470200.zip""}}"
 50815,73724,43941,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470200.zip""}}"
-50820,73729,43944,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/bovine/fli2gif""}}"
-50821,73730,43945,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/bovine/fli2gif""}}"
+50822,73732,43947,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/bovine/fli2gif""}}"
+50823,73731,43946,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/bovine/fli2gif""}}"
+50824,73733,43948,0,1,0,1,"{""git"":{""tag"":""1.1"",""url"":""https://github.com/Arryboom/fmemopen_windows""}}"
