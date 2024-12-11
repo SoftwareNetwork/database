@@ -29181,3 +29181,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 50809,73719,43935,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
 50810,73718,43936,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
 50811,73720,43934,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+50812,73721,43938,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470100.zip""}}"
+50813,73722,43939,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470100.zip""}}"
+50814,73723,43940,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470200.zip""}}"
+50815,73724,43941,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2024/sqlite-amalgamation-3470200.zip""}}"
