@@ -29423,3 +29423,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51057,73966,44179,0,1,0,1,"{""git"":{""tag"":""release-2.30.10"",""url"":""https://github.com/libsdl-org/SDL""}}"
 51058,73967,44180,0,1,0,1,"{""git"":{""tag"":""release-2.30.10"",""url"":""https://github.com/libsdl-org/SDL""}}"
 51059,73968,44181,0,1,0,1,"{""git"":{""tag"":""v0.18.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+51060,73969,44182,0,1,0,1,"{""git"":{""tag"":""v0.29.8"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+51061,73970,44183,0,1,0,1,"{""git"":{""tag"":""v1.36"",""url"":""https://github.com/baldurk/renderdoc""}}"
