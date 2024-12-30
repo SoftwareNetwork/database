@@ -29659,3 +29659,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51293,74202,44417,0,1,0,1,"{""git"":{""tag"":""v5.15.16-lts-lgpl"",""url"":""https://github.com/qt/qtimageformats""}}"
 51294,74203,44415,0,1,0,1,"{""git"":{""tag"":""v5.15.16-lts-lgpl"",""url"":""https://github.com/qt/qtbase""}}"
 51295,74204,44414,0,1,0,1,"{""git"":{""tag"":""v5.15.16-lts-lgpl"",""url"":""https://github.com/qt/qtdeclarative""}}"
+51296,74205,44418,0,1,0,1,"{""git"":{""tag"":""v0.8.3"",""url"":""https://github.com/Cyan4973/xxHash""}}"
