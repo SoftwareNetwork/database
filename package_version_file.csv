@@ -29890,3 +29890,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51526,74435,44617,0,1,0,1,"{""git"":{""tag"":""llvmorg-19.1.6"",""url"":""https://github.com/llvm/llvm-project""}}"
 51527,74437,44620,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.18.tar.gz""}}"
 51528,74436,44619,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.18.tar.gz""}}"
+51529,74438,44622,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+51530,74440,44623,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+51531,74441,44621,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+51532,74439,44624,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
