@@ -29894,3 +29894,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51530,74440,44623,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 51531,74441,44621,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 51532,74439,44624,0,1,0,1,"{""git"":{""tag"":""1.1.8.8.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+51533,74442,44625,0,1,0,1,"{""git"":{""tag"":""Version_2.13.0"",""url"":""https://github.com/dpilger26/NumCpp""}}"
+51534,74443,44626,0,1,0,1,"{""git"":{""tag"":""v.3.5.0"",""url"":""https://github.com/dtschump/CImg""}}"
