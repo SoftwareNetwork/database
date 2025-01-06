@@ -29902,3 +29902,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51538,74448,44631,0,1,0,1,"{""git"":{""tag"":""release-2.30.11"",""url"":""https://github.com/libsdl-org/SDL""}}"
 51539,74447,44630,0,1,0,1,"{""git"":{""tag"":""release-2.30.11"",""url"":""https://github.com/libsdl-org/SDL""}}"
 51540,74449,44632,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
+51541,74450,44633,0,1,0,1,"{""git"":{""tag"":""v3.8.0"",""url"":""https://github.com/catchorg/Catch2""}}"
