@@ -29970,3 +29970,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51677,74586,44721,0,1,0,1,"{""git"":{""tag"":""v3.31.4"",""url"":""https://github.com/Kitware/CMake""}}"
 51678,74587,44719,0,1,0,1,"{""git"":{""tag"":""v3.31.4"",""url"":""https://github.com/Kitware/CMake""}}"
 51679,74588,44720,0,1,0,1,"{""git"":{""tag"":""v3.31.4"",""url"":""https://github.com/Kitware/CMake""}}"
+51680,74589,44718,0,1,0,1,"{""git"":{""tag"":""v3.31.4"",""url"":""https://github.com/Kitware/CMake""}}"
+51681,74590,44722,0,1,0,1,"{""git"":{""tag"":""v3.11.5"",""url"":""https://github.com/lemire/simdjson""}}"
+51682,74591,44723,0,1,0,1,"{""git"":{""tag"":""v4.0.4"",""url"":""https://github.com/SanderMertens/flecs""}}"
+51683,74592,44724,0,1,0,1,"{""git"":{""tag"":""v1.15"",""url"":""https://github.com/zeux/pugixml""}}"
