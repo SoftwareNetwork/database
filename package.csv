@@ -2380,3 +2380,4 @@ package_id,path
 7348,org.sw.demo.fli2gif.exe
 7349,org.sw.demo.fli2gif
 7350,org.sw.demo.boost.parser
+7351,org.sw.demo.socketio.socket_io_client_cpp
