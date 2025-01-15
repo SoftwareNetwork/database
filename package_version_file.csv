@@ -29976,3 +29976,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51683,74592,44724,0,1,0,1,"{""git"":{""tag"":""v1.15"",""url"":""https://github.com/zeux/pugixml""}}"
 51684,74593,44725,0,1,0,1,"{""git"":{""tag"":""v1.9"",""url"":""https://github.com/fnc12/sqlite_orm""}}"
 51685,74594,44726,0,1,0,1,"{""git"":{""tag"":""3.1.0"",""url"":""https://github.com/socketio/socket.io-client-cpp""}}"
+51686,74595,44727,0,1,0,1,"{""git"":{""tag"":""1.0.20-RELEASE"",""url"":""https://github.com/jedisct1/libsodium""}}"
