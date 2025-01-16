@@ -29977,3 +29977,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51684,74593,44725,0,1,0,1,"{""git"":{""tag"":""v1.9"",""url"":""https://github.com/fnc12/sqlite_orm""}}"
 51685,74594,44726,0,1,0,1,"{""git"":{""tag"":""3.1.0"",""url"":""https://github.com/socketio/socket.io-client-cpp""}}"
 51686,74595,44727,0,1,0,1,"{""git"":{""tag"":""1.0.20-RELEASE"",""url"":""https://github.com/jedisct1/libsodium""}}"
+51687,74596,44728,0,1,0,1,"{""git"":{""tag"":""v0.7.9"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+51688,74597,44729,0,1,0,1,"{""git"":{""tag"":""v0.29.9"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
