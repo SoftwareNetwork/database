@@ -30013,3 +30013,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51720,74627,44759,0,1,0,1,"{""git"":{""tag"":""4.11.2"",""url"":""https://github.com/emweb/wt""}}"
 51721,74630,44760,0,1,0,1,"{""git"":{""tag"":""4.11.2"",""url"":""https://github.com/emweb/wt""}}"
 51722,74631,44761,0,1,0,1,"{""git"":{""tag"":""release-3.2.0"",""url"":""https://github.com/libsdl-org/SDL""}}"
+51723,74632,44762,0,1,0,1,"{""git"":{""tag"":""v0.7.0"",""url"":""https://github.com/Thalhammer/jwt-cpp""}}"

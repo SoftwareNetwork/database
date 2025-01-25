@@ -2381,3 +2381,4 @@ package_id,path
 7349,org.sw.demo.fli2gif
 7350,org.sw.demo.boost.parser
 7351,org.sw.demo.socketio.socket_io_client_cpp
+7352,org.sw.demo.Thalhammer.jwt_cpp
