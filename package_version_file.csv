@@ -30100,3 +30100,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51810,74720,44795,0,1,0,1,"{""git"":{""tag"":""1.56.1"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 51811,74719,44793,0,1,0,1,"{""git"":{""tag"":""1.56.1"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 51812,74721,44845,0,1,0,1,"{""git"":{""tag"":""20240722.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
+51813,74722,44846,0,1,0,1,"{""git"":{""tag"":""v1.19.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
+51814,74723,44847,0,1,0,1,"{""git"":{""tag"":""v1.19.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
