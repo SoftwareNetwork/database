@@ -30095,3 +30095,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51802,74711,44838,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.11"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 51803,74712,44839,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.6.4.tar.gz""}}"
 51804,74713,44840,0,1,0,1,"{""git"":{""tag"":""v0.18.7"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+51805,74714,44841,0,1,0,1,"{""git"":{""tag"":""v0.9.3"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+51806,74715,44842,0,1,0,1,"{""git"":{""tag"":""v.3.5.2"",""url"":""https://github.com/dtschump/CImg""}}"
