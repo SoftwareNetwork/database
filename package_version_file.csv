@@ -30168,3 +30168,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51878,74787,44910,0,1,0,1,"{""git"":{""tag"":""v6.8.2"",""url"":""https://github.com/qt/qtbase""}}"
 51879,74788,44908,0,1,0,1,"{""git"":{""tag"":""v6.8.2"",""url"":""https://github.com/qt/qtbase""}}"
 51880,74789,44912,0,1,0,1,"{""git"":{""tag"":""v6.8.2"",""url"":""https://github.com/qt/qtimageformats""}}"
+51881,74793,44914,0,1,0,1,"{""git"":{""tag"":""pcre2-10.45"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+51882,74791,44914,0,1,0,1,"{""git"":{""tag"":""pcre2-10.45"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+51883,74792,44914,0,1,0,1,"{""git"":{""tag"":""pcre2-10.45"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+51884,74790,44915,0,1,0,1,"{""git"":{""tag"":""pcre2-10.45"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
