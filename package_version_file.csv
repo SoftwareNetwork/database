@@ -30289,3 +30289,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52055,74964,45086,0,1,0,1,"{""git"":{""tag"":""v0.19.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 52056,74965,45087,0,1,0,1,"{""git"":{""tag"":""v2.1.0"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 52057,74966,45088,0,1,0,1,"{""git"":{""tag"":""v10.1.0"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
+52058,74967,45089,0,1,0,1,"{""git"":{""tag"":""v0.8.6"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+52059,74968,45090,0,1,0,1,"{""git"":{""tag"":""v0.8.5"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+52060,74969,45091,0,1,0,1,"{""git"":{""tag"":""v0.11.2"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+52061,74970,45092,0,1,0,1,"{""git"":{""tag"":""v0.5.4"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
+52062,74971,45093,0,1,0,1,"{""git"":{""tag"":""v0.9.4"",""url"":""https://github.com/awslabs/aws-c-http""}}"
