@@ -30371,3 +30371,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52177,75086,45208,0,1,0,1,"{""git"":{""tag"":""v30.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 52178,75087,45205,0,1,0,1,"{""git"":{""tag"":""v30.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 52179,75088,45206,0,1,0,1,"{""git"":{""tag"":""v30.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+52180,75090,45209,0,1,0,1,"{""git"":{""tag"":""1.56.3"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
+52181,75089,45211,0,1,0,1,"{""git"":{""tag"":""1.56.3"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
+52182,75091,45210,0,1,0,1,"{""git"":{""tag"":""1.56.3"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
