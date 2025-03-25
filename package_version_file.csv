@@ -30448,3 +30448,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52260,75169,45289,0,1,0,1,"{""git"":{""tag"":""v0.20.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 52261,75170,45284,0,1,0,1,"{""git"":{""tag"":""v3.2.7"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 52262,75171,45288,0,1,0,1,"{""git"":{""tag"":""v3.2.7"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
+52263,75172,45290,0,1,0,1,"{""git"":{""tag"":""v1.0.250325.1"",""url"":""https://github.com/microsoft/wil""}}"
