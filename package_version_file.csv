@@ -30537,3 +30537,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52349,75258,45369,0,1,0,1,"{""git"":{""tag"":""v6.8.3"",""url"":""https://github.com/qt/qtdeclarative""}}"
 52350,75259,45373,0,1,0,1,"{""git"":{""tag"":""v6.8.3"",""url"":""https://github.com/qt/qtbase""}}"
 52351,75260,45377,0,1,0,1,"{""git"":{""tag"":""v6.8.3"",""url"":""https://github.com/qt/qtdeclarative""}}"
+52352,75261,45382,0,1,0,1,"{""git"":{""tag"":""v4.7.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+52353,75264,45381,0,1,0,1,"{""git"":{""tag"":""v4.7.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+52354,75262,45380,0,1,0,1,"{""git"":{""tag"":""v4.7.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+52355,75263,45379,0,1,0,1,"{""git"":{""tag"":""v4.7.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+52356,75265,45383,0,1,0,1,"{""git"":{""tag"":""v4.7.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
