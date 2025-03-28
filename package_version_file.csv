@@ -30466,3 +30466,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52278,75187,45304,0,1,0,1,"{""git"":{""tag"":""v30.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 52279,75188,45306,0,1,0,1,"{""git"":{""tag"":""1.2.2"",""url"":""https://github.com/google/snappy""}}"
 52280,75189,45307,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/gsoap2/files/gsoap_2.8.138.zip/download""}}"
+52281,75191,45309,0,1,0,1,"{""git"":{""tag"":""v2022.1.0"",""url"":""https://github.com/intel/tbb""}}"
+52282,75190,45310,0,1,0,1,"{""git"":{""tag"":""v2022.1.0"",""url"":""https://github.com/intel/tbb""}}"
+52283,75192,45308,0,1,0,1,"{""git"":{""tag"":""v2022.1.0"",""url"":""https://github.com/intel/tbb""}}"
+52284,75193,45311,0,1,0,1,"{""git"":{""tag"":""version-4.2.5"",""url"":""https://github.com/mdadams/jasper""}}"
+52285,75194,45312,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.0.tar.gz""}}"
