@@ -30552,3 +30552,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52392,75301,45417,0,1,0,1,"{""git"":{""tag"":""v30.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 52393,75302,45418,0,1,0,1,"{""git"":{""tag"":""v30.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 52394,75303,45421,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.1.tar.gz""}}"
+52395,75304,45422,0,1,0,1,"{""git"":{""tag"":""v0.8.9"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+52396,75305,45423,0,1,0,1,"{""git"":{""tag"":""v0.9.6"",""url"":""https://github.com/awslabs/aws-c-http""}}"
