@@ -30623,7 +30623,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52468,75377,45500,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
 52469,75378,45493,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtbase""}}"
 52470,75379,45495,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtimageformats""}}"
-52471,75380,45498,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtbase""}}"
 52472,75381,45497,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtimageformats""}}"
 52473,75382,45504,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtbase""}}"
 52474,75383,45499,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
