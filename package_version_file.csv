@@ -30548,7 +30548,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52393,75302,45418,0,1,0,1,"{""git"":{""tag"":""v30.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 52394,75303,45421,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.1.tar.gz""}}"
 52396,75305,45423,0,1,0,1,"{""git"":{""tag"":""v0.9.6"",""url"":""https://github.com/awslabs/aws-c-http""}}"
-52397,75306,45424,0,1,0,1,"{""git"":{""tag"":""v0.18.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 52398,75307,45425,0,1,0,1,"{""git"":{""tag"":""v0.12.3"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 52399,75308,45426,0,1,0,1,"{""git"":{""tag"":""v0.7.15"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 52400,75309,45427,0,1,0,1,"{""git"":{""tag"":""v1.5.16"",""url"":""https://github.com/awslabs/s2n""}}"
@@ -30654,3 +30653,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52696,75605,45719,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtdeclarative""}}"
 52697,75606,45723,0,1,0,1,"{""git"":{""tag"":""v6.9.0"",""url"":""https://github.com/qt/qtwayland""}}"
 52698,75607,45725,0,1,0,1,"{""git"":{""tag"":""v0.8.9"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+52699,75608,45726,0,1,0,1,"{""git"":{""tag"":""v0.18.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
