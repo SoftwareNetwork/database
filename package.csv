@@ -2383,3 +2383,5 @@ package_id,path
 7351,org.sw.demo.socketio.socket_io_client_cpp
 7352,org.sw.demo.Thalhammer.jwt_cpp
 7353,org.sw.demo.stephenberry.glaze
+7354,org.sw.demo.boost.mqtt5
+7355,org.sw.demo.boost.hash2
