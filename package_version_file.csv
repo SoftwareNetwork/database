@@ -30806,3 +30806,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53728,76637,46753,0,1,0,1,"{""git"":{""tag"":""boost-1.88.0"",""url"":""https://github.com/boostorg/thread""}}"
 53729,76638,46756,0,1,0,1,"{""git"":{""tag"":""boost-1.88.0"",""url"":""https://github.com/boostorg/type_index""}}"
 53730,76639,46757,0,1,0,1,"{""git"":{""tag"":""boost-1.88.0"",""url"":""https://github.com/boostorg/type_traits""}}"
+53731,76640,46758,0,1,0,1,"{""git"":{""tag"":""v1.34.5"",""url"":""https://github.com/c-ares/c-ares""}}"
