@@ -30804,3 +30804,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53126,76035,46155,0,1,0,1,"{""git"":{""tag"":""boost-1.88.0"",""url"":""https://github.com/boostorg/type_traits""}}"
 53127,76036,46148,0,1,0,1,"{""git"":{""tag"":""boost-1.88.0"",""url"":""https://github.com/boostorg/interprocess""}}"
 53128,76037,46152,0,1,0,1,"{""git"":{""tag"":""boost-1.88.0"",""url"":""https://github.com/boostorg/any""}}"
+53129,76038,46156,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/nlohmann/json""}}"
+53130,76039,46157,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/nlohmann/json""}}"
