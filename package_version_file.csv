@@ -26525,7 +26525,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 46638,69547,40283,0,1,0,1,"{""git"":{""tag"":""v1.90.5"",""url"":""https://github.com/ocornut/imgui""}}"
 46639,69548,40285,0,1,0,1,"{""git"":{""tag"":""v1.90.5"",""url"":""https://github.com/ocornut/imgui""}}"
 46640,69549,40286,0,1,0,1,"{""git"":{""tag"":""v3.13.2"",""url"":""https://github.com/skypjack/entt""}}"
-46642,69551,40288,0,1,0,1,"{""git"":{""tag"":""0.8.0"",""url"":""https://github.com/jbeder/yaml-cpp""}}"
 46643,69552,40292,0,1,0,1,"{""git"":{""tag"":""v1.62.2"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 46644,69553,40290,0,1,0,1,"{""git"":{""tag"":""v1.62.2"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 46645,69554,40289,0,1,0,1,"{""git"":{""tag"":""v1.62.2"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
@@ -30811,3 +30810,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53781,76690,43112,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 53782,76691,43113,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 53783,76692,46770,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+53784,76693,46771,0,1,0,1,"{""git"":{""tag"":""0.8.0"",""url"":""https://github.com/jbeder/yaml-cpp""}}"
