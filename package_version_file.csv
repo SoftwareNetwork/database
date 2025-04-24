@@ -30847,4 +30847,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53835,76742,46818,0,1,0,1,"{""git"":{""tag"":""v3.13.3"",""url"":""https://github.com/python/cpython""}}"
 53836,76745,46821,0,1,0,1,"{""remote"":{""url"":""https://git.savannah.gnu.org/cgit/gawk.git/snapshot/gawk-5.1.0.tar.gz""}}"
 53837,76746,46822,0,1,0,1,"{""remote"":{""url"":""https://git.savannah.gnu.org/cgit/gawk.git/snapshot/gawk-5.1.0.tar.gz""}}"
-53838,76747,46823,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
+53839,76748,46824,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
