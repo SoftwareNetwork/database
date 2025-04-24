@@ -30847,4 +30847,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53840,76749,46827,0,1,0,1,"{""git"":{""tag"":""1.25.6"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 53841,76751,46825,0,1,0,1,"{""git"":{""tag"":""1.25.6"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 53842,76750,46826,0,1,0,1,"{""git"":{""tag"":""1.25.6"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
-53843,76752,46828,0,1,0,1,"{""git"":{""tag"":""9.6.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
+53844,76753,46828,0,1,0,1,"{""git"":{""tag"":""9.6.0"",""url"":""https://github.com/OSGeo/PROJ""}}"
