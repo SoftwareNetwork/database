@@ -30906,3 +30906,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53902,76811,46886,0,1,0,1,"{""git"":{""tag"":""v3.2.8"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 53903,76812,46887,0,1,0,1,"{""git"":{""tag"":""v2.14.2"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 53904,76813,46888,0,1,0,1,"{""git"":{""tag"":""v0.20.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+53905,76815,46890,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.55.tar.bz2""}}"
+53906,76814,46889,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.55.tar.bz2""}}"
+53907,76816,46891,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.55.tar.bz2""}}"
