@@ -30472,7 +30472,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52375,75284,45399,0,1,0,1,"{""git"":{""tag"":""v1.71.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 52376,75285,45400,0,1,0,1,"{""git"":{""tag"":""v1.71.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 52377,75286,45404,0,1,0,1,"{""git"":{""tag"":""v1.71.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
-52394,75303,45421,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.1.tar.gz""}}"
 52396,75305,45423,0,1,0,1,"{""git"":{""tag"":""v0.9.6"",""url"":""https://github.com/awslabs/aws-c-http""}}"
 52398,75307,45425,0,1,0,1,"{""git"":{""tag"":""v0.12.3"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 52399,75308,45426,0,1,0,1,"{""git"":{""tag"":""v0.7.15"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
@@ -30919,3 +30918,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53936,76845,46920,0,1,0,1,"{""git"":{""tag"":""v1.72.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 53937,76846,46921,0,1,0,1,"{""git"":{""tag"":""v1.72.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 53938,76847,46922,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yourWaifu/sleepy-discord""}}"
+53939,76848,46923,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.1.tar.gz""}}"
