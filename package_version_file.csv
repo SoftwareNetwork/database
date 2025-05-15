@@ -30740,7 +30740,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53733,76641,46762,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 53734,76643,46760,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 53735,76644,46761,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
-53736,76645,46763,0,1,0,1,"{""git"":{""tag"":""v1.34.5"",""url"":""https://github.com/c-ares/c-ares""}}"
 53737,76648,43070,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 53738,76646,43073,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 53739,76647,43072,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
@@ -30919,3 +30918,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53937,76846,46921,0,1,0,1,"{""git"":{""tag"":""v1.72.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 53938,76847,46922,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yourWaifu/sleepy-discord""}}"
 53939,76848,46923,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.1.tar.gz""}}"
+53940,76849,46924,0,1,0,1,"{""git"":{""tag"":""v1.34.5"",""url"":""https://github.com/c-ares/c-ares""}}"
