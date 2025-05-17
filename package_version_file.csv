@@ -30984,3 +30984,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54003,76912,46989,0,1,0,1,"{""git"":{""tag"":""v31.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 54004,76913,46987,0,1,0,1,"{""git"":{""tag"":""v31.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 54005,76914,46988,0,1,0,1,"{""git"":{""tag"":""v31.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+54006,76915,46990,0,1,0,1,"{""git"":{""tag"":""v3.11.0"",""url"":""https://github.com/OSGeo/gdal""}}"
