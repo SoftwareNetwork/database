@@ -2385,3 +2385,6 @@ package_id,path
 7353,org.sw.demo.stephenberry.glaze
 7354,org.sw.demo.boost.mqtt5
 7355,org.sw.demo.boost.hash2
+7356,org.sw.demo.mingw.w64.headers.windows.ole32
+7357,org.sw.demo.mingw.w64.headers.windows.oleaut32
+7358,org.sw.demo.mingw.w64.headers.windows.advapi32
