@@ -31081,3 +31081,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54159,77068,47141,0,1,0,1,"{""git"":{""tag"":""v1.1.7"",""url"":""https://github.com/swami/libinstpatch""}}"
 54160,77069,47143,0,1,0,1,"{""git"":{""tag"":""release-2.32.6"",""url"":""https://github.com/libsdl-org/SDL""}}"
 54161,77070,47142,0,1,0,1,"{""git"":{""tag"":""release-2.32.6"",""url"":""https://github.com/libsdl-org/SDL""}}"
+54162,77072,47145,0,1,0,1,"{""git"":{""tag"":""curl-8_14_0"",""url"":""https://github.com/curl/curl""}}"
+54163,77071,47144,0,1,0,1,"{""git"":{""tag"":""curl-8_14_0"",""url"":""https://github.com/curl/curl""}}"
