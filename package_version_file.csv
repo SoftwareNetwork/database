@@ -31062,7 +31062,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54140,77049,47122,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/HowardHinnant/date""}}"
 54141,77050,47123,0,1,0,1,"{""git"":{""tag"":""v3.0.4"",""url"":""https://github.com/HowardHinnant/date""}}"
 54142,77051,47124,0,1,0,1,"{""git"":{""tag"":""v3.3.1"",""url"":""https://github.com/jarro2783/cxxopts""}}"
-54143,77052,47125,0,1,0,1,"{""git"":{""tag"":""v3.8.0"",""url"":""https://github.com/libarchive/libarchive""}}"
 54144,77053,47126,0,1,0,1,"{""git"":{""tag"":""hidapi-0.15.0"",""url"":""https://github.com/libusb/hidapi""}}"
 54145,77054,47127,0,1,0,1,"{""git"":{""tag"":""v1.10.1"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 54146,77055,47128,0,1,0,1,"{""git"":{""tag"":""v1.13.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
@@ -31083,3 +31082,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54161,77070,47142,0,1,0,1,"{""git"":{""tag"":""release-2.32.6"",""url"":""https://github.com/libsdl-org/SDL""}}"
 54162,77072,47145,0,1,0,1,"{""git"":{""tag"":""curl-8_14_0"",""url"":""https://github.com/curl/curl""}}"
 54163,77071,47144,0,1,0,1,"{""git"":{""tag"":""curl-8_14_0"",""url"":""https://github.com/curl/curl""}}"
+54164,77073,47146,0,1,0,1,"{""git"":{""tag"":""v3.8.0"",""url"":""https://github.com/libarchive/libarchive""}}"
