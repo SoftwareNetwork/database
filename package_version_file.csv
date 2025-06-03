@@ -30933,7 +30933,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53995,76904,46979,0,1,0,1,"{""git"":{""tag"":""v4.9.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
 53996,76905,46980,0,1,0,1,"{""git"":{""tag"":""v5.2.1"",""url"":""https://github.com/stephenberry/glaze""}}"
 53997,76906,46981,0,1,0,1,"{""git"":{""tag"":""release-3.2.14"",""url"":""https://github.com/libsdl-org/SDL""}}"
-54006,76915,46990,0,1,0,1,"{""git"":{""tag"":""v3.11.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 54023,76932,47008,0,1,0,1,"{""git"":{""tag"":""v31.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 54024,76933,47007,0,1,0,1,"{""git"":{""tag"":""v31.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 54025,76935,47010,0,1,0,1,"{""git"":{""tag"":""v31.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
@@ -31085,3 +31084,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54180,77089,47159,0,1,0,1,"{""git"":{""tag"":""v4.0.2"",""url"":""https://github.com/Kitware/CMake""}}"
 54181,77090,47163,0,1,0,1,"{""git"":{""tag"":""v2.3.5"",""url"":""https://github.com/beltoforion/muparser""}}"
 54182,77091,47164,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/ArashPartow/exprtk""}}"
+54183,77092,47165,0,1,0,1,"{""git"":{""tag"":""v3.11.0"",""url"":""https://github.com/OSGeo/gdal""}}"
