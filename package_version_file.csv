@@ -31083,3 +31083,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54178,77087,47160,0,1,0,1,"{""git"":{""tag"":""v4.0.2"",""url"":""https://github.com/Kitware/CMake""}}"
 54179,77088,47161,0,1,0,1,"{""git"":{""tag"":""v4.0.2"",""url"":""https://github.com/Kitware/CMake""}}"
 54180,77089,47159,0,1,0,1,"{""git"":{""tag"":""v4.0.2"",""url"":""https://github.com/Kitware/CMake""}}"
+54181,77090,47163,0,1,0,1,"{""git"":{""tag"":""v2.3.5"",""url"":""https://github.com/beltoforion/muparser""}}"
