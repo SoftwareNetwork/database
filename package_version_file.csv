@@ -31193,3 +31193,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54293,77202,47274,0,1,0,1,"{""git"":{""tag"":""v3.13.5"",""url"":""https://github.com/python/cpython""}}"
 54294,77203,47275,0,1,0,1,"{""git"":{""tag"":""v3.13.5"",""url"":""https://github.com/python/cpython""}}"
 54295,77204,47277,0,1,0,1,"{""git"":{""tag"":""v5.5.0"",""url"":""https://github.com/stephenberry/glaze""}}"
+54296,77205,47278,0,1,0,1,"{""git"":{""tag"":""release-3.2.16"",""url"":""https://github.com/libsdl-org/SDL""}}"
+54297,77206,47279,0,1,0,1,"{""git"":{""tag"":""1.12.0"",""url"":""https://github.com/whoshuu/cpr""}}"
+54298,77207,47280,0,1,0,1,"{""git"":{""tag"":""v0.21.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
