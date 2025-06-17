@@ -31196,3 +31196,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54296,77205,47278,0,1,0,1,"{""git"":{""tag"":""release-3.2.16"",""url"":""https://github.com/libsdl-org/SDL""}}"
 54297,77206,47279,0,1,0,1,"{""git"":{""tag"":""1.12.0"",""url"":""https://github.com/whoshuu/cpr""}}"
 54298,77207,47280,0,1,0,1,"{""git"":{""tag"":""v0.21.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+54299,77208,47281,0,1,0,1,"{""git"":{""tag"":""v1.5.21"",""url"":""https://github.com/awslabs/s2n""}}"
+54300,77209,47282,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.4.8.tar.gz""}}"
+54301,77210,47283,0,1,0,1,"{""git"":{""tag"":""v1.66.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+54302,77211,47284,0,1,0,1,"{""git"":{""tag"":""v1.3.6"",""url"":""https://github.com/xiph/ogg""}}"
+54303,77212,47285,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla557.zip""}}"
