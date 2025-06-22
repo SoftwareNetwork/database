@@ -2389,3 +2389,4 @@ package_id,path
 7357,org.sw.demo.mingw.w64.headers.windows.oleaut32
 7358,org.sw.demo.mingw.w64.headers.windows.advapi32
 7359,org.sw.demo.ArashPartow.exprtk
+7360,org.sw.demo.python.freeze_module_bootstrap
