@@ -31279,3 +31279,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54426,77335,47406,0,1,0,1,"{""git"":{""tag"":""4.12.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 54427,77336,47404,0,1,0,1,"{""git"":{""tag"":""4.12.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 54428,77337,47405,0,1,0,1,"{""git"":{""tag"":""4.12.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+54429,77339,47407,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+54430,77338,47410,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+54431,77341,47408,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+54432,77340,47409,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
