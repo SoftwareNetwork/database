@@ -31283,3 +31283,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54430,77338,47410,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
 54431,77341,47408,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
 54432,77340,47409,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+54433,77342,47411,0,1,0,1,"{""git"":{""tag"":""v6.1.9"",""url"":""https://github.com/ArthurSonzogni/FTXUI""}}"
