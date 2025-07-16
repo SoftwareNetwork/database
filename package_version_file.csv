@@ -31380,3 +31380,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54527,77436,47503,0,1,0,1,"{""git"":{""tag"":""v4.11.0"",""url"":""https://github.com/zeromq/cppzmq""}}"
 54528,77437,47504,0,1,0,1,"{""git"":{""tag"":""curl-8_15_0"",""url"":""https://github.com/curl/curl""}}"
 54529,77438,47505,0,1,0,1,"{""git"":{""tag"":""curl-8_15_0"",""url"":""https://github.com/curl/curl""}}"
+54530,77439,47506,0,1,0,1,"{""git"":{""tag"":""v0.2.6"",""url"":""https://github.com/biojppm/c4core""}}"
