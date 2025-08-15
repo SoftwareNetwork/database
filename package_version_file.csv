@@ -31643,3 +31643,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54796,77705,47770,0,1,0,1,"{""git"":{""tag"":""v3.3.1"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 54797,77706,47771,0,1,0,1,"{""git"":{""tag"":""v0.25.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 54798,77707,47772,0,1,0,1,"{""git"":{""tag"":""v2.1.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+54799,77708,47776,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+54800,77711,47775,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+54801,77709,47773,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+54802,77710,47774,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
