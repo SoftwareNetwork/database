@@ -31655,3 +31655,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54851,77760,47824,0,1,0,1,"{""git"":{""tag"":""4.12.0"",""url"":""https://github.com/opencv/opencv""}}"
 54852,77761,47826,0,1,0,1,"{""git"":{""tag"":""4.12.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 54853,77762,47825,0,1,0,1,"{""git"":{""tag"":""4.12.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+54854,77763,47828,0,1,0,1,"{""git"":{""tag"":""20250814.0"",""url"":""https://github.com/abseil/abseil-cpp""}}"
