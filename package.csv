@@ -2392,3 +2392,5 @@ package_id,path
 7360,org.sw.demo.python.freeze_module_bootstrap
 7361,org.sw.demo.ArthurSonzogni.FTXUI
 7362,org.sw.demo.boost.bloom
+7363,org.sw.demo.google.grpc.proto.grpc
+7364,org.sw.demo.google.grpc.proto.pb
