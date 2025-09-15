@@ -31737,3 +31737,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54994,77903,47966,0,1,0,1,"{""git"":{""tag"":""v5.7.1"",""url"":""https://github.com/stephenberry/glaze""}}"
 54995,77904,47967,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/TartanLlama/expected""}}"
 54996,77905,47968,0,1,0,1,"{""git"":{""tag"":""release-3.2.22"",""url"":""https://github.com/libsdl-org/SDL""}}"
+54997,77906,47969,0,1,0,1,"{""git"":{""tag"":""xcb-util-cursor-0.1.6"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb-cursor""}}"
+54998,77907,47970,0,1,0,1,"{""git"":{""tag"":""v0.26.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
