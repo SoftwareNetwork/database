@@ -30876,7 +30876,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 53937,76846,46921,0,1,0,1,"{""git"":{""tag"":""v1.72.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 53938,76847,46922,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yourWaifu/sleepy-discord""}}"
 53939,76848,46923,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.1.tar.gz""}}"
-53940,76849,46924,0,1,0,1,"{""git"":{""tag"":""v1.34.5"",""url"":""https://github.com/c-ares/c-ares""}}"
 53941,76850,46925,0,1,0,1,"{""git"":{""tag"":""v1.4.6"",""url"":""https://github.com/rhash/RHash""}}"
 53942,76851,46926,0,1,0,1,"{""git"":{""tag"":""v0.12.3"",""url"":""https://github.com/awslabs/aws-c-common""}}"
 53943,76852,46927,0,1,0,1,"{""git"":{""tag"":""v0.10.1"",""url"":""https://github.com/awslabs/aws-c-http""}}"
@@ -31739,3 +31738,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 54996,77905,47968,0,1,0,1,"{""git"":{""tag"":""release-3.2.22"",""url"":""https://github.com/libsdl-org/SDL""}}"
 54997,77906,47969,0,1,0,1,"{""git"":{""tag"":""xcb-util-cursor-0.1.6"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libxcb-cursor""}}"
 54998,77907,47970,0,1,0,1,"{""git"":{""tag"":""v0.26.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+54999,77908,47971,0,1,0,1,"{""git"":{""tag"":""v1.34.5"",""url"":""https://github.com/c-ares/c-ares""}}"
