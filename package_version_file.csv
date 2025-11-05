@@ -31756,3 +31756,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55014,77923,47984,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2025/sqlite-amalgamation-3500300.zip""}}"
 55015,77924,47985,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2025/sqlite-amalgamation-3500400.zip""}}"
 55016,77925,47986,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2025/sqlite-amalgamation-3500400.zip""}}"
+55017,77926,47988,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2025/sqlite-amalgamation-3510000.zip""}}"
+55018,77927,47987,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2025/sqlite-amalgamation-3510000.zip""}}"
