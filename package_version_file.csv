@@ -31872,3 +31872,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55130,78037,48097,0,1,0,1,"{""git"":{""tag"":""v5.43.5"",""url"":""https://github.com/Perl/perl5""}}"
 55131,78039,48096,0,1,0,1,"{""git"":{""tag"":""v5.43.5"",""url"":""https://github.com/Perl/perl5""}}"
 55132,78041,48100,0,1,0,1,"{""git"":{""tag"":""v3_7_0"",""url"":""https://github.com/PixarAnimationStudios/OpenSubdiv""}}"
+55133,78042,48101,0,1,0,1,"{""git"":{""tag"":""3.0.3"",""url"":""https://github.com/pallets/markupsafe""}}"
