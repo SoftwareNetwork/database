@@ -31776,3 +31776,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55034,77943,48003,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 55035,77944,48006,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
 55036,77945,48005,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/tdlib/td""}}"
+55037,77946,48007,0,1,0,1,"{""git"":{""tag"":""v3.2.2"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
