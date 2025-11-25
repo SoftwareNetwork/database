@@ -31921,3 +31921,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55209,78117,48175,0,1,0,1,"{""git"":{""tag"":""pcre2-10.47"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 55210,78120,48175,0,1,0,1,"{""git"":{""tag"":""pcre2-10.47"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 55211,78118,48176,0,1,0,1,"{""git"":{""tag"":""pcre2-10.47"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+55212,78121,48178,0,1,0,1,"{""git"":{""tag"":""REL_18_1"",""url"":""https://github.com/postgres/postgres""}}"
+55213,78122,48180,0,1,0,1,"{""git"":{""tag"":""REL_18_1"",""url"":""https://github.com/postgres/postgres""}}"
+55214,78123,48179,0,1,0,1,"{""git"":{""tag"":""REL_18_1"",""url"":""https://github.com/postgres/postgres""}}"
+55215,78124,48177,0,1,0,1,"{""git"":{""tag"":""REL_18_1"",""url"":""https://github.com/postgres/postgres""}}"
