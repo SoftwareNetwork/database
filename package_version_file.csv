@@ -31905,3 +31905,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55193,78101,48159,0,1,0,1,"{""git"":{""tag"":""1.5.2"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 55194,78103,48161,0,1,0,1,"{""git"":{""tag"":""1.13.0"",""url"":""https://github.com/whoshuu/cpr""}}"
 55195,78104,48162,0,1,0,1,"{""git"":{""tag"":""v0.27.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+55196,78105,48166,0,1,0,1,"{""git"":{""tag"":""v3.4.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+55197,78106,48163,0,1,0,1,"{""git"":{""tag"":""v3.4.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+55198,78108,48165,0,1,0,1,"{""git"":{""tag"":""v3.4.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
+55199,78107,48164,0,1,0,1,"{""git"":{""tag"":""v3.4.4"",""url"":""https://github.com/AcademySoftwareFoundation/openexr""}}"
