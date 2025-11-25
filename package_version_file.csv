@@ -31917,3 +31917,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55205,78114,48173,0,1,0,1,"{""git"":{""tag"":""v4.2.0"",""url"":""https://github.com/Kitware/CMake""}}"
 55206,78115,48172,0,1,0,1,"{""git"":{""tag"":""v4.2.0"",""url"":""https://github.com/Kitware/CMake""}}"
 55207,78116,48174,0,1,0,1,"{""git"":{""tag"":""v4.2.0"",""url"":""https://github.com/Kitware/CMake""}}"
+55208,78119,48175,0,1,0,1,"{""git"":{""tag"":""pcre2-10.47"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+55209,78117,48175,0,1,0,1,"{""git"":{""tag"":""pcre2-10.47"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+55210,78120,48175,0,1,0,1,"{""git"":{""tag"":""pcre2-10.47"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+55211,78118,48176,0,1,0,1,"{""git"":{""tag"":""pcre2-10.47"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
