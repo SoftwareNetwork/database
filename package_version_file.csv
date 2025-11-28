@@ -31936,3 +31936,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55234,78143,48201,0,1,0,1,"{""git"":{""tag"":""v1.76.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 55235,78144,48200,0,1,0,1,"{""git"":{""tag"":""v1.76.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 55236,78145,48199,0,1,0,1,"{""git"":{""tag"":""v1.76.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+55237,78146,48202,0,1,0,1,"{""git"":{""tag"":""v0.9.13"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
+55238,78147,48203,0,1,0,1,"{""git"":{""tag"":""v0.11.2"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
