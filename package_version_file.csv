@@ -31945,3 +31945,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55252,78161,48217,0,1,0,1,"{""remote"":{""url"":""https://www.ijg.org/files/jpegsr9f.zip""}}"
 55253,78162,48218,0,1,0,1,"{""git"":{""tag"":""0.5.12"",""url"":""https://github.com/libproxy/libproxy""}}"
 55254,78163,48219,0,1,0,1,"{""git"":{""tag"":""0.5.12"",""url"":""https://github.com/libproxy/libproxy""}}"
+55255,78165,48220,0,1,0,1,"{""git"":{""tag"":""release-2.32.10"",""url"":""https://github.com/libsdl-org/SDL""}}"
+55256,78164,48221,0,1,0,1,"{""git"":{""tag"":""release-2.32.10"",""url"":""https://github.com/libsdl-org/SDL""}}"
+55257,78166,48222,0,1,0,1,"{""git"":{""tag"":""v0.28.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
