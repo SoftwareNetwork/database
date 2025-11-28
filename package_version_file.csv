@@ -31938,3 +31938,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55236,78145,48199,0,1,0,1,"{""git"":{""tag"":""v1.76.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 55237,78146,48202,0,1,0,1,"{""git"":{""tag"":""v0.9.13"",""url"":""https://github.com/awslabs/aws-c-cal""}}"
 55238,78147,48203,0,1,0,1,"{""git"":{""tag"":""v0.11.2"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+55239,78148,48204,0,1,0,1,"{""git"":{""tag"":""Version_2.15.0"",""url"":""https://github.com/dpilger26/NumCpp""}}"
+55240,78149,48205,0,1,0,1,"{""git"":{""tag"":""v2.43.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+55241,78150,48206,0,1,0,1,"{""git"":{""tag"":""v2.43.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
