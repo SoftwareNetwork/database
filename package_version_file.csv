@@ -32078,3 +32078,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55435,78344,48386,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.0.tar.xz""}}"
 55436,78345,48390,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.0.tar.xz""}}"
 55437,78346,48391,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.0.tar.xz""}}"
+55438,78347,48392,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/qt-labs/vstools""}}"
+55439,78348,48393,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/qt-labs/vstools""}}"
