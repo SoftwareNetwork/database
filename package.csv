@@ -2395,3 +2395,4 @@ package_id,path
 7363,org.sw.demo.google.grpc.proto.grpc
 7364,org.sw.demo.google.grpc.proto.pb
 7365,org.sw.demo.telegram.td.e2e
+7366,org.sw.demo.qtproject.qt.wayland.plugins.decorations.adwaita
