@@ -31785,7 +31785,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55050,77959,48019,0,1,0,1,"{""git"":{""tag"":""curl-8_17_0"",""url"":""https://github.com/curl/curl""}}"
 55051,77960,48021,0,1,0,1,"{""git"":{""tag"":""v1.41"",""url"":""https://github.com/baldurk/renderdoc""}}"
 55052,77961,48022,0,1,0,1,"{""git"":{""tag"":""12.2.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
-55053,77962,48023,0,1,0,1,"{""git"":{""tag"":""v0.2.7"",""url"":""https://github.com/biojppm/c4core""}}"
 55054,77963,48024,0,1,0,1,"{""git"":{""tag"":""v0.10.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
 55055,77964,48025,0,1,0,1,"{""git"":{""tag"":""v2.22.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 55056,77965,48026,0,1,0,1,"{""git"":{""tag"":""v3.11.0"",""url"":""https://github.com/catchorg/Catch2""}}"
@@ -32142,3 +32141,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55743,78652,48696,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qtimageformats""}}"
 55744,78653,48695,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qttranslations""}}"
 55745,78654,48699,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/biojppm/debugbreak""}}"
+55746,78655,48700,0,1,0,1,"{""git"":{""tag"":""v0.2.7"",""url"":""https://github.com/biojppm/c4core""}}"
