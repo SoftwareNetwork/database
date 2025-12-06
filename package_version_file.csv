@@ -32141,3 +32141,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55742,78651,48698,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qttools""}}"
 55743,78652,48696,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qtimageformats""}}"
 55744,78653,48695,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qttranslations""}}"
+55745,78654,48699,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/biojppm/debugbreak""}}"
