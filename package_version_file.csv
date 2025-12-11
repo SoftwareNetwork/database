@@ -31802,7 +31802,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 55121,78030,48088,0,1,0,1,"{""git"":{""tag"":""v1.92.5"",""url"":""https://github.com/ocornut/imgui""}}"
 55122,78031,48089,0,1,0,1,"{""git"":{""tag"":""v1.92.5"",""url"":""https://github.com/ocornut/imgui""}}"
 55123,78032,48088,0,1,0,1,"{""git"":{""tag"":""v1.92.5"",""url"":""https://github.com/ocornut/imgui""}}"
-55126,78035,48094,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/OSGeo/gdal""}}"
 55127,78036,48095,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/pantor/inja""}}"
 55128,78038,48099,0,1,0,1,"{""git"":{""tag"":""v5.43.5"",""url"":""https://github.com/Perl/perl5""}}"
 55129,78040,48098,0,1,0,1,"{""git"":{""tag"":""v5.43.5"",""url"":""https://github.com/Perl/perl5""}}"
@@ -32148,3 +32147,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56050,78959,48959,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qtbase""}}"
 56051,78960,48960,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qtbase""}}"
 56052,78961,48963,0,1,0,1,"{""git"":{""tag"":""v6.10.1"",""url"":""https://github.com/qt/qttools""}}"
+56053,78962,48964,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/OSGeo/gdal""}}"
