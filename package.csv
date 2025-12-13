@@ -2403,3 +2403,4 @@ package_id,path
 7371,org.sw.demo.qtproject.qt.base.plugins.platforms.wayland.plugins.shellintegration.xdg
 7372,org.sw.demo.qtproject.qt.wayland.compositor
 7373,org.sw.demo.qtproject.qt.base.plugins.platforms.wayland.plugins.hardwareintegration.wayland_egl
+7374,org.sw.demo.gnome.gvdb
