@@ -32188,3 +32188,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56112,79021,49023,0,1,0,1,"{""git"":{""tag"":""v4.2.3"",""url"":""https://github.com/lemire/simdjson""}}"
 56113,79022,49024,0,1,0,1,"{""git"":{""tag"":""v3.8.4"",""url"":""https://github.com/libarchive/libarchive""}}"
 56114,79023,49025,0,1,0,1,"{""git"":{""tag"":""v1.9.2"",""url"":""https://github.com/libgit2/libgit2""}}"
+56115,79024,49026,0,1,0,1,"{""git"":{""tag"":""v4.2.1"",""url"":""https://github.com/Microsoft/GSL""}}"
+56116,79025,49027,0,1,0,1,"{""git"":{""tag"":""v2.2.14"",""url"":""https://github.com/ned14/outcome""}}"
+56117,79026,49028,0,1,0,1,"{""git"":{""tag"":""9.7.1"",""url"":""https://github.com/OSGeo/PROJ""}}"
