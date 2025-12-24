@@ -32352,3 +32352,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56276,79185,49183,0,1,0,1,"{""git"":{""tag"":""boost-1.90.0"",""url"":""https://github.com/boostorg/scope_exit""}}"
 56277,79186,49187,0,1,0,1,"{""git"":{""tag"":""boost-1.90.0"",""url"":""https://github.com/boostorg/bimap""}}"
 56278,79187,49189,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.5.0.tar.gz""}}"
+56279,79188,49190,0,1,0,1,"{""git"":{""tag"":""v2.14.5"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+56280,79189,49191,0,1,0,1,"{""git"":{""tag"":""v2.14.6"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
