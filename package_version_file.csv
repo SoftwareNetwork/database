@@ -32354,3 +32354,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56278,79187,49189,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.5.0.tar.gz""}}"
 56279,79188,49190,0,1,0,1,"{""git"":{""tag"":""v2.14.5"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 56280,79189,49191,0,1,0,1,"{""git"":{""tag"":""v2.14.6"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+56281,79190,49192,0,1,0,1,"{""git"":{""tag"":""v2.15.1"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+56282,79191,49193,0,1,0,1,"{""git"":{""tag"":""v2.15.0"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
