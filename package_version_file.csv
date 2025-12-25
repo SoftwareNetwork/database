@@ -30233,7 +30233,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 52124,75033,45155,0,1,0,1,"{""git"":{""tag"":""3.1.6"",""url"":""https://github.com/pallets/jinja""}}"
 52125,75034,45156,0,1,0,1,"{""git"":{""tag"":""v1.19.7"",""url"":""https://github.com/strukturag/libheif""}}"
 52126,75035,45157,0,1,0,1,"{""git"":{""tag"":""v0.7.1"",""url"":""https://github.com/Thalhammer/jwt-cpp""}}"
-52127,75036,45158,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/ThePhD/sol2""}}"
 52128,75037,45159,0,1,0,1,"{""git"":{""tag"":""release-3.2.8"",""url"":""https://github.com/libsdl-org/SDL""}}"
 52129,75038,45160,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.12"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
 52130,75039,45161,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.12"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
@@ -32356,3 +32355,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56280,79189,49191,0,1,0,1,"{""git"":{""tag"":""v2.14.6"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 56281,79190,49192,0,1,0,1,"{""git"":{""tag"":""v2.15.1"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 56282,79191,49193,0,1,0,1,"{""git"":{""tag"":""v2.15.0"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
+56283,79192,49194,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/ThePhD/sol2""}}"
