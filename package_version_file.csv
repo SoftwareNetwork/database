@@ -32386,3 +32386,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56311,79220,49220,0,1,0,1,"{""git"":{""tag"":""v2.23.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
 56312,79221,49221,0,1,0,1,"{""git"":{""tag"":""v10.1.4"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
 56313,79222,49222,0,1,0,1,"{""git"":{""tag"":""v3.12.0"",""url"":""https://github.com/catchorg/Catch2""}}"
+56314,79223,49223,0,1,0,1,"{""git"":{""tag"":""v6.1.1"",""url"":""https://github.com/CGAL/cgal""}}"
+56315,79224,49224,0,1,0,1,"{""git"":{""tag"":""1.87.0"",""url"":""https://github.com/DanBloomberg/leptonica""}}"
+56316,79225,49225,0,1,0,1,"{""git"":{""tag"":""v.3.6.6"",""url"":""https://github.com/dtschump/CImg""}}"
+56317,79226,49226,0,1,0,1,"{""git"":{""tag"":""v2.5.2"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
+56318,79227,49227,0,1,0,1,"{""git"":{""tag"":""v2.5.2"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
