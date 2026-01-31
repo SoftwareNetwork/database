@@ -32375,3 +32375,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56300,79209,49209,0,1,0,1,"{""git"":{""tag"":""v0.26.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 56301,79210,49210,0,1,0,1,"{""git"":{""tag"":""v0.11.5"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
 56302,79211,49211,0,1,0,1,"{""git"":{""tag"":""v0.37.1"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+56303,79212,49212,0,1,0,1,"{""git"":{""tag"":""v1.7.0"",""url"":""https://github.com/awslabs/s2n""}}"
+56304,79213,49213,0,1,0,1,"{""git"":{""tag"":""lcms2.18"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
+56305,79214,49214,0,1,0,1,"{""git"":{""tag"":""v6.0.4"",""url"":""https://github.com/assimp/assimp""}}"
+56306,79215,49215,0,1,0,1,"{""git"":{""tag"":""v1.42"",""url"":""https://github.com/baldurk/renderdoc""}}"
+56307,79216,49216,0,1,0,1,"{""git"":{""tag"":""v3.31.0"",""url"":""https://github.com/beached/daw_json_link""}}"
