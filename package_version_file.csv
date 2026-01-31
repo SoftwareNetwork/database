@@ -32398,3 +32398,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56323,79232,49233,0,1,0,1,"{""git"":{""tag"":""1.57.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 56324,79234,49234,0,1,0,1,"{""git"":{""tag"":""1.57.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 56325,79233,49232,0,1,0,1,"{""git"":{""tag"":""1.57.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
+56326,79236,49236,0,1,0,1,"{""git"":{""tag"":""v2.46.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+56327,79235,49235,0,1,0,1,"{""git"":{""tag"":""v2.46.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
