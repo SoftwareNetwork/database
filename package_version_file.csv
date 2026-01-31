@@ -32487,3 +32487,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56455,79364,49320,0,1,0,1,"{""git"":{""tag"":""xorgproto-2025.1"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
 56456,79365,49321,0,1,0,1,"{""git"":{""tag"":""v0.30.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 56457,79366,49322,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+56458,79367,49323,0,1,0,1,"{""git"":{""tag"":""v2.15.0"",""url"":""https://github.com/akheron/jansson""}}"
