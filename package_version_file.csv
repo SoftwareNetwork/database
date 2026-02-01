@@ -32488,3 +32488,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56460,79369,49325,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
 56461,79371,49324,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
 56462,79370,49326,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
+56463,79372,49328,0,1,0,1,"{""git"":{""tag"":""2.17.1"",""url"":""https://gitlab.freedesktop.org/fontconfig/fontconfig""}}"
