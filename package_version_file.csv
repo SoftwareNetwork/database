@@ -32316,7 +32316,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56436,79345,49302,0,1,0,1,"{""git"":{""tag"":""v1.15.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 56437,79346,49303,0,1,0,1,"{""git"":{""tag"":""v1.20.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 56438,79347,49304,0,1,0,1,"{""git"":{""tag"":""v1.20.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
-56439,79348,49305,0,1,0,1,"{""git"":{""tag"":""v3.12.1"",""url"":""https://github.com/OSGeo/gdal""}}"
 56444,79353,49310,0,1,0,1,"{""git"":{""tag"":""26.0"",""url"":""https://github.com/pypa/packaging""}}"
 56445,79354,49311,0,1,0,1,"{""git"":{""tag"":""4.4"",""url"":""https://github.com/skvadrik/re2c""}}"
 56446,79355,49312,0,1,0,1,"{""git"":{""tag"":""4.4"",""url"":""https://github.com/skvadrik/re2c""}}"
@@ -32489,3 +32488,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56765,79674,49631,0,1,0,1,"{""git"":{""tag"":""boost-1.90.0"",""url"":""https://github.com/boostorg/bimap""}}"
 56766,79675,49630,0,1,0,1,"{""git"":{""tag"":""boost-1.90.0"",""url"":""https://github.com/boostorg/sort""}}"
 56767,79676,49629,0,1,0,1,"{""git"":{""tag"":""boost-1.90.0"",""url"":""https://github.com/boostorg/smart_ptr""}}"
+56768,79677,49633,0,1,0,1,"{""git"":{""tag"":""v3.12.1"",""url"":""https://github.com/OSGeo/gdal""}}"
