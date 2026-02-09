@@ -2405,3 +2405,5 @@ package_id,path
 7373,org.sw.demo.qtproject.qt.base.plugins.platforms.wayland.plugins.hardwareintegration.wayland_egl
 7374,org.sw.demo.gnome.gvdb
 7375,org.sw.demo.boost.openmethod
+7376,pub.egorpugin.tgbot.examples.report_detection_bot
+7377,pub.egorpugin.tgbot.curl_skeleton
