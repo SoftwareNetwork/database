@@ -2407,3 +2407,4 @@ package_id,path
 7375,org.sw.demo.boost.openmethod
 7376,pub.egorpugin.tgbot.examples.report_detection_bot
 7377,pub.egorpugin.tgbot.curl_skeleton
+7378,org.sw.demo.perl.packages.cpan.Text.Template
