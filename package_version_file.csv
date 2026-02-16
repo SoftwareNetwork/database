@@ -32506,3 +32506,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56783,79691,49640,0,1,0,1,"{""git"":{""tag"":""1.1.10.9.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
 56784,79693,49639,0,1,0,1,"{""git"":{""tag"":""1.1.10.9.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
 56785,79694,49642,0,1,0,1,"{""git"":{""tag"":""v1.61"",""url"":""https://github.com/mschout/perl-text-template""}}"
+56786,79695,49643,0,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/3.01/nasm-3.01.tar.gz""}}"
