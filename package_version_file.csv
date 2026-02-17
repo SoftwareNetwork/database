@@ -32518,3 +32518,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56800,79709,49656,0,1,0,1,"{""git"":{""tag"":""libssh2-1.11.1"",""url"":""https://github.com/libssh2/libssh2""}}"
 56801,79710,49657,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
 56802,79711,49658,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
+56803,79712,49659,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3510200.zip""}}"
+56804,79713,49660,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3510200.zip""}}"
