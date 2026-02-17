@@ -2417,3 +2417,4 @@ package_id,path
 7385,org.sw.demo.perl.packages.dist.PathTools.Cwd
 7386,org.sw.demo.perl.packages.dist.Storable
 7387,org.sw.demo.perl.packages.ext.File.Glob
+7388,org.sw.demo.perl.packages.ext.re
