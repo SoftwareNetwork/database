@@ -32516,3 +32516,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56798,79707,49651,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
 56799,79708,49655,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
 56800,79709,49656,0,1,0,1,"{""git"":{""tag"":""libssh2-1.11.1"",""url"":""https://github.com/libssh2/libssh2""}}"
+56801,79710,49657,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
+56802,79711,49658,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
