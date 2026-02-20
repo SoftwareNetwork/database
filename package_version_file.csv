@@ -32560,3 +32560,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57120,80031,49921,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.2.tar.xz""}}"
 57121,80032,49922,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.2.tar.xz""}}"
 57122,80033,49924,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.2.tar.xz""}}"
+57123,80034,49925,0,1,0,1,"{""git"":{""tag"":""1.3.8"",""url"":""https://github.com/ArtifexSoftware/mujs""}}"
