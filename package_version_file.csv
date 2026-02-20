@@ -32525,3 +32525,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57039,79950,49849,0,1,0,1,"{""git"":{""tag"":""20250814.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 57042,79953,49853,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
 57043,79954,49852,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
+57044,79955,49854,0,1,0,1,"{""git"":{""tag"":""20260107.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
