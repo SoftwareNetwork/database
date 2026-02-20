@@ -32539,3 +32539,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57094,80005,49896,0,1,0,1,"{""git"":{""tag"":""2025-11-05"",""url"":""https://github.com/google/re2""}}"
 57095,80006,49897,0,1,0,1,"{""remote"":{""url"":""https://mirror.tochlab.net/pub/gnu/grep/grep-3.6.tar.gz""}}"
 57096,80007,49898,0,1,0,1,"{""remote"":{""url"":""https://mirror.tochlab.net/pub/gnu/grep/grep-3.6.tar.gz""}}"
+57097,80009,49900,0,1,0,1,"{""git"":{""tag"":""4.12.3"",""url"":""https://github.com/emweb/wt""}}"
+57098,80008,49902,0,1,0,1,"{""git"":{""tag"":""4.12.3"",""url"":""https://github.com/emweb/wt""}}"
+57099,80011,49899,0,1,0,1,"{""git"":{""tag"":""4.12.3"",""url"":""https://github.com/emweb/wt""}}"
+57100,80010,49901,0,1,0,1,"{""git"":{""tag"":""4.12.3"",""url"":""https://github.com/emweb/wt""}}"
+57101,80012,49903,0,1,0,1,"{""git"":{""tag"":""4.12.3"",""url"":""https://github.com/emweb/wt""}}"
