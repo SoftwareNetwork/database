@@ -32524,3 +32524,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57036,79947,49840,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
 57037,79948,49848,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
 57038,79949,49840,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
+57039,79950,49849,0,1,0,1,"{""git"":{""tag"":""20250814.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
