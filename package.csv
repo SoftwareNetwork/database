@@ -2418,6 +2418,5 @@ package_id,path
 7386,org.sw.demo.perl.packages.dist.Storable
 7387,org.sw.demo.perl.packages.ext.File.Glob
 7388,org.sw.demo.perl.packages.ext.re
-7389,org.sw.demo.perl.packages.dist.PathTools
 7390,pub.egorpugin.primitives.tools.response_file_handler
 7391,pub.egorpugin.primitives.response_file_handler
