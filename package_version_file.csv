@@ -32564,3 +32564,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57126,80035,49926,0,1,0,1,"{""git"":{""tag"":""1.27.2"",""url"":""https://github.com/ArtifexSoftware/mupdf""}}"
 57127,80038,49930,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz""}}"
 57128,80039,49929,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz""}}"
+57129,80040,49931,0,1,0,1,"{""git"":{""tag"":""v1.3.2"",""url"":""https://github.com/madler/zlib""}}"
+57130,80041,49932,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/gflags/gflags""}}"
+57131,80042,49933,0,1,0,1,"{""git"":{""tag"":""yaml-cpp-0.9.0"",""url"":""https://github.com/jbeder/yaml-cpp""}}"
