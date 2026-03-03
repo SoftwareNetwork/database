@@ -32506,7 +32506,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56981,79892,49818,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 56982,79893,49817,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 57039,79950,49849,0,1,0,1,"{""git"":{""tag"":""20250814.2"",""url"":""https://github.com/abseil/abseil-cpp""}}"
-57044,79955,49854,0,1,0,1,"{""git"":{""tag"":""20260107.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
 57075,79986,49878,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
 57076,79987,49877,0,1,0,1,"{""git"":{""tag"":""curl-8_18_0"",""url"":""https://github.com/curl/curl""}}"
 57083,79994,49888,0,1,0,1,"{""git"":{""tag"":""v1.78.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
@@ -32593,3 +32592,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57185,80096,49971,0,1,0,1,"{""git"":{""tag"":""v5.43.7"",""url"":""https://github.com/Perl/perl5""}}"
 57186,80097,49976,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz""}}"
 57187,80098,49977,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz""}}"
+57188,80099,49978,0,1,0,1,"{""git"":{""tag"":""20260107.1"",""url"":""https://github.com/abseil/abseil-cpp""}}"
