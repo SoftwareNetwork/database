@@ -32452,7 +32452,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56783,79691,49640,0,1,0,1,"{""git"":{""tag"":""1.1.10.9.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
 56784,79693,49639,0,1,0,1,"{""git"":{""tag"":""1.1.10.9.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
 56785,79694,49642,0,1,0,1,"{""git"":{""tag"":""v1.61"",""url"":""https://github.com/mschout/perl-text-template""}}"
-56786,79695,49643,0,1,0,1,"{""remote"":{""url"":""https://www.nasm.us/pub/nasm/releasebuilds/3.01/nasm-3.01.tar.gz""}}"
 56800,79709,49656,0,1,0,1,"{""git"":{""tag"":""libssh2-1.11.1"",""url"":""https://github.com/libssh2/libssh2""}}"
 56803,79712,49659,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3510200.zip""}}"
 56804,79713,49660,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3510200.zip""}}"
@@ -32617,3 +32616,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57421,80332,50129,0,1,0,1,"{""git"":{""tag"":""v5.43.8"",""url"":""https://github.com/Perl/perl5""}}"
 57422,80333,50129,0,1,0,1,"{""git"":{""tag"":""v5.43.8"",""url"":""https://github.com/Perl/perl5""}}"
 57423,80334,50138,0,1,0,1,"{""git"":{""tag"":""v5.43.8"",""url"":""https://github.com/Perl/perl5""}}"
+57424,80335,50139,0,1,0,1,"{""git"":{""tag"":""nasm-3.01"",""url"":""https://github.com/netwide-assembler/nasm""}}"
