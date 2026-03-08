@@ -32915,3 +32915,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58202,81113,50543,0,1,0,1,"{""git"":{""tag"":""llvmorg-22.1.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 58203,81114,50721,0,1,0,1,"{""git"":{""tag"":""llvmorg-22.1.0"",""url"":""https://github.com/llvm/llvm-project""}}"
 58204,81115,50718,0,1,0,1,"{""git"":{""tag"":""llvmorg-22.1.0"",""url"":""https://github.com/llvm/llvm-project""}}"
+58205,81116,50722,0,1,0,1,"{""remote"":{""url"":""https://www.ijg.org/files/jpegsr10.zip""}}"
