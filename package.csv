@@ -2423,3 +2423,7 @@ package_id,path
 7392,org.sw.demo.ArtifexSoftware.mujs
 7393,org.sw.demo.perl.packages.cpan.Util
 7394,org.sw.demo.perl.packages.cpan.Compress.Raw.Zlib
+7395,org.sw.demo.llvm_project.llvm.Tablegen.Basic
+7396,org.sw.demo.llvm_project.third_party.siphash
+7397,org.sw.demo.llvm_project.llvm.Frontend.OpenACC.Gen
+7398,org.sw.demo.llvm_project.llvm.Frontend.OpenACC
