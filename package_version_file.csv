@@ -32622,3 +32622,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57861,80772,50407,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.3.tar.xz""}}"
 57862,80773,50406,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.3.tar.xz""}}"
 57863,80774,50410,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.87/glib-2.87.3.tar.xz""}}"
+57864,80775,50411,0,1,0,1,"{""git"":{""tag"":""13.0.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
+57865,80776,50412,0,1,0,1,"{""git"":{""tag"":""13.0.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
