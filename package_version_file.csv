@@ -32916,3 +32916,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58299,81210,50817,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 58300,81211,50816,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 58301,81212,50818,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+58302,81213,50819,0,1,0,1,"{""git"":{""tag"":""v20.0"",""url"":""https://github.com/davisking/dlib""}}"
