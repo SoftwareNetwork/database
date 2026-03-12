@@ -2427,3 +2427,5 @@ package_id,path
 7396,org.sw.demo.llvm_project.third_party.siphash
 7397,org.sw.demo.llvm_project.llvm.Frontend.OpenACC.Gen
 7398,org.sw.demo.llvm_project.llvm.Frontend.OpenACC
+7399,org.sw.demo.qtproject.qt.declarative.qml.qmltyperegistrar.private
+7400,org.sw.demo.qtproject.qt.declarative.qml.qmltyperegistrar
