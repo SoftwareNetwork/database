@@ -2430,3 +2430,5 @@ package_id,path
 7399,org.sw.demo.qtproject.qt.declarative.qml.qmltyperegistrar.private
 7400,org.sw.demo.qtproject.qt.declarative.qml.qmltyperegistrar
 7401,org.sw.demo.sebsjames.maths
+7402,org.sw.demo.sebsjames.mathplot
+7403,org.sw.demo.hosseinmoein.DataFrame

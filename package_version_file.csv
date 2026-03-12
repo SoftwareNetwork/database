@@ -32921,3 +32921,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58369,81280,50886,0,1,0,1,"{""git"":{""tag"":""v20.0"",""url"":""https://github.com/davisking/dlib""}}"
 58370,81281,50887,0,1,0,1,"{""git"":{""tag"":""v7.2.0"",""url"":""https://github.com/stephenberry/glaze""}}"
 58371,81282,50888,0,1,0,1,"{""git"":{""tag"":""2.0"",""url"":""https://github.com/sebsjames/maths""}}"
+58372,81283,50889,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/sebsjames/mathplot""}}"
+58373,81284,50890,0,1,0,1,"{""git"":{""tag"":""4.0.0"",""url"":""https://github.com/hosseinmoein/DataFrame""}}"
