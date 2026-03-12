@@ -32919,3 +32919,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58367,81278,50885,0,1,0,1,"{""git"":{""tag"":""v6.10.2"",""url"":""https://github.com/qt/qtimageformats""}}"
 58368,81279,50884,0,1,0,1,"{""git"":{""tag"":""v6.10.2"",""url"":""https://github.com/qt/qtimageformats""}}"
 58369,81280,50886,0,1,0,1,"{""git"":{""tag"":""v20.0"",""url"":""https://github.com/davisking/dlib""}}"
+58370,81281,50887,0,1,0,1,"{""git"":{""tag"":""v7.2.0"",""url"":""https://github.com/stephenberry/glaze""}}"
