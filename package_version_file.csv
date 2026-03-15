@@ -32962,3 +32962,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58416,81327,50930,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator""}}"
 58417,81328,50931,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/gsoap2/files/gsoap_2.8.140.zip/download""}}"
 58418,81329,50932,0,1,0,1,"{""git"":{""tag"":""8.0.0"",""url"":""https://github.com/jtv/libpqxx""}}"
+58419,81330,50933,0,1,0,1,"{""git"":{""tag"":""v0.11.2"",""url"":""https://github.com/libjxl/libjxl""}}"
+58420,81331,50934,0,1,0,1,"{""git"":{""tag"":""v4.4.0"",""url"":""https://github.com/lemire/simdjson""}}"
+58421,81332,50935,0,1,0,1,"{""git"":{""tag"":""v3.8.6"",""url"":""https://github.com/libarchive/libarchive""}}"
+58422,81333,50936,0,1,0,1,"{""git"":{""tag"":""v1.52.1"",""url"":""https://github.com/libuv/libuv""}}"
+58423,81334,50937,0,1,0,1,"{""git"":{""tag"":""version-4.2.9"",""url"":""https://github.com/mdadams/jasper""}}"
