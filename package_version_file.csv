@@ -33026,3 +33026,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58482,81393,50994,0,1,0,1,"{""git"":{""tag"":""v1.5.8"",""url"":""https://github.com/piscisaureus/wepoll""}}"
 58483,81394,50995,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/skeeto/pdjson""}}"
 58484,81395,50996,0,1,0,1,"{""git"":{""tag"":""v11.1.0"",""url"":""https://github.com/odygrd/quill""}}"
+58485,81396,50997,0,1,0,1,"{""git"":{""tag"":""v2.11.3"",""url"":""https://github.com/JuliaStrings/utf8proc""}}"
