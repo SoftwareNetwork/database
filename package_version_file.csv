@@ -33022,3 +33022,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58477,81388,50989,0,1,0,1,"{""git"":{""tag"":""v0.38.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 58478,81389,50990,0,1,0,1,"{""git"":{""tag"":""v3.0.2"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
 58479,81390,50991,0,1,0,1,"{""git"":{""tag"":""asio-1-36-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+58480,81391,50992,0,1,0,1,"{""git"":{""tag"":""1.25.1"",""url"":""https://github.com/kcat/openal-soft""}}"
