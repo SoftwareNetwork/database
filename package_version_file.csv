@@ -32097,7 +32097,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56091,78998,49000,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.58.tar.bz2""}}"
 56092,79001,49003,0,1,0,1,"{""git"":{""tag"":""v2.44.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
 56093,79002,49004,0,1,0,1,"{""git"":{""tag"":""v2.44.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
-56094,79003,49005,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/google/double-conversion""}}"
 56095,79004,49009,0,1,0,1,"{""git"":{""tag"":""v33.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 56096,79006,49006,0,1,0,1,"{""git"":{""tag"":""v33.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 56097,79005,49007,0,1,0,1,"{""git"":{""tag"":""v33.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
@@ -33027,3 +33026,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58483,81394,50995,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/skeeto/pdjson""}}"
 58484,81395,50996,0,1,0,1,"{""git"":{""tag"":""v11.1.0"",""url"":""https://github.com/odygrd/quill""}}"
 58485,81396,50997,0,1,0,1,"{""git"":{""tag"":""v2.11.3"",""url"":""https://github.com/JuliaStrings/utf8proc""}}"
+58486,81397,50998,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/google/double-conversion""}}"
