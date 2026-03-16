@@ -33024,3 +33024,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58479,81390,50991,0,1,0,1,"{""git"":{""tag"":""asio-1-36-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 58480,81391,50992,0,1,0,1,"{""git"":{""tag"":""1.25.1"",""url"":""https://github.com/kcat/openal-soft""}}"
 58482,81393,50994,0,1,0,1,"{""git"":{""tag"":""v1.5.8"",""url"":""https://github.com/piscisaureus/wepoll""}}"
+58483,81394,50995,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/skeeto/pdjson""}}"
+58484,81395,50996,0,1,0,1,"{""git"":{""tag"":""v11.1.0"",""url"":""https://github.com/odygrd/quill""}}"
