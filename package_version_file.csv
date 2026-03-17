@@ -33063,3 +33063,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58520,81430,51031,0,1,0,1,"{""git"":{""tag"":""4.12.6"",""url"":""https://github.com/emweb/wt""}}"
 58521,81432,51033,0,1,0,1,"{""git"":{""tag"":""4.12.6"",""url"":""https://github.com/emweb/wt""}}"
 58522,81433,51034,0,1,0,1,"{""git"":{""tag"":""v4.4.1"",""url"":""https://github.com/lemire/simdjson""}}"
+58523,81434,51035,0,1,0,1,"{""git"":{""tag"":""3.11.0"",""url"":""https://github.com/randombit/botan""}}"
+58524,81435,51036,0,1,0,1,"{""git"":{""tag"":""v4.1.5"",""url"":""https://github.com/SanderMertens/flecs""}}"
