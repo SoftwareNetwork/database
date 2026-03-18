@@ -32910,7 +32910,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58415,81326,50928,0,1,0,1,"{""remote"":{""url"":""https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.59.tar.bz2""}}"
 58416,81327,50930,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator""}}"
 58417,81328,50931,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/gsoap2/files/gsoap_2.8.140.zip/download""}}"
-58418,81329,50932,0,1,0,1,"{""git"":{""tag"":""8.0.0"",""url"":""https://github.com/jtv/libpqxx""}}"
 58419,81330,50933,0,1,0,1,"{""git"":{""tag"":""v0.11.2"",""url"":""https://github.com/libjxl/libjxl""}}"
 58420,81331,50934,0,1,0,1,"{""git"":{""tag"":""v4.4.0"",""url"":""https://github.com/lemire/simdjson""}}"
 58421,81332,50935,0,1,0,1,"{""git"":{""tag"":""v3.8.6"",""url"":""https://github.com/libarchive/libarchive""}}"
@@ -33091,3 +33090,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58597,81508,51060,0,1,0,1,"{""git"":{""tag"":""1.11.771"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 58598,81509,51061,0,1,0,1,"{""git"":{""tag"":""1.11.771"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 58599,81510,51062,0,1,0,1,"{""git"":{""tag"":""v0.12.6"",""url"":""https://github.com/awslabs/aws-c-common""}}"
+58600,81511,51063,0,1,0,1,"{""git"":{""tag"":""8.0.0"",""url"":""https://github.com/jtv/libpqxx""}}"
