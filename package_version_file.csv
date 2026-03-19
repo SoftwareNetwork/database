@@ -33093,3 +33093,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58601,81512,51064,0,1,0,1,"{""git"":{""tag"":""8.0.0"",""url"":""https://github.com/jtv/libpqxx""}}"
 58602,81513,51065,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3510300.zip""}}"
 58603,81514,51066,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3510300.zip""}}"
+58604,81515,51067,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/giflib/files/giflib-6.1.2.tar.gz""}}"
