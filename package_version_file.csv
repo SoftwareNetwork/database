@@ -33095,3 +33095,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58603,81514,51066,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3510300.zip""}}"
 58604,81515,51067,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/giflib/files/giflib-6.1.2.tar.gz""}}"
 58605,81516,51068,0,1,0,1,"{""remote"":{""url"":""https://www.7-zip.org/a/7z2600-src.7z""}}"
+58606,81517,51069,0,1,0,1,"{""git"":{""tag"":""v0.26.3"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+58607,81518,51070,0,1,0,1,"{""git"":{""tag"":""v0.15.2"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+58608,81519,51071,0,1,0,1,"{""git"":{""tag"":""13.2.1"",""url"":""https://github.com/behdad/harfbuzz""}}"
+58609,81520,51072,0,1,0,1,"{""git"":{""tag"":""v.3.7.4"",""url"":""https://github.com/dtschump/CImg""}}"
+58610,81521,51073,0,1,0,1,"{""git"":{""tag"":""R_2_7_5"",""url"":""https://github.com/libexpat/libexpat""}}"
