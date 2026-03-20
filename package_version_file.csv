@@ -33108,3 +33108,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58616,81527,51078,0,1,0,1,"{""git"":{""tag"":""v34.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 58617,81528,51080,0,1,0,1,"{""git"":{""tag"":""v34.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 58618,81529,51081,0,1,0,1,"{""git"":{""tag"":""v34.1"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+58619,81530,51082,0,1,0,1,"{""git"":{""tag"":""v4.4.2"",""url"":""https://github.com/lemire/simdjson""}}"
+58620,81531,51083,0,1,0,1,"{""git"":{""tag"":""v1.68.1"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+58621,81532,51084,0,1,0,1,"{""git"":{""tag"":""1.9.7"",""url"":""https://github.com/open-source-parsers/jsoncpp""}}"
+58622,81533,51085,0,1,0,1,"{""git"":{""tag"":""v1.26.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
+58623,81534,51086,0,1,0,1,"{""git"":{""tag"":""v1.26.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
