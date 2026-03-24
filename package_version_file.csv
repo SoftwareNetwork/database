@@ -32976,7 +32976,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58483,81394,50995,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/skeeto/pdjson""}}"
 58484,81395,50996,0,1,0,1,"{""git"":{""tag"":""v11.1.0"",""url"":""https://github.com/odygrd/quill""}}"
 58485,81396,50997,0,1,0,1,"{""git"":{""tag"":""v2.11.3"",""url"":""https://github.com/JuliaStrings/utf8proc""}}"
-58486,81397,50998,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/google/double-conversion""}}"
 58487,81398,50999,0,1,0,1,"{""remote"":{""url"":""https://www.7-zip.org/a/7z2600-src.7z""}}"
 58488,81399,51002,0,1,0,1,"{""git"":{""tag"":""poco-1.15.0-release"",""url"":""https://github.com/pocoproject/poco""}}"
 58489,81401,51001,0,1,0,1,"{""git"":{""tag"":""poco-1.15.0-release"",""url"":""https://github.com/pocoproject/poco""}}"
@@ -33138,3 +33137,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58664,81575,51120,0,1,0,1,"{""git"":{""tag"":""v4.3.0"",""url"":""https://github.com/Kitware/CMake""}}"
 58665,81576,51121,0,1,0,1,"{""git"":{""tag"":""v4.3.0"",""url"":""https://github.com/Kitware/CMake""}}"
 58666,81577,51118,0,1,0,1,"{""git"":{""tag"":""v4.3.0"",""url"":""https://github.com/Kitware/CMake""}}"
+58667,81578,51122,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/google/double-conversion""}}"
