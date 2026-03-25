@@ -2438,3 +2438,8 @@ package_id,path
 7408,org.sw.demo.JuliaStrings.utf8proc
 7409,org.sw.demo._7zip._7z
 7410,org.sw.demo.poco.SQLParser
+7411,org.sw.demo.qtproject.qt.declarative.qml.typeregistrar.private
+7412,org.sw.demo.qtproject.qt.tools.linguist.qmake_parser
+7413,org.sw.demo.qtproject.qt.tools.linguist.trlib
+7414,org.sw.demo.qtproject.qt.tools.linguist.linguist_project
+7415,org.sw.demo.qtproject.qt.declarative.qml.meta
