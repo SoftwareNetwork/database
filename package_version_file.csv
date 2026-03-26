@@ -33219,3 +33219,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58757,81668,51212,0,1,0,1,"{""git"":{""tag"":""v0.2.11"",""url"":""https://github.com/biojppm/c4core""}}"
 58758,81669,51213,0,1,0,1,"{""git"":{""tag"":""VER-2-14-3"",""url"":""https://gitlab.freedesktop.org/freetype/freetype""}}"
 58759,81670,51214,0,1,0,1,"{""git"":{""tag"":""v1.6.56"",""url"":""https://github.com/glennrp/libpng""}}"
+58760,81671,51215,0,1,0,1,"{""git"":{""tag"":""v4.5.0"",""url"":""https://github.com/lemire/simdjson""}}"
