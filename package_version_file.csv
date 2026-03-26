@@ -33244,3 +33244,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58782,81693,51237,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla561.zip""}}"
 58783,81694,51238,0,1,0,1,"{""git"":{""tag"":""v7.2.2"",""url"":""https://github.com/stephenberry/glaze""}}"
 58784,81695,51239,0,1,0,1,"{""git"":{""tag"":""v20.76.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+58785,81696,51240,0,1,0,1,"{""git"":{""tag"":""v0.39.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
