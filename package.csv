@@ -2443,3 +2443,5 @@ package_id,path
 7413,org.sw.demo.qtproject.qt.tools.linguist.trlib
 7414,org.sw.demo.qtproject.qt.tools.linguist.linguist_project
 7415,org.sw.demo.qtproject.qt.declarative.qml.meta
+7416,org.sw.demo.find.nvidia.cudnn
+7417,org.sw.demo.find.nvidia.cuda
