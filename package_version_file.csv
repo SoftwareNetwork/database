@@ -33255,3 +33255,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58907,81819,51299,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 58908,81820,51308,0,1,0,1,"{""git"":{""tag"":""5.9.14-next"",""url"":""https://github.com/htacg/tidy-html5""}}"
 58909,81821,51309,0,1,0,1,"{""git"":{""tag"":""5.9.14-next"",""url"":""https://github.com/htacg/tidy-html5""}}"
+58910,81822,51310,0,1,0,1,"{""git"":{""tag"":""5.8.0"",""url"":""https://github.com/htacg/tidy-html5""}}"
