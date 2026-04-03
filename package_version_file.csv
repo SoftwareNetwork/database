@@ -29814,7 +29814,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 51680,74589,44718,0,1,0,1,"{""git"":{""tag"":""v3.31.4"",""url"":""https://github.com/Kitware/CMake""}}"
 51681,74590,44722,0,1,0,1,"{""git"":{""tag"":""v3.11.5"",""url"":""https://github.com/lemire/simdjson""}}"
 51682,74591,44723,0,1,0,1,"{""git"":{""tag"":""v4.0.4"",""url"":""https://github.com/SanderMertens/flecs""}}"
-51683,74592,44724,0,1,0,1,"{""git"":{""tag"":""v1.15"",""url"":""https://github.com/zeux/pugixml""}}"
 51684,74593,44725,0,1,0,1,"{""git"":{""tag"":""v1.9"",""url"":""https://github.com/fnc12/sqlite_orm""}}"
 51685,74594,44726,0,1,0,1,"{""git"":{""tag"":""3.1.0"",""url"":""https://github.com/socketio/socket.io-client-cpp""}}"
 51686,74595,44727,0,1,0,1,"{""git"":{""tag"":""1.0.20-RELEASE"",""url"":""https://github.com/jedisct1/libsodium""}}"
@@ -33270,3 +33269,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58925,81839,51316,0,1,0,1,"{""git"":{""tag"":""1.1.11.9.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 58926,81838,51317,0,1,0,1,"{""git"":{""tag"":""1.1.11.9.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 58927,81837,51318,0,1,0,1,"{""git"":{""tag"":""1.1.11.9.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
+58928,81840,51320,0,1,0,1,"{""git"":{""tag"":""v1.15"",""url"":""https://github.com/zeux/pugixml""}}"
