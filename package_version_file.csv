@@ -33270,3 +33270,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58926,81838,51317,0,1,0,1,"{""git"":{""tag"":""1.1.11.9.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 58927,81837,51318,0,1,0,1,"{""git"":{""tag"":""1.1.11.9.6"",""url"":""https://github.com/egorpugin/tgbot""}}"
 58928,81840,51320,0,1,0,1,"{""git"":{""tag"":""v1.15"",""url"":""https://github.com/zeux/pugixml""}}"
+58929,81841,51321,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.2/openssl-3.6.2.tar.gz""}}"
+58930,81842,51322,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.2/openssl-3.6.2.tar.gz""}}"
