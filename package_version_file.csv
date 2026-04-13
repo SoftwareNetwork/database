@@ -33283,3 +33283,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58939,81851,51331,0,1,0,1,"{""git"":{""tag"":""v1.7.2"",""url"":""https://github.com/awslabs/s2n""}}"
 58940,81852,51332,0,1,0,1,"{""git"":{""tag"":""14.1.0"",""url"":""https://github.com/behdad/harfbuzz""}}"
 58941,81853,51333,0,1,0,1,"{""git"":{""tag"":""v0.11.1"",""url"":""https://github.com/biojppm/rapidyaml""}}"
+58942,81854,51334,0,1,0,1,"{""git"":{""tag"":""1.8.4"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
+58943,81855,51335,0,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/catchorg/Catch2""}}"
+58944,81856,51336,0,1,0,1,"{""git"":{""tag"":""v1.6.57"",""url"":""https://github.com/glennrp/libpng""}}"
