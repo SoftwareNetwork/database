@@ -33331,3 +33331,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58987,81899,51377,0,1,0,1,"{""remote"":{""url"":""https://tukaani.org/xz/xz-5.8.3.tar.gz""}}"
 58988,81900,51378,0,1,0,1,"{""git"":{""tag"":""v0.42.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 58989,81901,51379,0,1,0,1,"{""git"":{""tag"":""v2.2.1"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+58990,81902,51380,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+58991,81903,51381,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
