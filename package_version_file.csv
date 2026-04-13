@@ -33286,3 +33286,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58942,81854,51334,0,1,0,1,"{""git"":{""tag"":""1.8.4"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
 58943,81855,51335,0,1,0,1,"{""git"":{""tag"":""v3.14.0"",""url"":""https://github.com/catchorg/Catch2""}}"
 58944,81856,51336,0,1,0,1,"{""git"":{""tag"":""v1.6.57"",""url"":""https://github.com/glennrp/libpng""}}"
+58945,81857,51337,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/gsoap2/files/gsoap_2.8.141.zip/download""}}"
+58946,81858,51338,0,1,0,1,"{""git"":{""tag"":""4.0.1"",""url"":""https://github.com/hosseinmoein/DataFrame""}}"
+58947,81859,51339,0,1,0,1,"{""git"":{""tag"":""v1.1.5"",""url"":""https://github.com/imageworks/pystring""}}"
+58948,81860,51340,0,1,0,1,"{""git"":{""tag"":""8.0.1"",""url"":""https://github.com/jtv/libpqxx""}}"
