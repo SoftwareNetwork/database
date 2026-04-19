@@ -33345,3 +33345,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59001,81912,51392,0,1,0,1,"{""git"":{""tag"":""4.13.1"",""url"":""https://github.com/emweb/wt""}}"
 59002,81914,51390,0,1,0,1,"{""git"":{""tag"":""4.13.1"",""url"":""https://github.com/emweb/wt""}}"
 59003,81915,51393,0,1,0,1,"{""git"":{""tag"":""4.13.1"",""url"":""https://github.com/emweb/wt""}}"
+59004,81916,51394,0,1,0,1,"{""git"":{""tag"":""v1.6.58"",""url"":""https://github.com/glennrp/libpng""}}"
