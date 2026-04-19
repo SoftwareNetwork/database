@@ -33346,3 +33346,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59002,81914,51390,0,1,0,1,"{""git"":{""tag"":""4.13.1"",""url"":""https://github.com/emweb/wt""}}"
 59003,81915,51393,0,1,0,1,"{""git"":{""tag"":""4.13.1"",""url"":""https://github.com/emweb/wt""}}"
 59004,81916,51394,0,1,0,1,"{""git"":{""tag"":""v1.6.58"",""url"":""https://github.com/glennrp/libpng""}}"
+59005,81917,51395,0,1,0,1,"{""git"":{""tag"":""v4.6.2"",""url"":""https://github.com/lemire/simdjson""}}"
+59006,81918,51396,0,1,0,1,"{""git"":{""tag"":""v1.69.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+59007,81919,51398,0,1,0,1,"{""git"":{""tag"":""v1.22.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+59008,81920,51397,0,1,0,1,"{""git"":{""tag"":""v1.22.1"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+59009,81921,51399,0,1,0,1,"{""remote"":{""url"":""https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-4.3.1.tar.gz""}}"
