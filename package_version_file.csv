@@ -33379,3 +33379,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59035,81945,51423,0,1,0,1,"{""git"":{""tag"":""3.1.0"",""url"":""https://github.com/SFML/SFML""}}"
 59036,81948,51426,0,1,0,1,"{""git"":{""tag"":""3.1.0"",""url"":""https://github.com/SFML/SFML""}}"
 59037,81949,51427,0,1,0,1,"{""git"":{""tag"":""v20.77.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
+59038,81950,51428,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3530000.zip""}}"
+59039,81951,51429,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3530000.zip""}}"
