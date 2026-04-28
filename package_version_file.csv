@@ -33545,3 +33545,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59268,82180,51605,0,1,0,1,"{""git"":{""tag"":""v1.80.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 59269,82181,51604,0,1,0,1,"{""git"":{""tag"":""v1.80.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 59270,82182,51603,0,1,0,1,"{""git"":{""tag"":""v1.80.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+59273,82185,51593,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.0/openssl-4.0.0.tar.gz""}}"
+59274,82186,51594,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.0/openssl-4.0.0.tar.gz""}}"
