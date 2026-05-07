@@ -33618,3 +33618,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59345,82255,51668,0,1,0,1,"{""git"":{""tag"":""v4.15.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
 59346,82258,51672,0,1,0,1,"{""git"":{""tag"":""v4.15.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
 59347,82259,51673,0,1,0,1,"{""git"":{""tag"":""v7.5.0"",""url"":""https://github.com/stephenberry/glaze""}}"
+59348,82260,51674,0,1,0,1,"{""git"":{""tag"":""6.4.15"",""url"":""https://github.com/Taywee/args""}}"
+59349,82261,51675,0,1,0,1,"{""git"":{""tag"":""release-3.4.8"",""url"":""https://github.com/libsdl-org/SDL""}}"
+59350,82262,51676,0,1,0,1,"{""git"":{""tag"":""v0.43.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
