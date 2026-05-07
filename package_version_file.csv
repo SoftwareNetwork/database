@@ -33606,3 +33606,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59332,82244,51658,0,1,0,1,"{""git"":{""tag"":""v5.43.10"",""url"":""https://github.com/Perl/perl5""}}"
 59333,82245,51651,0,1,0,1,"{""git"":{""tag"":""v5.43.10"",""url"":""https://github.com/Perl/perl5""}}"
 59334,82246,51661,0,1,0,1,"{""git"":{""tag"":""26.2"",""url"":""https://github.com/pypa/packaging""}}"
+59335,82247,51662,0,1,0,1,"{""git"":{""tag"":""3.12.0"",""url"":""https://github.com/randombit/botan""}}"
+59336,82248,51663,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla562.zip""}}"
