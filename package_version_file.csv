@@ -33608,3 +33608,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59334,82246,51661,0,1,0,1,"{""git"":{""tag"":""26.2"",""url"":""https://github.com/pypa/packaging""}}"
 59335,82247,51662,0,1,0,1,"{""git"":{""tag"":""3.12.0"",""url"":""https://github.com/randombit/botan""}}"
 59336,82248,51663,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla562.zip""}}"
+59337,82249,51664,0,1,0,1,"{""git"":{""tag"":""v1.7.3"",""url"":""https://github.com/hunspell/hunspell""}}"
+59338,82250,51665,0,1,0,1,"{""git"":{""tag"":""v2023.0.0"",""url"":""https://github.com/intel/tbb""}}"
+59339,82251,51666,0,1,0,1,"{""git"":{""tag"":""v2023.0.0"",""url"":""https://github.com/intel/tbb""}}"
+59340,82252,51667,0,1,0,1,"{""git"":{""tag"":""v2023.0.0"",""url"":""https://github.com/intel/tbb""}}"
