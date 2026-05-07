@@ -33617,3 +33617,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59344,82257,51670,0,1,0,1,"{""git"":{""tag"":""v4.15.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
 59345,82255,51668,0,1,0,1,"{""git"":{""tag"":""v4.15.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
 59346,82258,51672,0,1,0,1,"{""git"":{""tag"":""v4.15.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+59347,82259,51673,0,1,0,1,"{""git"":{""tag"":""v7.5.0"",""url"":""https://github.com/stephenberry/glaze""}}"
