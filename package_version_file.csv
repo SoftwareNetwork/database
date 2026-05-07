@@ -33583,3 +33583,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59309,82221,51640,0,1,0,1,"{""git"":{""tag"":""1.4.0"",""url"":""https://github.com/google/highway""}}"
 59310,82222,51641,0,1,0,1,"{""remote"":{""url"":""https://sourceforge.net/projects/gsoap2/files/gsoap_2.8.142.zip/download""}}"
 59311,82223,51642,0,1,0,1,"{""git"":{""tag"":""v4.6.4"",""url"":""https://github.com/lemire/simdjson""}}"
+59312,82224,51643,0,1,0,1,"{""git"":{""tag"":""v1.9.3"",""url"":""https://github.com/libgit2/libgit2""}}"
+59313,82225,51644,0,1,0,1,"{""git"":{""tag"":""release-0.5.3"",""url"":""https://github.com/mity/md4c""}}"
+59314,82226,51645,0,1,0,1,"{""git"":{""tag"":""v0.9.8"",""url"":""https://github.com/Neargye/magic_enum""}}"
+59315,82227,51646,0,1,0,1,"{""git"":{""tag"":""v0.10.5"",""url"":""https://github.com/Neargye/nameof""}}"
+59316,82228,51647,0,1,0,1,"{""git"":{""tag"":""v2.2.15"",""url"":""https://github.com/ned14/outcome""}}"
