@@ -32519,7 +32519,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 57435,80346,50150,0,1,0,1,"{""git"":{""tag"":""v34.0"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 57764,80676,50374,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz""}}"
 57765,80675,50373,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-3.6.1/openssl-3.6.1.tar.gz""}}"
-57766,80677,50375,0,1,0,1,"{""git"":{""tag"":""nasm-3.01"",""url"":""https://github.com/netwide-assembler/nasm""}}"
 57843,80754,50396,0,1,0,1,"{""git"":{""tag"":""v5.43.8"",""url"":""https://github.com/Perl/perl5""}}"
 57844,80755,50397,0,1,0,1,"{""git"":{""tag"":""v5.43.8"",""url"":""https://github.com/Perl/perl5""}}"
 57845,80756,50394,0,1,0,1,"{""git"":{""tag"":""v5.43.8"",""url"":""https://github.com/Perl/perl5""}}"
@@ -33621,3 +33620,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59349,82261,51675,0,1,0,1,"{""git"":{""tag"":""release-3.4.8"",""url"":""https://github.com/libsdl-org/SDL""}}"
 59350,82262,51676,0,1,0,1,"{""git"":{""tag"":""v0.43.3"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 59351,82263,51677,0,1,0,1,"{""git"":{""tag"":""R_2_8_0"",""url"":""https://github.com/libexpat/libexpat""}}"
+59352,82264,51678,0,1,0,1,"{""git"":{""tag"":""nasm-3.01"",""url"":""https://github.com/netwide-assembler/nasm""}}"
