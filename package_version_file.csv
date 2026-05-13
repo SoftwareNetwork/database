@@ -5209,7 +5209,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 5301,22020,5214,1,1,0,1,
 5302,22027,5274,1,1,0,1,
 5303,28624,5303,1,1,0,1,
-5304,27460,5304,1,1,0,1,
 5305,22029,5305,1,1,0,1,
 5306,27406,5306,1,1,0,1,
 5307,28623,5307,1,1,0,1,
@@ -5233,7 +5232,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 5325,23761,5325,1,1,0,1,
 5326,23766,5326,1,1,0,1,
 5327,23769,5327,1,1,0,1,
-5328,27459,5328,1,1,0,1,
 5329,22028,5329,1,1,0,1,
 5330,23716,5330,1,1,0,1,
 5331,23720,5331,1,1,0,1,
@@ -5247,7 +5245,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 5339,23741,5339,1,1,0,1,
 5340,26011,5340,1,1,0,1,
 5341,23751,5341,1,1,0,1,
-5342,27461,5342,1,1,0,1,
 5343,23759,5343,1,1,0,1,
 5344,23764,5344,1,1,0,1,
 5345,23768,5345,1,1,0,1,
@@ -5259,7 +5256,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 5351,28629,5351,1,1,0,1,
 5352,24592,5352,1,1,0,1,
 5353,28645,5353,1,1,0,1,
-5354,27458,5354,1,1,0,1,
 5355,22065,5355,1,1,0,1,
 5356,23760,5356,1,1,0,1,
 5357,23763,5357,1,1,0,1,
@@ -33629,3 +33625,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59359,82270,51682,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59360,82271,51680,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59361,82273,51683,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.0"",""url"":""https://github.com/egorpugin/tgbot""}}"
+59362,82275,51687,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/breakpad""}}"
+59363,82274,51686,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/breakpad""}}"
+59364,82276,51684,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/breakpad""}}"
+59365,82277,51685,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/breakpad""}}"
