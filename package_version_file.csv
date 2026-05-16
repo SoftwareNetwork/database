@@ -32249,7 +32249,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56451,79360,49318,0,1,0,1,"{""git"":{""tag"":""1.5.3"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 56452,79361,49317,0,1,0,1,"{""git"":{""tag"":""1.5.3"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
 56453,79362,49317,0,1,0,1,"{""git"":{""tag"":""1.5.3"",""url"":""https://code.videolan.org/videolan/dav1d""}}"
-56454,79363,49319,0,1,0,1,"{""git"":{""tag"":""v1.6.1"",""url"":""https://github.com/xiph/opus""}}"
 56455,79364,49320,0,1,0,1,"{""git"":{""tag"":""xorgproto-2025.1"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
 56456,79365,49321,0,1,0,1,"{""git"":{""tag"":""v0.30.1"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 56457,79366,49322,0,1,0,1,"{""git"":{""tag"":""v2.2.0"",""url"":""https://github.com/zmartzone/liboauth2""}}"
@@ -33629,3 +33628,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59364,82276,51684,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/breakpad""}}"
 59365,82277,51685,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/breakpad""}}"
 59366,82278,51688,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/yourWaifu/sleepy-discord""}}"
+59367,82279,51689,0,1,0,1,"{""git"":{""tag"":""v1.6.1"",""url"":""https://github.com/xiph/opus""}}"
