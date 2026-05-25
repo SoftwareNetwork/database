@@ -33629,3 +33629,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59371,82283,51692,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/cisco/mlspp""}}"
 59372,82284,51694,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/cisco/mlspp""}}"
 59373,82285,51695,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/cisco/mlspp""}}"
+59374,82286,51696,0,1,0,1,"{""git"":{""tag"":""v10.1.5"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
