@@ -32930,7 +32930,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 58475,81386,50984,0,1,0,1,"{""git"":{""tag"":""v3.3.2"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 58476,81387,50988,0,1,0,1,"{""git"":{""tag"":""v2.15.2"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 58477,81388,50989,0,1,0,1,"{""git"":{""tag"":""v0.38.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
-58478,81389,50990,0,1,0,1,"{""git"":{""tag"":""v3.0.2"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
 58479,81390,50991,0,1,0,1,"{""git"":{""tag"":""asio-1-36-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
 58480,81391,50992,0,1,0,1,"{""git"":{""tag"":""1.25.1"",""url"":""https://github.com/kcat/openal-soft""}}"
 58482,81393,50994,0,1,0,1,"{""git"":{""tag"":""v1.5.8"",""url"":""https://github.com/piscisaureus/wepoll""}}"
@@ -33801,3 +33800,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59544,82456,51863,0,1,0,1,"{""git"":{""tag"":""v1.22.2"",""url"":""https://github.com/strukturag/libheif""}}"
 59545,82457,51864,0,1,0,1,"{""git"":{""tag"":""6.4.16"",""url"":""https://github.com/Taywee/args""}}"
 59546,82458,51865,0,1,0,1,"{""git"":{""tag"":""v0.46.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+59547,82459,51866,0,1,0,1,"{""git"":{""tag"":""v3.0.2"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
