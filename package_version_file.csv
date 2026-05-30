@@ -33718,7 +33718,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59462,82374,51783,0,1,0,1,"{""git"":{""tag"":""v3.15.0"",""url"":""https://github.com/catchorg/Catch2""}}"
 59463,82375,51784,0,1,0,1,"{""git"":{""tag"":""v.3.7.6"",""url"":""https://github.com/dtschump/CImg""}}"
 59464,82376,51785,0,1,0,1,"{""git"":{""tag"":""R_2_8_1"",""url"":""https://github.com/libexpat/libexpat""}}"
-59465,82377,51786,0,1,0,1,"{""git"":{""tag"":""2.18.0"",""url"":""https://gitlab.freedesktop.org/fontconfig/fontconfig""}}"
 59466,82379,51787,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
 59467,82378,51788,0,1,0,1,"{""git"":{""tag"":""v6.3.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
 59468,82380,51789,0,1,0,1,"{""git"":{""tag"":""v2.2.3"",""url"":""https://gitlab.com/gsasl/gsasl""}}"
@@ -33801,3 +33800,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59545,82457,51864,0,1,0,1,"{""git"":{""tag"":""6.4.16"",""url"":""https://github.com/Taywee/args""}}"
 59546,82458,51865,0,1,0,1,"{""git"":{""tag"":""v0.46.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 59547,82459,51866,0,1,0,1,"{""git"":{""tag"":""v3.0.2"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
+59548,82460,51867,0,1,0,1,"{""git"":{""tag"":""2.18.0"",""url"":""https://gitlab.freedesktop.org/fontconfig/fontconfig""}}"
