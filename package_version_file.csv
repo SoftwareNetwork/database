@@ -33850,7 +33850,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59599,82511,51919,0,1,0,1,"{""git"":{""tag"":""v4.3.4"",""url"":""https://github.com/Kitware/CMake""}}"
 59600,82512,51917,0,1,0,1,"{""git"":{""tag"":""v4.3.4"",""url"":""https://github.com/Kitware/CMake""}}"
 59601,82513,51918,0,1,0,1,"{""git"":{""tag"":""v4.3.4"",""url"":""https://github.com/Kitware/CMake""}}"
-59602,82514,51920,0,1,0,1,"{""git"":{""tag"":""v3.8.8"",""url"":""https://github.com/libarchive/libarchive""}}"
 59603,82515,51921,0,1,0,1,"{""git"":{""tag"":""v3.6.0"",""url"":""https://github.com/libffi/libffi""}}"
 59604,82516,51922,0,1,0,1,"{""git"":{""tag"":""cpp-8.0.0"",""url"":""https://github.com/msgpack/msgpack-c""}}"
 59605,82517,51923,0,1,0,1,"{""git"":{""tag"":""v1.16.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
@@ -33934,3 +33933,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59717,82629,52023,0,1,0,1,"{""git"":{""tag"":""5.0.0"",""url"":""https://github.com/opencv/opencv""}}"
 59718,82630,52021,0,1,0,1,"{""git"":{""tag"":""5.0.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
 59719,82631,52022,0,1,0,1,"{""git"":{""tag"":""5.0.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
+59720,82632,52025,0,1,0,1,"{""git"":{""tag"":""v3.8.8"",""url"":""https://github.com/libarchive/libarchive""}}"
