@@ -2448,3 +2448,9 @@ package_id,path
 7418,pub.egorpugin.primitives.debug
 7419,pub.egorpugin.htacg.tidy_html5
 7420,org.sw.demo.boost.decimal
+7421,org.sw.demo.intel.opencv.calib
+7422,org.sw.demo.intel.opencv.contrib.ml
+7423,org.sw.demo.intel.opencv.features
+7424,org.sw.demo.intel.opencv.stereo
+7425,org.sw.demo.intel.opencv.ptcloud
+7426,org.sw.demo.intel.opencv.geometry
