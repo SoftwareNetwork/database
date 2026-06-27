@@ -33953,3 +33953,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59762,82674,52062,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59763,82675,52063,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59764,82676,52064,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.1"",""url"":""https://github.com/egorpugin/tgbot""}}"
+59765,82677,52066,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.1/openssl-4.0.1.tar.gz""}}"
+59766,82678,52067,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.1/openssl-4.0.1.tar.gz""}}"
