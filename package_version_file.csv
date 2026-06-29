@@ -33957,3 +33957,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59766,82678,52067,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.1/openssl-4.0.1.tar.gz""}}"
 59767,82679,52068,0,1,0,1,"{""git"":{""tag"":""json-c-0.18-20240915"",""url"":""https://github.com/json-c/json-c""}}"
 59768,82680,52069,0,1,0,1,"{""git"":{""tag"":""json-c-0.19-20260627"",""url"":""https://github.com/json-c/json-c""}}"
+59769,82681,52070,0,1,0,1,"{""git"":{""tag"":""nasm-3.02"",""url"":""https://github.com/netwide-assembler/nasm""}}"
