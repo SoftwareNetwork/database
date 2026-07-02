@@ -33960,3 +33960,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59773,82685,52074,0,1,0,1,"{""git"":{""tag"":""v1.17.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
 59774,82687,52076,0,1,0,1,"{""git"":{""tag"":""curl-8_20_0"",""url"":""https://github.com/curl/curl""}}"
 59775,82686,52075,0,1,0,1,"{""git"":{""tag"":""curl-8_20_0"",""url"":""https://github.com/curl/curl""}}"
+59776,82688,52077,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/ngtcp2/sfparse""}}"
