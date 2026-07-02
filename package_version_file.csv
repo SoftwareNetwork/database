@@ -33961,3 +33961,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59778,82690,52079,0,1,0,1,"{""git"":{""tag"":""nasm-3.02"",""url"":""https://github.com/netwide-assembler/nasm""}}"
 59781,82694,52083,0,1,0,1,"{""git"":{""tag"":""v1.24.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 59782,82693,52082,0,1,0,1,"{""git"":{""tag"":""v1.24.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+59783,82696,52085,0,1,0,1,"{""git"":{""tag"":""curl-8_21_0"",""url"":""https://github.com/curl/curl""}}"
+59784,82695,52084,0,1,0,1,"{""git"":{""tag"":""curl-8_21_0"",""url"":""https://github.com/curl/curl""}}"
