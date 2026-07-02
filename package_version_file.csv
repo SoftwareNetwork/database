@@ -33953,7 +33953,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59766,82678,52067,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.1/openssl-4.0.1.tar.gz""}}"
 59767,82679,52068,0,1,0,1,"{""git"":{""tag"":""json-c-0.18-20240915"",""url"":""https://github.com/json-c/json-c""}}"
 59768,82680,52069,0,1,0,1,"{""git"":{""tag"":""json-c-0.19-20260627"",""url"":""https://github.com/json-c/json-c""}}"
-59769,82681,52070,0,1,0,1,"{""git"":{""tag"":""nasm-3.02"",""url"":""https://github.com/netwide-assembler/nasm""}}"
 59770,82682,52071,0,1,0,1,"{""git"":{""tag"":""v1.34.6"",""url"":""https://github.com/c-ares/c-ares""}}"
 59771,82683,52072,0,1,0,1,"{""git"":{""tag"":""v1.24.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 59772,82684,52073,0,1,0,1,"{""git"":{""tag"":""v1.24.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
@@ -33961,3 +33960,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59775,82686,52075,0,1,0,1,"{""git"":{""tag"":""curl-8_20_0"",""url"":""https://github.com/curl/curl""}}"
 59776,82688,52077,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/ngtcp2/sfparse""}}"
 59777,82689,52078,0,1,0,1,"{""git"":{""tag"":""v1.17.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
+59778,82690,52079,0,1,0,1,"{""git"":{""tag"":""nasm-3.02"",""url"":""https://github.com/netwide-assembler/nasm""}}"
