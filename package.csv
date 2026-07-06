@@ -2455,3 +2455,5 @@ package_id,path
 7425,org.sw.demo.intel.opencv.ptcloud
 7426,org.sw.demo.intel.opencv.geometry
 7427,org.sw.demo.ngtcp2.sfparse
+7428,org.sw.demo.lua.luai
+7429,org.sw.demo.lua.luac
