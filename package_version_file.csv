@@ -33965,3 +33965,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59785,82697,52086,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.5.0.tar.gz""}}"
 59786,82698,52087,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.5.0.tar.gz""}}"
 59787,82699,52088,0,1,0,1,"{""remote"":{""url"":""https://www.lua.org/ftp/lua-5.5.0.tar.gz""}}"
+59788,82700,52092,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+59789,82702,52090,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+59790,82703,52091,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+59791,82701,52089,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
