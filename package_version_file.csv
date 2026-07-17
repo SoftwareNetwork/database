@@ -33968,7 +33968,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59789,82702,52090,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59790,82703,52091,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59791,82701,52089,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
-59792,82704,52093,0,1,0,1,"{""git"":{""tag"":""develop"",""url"":""https://github.com/egorpugin/sol2""}}"
 59793,82705,52094,0,1,0,1,"{""git"":{""tag"":""v1.34.7"",""url"":""https://github.com/c-ares/c-ares""}}"
 59794,82706,52095,0,1,0,1,"{""git"":{""tag"":""v1.34.8"",""url"":""https://github.com/c-ares/c-ares""}}"
 59806,82718,52108,0,1,0,1,"{""git"":{""tag"":""v1.82.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
@@ -33982,3 +33981,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59814,82726,52116,0,1,0,1,"{""git"":{""tag"":""v1.82.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 59815,82727,52117,0,1,0,1,"{""git"":{""tag"":""v1.82.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 59816,82728,52115,0,1,0,1,"{""git"":{""tag"":""v1.82.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+59818,82730,52093,0,1,0,1,"{""git"":{""tag"":""develop"",""url"":""https://github.com/egorpugin/sol2""}}"
