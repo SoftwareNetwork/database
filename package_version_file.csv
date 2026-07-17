@@ -32123,7 +32123,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 56280,79189,49191,0,1,0,1,"{""git"":{""tag"":""v2.14.6"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 56281,79190,49192,0,1,0,1,"{""git"":{""tag"":""v2.15.1"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
 56282,79191,49193,0,1,0,1,"{""git"":{""tag"":""v2.15.0"",""url"":""https://gitlab.gnome.org/GNOME/libxml2""}}"
-56283,79192,49194,0,1,0,1,"{""git"":{""tag"":""v3.5.0"",""url"":""https://github.com/ThePhD/sol2""}}"
 56284,79193,49198,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
 56285,79195,49195,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
 56286,79194,49196,0,1,0,1,"{""git"":{""tag"":""1.1.8.9.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
@@ -33969,3 +33968,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59789,82702,52090,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59790,82703,52091,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
 59791,82701,52089,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.2"",""url"":""https://github.com/egorpugin/tgbot""}}"
+59792,82704,52093,0,1,0,1,"{""git"":{""tag"":""develop"",""url"":""https://github.com/egorpugin/sol2""}}"
