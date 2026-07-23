@@ -33956,7 +33956,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59775,82686,52075,0,1,0,1,"{""git"":{""tag"":""curl-8_20_0"",""url"":""https://github.com/curl/curl""}}"
 59776,82688,52077,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/ngtcp2/sfparse""}}"
 59777,82689,52078,0,1,0,1,"{""git"":{""tag"":""v1.17.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
-59778,82690,52079,0,1,0,1,"{""git"":{""tag"":""nasm-3.02"",""url"":""https://github.com/netwide-assembler/nasm""}}"
 59781,82694,52083,0,1,0,1,"{""git"":{""tag"":""v1.24.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 59782,82693,52082,0,1,0,1,"{""git"":{""tag"":""v1.24.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
 59783,82696,52085,0,1,0,1,"{""git"":{""tag"":""curl-8_21_0"",""url"":""https://github.com/curl/curl""}}"
@@ -34003,3 +34002,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59852,82764,52143,0,1,0,1,"{""git"":{""tag"":""v1.83.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 59853,82765,52145,0,1,0,1,"{""git"":{""tag"":""v1.83.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 59854,82766,52144,0,1,0,1,"{""git"":{""tag"":""v1.83.0"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+59855,82767,52146,0,1,0,1,"{""git"":{""tag"":""nasm-3.02"",""url"":""https://github.com/netwide-assembler/nasm""}}"
