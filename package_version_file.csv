@@ -34040,3 +34040,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59987,82900,52245,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
 59988,82899,52244,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
 59989,82901,52248,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
+59990,82902,52250,0,1,0,1,"{""git"":{""tag"":""1.58.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
+59991,82903,52249,0,1,0,1,"{""git"":{""tag"":""1.58.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
+59992,82904,52251,0,1,0,1,"{""git"":{""tag"":""1.58.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
