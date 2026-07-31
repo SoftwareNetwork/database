@@ -34035,3 +34035,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59982,82894,52241,0,1,0,1,"{""git"":{""tag"":""v5.45.1"",""url"":""https://github.com/Perl/perl5""}}"
 59983,82895,52232,0,1,0,1,"{""git"":{""tag"":""v5.45.1"",""url"":""https://github.com/Perl/perl5""}}"
 59984,82896,52243,0,1,0,1,"{""git"":{""tag"":""v5.45.1"",""url"":""https://github.com/Perl/perl5""}}"
+59985,82897,52246,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
+59986,82898,52247,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
+59987,82900,52245,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
+59988,82899,52244,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
+59989,82901,52248,0,1,0,1,"{""remote"":{""url"":""https://ftp.gnome.org/pub/gnome/sources/glib/2.88/glib-2.88.3.tar.xz""}}"
