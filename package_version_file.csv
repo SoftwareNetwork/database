@@ -34044,3 +34044,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 59991,82903,52249,0,1,0,1,"{""git"":{""tag"":""1.58.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 59992,82904,52251,0,1,0,1,"{""git"":{""tag"":""1.58.0"",""url"":""https://gitlab.gnome.org/GNOME/pango""}}"
 59993,82905,52252,0,1,0,1,"{""git"":{""tag"":""8.0.2"",""url"":""https://github.com/jtv/libpqxx""}}"
+59994,82906,52253,0,1,0,1,"{""git"":{""tag"":""v10.1.6"",""url"":""https://github.com/brainboxdotcc/DPP""}}"
