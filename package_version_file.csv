@@ -34198,3 +34198,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60145,83057,52401,0,1,0,1,"{""git"":{""tag"":""boost-1.92.0"",""url"":""https://github.com/boostorg/io""}}"
 60146,83058,52405,0,1,0,1,"{""git"":{""tag"":""boost-1.92.0"",""url"":""https://github.com/boostorg/tti""}}"
 60147,83059,52403,0,1,0,1,"{""git"":{""tag"":""boost-1.92.0"",""url"":""https://github.com/boostorg/thread""}}"
+60148,83060,52410,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
+60149,83063,52409,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
+60150,83062,52408,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
+60151,83061,52407,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
