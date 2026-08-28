@@ -34206,3 +34206,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60153,83067,52409,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
 60154,83065,52407,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
 60155,83066,52408,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.3"",""url"":""https://github.com/egorpugin/tgbot""}}"
+60156,83069,52412,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/skia""}}"
+60157,83068,52411,0,1,0,1,"{""git"":{""branch"":""main"",""url"":""https://github.com/google/skia""}}"
