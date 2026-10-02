@@ -34279,3 +34279,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60242,83154,52496,0,1,0,1,"{""git"":{""tag"":""v6.11.2"",""url"":""https://github.com/qt/qtbase""}}"
 60243,83155,52497,0,1,0,1,"{""git"":{""tag"":""v6.11.2"",""url"":""https://github.com/qt/qttools""}}"
 60244,83156,52499,0,1,0,1,"{""git"":{""tag"":""v6.11.2"",""url"":""https://github.com/qt/qtimageformats""}}"
+60245,83157,52500,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.2/openssl-4.0.2.tar.gz""}}"
