@@ -34289,3 +34289,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60252,83164,52506,0,1,0,1,"{""git"":{""tag"":""pcre2-10.48"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 60253,83166,52506,0,1,0,1,"{""git"":{""tag"":""pcre2-10.48"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
 60254,83165,52507,0,1,0,1,"{""git"":{""tag"":""pcre2-10.48"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+60255,83168,52508,0,1,0,1,"{""git"":{""tag"":""pcre2-10.49"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+60256,83167,52509,0,1,0,1,"{""git"":{""tag"":""pcre2-10.49"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+60257,83169,52509,0,1,0,1,"{""git"":{""tag"":""pcre2-10.49"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+60258,83170,52509,0,1,0,1,"{""git"":{""tag"":""pcre2-10.49"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
