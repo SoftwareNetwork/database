@@ -34285,3 +34285,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60248,83160,52503,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.0.3/openssl-4.0.3.tar.gz""}}"
 60249,83161,52504,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3540000.zip""}}"
 60250,83162,52505,0,1,0,1,"{""remote"":{""url"":""http://www.sqlite.org/2026/sqlite-amalgamation-3540000.zip""}}"
+60251,83163,52506,0,1,0,1,"{""git"":{""tag"":""pcre2-10.48"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+60252,83164,52506,0,1,0,1,"{""git"":{""tag"":""pcre2-10.48"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+60253,83166,52506,0,1,0,1,"{""git"":{""tag"":""pcre2-10.48"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
+60254,83165,52507,0,1,0,1,"{""git"":{""tag"":""pcre2-10.48"",""url"":""https://github.com/PhilipHazel/pcre2""}}"
