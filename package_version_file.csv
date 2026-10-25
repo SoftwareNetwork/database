@@ -34355,3 +34355,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60325,83237,52573,0,1,0,1,"{""git"":{""tag"":""v1.0.1"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
 60326,83238,52574,0,1,0,1,"{""git"":{""tag"":""v1.0.1"",""url"":""https://github.com/awslabs/aws-checksums""}}"
 60327,83239,52575,0,1,0,1,"{""git"":{""tag"":""v0.44.2"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+60328,83240,52576,0,1,0,1,"{""git"":{""tag"":""v1.7.12"",""url"":""https://github.com/awslabs/s2n""}}"
+60329,83242,52578,0,1,0,1,"{""git"":{""tag"":""v0.25.0"",""url"":""https://github.com/apache/thrift""}}"
+60330,83241,52577,0,1,0,1,"{""git"":{""tag"":""v0.25.0"",""url"":""https://github.com/apache/thrift""}}"
