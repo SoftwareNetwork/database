@@ -34336,3 +34336,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60301,83213,52550,0,1,0,1,"{""git"":{""tag"":""v1.2.1"",""url"":""https://github.com/google/brotli""}}"
 60306,83218,52555,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.1.0/openssl-4.1.0.tar.gz""}}"
 60307,83219,52556,0,1,0,1,"{""remote"":{""url"":""https://github.com/openssl/openssl/releases/download/openssl-4.1.0/openssl-4.1.0.tar.gz""}}"
+60308,83220,52557,0,1,0,1,"{""remote"":{""url"":""https://www.7-zip.org/a/7z2604-src.7z""}}"
+60309,83221,52558,0,1,0,1,"{""git"":{""tag"":""v3.2.3"",""url"":""https://github.com/AcademySoftwareFoundation/Imath""}}"
