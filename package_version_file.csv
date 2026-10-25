@@ -34349,3 +34349,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60319,83231,52567,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/awslabs/aws-c-compression""}}"
 60320,83232,52568,0,1,0,1,"{""git"":{""tag"":""v1.0.0"",""url"":""https://github.com/awslabs/aws-c-event-stream""}}"
 60321,83233,52569,0,1,0,1,"{""git"":{""tag"":""v1.1.1"",""url"":""https://github.com/awslabs/aws-c-http""}}"
+60322,83234,52570,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+60323,83235,52571,0,1,0,1,"{""git"":{""tag"":""v1.1.2"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
+60324,83236,52572,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
