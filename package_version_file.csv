@@ -34352,3 +34352,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60322,83234,52570,0,1,0,1,"{""git"":{""tag"":""v1.1.0"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 60323,83235,52571,0,1,0,1,"{""git"":{""tag"":""v1.1.2"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 60324,83236,52572,0,1,0,1,"{""git"":{""tag"":""v1.3.1"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+60325,83237,52573,0,1,0,1,"{""git"":{""tag"":""v1.0.1"",""url"":""https://github.com/awslabs/aws-c-sdkutils""}}"
+60326,83238,52574,0,1,0,1,"{""git"":{""tag"":""v1.0.1"",""url"":""https://github.com/awslabs/aws-checksums""}}"
+60327,83239,52575,0,1,0,1,"{""git"":{""tag"":""v0.44.2"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
