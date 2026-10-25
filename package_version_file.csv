@@ -34360,3 +34360,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60330,83241,52577,0,1,0,1,"{""git"":{""tag"":""v0.25.0"",""url"":""https://github.com/apache/thrift""}}"
 60331,83243,52579,0,1,0,1,"{""git"":{""tag"":""v7.0.3"",""url"":""https://github.com/ArthurSonzogni/FTXUI""}}"
 60332,83244,52580,0,1,0,1,"{""git"":{""tag"":""ghostpdl-10.08.0"",""url"":""https://github.com/ArtifexSoftware/extract""}}"
+60333,83245,52581,0,1,0,1,"{""git"":{""tag"":""1.3.11"",""url"":""https://github.com/ArtifexSoftware/mujs""}}"
