@@ -34565,3 +34565,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60537,83449,52777,0,1,0,1,"{""git"":{""tag"":""v9.0.0"",""url"":""https://github.com/stephenberry/glaze""}}"
 60538,83450,52778,0,1,0,1,"{""git"":{""tag"":""v1.23.7"",""url"":""https://github.com/strukturag/libheif""}}"
 60539,83451,52779,0,1,0,1,"{""git"":{""tag"":""v1.1.8"",""url"":""https://github.com/swami/libinstpatch""}}"
+60540,83452,52780,0,1,0,1,"{""git"":{""tag"":""v4.5.1"",""url"":""https://github.com/swig/swig""}}"
+60541,83453,52781,0,1,0,1,"{""git"":{""tag"":""6.6.1"",""url"":""https://github.com/Taywee/args""}}"
