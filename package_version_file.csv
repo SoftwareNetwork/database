@@ -34366,3 +34366,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60337,83249,52585,0,1,0,1,"{""remote"":{""url"":""https://www.7-zip.org/a/7z2604-src.7z""}}"
 60338,83250,14921,0,1,0,1,"{""git"":{""tag"":""v3.2"",""url"":""https://github.com/agauniyal/rang""}}"
 60339,83251,52586,0,1,0,1,"{""git"":{""tag"":""v1.0.2"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
+60340,83252,52587,0,1,0,1,"{""git"":{""tag"":""v1.1.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+60341,83253,52588,0,1,0,1,"{""git"":{""tag"":""v1.4.1"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
