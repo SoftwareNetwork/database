@@ -34537,3 +34537,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60509,83421,52750,0,1,0,1,"{""git"":{""tag"":""v4.1.6"",""url"":""https://github.com/SanderMertens/flecs""}}"
 60510,83422,52751,0,1,0,1,"{""remote"":{""url"":""https://www.scintilla.org/scintilla567.zip""}}"
 60511,83423,50888,0,1,0,1,"{""git"":{""tag"":""2.0"",""url"":""https://github.com/sebsjames/maths""}}"
+60512,83424,52752,0,1,0,1,"{""git"":{""tag"":""v4.0.0"",""url"":""https://github.com/skypjack/entt""}}"
+60513,83425,52756,0,1,0,1,"{""git"":{""tag"":""v4.19.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+60514,83427,52753,0,1,0,1,"{""git"":{""tag"":""v4.19.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
+60515,83426,52754,0,1,0,1,"{""git"":{""tag"":""v4.19.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
