@@ -34594,3 +34594,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60566,83478,52806,0,1,0,1,"{""git"":{""tag"":""v0.63.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 60567,83479,52807,0,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 60568,83480,52808,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
+60569,83481,52809,0,1,0,1,"{""git"":{""tag"":""v14.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
