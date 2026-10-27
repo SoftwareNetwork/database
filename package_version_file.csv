@@ -34371,3 +34371,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60342,83254,52589,0,1,0,1,"{""git"":{""tag"":""v2.1.2"",""url"":""https://github.com/arvidn/libtorrent""}}"
 60343,83255,52590,0,1,0,1,"{""git"":{""tag"":""v1.46"",""url"":""https://github.com/baldurk/renderdoc""}}"
 60344,83256,52591,0,1,0,1,"{""git"":{""tag"":""v3.38.1"",""url"":""https://github.com/beached/daw_json_link""}}"
+60345,83257,52592,0,1,0,1,"{""git"":{""tag"":""v0.6.0"",""url"":""https://github.com/biojppm/c4core""}}"
+60346,83258,52593,0,1,0,1,"{""git"":{""tag"":""v0.16.0"",""url"":""https://github.com/biojppm/rapidyaml""}}"
+60347,83259,52594,0,1,0,1,"{""git"":{""tag"":""1.8.7"",""url"":""https://github.com/BLAKE3-team/BLAKE3""}}"
+60348,83260,52595,0,1,0,1,"{""git"":{""tag"":""v3.4.0"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+60349,83261,52596,0,1,0,1,"{""git"":{""tag"":""v3.16.1"",""url"":""https://github.com/catchorg/Catch2""}}"
