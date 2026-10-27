@@ -34571,3 +34571,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60543,83455,52783,0,1,0,1,"{""git"":{""tag"":""v20.81.0"",""url"":""https://github.com/uNetworking/uWebSockets""}}"
 60544,83456,52784,0,1,0,1,"{""git"":{""tag"":""release-3.4.18"",""url"":""https://github.com/libsdl-org/SDL""}}"
 60545,83457,52785,0,1,0,1,"{""git"":{""tag"":""2.4.5"",""url"":""https://github.com/team-charls/charls""}}"
+60546,83458,52786,0,1,0,1,"{""git"":{""tag"":""v1.17.0"",""url"":""https://github.com/webmproject/libvpx""}}"
+60547,83459,52787,0,1,0,1,"{""git"":{""tag"":""1.15.1"",""url"":""https://github.com/whoshuu/cpr""}}"
