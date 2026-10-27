@@ -34529,3 +34529,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60500,83412,52739,0,1,0,1,"{""git"":{""tag"":""REL_18_6"",""url"":""https://github.com/postgres/postgres""}}"
 60501,83410,52741,0,1,0,1,"{""git"":{""tag"":""REL_18_6"",""url"":""https://github.com/postgres/postgres""}}"
 60502,83414,52743,0,1,0,1,"{""git"":{""tag"":""v3.1.0"",""url"":""https://github.com/pybind/pybind11""}}"
+60503,83415,52744,0,1,0,1,"{""git"":{""tag"":""3.0.4"",""url"":""https://github.com/pallets/markupsafe""}}"
+60504,83416,52745,0,1,0,1,"{""git"":{""tag"":""26.3"",""url"":""https://github.com/pypa/packaging""}}"
