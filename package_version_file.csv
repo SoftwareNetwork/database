@@ -34484,3 +34484,5 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60455,83367,52700,0,1,0,1,"{""git"":{""tag"":""v1.92.9"",""url"":""https://github.com/ocornut/imgui""}}"
 60456,83368,52701,0,1,0,1,"{""git"":{""tag"":""v13.1.0"",""url"":""https://github.com/odygrd/quill""}}"
 60457,83369,52702,0,1,0,1,"{""git"":{""tag"":""hwloc-2.15.0"",""url"":""https://github.com/open-mpi/hwloc""}}"
+60458,83370,52703,0,1,0,1,"{""git"":{""tag"":""v1.30.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
+60459,83371,52704,0,1,0,1,"{""git"":{""tag"":""v1.30.0"",""url"":""https://github.com/open-telemetry/opentelemetry-cpp""}}"
