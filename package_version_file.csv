@@ -34368,3 +34368,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60339,83251,52586,0,1,0,1,"{""git"":{""tag"":""v1.0.2"",""url"":""https://github.com/awslabs/aws-c-auth""}}"
 60340,83252,52587,0,1,0,1,"{""git"":{""tag"":""v1.1.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 60341,83253,52588,0,1,0,1,"{""git"":{""tag"":""v1.4.1"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+60342,83254,52589,0,1,0,1,"{""git"":{""tag"":""v2.1.2"",""url"":""https://github.com/arvidn/libtorrent""}}"
+60343,83255,52590,0,1,0,1,"{""git"":{""tag"":""v1.46"",""url"":""https://github.com/baldurk/renderdoc""}}"
+60344,83256,52591,0,1,0,1,"{""git"":{""tag"":""v3.38.1"",""url"":""https://github.com/beached/daw_json_link""}}"
