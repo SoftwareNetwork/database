@@ -34462,3 +34462,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60433,83345,52680,0,1,0,1,"{""git"":{""tag"":""v0.10.6"",""url"":""https://github.com/Neargye/nameof""}}"
 60434,83346,52681,0,1,0,1,"{""git"":{""tag"":""v4.2.1"",""url"":""https://github.com/nemtrif/utfcpp""}}"
 60435,83347,52682,0,1,0,1,"{""git"":{""tag"":""v1.70.0"",""url"":""https://github.com/nghttp2/nghttp2""}}"
+60436,83348,52683,0,1,0,1,"{""git"":{""tag"":""v1.18.0"",""url"":""https://github.com/ngtcp2/nghttp3""}}"
+60437,83349,52684,0,1,0,1,"{""git"":{""tag"":""v1.25.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
+60438,83350,52685,0,1,0,1,"{""git"":{""tag"":""v1.25.0"",""url"":""https://github.com/ngtcp2/ngtcp2""}}"
