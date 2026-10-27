@@ -34589,3 +34589,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60561,83473,52802,0,1,0,1,"{""git"":{""tag"":""v3.3.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 60562,83474,52801,0,1,0,1,"{""git"":{""tag"":""v3.3.4"",""url"":""https://github.com/wxWidgets/wxWidgets""}}"
 60563,83475,52803,0,1,0,1,"{""git"":{""tag"":""xorgproto-2026.1"",""url"":""https://gitlab.freedesktop.org/xorg/proto/xorgproto""}}"
+60564,83477,52805,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.14"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
+60565,83476,52804,0,1,0,1,"{""git"":{""tag"":""libX11-1.8.14"",""url"":""https://gitlab.freedesktop.org/xorg/lib/libx11""}}"
+60566,83478,52806,0,1,0,1,"{""git"":{""tag"":""v0.63.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
+60567,83479,52807,0,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/zmartzone/liboauth2""}}"
+60568,83480,52808,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
