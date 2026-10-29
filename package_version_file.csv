@@ -34582,7 +34582,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60566,83478,52806,0,1,0,1,"{""git"":{""tag"":""v0.63.0"",""url"":""https://github.com/yhirose/cpp-httplib""}}"
 60567,83479,52807,0,1,0,1,"{""git"":{""tag"":""v2.4.0"",""url"":""https://github.com/zmartzone/liboauth2""}}"
 60568,83480,52808,0,1,0,1,"{""git"":{""tag"":""v3.1.1"",""url"":""https://github.com/zxing-cpp/zxing-cpp""}}"
-60569,83481,52809,0,1,0,1,"{""git"":{""tag"":""v14.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
 60570,83482,52810,0,1,0,1,"{""remote"":{""url"":""https://www.7-zip.org/a/7z2604-src.7z""}}"
 60571,83483,14921,0,1,0,1,"{""git"":{""tag"":""v3.2"",""url"":""https://github.com/agauniyal/rang""}}"
 60573,83485,52812,0,1,0,1,"{""git"":{""tag"":""v1.5.1"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
@@ -34634,3 +34633,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60619,83531,52858,0,1,0,1,"{""git"":{""tag"":""v36.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 60620,83532,52857,0,1,0,1,"{""git"":{""tag"":""v36.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
 60621,83533,52859,0,1,0,1,"{""git"":{""tag"":""v36.2"",""url"":""https://github.com/protocolbuffers/protobuf""}}"
+60622,83534,52860,0,1,0,1,"{""git"":{""tag"":""v14.0.0"",""url"":""https://github.com/GiovanniDicanio/WinReg""}}"
