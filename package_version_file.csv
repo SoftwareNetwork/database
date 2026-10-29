@@ -34400,7 +34400,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60374,83286,52621,0,1,0,1,"{""git"":{""tag"":""v2.6.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 60375,83287,52622,0,1,0,1,"{""git"":{""tag"":""v2.6.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 60376,83288,52623,0,1,0,1,"{""git"":{""tag"":""2.18.3"",""url"":""https://gitlab.freedesktop.org/fontconfig/fontconfig""}}"
-60377,83289,52624,0,1,0,1,"{""git"":{""tag"":""VER-2-15-0"",""url"":""https://gitlab.freedesktop.org/freetype/freetype""}}"
 60378,83291,52626,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
 60379,83290,52625,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
 60380,83292,52627,0,1,0,1,"{""git"":{""tag"":""v1.6.59"",""url"":""https://github.com/glennrp/libpng""}}"
@@ -34634,3 +34633,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60610,83522,52848,0,1,0,1,"{""git"":{""tag"":""1.11.919"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 60611,83523,52849,0,1,0,1,"{""git"":{""tag"":""1.11.919"",""url"":""https://github.com/aws/aws-sdk-cpp""}}"
 60612,83524,52850,0,1,0,1,"{""git"":{""tag"":""v1.1.1"",""url"":""https://github.com/awslabs/aws-c-io""}}"
+60613,83525,52851,0,1,0,1,"{""git"":{""tag"":""VER-2-15-0"",""url"":""https://gitlab.freedesktop.org/freetype/freetype""}}"
