@@ -34608,3 +34608,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60581,83494,52820,0,1,0,1,"{""git"":{""tag"":""4.15.0"",""url"":""https://github.com/emweb/wt""}}"
 60582,83492,52819,0,1,0,1,"{""git"":{""tag"":""4.15.0"",""url"":""https://github.com/emweb/wt""}}"
 60583,83495,52822,0,1,0,1,"{""git"":{""tag"":""4.15.0"",""url"":""https://github.com/emweb/wt""}}"
+60584,83497,52824,0,1,0,1,"{""git"":{""tag"":""v2023.2.0"",""url"":""https://github.com/intel/tbb""}}"
+60585,83496,52823,0,1,0,1,"{""git"":{""tag"":""v2023.2.0"",""url"":""https://github.com/intel/tbb""}}"
+60586,83498,52825,0,1,0,1,"{""git"":{""tag"":""v2023.2.0"",""url"":""https://github.com/intel/tbb""}}"
