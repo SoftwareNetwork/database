@@ -34627,3 +34627,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60601,83513,52838,0,1,0,1,"{""git"":{""tag"":""v4.20.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
 60602,83514,52840,0,1,0,1,"{""git"":{""tag"":""v4.20.0"",""url"":""https://github.com/sqlcipher/sqlcipher""}}"
 60603,83515,52841,0,1,0,1,"{""git"":{""tag"":""v9.1.0"",""url"":""https://github.com/stephenberry/glaze""}}"
+60604,83516,52842,0,1,0,1,"{""git"":{""tag"":""v1.13"",""url"":""https://github.com/reo7sp/tgbot-cpp""}}"
