@@ -34388,7 +34388,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60373,83285,52620,0,1,0,1,"{""git"":{""tag"":""R_2_9_0"",""url"":""https://github.com/libexpat/libexpat""}}"
 60374,83286,52621,0,1,0,1,"{""git"":{""tag"":""v2.6.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
 60375,83287,52622,0,1,0,1,"{""git"":{""tag"":""v2.6.1"",""url"":""https://github.com/FluidSynth/fluidsynth""}}"
-60376,83288,52623,0,1,0,1,"{""git"":{""tag"":""2.18.3"",""url"":""https://gitlab.freedesktop.org/fontconfig/fontconfig""}}"
 60378,83291,52626,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
 60379,83290,52625,0,1,0,1,"{""git"":{""tag"":""v6.5.0"",""url"":""https://github.com/Genivia/RE-flex""}}"
 60380,83292,52627,0,1,0,1,"{""git"":{""tag"":""v1.6.59"",""url"":""https://github.com/glennrp/libpng""}}"
@@ -34634,3 +34633,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60631,83543,52870,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 60632,83544,52869,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 60633,83545,52871,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
+60634,83546,52872,0,1,0,1,"{""git"":{""tag"":""2.18.3"",""url"":""https://gitlab.freedesktop.org/fontconfig/fontconfig""}}"
