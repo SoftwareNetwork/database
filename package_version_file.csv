@@ -34634,3 +34634,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60633,83545,52871,0,1,0,1,"{""git"":{""tag"":""v1.84.1"",""url"":""https://chromium.googlesource.com/external/github.com/grpc/grpc""}}"
 60635,83547,52873,0,1,0,1,"{""git"":{""tag"":""v1.7.13"",""url"":""https://github.com/awslabs/s2n""}}"
 60636,83548,52874,0,1,0,1,"{""git"":{""tag"":""2.18.3"",""url"":""https://gitlab.freedesktop.org/fontconfig/fontconfig""}}"
+60637,83549,52875,0,1,0,1,"{""git"":{""tag"":""v1.4"",""url"":""https://github.com/madler/zlib""}}"
