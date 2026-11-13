@@ -34414,7 +34414,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60409,83320,52656,0,1,0,1,"{""git"":{""tag"":""v2023.1.0"",""url"":""https://github.com/intel/tbb""}}"
 60410,83322,52657,0,1,0,1,"{""git"":{""tag"":""v2023.1.0"",""url"":""https://github.com/intel/tbb""}}"
 60411,83323,52658,0,1,0,1,"{""git"":{""tag"":""v2.12.0"",""url"":""https://github.com/JuliaStrings/utf8proc""}}"
-60412,83324,52659,0,1,0,1,"{""git"":{""tag"":""v0.12.0"",""url"":""https://github.com/libjxl/libjxl""}}"
 60413,83325,52663,0,1,0,1,"{""git"":{""tag"":""v4.4.4"",""url"":""https://github.com/Kitware/CMake""}}"
 60414,83327,52661,0,1,0,1,"{""git"":{""tag"":""v4.4.4"",""url"":""https://github.com/Kitware/CMake""}}"
 60415,83328,52660,0,1,0,1,"{""git"":{""tag"":""v4.4.4"",""url"":""https://github.com/Kitware/CMake""}}"
@@ -34643,3 +34642,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60643,83554,52877,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
 60644,83555,52879,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
 60645,83557,52878,0,1,0,1,"{""git"":{""tag"":""1.1.11.10.4"",""url"":""https://github.com/egorpugin/tgbot""}}"
+60646,83558,52880,0,1,0,1,"{""git"":{""tag"":""v0.12.0"",""url"":""https://github.com/libjxl/libjxl""}}"
