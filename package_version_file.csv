@@ -34657,3 +34657,8 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60659,83571,52892,0,1,0,1,"{""git"":{""tag"":""v1.7.14"",""url"":""https://github.com/awslabs/s2n""}}"
 60660,83572,52893,0,1,0,1,"{""git"":{""tag"":""lcms2.20"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
 60661,83573,52894,0,1,0,1,"{""git"":{""tag"":""v6.0.6"",""url"":""https://github.com/assimp/assimp""}}"
+60662,83574,52895,0,1,0,1,"{""git"":{""tag"":""v1.47"",""url"":""https://github.com/baldurk/renderdoc""}}"
+60663,83575,52896,0,1,0,1,"{""git"":{""tag"":""v3.6.2"",""url"":""https://github.com/Blosc/c-blosc2""}}"
+60664,83576,52897,0,1,0,1,"{""git"":{""tag"":""asio-1-39-0"",""url"":""https://github.com/chriskohlhoff/asio""}}"
+60665,83577,52898,0,1,0,1,"{""git"":{""tag"":""v2.3.0"",""url"":""https://github.com/daniele77/cli""}}"
+60666,83578,52899,0,1,0,1,"{""git"":{""tag"":""v20.1"",""url"":""https://github.com/davisking/dlib""}}"
