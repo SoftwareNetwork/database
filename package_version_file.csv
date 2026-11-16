@@ -34752,3 +34752,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60755,83667,52983,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/opencv/opencv""}}"
 60756,83668,52989,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/opencv/opencv""}}"
 60757,83669,52988,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/opencv/opencv""}}"
+60758,83670,52987,0,1,0,1,"{""git"":{""tag"":""5.1.0"",""url"":""https://github.com/opencv/opencv_contrib""}}"
