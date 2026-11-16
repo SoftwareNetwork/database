@@ -34653,3 +34653,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60655,83567,52888,0,1,0,1,"{""git"":{""tag"":""v1.1.2"",""url"":""https://github.com/awslabs/aws-c-io""}}"
 60656,83568,52889,0,1,0,1,"{""git"":{""tag"":""v1.1.3"",""url"":""https://github.com/awslabs/aws-c-mqtt""}}"
 60657,83569,52890,0,1,0,1,"{""git"":{""tag"":""v1.5.2"",""url"":""https://github.com/awslabs/aws-c-s3""}}"
+60658,83570,52891,0,1,0,1,"{""git"":{""tag"":""v0.44.4"",""url"":""https://github.com/awslabs/aws-crt-cpp""}}"
+60659,83571,52892,0,1,0,1,"{""git"":{""tag"":""v1.7.14"",""url"":""https://github.com/awslabs/s2n""}}"
+60660,83572,52893,0,1,0,1,"{""git"":{""tag"":""lcms2.20"",""url"":""https://github.com/ArtifexSoftware/thirdparty-lcms2""}}"
+60661,83573,52894,0,1,0,1,"{""git"":{""tag"":""v6.0.6"",""url"":""https://github.com/assimp/assimp""}}"
