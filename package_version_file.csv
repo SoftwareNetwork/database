@@ -34674,3 +34674,7 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60676,83588,52909,0,1,0,1,"{""git"":{""tag"":""v1.0.18"",""url"":""https://github.com/fribidi/fribidi""}}"
 60677,83589,52910,0,1,0,1,"{""git"":{""tag"":""v1.0.18"",""url"":""https://github.com/fribidi/fribidi""}}"
 60678,83590,52911,0,1,0,1,"{""git"":{""tag"":""v1.0.18"",""url"":""https://github.com/fribidi/fribidi""}}"
+60679,83591,52912,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+60680,83592,52913,0,1,0,1,"{""git"":{""tag"":""v3.13.0"",""url"":""https://github.com/googleapis/google-cloud-cpp""}}"
+60681,83593,52914,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator""}}"
+60682,83594,52915,0,1,0,1,"{""git"":{""tag"":""v0.13.0"",""url"":""https://github.com/libjxl/libjxl""}}"
