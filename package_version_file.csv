@@ -34675,7 +34675,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60681,83593,52914,0,1,0,1,"{""git"":{""tag"":""v3.3.0"",""url"":""https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator""}}"
 60682,83594,52915,0,1,0,1,"{""git"":{""tag"":""v0.13.0"",""url"":""https://github.com/libjxl/libjxl""}}"
 60691,83603,52924,0,1,0,1,"{""git"":{""tag"":""v5.2.0"",""url"":""https://github.com/lemire/simdjson""}}"
-60692,83604,52925,0,1,0,1,"{""git"":{""tag"":""v3.8.11"",""url"":""https://github.com/libarchive/libarchive""}}"
 60693,83605,52926,0,1,0,1,"{""git"":{""tag"":""v3.8.1"",""url"":""https://github.com/libffi/libffi""}}"
 60694,83606,52927,0,1,0,1,"{""git"":{""tag"":""hidapi-0.16.0"",""url"":""https://github.com/libusb/hidapi""}}"
 60695,83607,52928,0,1,0,1,"{""git"":{""tag"":""v1.11.1"",""url"":""https://github.com/lz4/lz4""}}"
@@ -34753,3 +34752,4 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60767,83679,52997,0,1,0,1,"{""git"":{""tag"":""v4.5.0"",""url"":""https://github.com/Kitware/CMake""}}"
 60768,83680,52996,0,1,0,1,"{""git"":{""tag"":""v4.5.0"",""url"":""https://github.com/Kitware/CMake""}}"
 60769,83681,53000,0,1,0,1,"{""git"":{""tag"":""v1.53.0"",""url"":""https://github.com/libuv/libuv""}}"
+60770,83682,53001,0,1,0,1,"{""git"":{""tag"":""v3.8.11"",""url"":""https://github.com/libarchive/libarchive""}}"
