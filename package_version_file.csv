@@ -34761,3 +34761,6 @@ package_version_file_id,package_version_id,file_id,type,config_id,flags,archive_
 60841,83753,51295,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 60842,83754,51298,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
 60843,83755,51299,0,1,0,1,"{""git"":{""branch"":""master"",""url"":""https://github.com/egorpugin/primitives""}}"
+60844,83757,53033,0,1,0,1,"{""git"":{""tag"":""REL_19_0"",""url"":""https://github.com/postgres/postgres""}}"
+60845,83756,53030,0,1,0,1,"{""git"":{""tag"":""REL_19_0"",""url"":""https://github.com/postgres/postgres""}}"
+60847,83758,53031,0,1,0,1,"{""git"":{""tag"":""REL_19_0"",""url"":""https://github.com/postgres/postgres""}}"
